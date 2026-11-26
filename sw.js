@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.22.0";
-const DIGEST="f0e1a521b56dc8c01168540e";
+const RELEASE="0.23.0";
+const DIGEST="5463dada1f6f8c2d180df7eb";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "2fb3bbae2e9949be2f48aa7894ccbe4cfe1b320c2a088d5ab8c032c014d30d9b"
+    "a2d5f02f7875f5964748b20a2a477440a6dfa8f273ddc47637a131e40949e6c4"
   ],
   [
     "content/lessons/addresses.json",
@@ -17,6 +17,10 @@ const ASSETS=[
   [
     "content/lessons/ambiguous-introductory.json",
     "dea64fb90a947ff41efe4504fcf2d382ccd330c9b5737624d3682be700eadc41"
+  ],
+  [
+    "content/lessons/asyndetic-relations.json",
+    "4185d249ff08c5882a3da84a012a2ac4d25cac2e184b18431675036b28bd5d28"
   ],
   [
     "content/lessons/basis-core.json",
@@ -67,6 +71,14 @@ const ASSETS=[
     "dec60e62d0c22a0282f535c697f4cb8fea9f1ceb84591edaec04b9378c806d74"
   ],
   [
+    "content/lessons/indirect-transformation.json",
+    "c026274524e815d11b9bc230f9538f6a22fea2f11c3f5fcd858b97baf2d0e43c"
+  ],
+  [
+    "content/lessons/information-structure.json",
+    "3832291f19c440700f7d8e7f140730ef4bc52d2a3dc44805ab8b01b0dd8cc684"
+  ],
+  [
     "content/lessons/insertions.json",
     "5bb4b54cd6d066c9f435b202f32da3bcd7b1b2782cce6781b7ea0a804e0c2692"
   ],
@@ -89,6 +101,10 @@ const ASSETS=[
   [
     "content/lessons/isolated-members.json",
     "3f90a2b1c7967994a33305d7ca5858b4d9058f19afe2d412b238eb9d16d88ab7"
+  ],
+  [
+    "content/lessons/mixed-links.json",
+    "c327e4d7c49daad082d06c7708b7e819527c822ecfe354810276d219a62bc08b"
   ],
   [
     "content/lessons/non-introductory-words.json",
@@ -121,6 +137,14 @@ const ASSETS=[
   [
     "content/lessons/secondary-attribute.json",
     "f3cf1b91fcca79c7ca59fe8742022a217b250e3b044cd6a48280d7b79970d792"
+  ],
+  [
+    "content/lessons/sentence-analysis.json",
+    "abcac05af502c86b14596b46d3329499ac108a9487302a1e786df560249f52d4"
+  ],
+  [
+    "content/lessons/speech-forms.json",
+    "5c5f772b15c5acd8d960ea9251aba3ada7205395b026efbf0c8f5d56c10165e0"
   ],
   [
     "content/lessons/subject.json",
@@ -159,6 +183,10 @@ const ASSETS=[
     "40a0ba900e2273d1d9159aa7d70b304cd76cd432375f1c030481cc643b7b4cbf"
   ],
   [
+    "content/modules/mixed.json",
+    "0d342389bc818079984982800a275b0355f99a51161d2d6dbfaa75dc944c667c"
+  ],
+  [
     "content/modules/one-part.json",
     "e686a9f7e016d76c8f2a3c29aa7fa63310a794d1260990b2e64444d795f6e7d8"
   ],
@@ -167,8 +195,16 @@ const ASSETS=[
     "9168e48885f2dfa2567dec9d5de5833ed4438e8e343fb96b6ecc7e1ddf57d665"
   ],
   [
+    "content/modules/reported-speech.json",
+    "411b0f0cad670a4b335fe643f78d09792582736d37cd6f7bb848b384cfa175df"
+  ],
+  [
     "content/modules/secondary-members.json",
     "77e52cf1ac616fdd651b24eeb30fb0fb6c0291d169b3dc92884d8d38118814e4"
+  ],
+  [
+    "content/modules/sentence-structure.json",
+    "965d5ebc9086b50c4b34c261dba156540fc954fafe9ff3a4a70977b965b4ec9f"
   ],
   [
     "content/modules/simple-complications.json",
@@ -180,7 +216,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "6fab7dfaeebd153da8d92bc822ae13f0cf73ede57da51157089045d8732e9259"
+    "4caff78065215ea7f262f2c5ba24447e34fe6e264a67a00eeca1fc1c71c320dd"
   ],
   [
     "content/tips.json",
@@ -208,7 +244,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "2509cf66d304ef2671530d930355b258d564725ae99ae0190c60bf5be01d3f32"
+    "a9f674249ef17f89695d8e5687119f3da524ae5dbcc595f6e9f5aadba59d0e60"
   ],
   [
     "manifest.webmanifest",
@@ -216,7 +252,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "20e3e68c717297651474b0777cf7f46e7d728c3beaf87f4914e44b1bdc66fa58"
+    "39d679422200179f60c8382ef3e30f1594979f08016f01c6198b20bff21a5f42"
   ],
   [
     "src/core/assessment.js",

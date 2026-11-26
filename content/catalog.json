@@ -237,6 +237,36 @@
           "id": "ru.syntax.subordinate-types",
           "file": "lessons/subordinate-types.json",
           "status": "draft"
+        },
+        {
+          "id": "ru.syntax.asyndetic-relations",
+          "file": "lessons/asyndetic-relations.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.mixed-links",
+          "file": "lessons/mixed-links.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.speech-forms",
+          "file": "lessons/speech-forms.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.indirect-transformation",
+          "file": "lessons/indirect-transformation.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.sentence-analysis",
+          "file": "lessons/sentence-analysis.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.information-structure",
+          "file": "lessons/information-structure.json",
+          "status": "draft"
         }
       ],
       "plan": [
@@ -740,6 +770,18 @@
     {
       "id": "ru.syntax.subordinate",
       "file": "modules/subordinate.json"
+    },
+    {
+      "id": "ru.syntax.mixed",
+      "file": "modules/mixed.json"
+    },
+    {
+      "id": "ru.syntax.reported-speech",
+      "file": "modules/reported-speech.json"
+    },
+    {
+      "id": "ru.syntax.sentence-structure",
+      "file": "modules/sentence-structure.json"
     }
   ],
   "lessonOrder": [
@@ -773,6 +815,12 @@
     "ru.syntax.coordinate-structure",
     "ru.syntax.coordinate-relations",
     "ru.syntax.subordinate-links",
-    "ru.syntax.subordinate-types"
+    "ru.syntax.subordinate-types",
+    "ru.syntax.asyndetic-relations",
+    "ru.syntax.mixed-links",
+    "ru.syntax.speech-forms",
+    "ru.syntax.indirect-transformation",
+    "ru.syntax.sentence-analysis",
+    "ru.syntax.information-structure"
   ]
 }
