@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.one-part",
+  "title": "Односоставные и неполные предложения",
+  "moduleNumber": "05.05",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.one-part-types",
+    "ru.syntax.incomplete"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Синтаксический разбор простого предложения (Грамота.ру)",
+    "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/sintaksicheskiy-razbor-prostogo-predlozheniya"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.one-part.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.one-part.module-exam.a.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.one-part-types",
+          "raw": "В вагоне душно.",
+          "answer": "безличное",
+          "ex": "Конструкция обозначает состояние или процесс без подлежащего.",
+          "instruction": "Определите тип: определённо-личное, неопределённо-личное, безличное, назывное."
+        },
+        {
+          "id": "ru.syntax.one-part.module-exam.a.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.one-part-types",
+          "raw": "Зимний вечер.",
+          "answer": "назывное",
+          "ex": "Именная конструкция представляет явление.",
+          "instruction": "Определите тип: определённо-личное, неопределённо-личное, безличное, назывное."
+        },
+        {
+          "id": "ru.syntax.one-part.module-exam.a.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.incomplete",
+          "raw": "Сегодня мне нездоровится.",
+          "answer": "полное",
+          "ex": "Нужные для данной конструкции члены выражены; контекст не требуется для восстановления пропущенного члена.",
+          "instruction": "Определите полноту предложения (в диалоге оценивайте только ответ после тире): полное или неполное."
+        },
+        {
+          "id": "ru.syntax.one-part.module-exam.a.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.incomplete",
+          "raw": "Откуда пришло письмо? — Из Самары.",
+          "answer": "неполное",
+          "ex": "Ответ опирается на вопрос: опущенный член восстанавливается из него.",
+          "instruction": "Определите полноту предложения (в диалоге оценивайте только ответ после тире): полное или неполное."
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.one-part.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.one-part.module-exam.b.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.one-part-types",
+          "raw": "Встречаем вас у музея.",
+          "answer": "определённо-личное",
+          "ex": "Форма первого или второго лица указывает на участника речи.",
+          "instruction": "Определите тип: определённо-личное, неопределённо-личное, безличное, назывное."
+        },
+        {
+          "id": "ru.syntax.one-part.module-exam.b.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.one-part-types",
+          "raw": "На заводе объявили перерыв.",
+          "answer": "неопределённо-личное",
+          "ex": "Множественная глагольная форма представляет действие без названного деятеля.",
+          "instruction": "Определите тип: определённо-личное, неопределённо-личное, безличное, назывное."
+        },
+        {
+          "id": "ru.syntax.one-part.module-exam.b.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.incomplete",
+          "raw": "Лампа погасла.",
+          "answer": "полное",
+          "ex": "Нужные для данной конструкции члены выражены; контекст не требуется для восстановления пропущенного члена.",
+          "instruction": "Определите полноту предложения (в диалоге оценивайте только ответ после тире): полное или неполное."
+        },
+        {
+          "id": "ru.syntax.one-part.module-exam.b.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.incomplete",
+          "raw": "Что купил Сергей? — Билеты.",
+          "answer": "неполное",
+          "ex": "Ответ опирается на вопрос: опущенный член восстанавливается из него.",
+          "instruction": "Определите полноту предложения (в диалоге оценивайте только ответ после тире): полное или неполное."
+        }
+      ]
+    }
+  ]
+}

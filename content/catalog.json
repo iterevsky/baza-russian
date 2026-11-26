@@ -177,6 +177,36 @@
           "id": "ru.syntax.secondary-adverbial",
           "file": "lessons/secondary-adverbial.json",
           "status": "draft"
+        },
+        {
+          "id": "ru.syntax.phrase-structure",
+          "file": "lessons/phrase-structure.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.phrase-links",
+          "file": "lessons/phrase-links.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.one-part-types",
+          "file": "lessons/one-part-types.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.incomplete",
+          "file": "lessons/incomplete.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.homogeneity-syntax",
+          "file": "lessons/homogeneity-syntax.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.complication-types",
+          "file": "lessons/complication-types.json",
+          "status": "draft"
         }
       ],
       "plan": [
@@ -656,6 +686,18 @@
     {
       "id": "ru.syntax.secondary-members",
       "file": "modules/secondary-members.json"
+    },
+    {
+      "id": "ru.syntax.phrases",
+      "file": "modules/phrases.json"
+    },
+    {
+      "id": "ru.syntax.one-part",
+      "file": "modules/one-part.json"
+    },
+    {
+      "id": "ru.syntax.simple-complications",
+      "file": "modules/simple-complications.json"
     }
   ],
   "lessonOrder": [
@@ -677,6 +719,12 @@
     "ru.syntax.subject",
     "ru.syntax.predicate",
     "ru.syntax.secondary-attribute",
-    "ru.syntax.secondary-adverbial"
+    "ru.syntax.secondary-adverbial",
+    "ru.syntax.phrase-structure",
+    "ru.syntax.phrase-links",
+    "ru.syntax.one-part-types",
+    "ru.syntax.incomplete",
+    "ru.syntax.homogeneity-syntax",
+    "ru.syntax.complication-types"
   ]
 }
