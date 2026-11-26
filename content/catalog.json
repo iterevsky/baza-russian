@@ -117,5 +117,11 @@
       "description": "Мысль, текст, высказывание",
       "lessons": []
     }
+  ],
+  "modules": [
+    {
+      "id": "ru.punctuation.introductory",
+      "file": "modules/introductory.json"
+    }
   ]
 }

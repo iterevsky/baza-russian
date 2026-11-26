@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.11.0";
-const DIGEST="0794654c0ab96045fff320b8";
+const RELEASE="0.12.0";
+const DIGEST="79b232c4aa75c4afb07aa204";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "0785cebc1ef9791867d5af5da469465b728b6edc4e50ed0f52f92ff38fc59cce"
+    "9eca579edd25f6bf14affaf041a46cb5a0a747e8416e121b691ac3f7af9eda21"
   ],
   [
     "content/lessons/ambiguous-introductory.json",
@@ -33,6 +33,10 @@ const ASSETS=[
   [
     "content/lessons/non-introductory-words.json",
     "095f95ad06667ce317ab7497b1ab528772cc3285c8c829879cbf0fc466abc830"
+  ],
+  [
+    "content/modules/introductory.json",
+    "a2c13e52d38e55eb8723eed17d65738f8cec6b9e4b93dc440e19db6ec03e70fc"
   ],
   [
     "content/tips.json",
@@ -60,7 +64,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "f2675bd69ca0c824bc0e3ddaf3ee4dfc22ba7da71bf6d7c3152713b146c7cff9"
+    "4e1f1dccb8b3b5dfedbcf6b9d46979bfeffe9c97abefd5390df93fc25ef0aea1"
   ],
   [
     "manifest.webmanifest",
@@ -68,7 +72,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "177becd6f4fbe89fdeae93aa8bfc1c9db599232a1716b8bc9d738888fe06d850"
+    "ef8c60ffaea499c904f4443c5543c5f5df9e7d4f367cd46544607393f16873c3"
   ],
   [
     "src/core/assessment.js",
@@ -76,7 +80,7 @@ const ASSETS=[
   ],
   [
     "src/core/content.js",
-    "4b2f8a1bdb05586ab022e8d72db670f3364f1302364c5792b00abcc17304969d"
+    "bd075e9940c7b692e24ade7a0678dd2914ebbdcc823cea349f1012482c4dec76"
   ],
   [
     "src/core/database.js",
@@ -88,11 +92,19 @@ const ASSETS=[
   ],
   [
     "src/core/lesson-view.js",
-    "ccd482563dd238a61f207ee6550c8bc96f81fd53538b8de655f39c275c869346"
+    "f5301e992188ddfac0c797d3449e2b8cdc9b83456d1ff68bdafb88f973dd0461"
+  ],
+  [
+    "src/core/module-view.js",
+    "f6dd41ad1e19121420e8afc696c604c4f1913646b89031128ac459b5eb4191e0"
+  ],
+  [
+    "src/core/modules.js",
+    "92c391d80c10aef2650d1a8bed30069dfb75fba9d5b1d379677467d7afbec7c8"
   ],
   [
     "src/core/progress.js",
-    "ea37712cef0753dbac6aca7d58d5084d7b0cacd3f292ad911a9308399f09d28f"
+    "a7de86547c3b59d0950048ec55ea98d579779f8e2bd2810f0952f77b21dbe29f"
   ],
   [
     "src/core/prompt.js",

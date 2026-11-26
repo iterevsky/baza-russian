@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.introductory",
+  "title": "Вводные конструкции",
+  "moduleNumber": "07.08",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.introductory-words",
+    "ru.punctuation.non-introductory-words",
+    "ru.punctuation.ambiguous-introductory",
+    "ru.punctuation.introductory-conjunctions",
+    "ru.punctuation.introductory-boundaries",
+    "ru.punctuation.introductory-editing"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина, §§ 91–95",
+    "url": "https://orthographia.ru/punctuatio.php?sid=127"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.introductory.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.01",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-words",
+          "raw": "К счастью фонарь ещё горел.",
+          "answer": "К счастью, фонарь ещё горел.",
+          "ex": "Оценка события, вводное сочетание в начале предложения."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.02",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.non-introductory-words",
+          "raw": "Мы едва ли успеем к открытию.",
+          "answer": "Мы едва ли успеем к открытию.",
+          "ex": "Едва ли — частица, а не вводная конструкция."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.03",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.ambiguous-introductory",
+          "raw": "Эта задача кажется простой.",
+          "answer": "Эта задача кажется простой.",
+          "ex": "Кажется входит в состав сказуемого: кажется простой."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.04",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-conjunctions",
+          "raw": "Путь был долгим но к счастью безопасным.",
+          "answer": "Путь был долгим, но, к счастью, безопасным.",
+          "ex": "Но соединяет однородные члены; вводное сочетание выделяется отдельно."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.05",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "raw": "На полке стояла ваза вероятно привезённая из Казани и лежал альбом.",
+          "answer": "На полке стояла ваза, вероятно привезённая из Казани, и лежал альбом.",
+          "ex": "Вводное слово в начале обособленного определения относится к этому обороту.",
+          "instruction": "Вероятность относится именно к происхождению вазы."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.06",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-editing",
+          "raw": "Она ведь по-моему уже подписала договор.",
+          "answer": "Она ведь, по-моему, уже подписала договор.",
+          "ex": "Ведь — частица; по-моему — указание на мнение."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.07",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-words",
+          "raw": "Срок бесспорно истёк.",
+          "answer": "Срок, бесспорно, истёк.",
+          "ex": "Бесспорно выражает оценку достоверности высказывания."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.08",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.non-introductory-words",
+          "raw": "Вряд ли мастер закончил работу.",
+          "answer": "Вряд ли мастер закончил работу.",
+          "ex": "Вряд ли не является вводным сочетанием."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.09",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.ambiguous-introductory",
+          "raw": "Видно мастер задержится.",
+          "answer": "Видно, мастер задержится.",
+          "ex": "Видно в значении «по-видимому» — вводное слово.",
+          "instruction": "Видно означает предположение, а не возможность видеть."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.10",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-conjunctions",
+          "raw": "Вечер тихий и без сомнения тёплый.",
+          "answer": "Вечер тихий и, без сомнения, тёплый.",
+          "ex": "И соединяет однородные члены; без сомнения обособляется."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.11",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "raw": "Мы увидели письмо давно видимо забытое адресатом и вернули его.",
+          "answer": "Мы увидели письмо, давно, видимо, забытое адресатом, и вернули его.",
+          "ex": "Внутри обособленного оборота вводное слово выделяется с двух сторон."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.12",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-editing",
+          "raw": "Однако поезд вероятно задержится.",
+          "answer": "Однако поезд, вероятно, задержится.",
+          "ex": "Однако в начале предложения — противительный союз; вероятно — вводное слово."
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.introductory.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.01",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-words",
+          "raw": "К нашему удивлению посылка пришла раньше срока.",
+          "answer": "К нашему удивлению, посылка пришла раньше срока.",
+          "ex": "К нашему удивлению выражает эмоциональную оценку события."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.02",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.non-introductory-words",
+          "raw": "Он якобы нашёл старую карту.",
+          "answer": "Он якобы нашёл старую карту.",
+          "ex": "Якобы — частица, не вводное слово."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.03",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.ambiguous-introductory",
+          "raw": "Отсюда видно море.",
+          "answer": "Отсюда видно море.",
+          "ex": "Видно — сказуемое, обозначает возможность видеть."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.04",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-conjunctions",
+          "raw": "Зал пуст но вероятно скоро наполнится.",
+          "answer": "Зал пуст, но, вероятно, скоро наполнится.",
+          "ex": "Но соединяет части сообщения; вероятно выделяется отдельно."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.05",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "raw": "На стене висела карта по-видимому составленная школьниками и тикали часы.",
+          "answer": "На стене висела карта, по-видимому составленная школьниками, и тикали часы.",
+          "ex": "Вводное сочетание стоит в начале оборота и относится к нему.",
+          "instruction": "Предположение относится только к авторству карты."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.06",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-editing",
+          "raw": "Мы всё-таки кажется нашли выход.",
+          "answer": "Мы всё-таки, кажется, нашли выход.",
+          "ex": "Всё-таки — частица; кажется выражает предположение."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.07",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-words",
+          "raw": "По словам врача обследование закончено.",
+          "answer": "По словам врача, обследование закончено.",
+          "ex": "Вводное сочетание указывает на источник сообщения."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.08",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.non-introductory-words",
+          "raw": "Даже сторож удивился результату.",
+          "answer": "Даже сторож удивился результату.",
+          "ex": "Даже — частица, обособление не требуется."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.09",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.ambiguous-introductory",
+          "raw": "Этот голос кажется знаком всем.",
+          "answer": "Этот голос, кажется, знаком всем.",
+          "ex": "Кажется выражает предположение, не входит в сказуемое «знаком».",
+          "instruction": "Кажется употреблено в значении «по-видимому»."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.10",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-conjunctions",
+          "raw": "Он спешил но к удивлению не ошибся.",
+          "answer": "Он спешил, но, к удивлению, не ошибся.",
+          "ex": "Но соединяет однородные сказуемые; вводное сочетание выделяется отдельно."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.11",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "raw": "В шкафу лежала папка вчера очевидно оставленная курьером и стояла коробка.",
+          "answer": "В шкафу лежала папка, вчера, очевидно, оставленная курьером, и стояла коробка.",
+          "ex": "Внутри обособленного определения вводное слово выделяется с обеих сторон."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.12",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-editing",
+          "raw": "Он будто бы по словам коллеги согласился на обмен.",
+          "answer": "Он будто бы, по словам коллеги, согласился на обмен.",
+          "ex": "Будто бы — частица; по словам коллеги — указание на источник."
+        }
+      ]
+    }
+  ]
+}
