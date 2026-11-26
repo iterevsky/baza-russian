@@ -23,7 +23,11 @@ click({lesson:lesson.id});assert.match(html(),/Редакторская лабо
 // Search planned modules and keep each available module's lessons grouped separately.
 click({go:'catalog'});assert.match(html(),/07\.03 · Однородные члены и обобщающие слова/);assert.match(html(),/07\.08 · Вводные слова, вставные конструкции и обращения/);assert.match(html(),/Однородные члены: перечисление и одиночные союзы/);
 handlers.input({target:{id:'search',value:'01.04'}});assert.match(document.querySelector('#catalog-results').innerHTML,/01\.04 · Словари, справочники и корпус/);assert.doesNotMatch(document.querySelector('#catalog-results').innerHTML,/07\.08/);
-handlers.input({target:{id:'search',value:'07.03'}});assert.match(document.querySelector('#catalog-results').innerHTML,/Повторяющиеся союзы и группы однородных членов/);assert.doesNotMatch(document.querySelector('#catalog-results').innerHTML,/Экзамен и диагностика модуля/);
+handlers.input({target:{id:'search',value:'07.03'}});assert.match(document.querySelector('#catalog-results').innerHTML,/Повторяющиеся союзы и группы однородных членов/);assert.match(document.querySelector('#catalog-results').innerHTML,/data-module="ru.punctuation.homogeneous"/);assert.doesNotMatch(document.querySelector('#catalog-results').innerHTML,/data-module="ru.punctuation.introductory"/);
 handlers.input({target:{id:'search',value:''}});click({lesson:'ru.punctuation.homogeneous-basic'});assert.match(html(),/Однородные члены: перечисление и одиночные союзы/);click({go:'profile'});assert.doesNotMatch(html(),/first-only/);
 
+// Second module has its own bank and punctuation instructions.
+const secondModule=JSON.parse(await readFile(new URL('../content/modules/homogeneous.json',import.meta.url),'utf8'));
+click({module:secondModule.id});assert.match(html(),/по 5 темам/);click({moduleStart:''});assert.match(html(),/двоеточия и тире/);const mv=secondModule.variants[0];for(let i=0;i<mv.questions.length;i++)handlers.input({target:{dataset:{moduleAnswer:String(i)},value:mv.questions[i].answer.replaceAll(' — ',' - ')}});click({moduleFinish:''});assert.match(html(),/10 из 10/);await new Promise(r=>setImmediate(r));const both=JSON.parse(store.get('baza-russian-design-01'));assert.equal(both.byModule[module.id].exams.length,2);assert.equal(both.byModule[secondModule.id].exams.length,1);
+click({lesson:'ru.punctuation.homogeneous-generalizing'});click({examStart:''});assert.match(html(),/двоеточие или тире/);
 });

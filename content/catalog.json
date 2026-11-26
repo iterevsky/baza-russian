@@ -309,6 +309,21 @@
           "id": "ru.punctuation.homogeneous-repeated",
           "file": "lessons/homogeneous-repeated.json",
           "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.homogeneous-double",
+          "file": "lessons/homogeneous-double.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.homogeneous-definitions",
+          "file": "lessons/homogeneous-definitions.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.homogeneous-generalizing",
+          "file": "lessons/homogeneous-generalizing.json",
+          "status": "draft"
         }
       ],
       "plan": [
@@ -584,6 +599,10 @@
     {
       "id": "ru.punctuation.introductory",
       "file": "modules/introductory.json"
+    },
+    {
+      "id": "ru.punctuation.homogeneous",
+      "file": "modules/homogeneous.json"
     }
   ]
 }

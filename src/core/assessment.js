@@ -1,6 +1,11 @@
 export const norm=s=>String(s??'').normalize('NFC').trim().replace(/\s+/g,' ').replace(/\s*,\s*/g,', ').trim();
 export const checkPositions=(selected,expected)=>selected.length===expected.length&&expected.every(i=>selected.includes(i));
-export function gradeExam(questions,answers){return questions.map((q,i)=>norm(answers[i])===norm(q.answer))}
+export const extendedMarks=q=>q?.marks==='comma-colon-dash';
+// Accept an ordinary spaced keyboard hyphen or short dash as a dash input, never change intraword hyphens.
+export const examNorm=(q,s)=>extendedMarks(q)?norm(s).replace(/\s*:\s*/g,': ').replace(/\s+[–—-]\s+/g,' — '):norm(s);
+export const examSkeleton=(q,s)=>norm(extendedMarks(q)?examNorm(q,s).replace(/[:,]/g,'').replace(/ — /g,' '):String(s).replaceAll(',',''));
+export const validExamMarks=q=>q.marks===undefined||extendedMarks(q)&&examSkeleton(q,q.answer)===examSkeleton(q,q.raw)&&!/[,:]| [–—-] /.test(q.raw);
+export function gradeExam(questions,answers){return questions.map((q,i)=>examNorm(q,answers[i])===examNorm(q,q.answer))}
 
 // Revisit only questions whose latest recorded response is incorrect.
 export function errorIndices(questions,attempts){const latest=new Map();for(const a of attempts){const i=a.questionId?questions.findIndex(q=>q.id===a.questionId):a.q;if(Number.isInteger(i)&&questions[i])latest.set(i,a.correct)}return questions.map((_,i)=>i).filter(i=>latest.get(i)===false)}

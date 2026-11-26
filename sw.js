@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.16.0";
-const DIGEST="f5006664819a47c1718dcafc";
+const RELEASE="0.17.0";
+const DIGEST="8ae0317d4b6c89be576522f8";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "0c5347295a3e433d06687380bba57d3f46cc2a0faedb896397aed955cf319d64"
+    "c0a2fb82e0776491443e0defdd80e58718ad22a6355f82a886843efa1f343175"
   ],
   [
     "content/lessons/ambiguous-introductory.json",
@@ -17,6 +17,18 @@ const ASSETS=[
   [
     "content/lessons/homogeneous-basic.json",
     "baa7bf86bbc91e5dea08de035c73cbebc7c756040eb7501311bc113c59c106fe"
+  ],
+  [
+    "content/lessons/homogeneous-definitions.json",
+    "e283122e6e2b35aafabe9d7ba3754669f1f3045f744d287d48a1c3a339d4bf52"
+  ],
+  [
+    "content/lessons/homogeneous-double.json",
+    "aaad165a44e14fcc9e86ea7e968ed17318c946472a8cac634c2fa39851abb963"
+  ],
+  [
+    "content/lessons/homogeneous-generalizing.json",
+    "51dcfb17594294e91601047e0884559a1c4beedb23d22183ce6cd2bc7d82e3c4"
   ],
   [
     "content/lessons/homogeneous-repeated.json",
@@ -41,6 +53,10 @@ const ASSETS=[
   [
     "content/lessons/non-introductory-words.json",
     "3c29a22244de46a79a146e2a3a1c823386423d04332d508b4392c5ff2317d00c"
+  ],
+  [
+    "content/modules/homogeneous.json",
+    "ca3c529e151daaa91a8f0083f3023ddff6117776156f2929b1fde0a6485329ef"
   ],
   [
     "content/modules/introductory.json",
@@ -72,7 +88,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "c039a6d44ce6fdf299b4fd057623b33cdc14887b7391144afec9edca2c737789"
+    "c039187518fdfeb613e1989b826f0bd8d25d6f491f7a92994d331c32885a8cb2"
   ],
   [
     "manifest.webmanifest",
@@ -80,15 +96,15 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "7cd2be8f232889642416ea32e6a05792b2b14382a0eabfeea09e92caaea1a808"
+    "c988ffe8fcd5532ed8f0d6aa19b2816a20dbb6b8ecebb6d92c27d5c37bc5440c"
   ],
   [
     "src/core/assessment.js",
-    "53a91556f5adb4698360878dae12cb533ee708b0087bc497763b556c3c879570"
+    "cd27ed8096e380bd93bfc1406eecf97a92421e3477cf238f056bf523a825d04d"
   ],
   [
     "src/core/content.js",
-    "03bb05bc0b3e6d42c6bb1c70e31e67ba88a5f1233f7a93405b21c0a8dccd582d"
+    "d52467da5090710694d6f5afc6de2929a017b2ef188f16bc7075dea000e91a4b"
   ],
   [
     "src/core/database.js",
@@ -108,11 +124,11 @@ const ASSETS=[
   ],
   [
     "src/core/module-view.js",
-    "f6dd41ad1e19121420e8afc696c604c4f1913646b89031128ac459b5eb4191e0"
+    "fe1262a79265b04539f80eda7d8dc9d5640084c4e4c8121b9701137287e360b4"
   ],
   [
     "src/core/modules.js",
-    "b126310f31a78e6569ff771b79852a2cf220f5acf3094d382448a73fa21d4d95"
+    "fbf13f51b1afa7bfd8cb9d730b968f35a9bf3a13ab8abea55b43a4c96992a207"
   ],
   [
     "src/core/practice.js",

@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.homogeneous",
+  "title": "Однородные члены и обобщающие слова",
+  "moduleNumber": "07.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.homogeneous-basic",
+    "ru.punctuation.homogeneous-repeated",
+    "ru.punctuation.homogeneous-double",
+    "ru.punctuation.homogeneous-definitions",
+    "ru.punctuation.homogeneous-generalizing"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: знаки при однородных членах и обобщающих словах",
+    "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-odnorodnykh-chlenakh-predlozheniya"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.homogeneous.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.a.01",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-basic",
+          "raw": "В мастерской лежали доски гвозди и шурупы.",
+          "answer": "В мастерской лежали доски, гвозди и шурупы.",
+          "ex": "Бессоюзная связь перед одиночным и."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.a.02",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-repeated",
+          "raw": "Нас интересовали и цена и срок и гарантия.",
+          "answer": "Нас интересовали и цена, и срок, и гарантия.",
+          "ex": "Три элемента с повторяющимся союзом."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.a.03",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-double",
+          "raw": "Он проверил как форму так и содержание.",
+          "answer": "Он проверил как форму, так и содержание.",
+          "ex": "Запятая перед второй частью союза."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.a.04",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-definitions",
+          "raw": "На вешалке были синие красные и белые шарфы.",
+          "answer": "На вешалке были синие, красные и белые шарфы.",
+          "ex": "Ряд цветов.",
+          "instruction": "Перечислены шарфы разных цветов."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.a.05",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-generalizing",
+          "raw": "В дорожной сумке было всё одежда обувь и аптечка.",
+          "answer": "В дорожной сумке было всё: одежда, обувь и аптечка.",
+          "ex": "Обобщение перед рядом.",
+          "instruction": "Оформите нейтральный поясняющий ряд по базовой схеме, без авторских интонационных вариантов.",
+          "marks": "comma-colon-dash"
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.a.06",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-basic",
+          "raw": "День солнечный но холодный.",
+          "answer": "День солнечный, но холодный.",
+          "ex": "Противительный союз."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.a.07",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-repeated",
+          "raw": "Мы купили чай и кофе хлеб и булочки.",
+          "answer": "Мы купили чай и кофе, хлеб и булочки.",
+          "ex": "Запятая разделяет две пары.",
+          "instruction": "Перечислены две пары товаров."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.a.08",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-double",
+          "raw": "Она не только ответила на вопрос но и привела пример.",
+          "answer": "Она не только ответила на вопрос, но и привела пример.",
+          "ex": "Запятая перед «но и»."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.a.09",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-definitions",
+          "raw": "На полке стояла широкая керамическая ваза.",
+          "answer": "На полке стояла широкая керамическая ваза.",
+          "ex": "Размер и материал.",
+          "instruction": "Нейтральное описание размера и материала."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.a.10",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-generalizing",
+          "raw": "Лес поля и река всё было видно с холма.",
+          "answer": "Лес, поля и река — всё было видно с холма.",
+          "ex": "Обобщение после ряда.",
+          "marks": "comma-colon-dash"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.homogeneous.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.b.01",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-basic",
+          "raw": "Соберите гайки болты и шайбы.",
+          "answer": "Соберите гайки, болты и шайбы.",
+          "ex": "Бессоюзная связь и одиночное и."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.b.02",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-repeated",
+          "raw": "Он взял и куртку и шапку и перчатки.",
+          "answer": "Он взял и куртку, и шапку, и перчатки.",
+          "ex": "Три элемента с повторяющимся союзом."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.b.03",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-double",
+          "raw": "Это не столько прогноз сколько предположение.",
+          "answer": "Это не столько прогноз, сколько предположение.",
+          "ex": "Запятая перед второй частью."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.b.04",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-definitions",
+          "raw": "На стенде висели прямоугольные овальные и круглые образцы.",
+          "answer": "На стенде висели прямоугольные, овальные и круглые образцы.",
+          "ex": "Перечислены формы.",
+          "instruction": "Образцы разных форм."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.b.05",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-generalizing",
+          "raw": "Всё письма фотографии и дневники было сохранено.",
+          "answer": "Всё: письма, фотографии и дневники — было сохранено.",
+          "ex": "Ряд открывается двоеточием и закрывается тире.",
+          "instruction": "Оформите нейтральный поясняющий ряд по базовой схеме, без авторских интонационных вариантов.",
+          "marks": "comma-colon-dash"
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.b.06",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-basic",
+          "raw": "Комната маленькая зато светлая.",
+          "answer": "Комната маленькая, зато светлая.",
+          "ex": "Противительный союз."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.b.07",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-repeated",
+          "raw": "Мы упаковали чашки и блюдца вилки и ложки.",
+          "answer": "Мы упаковали чашки и блюдца, вилки и ложки.",
+          "ex": "Запятая между парами.",
+          "instruction": "Перечислены две пары предметов."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.b.08",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-double",
+          "raw": "Результат важен как для команды так и для заказчика.",
+          "answer": "Результат важен как для команды, так и для заказчика.",
+          "ex": "Запятая перед «так и»."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.b.09",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-definitions",
+          "raw": "У подъезда стояла новая грузовая машина.",
+          "answer": "У подъезда стояла новая грузовая машина.",
+          "ex": "Новизна характеризует грузовую машину.",
+          "instruction": "Нейтральное описание новизны и назначения."
+        },
+        {
+          "id": "ru.punctuation.homogeneous.module-exam.b.10",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.homogeneous-generalizing",
+          "raw": "Счета квитанции и чеки всё нужно сохранить.",
+          "answer": "Счета, квитанции и чеки — всё нужно сохранить.",
+          "ex": "Обобщение после ряда.",
+          "marks": "comma-colon-dash"
+        }
+      ]
+    }
+  ]
+}
