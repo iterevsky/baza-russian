@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.speech-culture.numeral-norms",
+  "title": "Числительные и согласование количественных конструкций (базовый контроль)",
+  "moduleNumber": "10.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.speech-culture.numeral-norms.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Как правильно употреблять числительные",
+    "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-pravilno-upotreblyat-chislitelnye"
+  },
+  "variants": [
+    {
+      "id": "ru.speech-culture.numeral-norms.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Запишите словами: о 150 рублях (только число).",
+          "answer": "ста пятидесяти",
+          "ex": "Обе части в предложном падеже.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Выберите: обеими / обоими руками.",
+          "answer": "обеими",
+          "ex": "Рука женского рода.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.speech-culture.numeral-norms.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Запишите словами: с 200 машинами (только число).",
+          "answer": "двумястами",
+          "ex": "Нормативный творительный — двумястами.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Запишите словами: к 202-му посетителю (только число).",
+          "answer": "двести второму",
+          "ex": "В порядковом изменяется только второму.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        }
+      ]
+    }
+  ]
+}

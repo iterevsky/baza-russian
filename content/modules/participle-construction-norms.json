@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.speech-culture.participle-construction-norms",
+  "title": "Ошибки в причастных и деепричастных конструкциях (базовый контроль)",
+  "moduleNumber": "10.07",
+  "status": "draft",
+  "lessonIds": [
+    "ru.speech-culture.participle-construction-norms.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, справочная служба о деепричастном обороте",
+    "url": "https://gramota.ru/spravka/vopros/318710"
+  },
+  "variants": [
+    {
+      "id": "ru.speech-culture.participle-construction-norms.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Согласуйте с «машины»: машины у ворот, (загруженные / загруженный) утром.",
+          "answer": "загруженные",
+          "ex": "Машины во множественном числе.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Есть ли ошибка связи в «Собрав вещи, поезд тронулся»? Ответ: есть / нет.",
+          "answer": "есть",
+          "ex": "Поезд не собирал вещи.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.speech-culture.participle-construction-norms.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Кто завершил работу в «Завершив работу, редактор сохранил файл»?",
+          "answer": "редактор",
+          "ex": "Редактор выполняет оба действия.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Согласуйте с «книгой»: беседа о книге, (прочитанной / прочитанная) учениками.",
+          "answer": "прочитанной",
+          "ex": "Причастие согласуется с книге в предложном падеже.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.30.0";
-const DIGEST="a78b0f4e6265023c9186c6e4";
+const RELEASE="0.31.0";
+const DIGEST="d498d137ee304427e721d14c";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "c98c0d422a364c78164ff94f52e27dfbc8c1ca59068e18e1c181b75f5679e7b8"
+    "a288cbabf2ebd9453adf6fce6a6a5fb31ae5c096d8bc1d416b5a62381f47aedf"
   ],
   [
     "content/lessons/addresses.json",
@@ -283,6 +283,10 @@ const ASSETS=[
     "449b8d6896fc3033282b95452646e17ba4bbe53c28ca16ebe427306d183a2954"
   ],
   [
+    "content/lessons/norm-register.json",
+    "44915210aa259e6943a0879d4978df09171580a55c8d8c6e70e21a8f5d830abd"
+  ],
+  [
     "content/lessons/noun-adjective-endings.json",
     "0925a7364ac2277b9c3169f17fd348a2cdc681a96d1768c98ef1d7b684b4326e"
   ],
@@ -291,8 +295,16 @@ const ASSETS=[
     "3e6da861ad8d696637f2a08685efa30a43084bf002ba99da9acf9303c4ce8987"
   ],
   [
+    "content/lessons/noun-norms.json",
+    "9d53583c52d290302cf279850e3b7b6ae5158597986c056b5d3f63608a7b9840"
+  ],
+  [
     "content/lessons/numeral-morphology.json",
     "ecbb111145a8f6e77f7bb6586a702cb40a2b7717646ad63402de5a53c7bc3047"
+  ],
+  [
+    "content/lessons/numeral-norms.json",
+    "b8cc1ca1474c7c96950869efbbf9df06d36b48b4c2f352f2eba7e15404c58c43"
   ],
   [
     "content/lessons/one-part-types.json",
@@ -301,6 +313,10 @@ const ASSETS=[
   [
     "content/lessons/paronyms-collocation.json",
     "fdf9ca0c57b4709c686aa4e634eb7ad883ad64c38365a1d0d35356dd5f9751ae"
+  ],
+  [
+    "content/lessons/participle-construction-norms.json",
+    "10973ac0a41aa1a5c2ae6fd68d133a14539e8b9bc6f3a3fc9aef219319967d9f"
   ],
   [
     "content/lessons/participle-punctuation.json",
@@ -333,6 +349,10 @@ const ASSETS=[
   [
     "content/lessons/pronunciation-combinations.json",
     "7f730a7f8a291210cd9560ba7e9c49da48d51e0b032a08c9e1f4d949aa8dc2d8"
+  ],
+  [
+    "content/lessons/proper-name-declension.json",
+    "1cfa52c5f58f3644ebd51851efae28551aa410934af32ee156f6e2053871aac0"
   ],
   [
     "content/lessons/punctuation-variation.json",
@@ -395,12 +415,24 @@ const ASSETS=[
     "9074d624a3430bd7f48462ac6c7eb2cab99a767201c23841c53a3c5cf0dc4fe8"
   ],
   [
+    "content/lessons/speech-errors.json",
+    "6399f0f3677125b1e1d58c66e88eafd4944de7ca127638aff4cddbb37c025e36"
+  ],
+  [
+    "content/lessons/speech-etiquette.json",
+    "db080ad3096e125f87561f134b9a6c1b76197dbce1ea63761dd1ad9170d15d2a"
+  ],
+  [
     "content/lessons/speech-forms.json",
     "5c5f772b15c5acd8d960ea9251aba3ada7205395b026efbf0c8f5d56c10165e0"
   ],
   [
     "content/lessons/stress-variants.json",
     "bae20c19772c8b621f134d57036be95618b68c2a84e6abab44c215deffc6f67d"
+  ],
+  [
+    "content/lessons/subject-predicate-agreement.json",
+    "5711dfd190541cb4beb7e81a0f9a4c217d7d318de2682d08f3de75d3b39f689b"
   ],
   [
     "content/lessons/subject.json",
@@ -429,6 +461,10 @@ const ASSETS=[
   [
     "content/lessons/verb-derived-forms.json",
     "8d1b6c585e80d2df3a31cb128a25c8e9fff3807937e7bb15f041c3fec4a35b26"
+  ],
+  [
+    "content/lessons/verb-government.json",
+    "cb9f92bbace3a20db1e1aa83c5229f87c9b90a17a3eb81129702d7474d56954d"
   ],
   [
     "content/lessons/verb-morphology.json",
@@ -619,6 +655,10 @@ const ASSETS=[
     "eb5a1de6fd11487c5e1ce9f6c5567babf2e722ee8848dc8e44e84780af00b34a"
   ],
   [
+    "content/modules/norm-register.json",
+    "9ced18d9d5c8fff27d3061ac0066d4cc793858620c6f9d5486e04dadcde16b29"
+  ],
+  [
     "content/modules/noun-adjective-endings.json",
     "dc8d0c873b80b396b63d6008b8dfd2278a8ae15c0a05480f8de36adefae57b72"
   ],
@@ -627,8 +667,16 @@ const ASSETS=[
     "02fe9711cae2bca6a249e39bbe690d428d589963aab822c7e917d0979085b5ff"
   ],
   [
+    "content/modules/noun-norms.json",
+    "1da833a0b7a28a67d2fadc50624e44399accc92040b9cb641027cdb40a9f696d"
+  ],
+  [
     "content/modules/numeral-morphology.json",
     "782c6659dba782c12d52b885a90ec45ee754b8586290f2065be881f1b43f66de"
+  ],
+  [
+    "content/modules/numeral-norms.json",
+    "97b3f20238bba3c2a00c5d2a367d34f3a2aba9ba226a2d6dc98b1b468938a082"
   ],
   [
     "content/modules/one-part.json",
@@ -641,6 +689,10 @@ const ASSETS=[
   [
     "content/modules/participial.json",
     "68a66aa818e783b03893b58f2a4fa21bc7734f1e5a50d78bd443c81cd3cb0d72"
+  ],
+  [
+    "content/modules/participle-construction-norms.json",
+    "3b84dcd70ba39cfbbc0fca72771bc651bb19cd364d9cb0a44328782082659a92"
   ],
   [
     "content/modules/parts-of-speech.json",
@@ -665,6 +717,10 @@ const ASSETS=[
   [
     "content/modules/pronunciation-combinations.json",
     "50627580df1b302084b1d34cd04bbfe165c53ae09f72b57eb3f9fdf346319f52"
+  ],
+  [
+    "content/modules/proper-name-declension.json",
+    "dd30c2e828a44e5a9a26b36701cac578595919cc9cf96513169eda0165fce863"
   ],
   [
     "content/modules/punctuation-variation.json",
@@ -731,8 +787,20 @@ const ASSETS=[
     "8b3babf6798e5354c6d37e3904b9eb89ae9ce7525d915bf2bd0270e94a6e4d19"
   ],
   [
+    "content/modules/speech-errors.json",
+    "fb19b1cff2b0ebb5613b6cdd083bd3be5acea6a1f691a92d065e52a52ef87e51"
+  ],
+  [
+    "content/modules/speech-etiquette.json",
+    "7cd0bc380dc5cfcc7ed97165a00fc5f7fb29c821ebe9fae26a3fc8e585f80459"
+  ],
+  [
     "content/modules/stress-variants.json",
     "570b8ea957b4ebae49ac3b382968b0f6eb8323e58aeb805c23216d1d9841629e"
+  ],
+  [
+    "content/modules/subject-predicate-agreement.json",
+    "9b090b4729aa8fa586da70bdeaf293def622c761cf43641a3de6492eff0aa636"
   ],
   [
     "content/modules/subordinate-punctuation.json",
@@ -749,6 +817,10 @@ const ASSETS=[
   [
     "content/modules/verb-derived-forms.json",
     "a47258d93924dd9c2d64d1d114ad5e72982c02f683a23ab1ae8d64613c4d26d2"
+  ],
+  [
+    "content/modules/verb-government.json",
+    "79065630157365e29e9cc7d2d77a328082c7f86f06efbf251d05f75b5a106797"
   ],
   [
     "content/modules/verb-morphology.json",
@@ -780,11 +852,11 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "89e1cfc3c9ef51c43513f96df5c50450836ad5f7cd73c12ec915c15fae7b7f40"
+    "f9c1f224590d1f982f7e0cdad880082eecf88621ffaf8c42668e0f34eb330f1b"
   ],
   [
     "content/tips.json",
-    "bbe94012c85bf6a8eb0d62608fdbc8b58ef278c2e5e15f9361a0ce3481151f73"
+    "0bf8e7d4e6ab87c15969c617dbb49fb21bf686b7ab6939a4b4d47f4b2d733546"
   ],
   [
     "icons/apple-touch-icon.png",
@@ -808,7 +880,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "e8f916e1c6b0517c4913e5b4ff8886cd86ee4a9e40d2540602d1f9f2ac80354d"
+    "9878bb6d2467164950ef84ce629220d62e279f490156148476d8629b30de39fa"
   ],
   [
     "manifest.webmanifest",
@@ -816,7 +888,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "834c31cfd707f4d0f0645ca3365f898a7fc36e83440371e157fcda763b6b6cb0"
+    "6cf27c4bea669e5c6d2332590c69b2b4a2cae3fb5036203188190d9e4f5991d1"
   ],
   [
     "src/core/assessment.js",

@@ -977,7 +977,53 @@
       "title": "Культура речи",
       "moduleCount": 9,
       "description": "Нормы и уместность",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.speech-culture.norm-register.foundation",
+          "file": "lessons/norm-register.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.noun-norms.foundation",
+          "file": "lessons/noun-norms.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.foundation",
+          "file": "lessons/proper-name-declension.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.foundation",
+          "file": "lessons/numeral-norms.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.foundation",
+          "file": "lessons/verb-government.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+          "file": "lessons/subject-predicate-agreement.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.foundation",
+          "file": "lessons/participle-construction-norms.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.foundation",
+          "file": "lessons/speech-errors.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.foundation",
+          "file": "lessons/speech-etiquette.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "10.01",
@@ -1428,6 +1474,42 @@
     {
       "id": "ru.history.scientific-etymology",
       "file": "modules/scientific-etymology.json"
+    },
+    {
+      "id": "ru.speech-culture.norm-register",
+      "file": "modules/norm-register.json"
+    },
+    {
+      "id": "ru.speech-culture.noun-norms",
+      "file": "modules/noun-norms.json"
+    },
+    {
+      "id": "ru.speech-culture.proper-name-declension",
+      "file": "modules/proper-name-declension.json"
+    },
+    {
+      "id": "ru.speech-culture.numeral-norms",
+      "file": "modules/numeral-norms.json"
+    },
+    {
+      "id": "ru.speech-culture.verb-government",
+      "file": "modules/verb-government.json"
+    },
+    {
+      "id": "ru.speech-culture.subject-predicate-agreement",
+      "file": "modules/subject-predicate-agreement.json"
+    },
+    {
+      "id": "ru.speech-culture.participle-construction-norms",
+      "file": "modules/participle-construction-norms.json"
+    },
+    {
+      "id": "ru.speech-culture.speech-errors",
+      "file": "modules/speech-errors.json"
+    },
+    {
+      "id": "ru.speech-culture.speech-etiquette",
+      "file": "modules/speech-etiquette.json"
     }
   ],
   "lessonOrder": [
@@ -1542,6 +1624,15 @@
     "ru.history.writing-reforms.foundation",
     "ru.history.historical-changes.foundation",
     "ru.history.borrowing-etymology.foundation",
-    "ru.history.scientific-etymology.foundation"
+    "ru.history.scientific-etymology.foundation",
+    "ru.speech-culture.norm-register.foundation",
+    "ru.speech-culture.noun-norms.foundation",
+    "ru.speech-culture.proper-name-declension.foundation",
+    "ru.speech-culture.numeral-norms.foundation",
+    "ru.speech-culture.verb-government.foundation",
+    "ru.speech-culture.subject-predicate-agreement.foundation",
+    "ru.speech-culture.participle-construction-norms.foundation",
+    "ru.speech-culture.speech-errors.foundation",
+    "ru.speech-culture.speech-etiquette.foundation"
   ]
 }

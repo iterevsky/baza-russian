@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.speech-culture.speech-errors",
+  "title": "Речевые ошибки: плеоназм, тавтология, смешение паронимов (базовый контроль)",
+  "moduleNumber": "10.08",
+  "status": "draft",
+  "lessonIds": [
+    "ru.speech-culture.speech-errors.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, критерии хорошей речи",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii"
+  },
+  "variants": [
+    {
+      "id": "ru.speech-culture.speech-errors.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Выберите: (экономичный / экономический) двигатель, расходующий мало топлива.",
+          "answer": "экономичный",
+          "ex": "Экономичный экономит ресурсы.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Выберите: (экономический / экономичный) кризис страны.",
+          "answer": "экономический",
+          "ex": "Экономический относится к экономике.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.speech-culture.speech-errors.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Выберите: (опытный / опытнический) хирург с многолетней практикой.",
+          "answer": "опытный",
+          "ex": "Опытный обладает опытом.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Дополните устойчивое сочетание: ... значение (иметь / играть).",
+          "answer": "иметь",
+          "ex": "Нормативная устойчивая модель — иметь значение.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        }
+      ]
+    }
+  ]
+}

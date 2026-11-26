@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.speech-culture.subject-predicate-agreement",
+  "title": "Согласование подлежащего и сказуемого (базовый контроль)",
+  "moduleNumber": "10.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.speech-culture.subject-predicate-agreement.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, пример согласования количественного подлежащего",
+    "url": "https://gramota.ru/spravka/vopros/333502"
+  },
+  "variants": [
+    {
+      "id": "ru.speech-culture.subject-predicate-agreement.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Выберите: стоимость услуг увеличилась / увеличились.",
+          "answer": "увеличилась",
+          "ex": "Стоимость — женский род.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Выберите: сообщение от клиентов получено / получены.",
+          "answer": "получено",
+          "ex": "Сообщение — средний род единственного числа.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.speech-culture.subject-predicate-agreement.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Выберите: папки с отчётом исчезли / исчез.",
+          "answer": "исчезли",
+          "ex": "Подлежащее папки во множественном числе.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Выберите: организация (ООН) приняла / приняло резолюцию. Запишите глагол.",
+          "answer": "приняла",
+          "ex": "Опорное слово организация женского рода.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        }
+      ]
+    }
+  ]
+}

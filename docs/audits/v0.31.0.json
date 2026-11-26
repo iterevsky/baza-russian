@@ -1,0 +1,86 @@
+{
+  "exactPromptOverlap": [
+    {
+      "prompt": "он даже не заметил ошибки.",
+      "ids": [
+        "ru.punctuation.introductory-editing.practice.07",
+        "ru.punctuation.non-introductory-words.practice.06"
+      ]
+    }
+  ],
+  "closedWrittenSignal": 63,
+  "stressPractice": 12,
+  "release": "0.31.0",
+  "plannedModules": 107,
+  "populatedModules": 89,
+  "lessons": 121,
+  "lessonStatuses": {
+    "draft": 115,
+    "reviewed": 6
+  },
+  "moduleStatuses": {
+    "draft": 89
+  },
+  "practice": 701,
+  "practiceTypes": {
+    "classification": 4,
+    "comma-positions": 102,
+    "multi-choice": 4,
+    "single-choice": 237,
+    "text-edit": 354
+  },
+  "examQuestions": 1960,
+  "examTypes": {
+    "exact-text": 296,
+    "grammar-answer": 608,
+    "written-answer": 1056
+  },
+  "cards": 435,
+  "editorialCases": 127,
+  "deepDiveCounts": {
+    "1": 42,
+    "2": 73,
+    "3": 6
+  },
+  "tips": 55,
+  "lessonsLinkedToTips": 52,
+  "lessonsWithPrerequisites": 44,
+  "lessonsWithRelated": 117,
+  "indexBytes": 2045202,
+  "singleChoiceSamePosition": [
+    {
+      "id": "ru.syntax.complication-types",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.homogeneity-syntax",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.incomplete",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.one-part-types",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.phrase-links",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.phrase-structure",
+      "count": 6,
+      "correctIndex": 0
+    }
+  ],
+  "limitations": [
+    "Counts and answer-position signals only; not linguistic, pedagogical, accessibility or real-browser certification.",
+    "A fixed position can be mitigated by verified shuffling, but authored banks should also be balanced; check UI and history compatibility before changing."
+  ]
+}

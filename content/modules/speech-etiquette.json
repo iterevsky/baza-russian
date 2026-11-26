@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.speech-culture.speech-etiquette",
+  "title": "Речевой этикет и уместность (базовый контроль)",
+  "moduleNumber": "10.09",
+  "status": "draft",
+  "lessonIds": [
+    "ru.speech-culture.speech-etiquette.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, критерии хорошей речи",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii"
+  },
+  "variants": [
+    {
+      "id": "ru.speech-culture.speech-etiquette.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "При отказе от встречи с предложением «Могу завтра» это альтернатива или обвинение?",
+          "answer": "альтернатива",
+          "ex": "Предложен другой вариант взаимодействия.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "В просьбе «Проверьте, пожалуйста, итоговую сумму» что требуется: проверка / увольнение?",
+          "answer": "проверка",
+          "ex": "Глагол проверьте задаёт конкретное действие.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.speech-culture.speech-etiquette.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "В письме «Уточните, о каком договоре идёт речь» цель — уточнение или поздравление?",
+          "answer": "уточнение",
+          "ex": "Запрашивается недостающий контекст.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "При обращении к одному знакомому, который попросил общаться на ты, что следует учитывать: договорённость / число страниц?",
+          "answer": "договорённость",
+          "ex": "Уместность определяется установленными отношениями.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        }
+      ]
+    }
+  ]
+}

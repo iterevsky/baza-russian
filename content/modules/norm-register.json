@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.speech-culture.norm-register",
+  "title": "Литературная норма, сфера и допустимые варианты (базовый контроль)",
+  "moduleNumber": "10.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.speech-culture.norm-register.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, О разнице в трактовках одного слова в разных словарях",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/slovari-ne-soglasny-drug-s-drugom"
+  },
+  "variants": [
+    {
+      "id": "ru.speech-culture.norm-register.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "В инструкции выберите форму: их документы / ихние документы.",
+          "answer": "их документы",
+          "ex": "Притяжательное их неизменно; ихние — просторечие.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Для договора нужна форма обращения «сотрудник» или «чувак»? Напишите подходящее слово.",
+          "answer": "сотрудник",
+          "ex": "Официальный жанр требует нейтрального обозначения.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.speech-culture.norm-register.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Если нормативные словари расходятся, что следует установить прежде всего: издание / цвет обложки?",
+          "answer": "издание",
+          "ex": "Дата и тип источника помогают понять различие рекомендаций.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Две нормативные фразы отличаются только удобством чтения. Выбор между ними — редактура или орфография?",
+          "answer": "редактура",
+          "ex": "Здесь нет нарушения написания.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        }
+      ]
+    }
+  ]
+}

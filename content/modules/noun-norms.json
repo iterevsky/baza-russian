@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.speech-culture.noun-norms",
+  "title": "Род, число и падеж трудных существительных (базовый контроль)",
+  "moduleNumber": "10.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.speech-culture.noun-norms.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Грамматика",
+    "url": "https://gramota.ru/biblioteka/spravochniki/grammatika"
+  },
+  "variants": [
+    {
+      "id": "ru.speech-culture.noun-norms.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.noun-norms.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Вставьте форму: партия (мандарин), множественное число.",
+          "answer": "мандаринов",
+          "ex": "Родительный множественного — мандаринов.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.noun-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.noun-norms.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Дополните: нов... шампунь. Напишите прилагательное.",
+          "answer": "новый",
+          "ex": "Шампунь мужского рода.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.noun-norms.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.speech-culture.noun-norms.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.noun-norms.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Напишите именительный множественного числа слова «инженер» для нейтрального отчёта.",
+          "answer": "инженеры",
+          "ex": "Нормативная нейтральная форма инженеры.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.noun-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.noun-norms.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Напишите именительный множественного числа слова «директор» (руководитель организации).",
+          "answer": "директора",
+          "ex": "Для этого значения закреплена форма директора.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.noun-norms.foundation"
+        }
+      ]
+    }
+  ]
+}
