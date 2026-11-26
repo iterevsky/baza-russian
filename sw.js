@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.18.0";
-const DIGEST="95030f9746d80073212023ea";
+const RELEASE="0.19.0";
+const DIGEST="c4fd8822a66ab36869a73bdf";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -71,6 +71,10 @@ const ASSETS=[
     "bdfde277bb88daebd268b21452f35895e3e6b87fc55e4db8be160316c9b65639"
   ],
   [
+    "content/runtime-index.json",
+    "58e90ae8273f5a205deefd5bfd5afbab135457ad72097eb86a91a731f6733dcd"
+  ],
+  [
     "content/tips.json",
     "61df14991c15da1da4f58f29d8a0769c9187b652435ad536e9f945041aa64a2f"
   ],
@@ -96,7 +100,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "6c3845d3eb3039055ee914b60d6a97b940f6e4df47db30d21de68446343be277"
+    "6664706f89bf66355446c2374aec243ddc549b7969ea9b6fc7f9babc5a6e61f1"
   ],
   [
     "manifest.webmanifest",
@@ -104,7 +108,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "ab48f8aed90d30e948c7dcb79242fc81aa348a603af83d1d271abfb297fa7699"
+    "df0809c11d0525756d4ed92c7b2e1571c016ff662b0c6afe790858be1935357b"
   ],
   [
     "src/core/assessment.js",
@@ -112,7 +116,7 @@ const ASSETS=[
   ],
   [
     "src/core/content.js",
-    "d52467da5090710694d6f5afc6de2929a017b2ef188f16bc7075dea000e91a4b"
+    "9e538f67d4fc00221fc819e036f8e489119ecce38dff7990e81704d19f40feb4"
   ],
   [
     "src/core/database.js",
@@ -144,7 +148,7 @@ const ASSETS=[
   ],
   [
     "src/core/progress.js",
-    "4902301fa09ea256d66b470e5eae38a5ffee10861d3bd185e0749b6da817bde8"
+    "98af888e4cfe15bcb223740dc8cc795d81c58708dbb78c094fa839e8e831d18f"
   ],
   [
     "src/core/prompt.js",
@@ -181,9 +185,13 @@ async function prepare(){
   // A partial deployment must never become the active version.
   const existed=(await caches.keys()).includes(CACHE);
   try{
-    const entries=await Promise.all([...urls].map(async([url,hash])=>[url,await verified(url,hash)]));
-    const cache=await caches.open(CACHE);
-    for(const [url,response] of entries)await cache.put(url,response);
+    const cache=await caches.open(CACHE),entries=[...urls];
+    // Limit simultaneous downloads and verified response buffers; wait for a whole batch before rollback.
+    for(let i=0;i<entries.length;i+=6){
+      const batch=await Promise.allSettled(entries.slice(i,i+6).map(async([url,hash])=>[url,await verified(url,hash)]));
+      const failure=batch.find(x=>x.status==='rejected');if(failure)throw failure.reason;
+      for(const item of batch){const [url,response]=item.value;await cache.put(url,response)}
+    }
   }catch(error){if(!existed)await caches.delete(CACHE);throw error}
 }
 self.addEventListener('install',event=>event.waitUntil(prepare()));

@@ -16,9 +16,13 @@ async function prepare(){
   // A partial deployment must never become the active version.
   const existed=(await caches.keys()).includes(CACHE);
   try{
-    const entries=await Promise.all([...urls].map(async([url,hash])=>[url,await verified(url,hash)]));
-    const cache=await caches.open(CACHE);
-    for(const [url,response] of entries)await cache.put(url,response);
+    const cache=await caches.open(CACHE),entries=[...urls];
+    // Limit simultaneous downloads and verified response buffers; wait for a whole batch before rollback.
+    for(let i=0;i<entries.length;i+=6){
+      const batch=await Promise.allSettled(entries.slice(i,i+6).map(async([url,hash])=>[url,await verified(url,hash)]));
+      const failure=batch.find(x=>x.status==='rejected');if(failure)throw failure.reason;
+      for(const item of batch){const [url,response]=item.value;await cache.put(url,response)}
+    }
   }catch(error){if(!existed)await caches.delete(CACHE);throw error}
 }
 self.addEventListener('install',event=>event.waitUntil(prepare()));
