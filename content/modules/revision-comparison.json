@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.stylistics.revision-comparison",
+  "title": "Сравнение нескольких вариантов правки (базовый контроль)",
+  "moduleNumber": "11.10",
+  "status": "draft",
+  "lessonIds": [
+    "ru.stylistics.revision-comparison.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, инструменты редактора",
+    "url": "https://gramota.ru/journal/stati/tekhnologii/tsifrovye-instrumenty-v-pomoshch-redaktoru"
+  },
+  "variants": [
+    {
+      "id": "ru.stylistics.revision-comparison.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.revision-comparison.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«Не менее 50» превращено в «более 50». Какое число потеряло допустимость? Ответьте цифрами.",
+          "answer": "50",
+          "ex": "Исходник включает граничную величину, правка её исключает.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.revision-comparison.foundation"
+        },
+        {
+          "id": "ru.stylistics.revision-comparison.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Как называются обязательные элементы смысла, которые должны сохраниться в вариантах: инварианты / омонимы?",
+          "answer": "инварианты",
+          "ex": "Они задают пределы допустимой правки.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.revision-comparison.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.stylistics.revision-comparison.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.revision-comparison.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Если перестройка текста улучшает чтение, но меняет подтверждённое число, что требуется: исправление числа / сохранение ошибки?",
+          "answer": "исправление числа",
+          "ex": "Ясность не оправдывает недостоверность.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.revision-comparison.foundation"
+        },
+        {
+          "id": "ru.stylistics.revision-comparison.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "В открытом редакторском кейсе несколько верных решений. Что оценивает их качество: критерии / совпадение каждой буквы с образцом?",
+          "answer": "критерии",
+          "ex": "Свободная правка оценивается по задаче и сохранности смысла.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.revision-comparison.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.stylistics.text-cohesion",
+  "title": "Связность текста и абзац (базовый контроль)",
+  "moduleNumber": "11.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.stylistics.text-cohesion.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, научный стиль и связность",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+  },
+  "variants": [
+    {
+      "id": "ru.stylistics.text-cohesion.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.text-cohesion.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Какой маркер добавления уместен в начале ещё одного аргумента: кроме того / несмотря на это?",
+          "answer": "кроме того",
+          "ex": "Он присоединяет дополнительный довод.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.text-cohesion.foundation"
+        },
+        {
+          "id": "ru.stylistics.text-cohesion.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«Хотя магазин открыт, вход закрыт». Какое отношение выражено: уступка / перечисление?",
+          "answer": "уступка",
+          "ex": "Второе положение реализуется вопреки ожидаемому из первого.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.text-cohesion.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.stylistics.text-cohesion.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.text-cohesion.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Может ли связка «следовательно» сама доказать вывод? Ответьте да или нет.",
+          "answer": "нет",
+          "ex": "Нужна содержательная связь посылок и заключения.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.text-cohesion.foundation"
+        },
+        {
+          "id": "ru.stylistics.text-cohesion.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Что лучше сделать при резкой смене микротемы в деловом отчёте: новый абзац / случайный повтор?",
+          "answer": "новый абзац",
+          "ex": "Членение помогает отделить новую мысль.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.text-cohesion.foundation"
+        }
+      ]
+    }
+  ]
+}

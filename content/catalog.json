@@ -1068,7 +1068,58 @@
       "title": "Стилистика и редактирование",
       "moduleCount": 10,
       "description": "Точность и выразительность",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.stylistics.functional-styles.foundation",
+          "file": "lessons/functional-styles.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.clarity-precision.foundation",
+          "file": "lessons/clarity-precision.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.text-cohesion.foundation",
+          "file": "lessons/text-cohesion.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.sentence-rhythm.foundation",
+          "file": "lessons/sentence-rhythm.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.verbal-economy.foundation",
+          "file": "lessons/verbal-economy.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.tropes-figures.foundation",
+          "file": "lessons/tropes-figures.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.author-voice.foundation",
+          "file": "lessons/author-voice.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.editorial-diagnosis.foundation",
+          "file": "lessons/editorial-diagnosis.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.proofreading-typography.foundation",
+          "file": "lessons/proofreading-typography.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.revision-comparison.foundation",
+          "file": "lessons/revision-comparison.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "11.01",
@@ -1510,6 +1561,46 @@
     {
       "id": "ru.speech-culture.speech-etiquette",
       "file": "modules/speech-etiquette.json"
+    },
+    {
+      "id": "ru.stylistics.functional-styles",
+      "file": "modules/functional-styles.json"
+    },
+    {
+      "id": "ru.stylistics.clarity-precision",
+      "file": "modules/clarity-precision.json"
+    },
+    {
+      "id": "ru.stylistics.text-cohesion",
+      "file": "modules/text-cohesion.json"
+    },
+    {
+      "id": "ru.stylistics.sentence-rhythm",
+      "file": "modules/sentence-rhythm.json"
+    },
+    {
+      "id": "ru.stylistics.verbal-economy",
+      "file": "modules/verbal-economy.json"
+    },
+    {
+      "id": "ru.stylistics.tropes-figures",
+      "file": "modules/tropes-figures.json"
+    },
+    {
+      "id": "ru.stylistics.author-voice",
+      "file": "modules/author-voice.json"
+    },
+    {
+      "id": "ru.stylistics.editorial-diagnosis",
+      "file": "modules/editorial-diagnosis.json"
+    },
+    {
+      "id": "ru.stylistics.proofreading-typography",
+      "file": "modules/proofreading-typography.json"
+    },
+    {
+      "id": "ru.stylistics.revision-comparison",
+      "file": "modules/revision-comparison.json"
     }
   ],
   "lessonOrder": [
@@ -1633,6 +1724,16 @@
     "ru.speech-culture.subject-predicate-agreement.foundation",
     "ru.speech-culture.participle-construction-norms.foundation",
     "ru.speech-culture.speech-errors.foundation",
-    "ru.speech-culture.speech-etiquette.foundation"
+    "ru.speech-culture.speech-etiquette.foundation",
+    "ru.stylistics.functional-styles.foundation",
+    "ru.stylistics.clarity-precision.foundation",
+    "ru.stylistics.text-cohesion.foundation",
+    "ru.stylistics.sentence-rhythm.foundation",
+    "ru.stylistics.verbal-economy.foundation",
+    "ru.stylistics.tropes-figures.foundation",
+    "ru.stylistics.author-voice.foundation",
+    "ru.stylistics.editorial-diagnosis.foundation",
+    "ru.stylistics.proofreading-typography.foundation",
+    "ru.stylistics.revision-comparison.foundation"
   ]
 }

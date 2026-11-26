@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.stylistics.sentence-rhythm",
+  "title": "Порядок слов, ритм и длина предложения (базовый контроль)",
+  "moduleNumber": "11.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.stylistics.sentence-rhythm.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, научный стиль и понятность",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+  },
+  "variants": [
+    {
+      "id": "ru.stylistics.sentence-rhythm.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.sentence-rhythm.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«Не завтра, а сегодня» выделяет контраст. Напишите союз.",
+          "answer": "а",
+          "ex": "Союз соединяет противопоставленные обстоятельства.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.sentence-rhythm.foundation"
+        },
+        {
+          "id": "ru.stylistics.sentence-rhythm.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«Лишь одна коробка повреждена». Напишите частицу ограничения с прописной буквы.",
+          "answer": "Лишь",
+          "ex": "Она ограничивает количество повреждённых коробок.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.sentence-rhythm.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.stylistics.sentence-rhythm.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.sentence-rhythm.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "При перестановке слов в договоре сохранять нужно прежде всего смысл или эффектность?",
+          "answer": "смысл",
+          "ex": "Юридические отношения важнее декоративного ритма.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.sentence-rhythm.foundation"
+        },
+        {
+          "id": "ru.stylistics.sentence-rhythm.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Если разбиение предложения убрало причинную связку, что проверить: связь / орфоэпию?",
+          "answer": "связь",
+          "ex": "Нужно убедиться, что причина и следствие остались понятными.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.sentence-rhythm.foundation"
+        }
+      ]
+    }
+  ]
+}

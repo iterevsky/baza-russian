@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.31.0";
-const DIGEST="d498d137ee304427e721d14c";
+const RELEASE="0.32.0";
+const DIGEST="8f96ae978dbfa3dab121cf4c";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "a288cbabf2ebd9453adf6fce6a6a5fb31ae5c096d8bc1d416b5a62381f47aedf"
+    "20ab0b93e8978c34dd9767910b85dffe125c7e77aba5f1544f0948beeaab36b5"
   ],
   [
     "content/lessons/addresses.json",
@@ -39,6 +39,10 @@ const ASSETS=[
     "4185d249ff08c5882a3da84a012a2ac4d25cac2e184b18431675036b28bd5d28"
   ],
   [
+    "content/lessons/author-voice.json",
+    "311a809c3defe06e5d6c56ac9ffbb3e02ff9e2bb24b3ff97cbad0994ff06362d"
+  ],
+  [
     "content/lessons/basis-core.json",
     "c820dfa8090d4e920202a43b89c062e7a12b3c0994cfab474c3a7d8ed612565a"
   ],
@@ -57,6 +61,10 @@ const ASSETS=[
   [
     "content/lessons/clarification.json",
     "168f62ffdd7287b481495df10c164231f9eceb2e7d4848b17f57b35e588d49fe"
+  ],
+  [
+    "content/lessons/clarity-precision.json",
+    "da2d661363afd707b2282a2b2febde0b9bc7e503b4d695f354d010c4e91c5c73"
   ],
   [
     "content/lessons/comparison-free.json",
@@ -131,6 +139,10 @@ const ASSETS=[
     "9e77694decdc2d74925941d140c446d3f903852c7a5e20886103aa55498b63b4"
   ],
   [
+    "content/lessons/editorial-diagnosis.json",
+    "ac5730828b78c93a12863a519c4e68aeb4e7f46712d1681998651fd06dd58ab5"
+  ],
+  [
     "content/lessons/end-basic.json",
     "e9b1ad7f9a420d26fa1531f91bc0d729e0acbd6bbe6762712fa4a3234bc17761"
   ],
@@ -149,6 +161,10 @@ const ASSETS=[
   [
     "content/lessons/function-words.json",
     "9ecd9bb8b830f04353f832d3c8d6066a72bc68a121c2b5aa4273f8b350ff3c33"
+  ],
+  [
+    "content/lessons/functional-styles.json",
+    "b6430a9c04246ef7af51ac0326ed1858ffa9b3da7ee7490ccb6d50536f7319fe"
   ],
   [
     "content/lessons/gerund-punctuation.json",
@@ -351,6 +367,10 @@ const ASSETS=[
     "7f730a7f8a291210cd9560ba7e9c49da48d51e0b032a08c9e1f4d949aa8dc2d8"
   ],
   [
+    "content/lessons/proofreading-typography.json",
+    "a164a18292d66e6d3363e833425f8a41b8ec410e2f9ee92e446be62ba4fc16df"
+  ],
+  [
     "content/lessons/proper-name-declension.json",
     "1cfa52c5f58f3644ebd51851efae28551aa410934af32ee156f6e2053871aac0"
   ],
@@ -361,6 +381,10 @@ const ASSETS=[
   [
     "content/lessons/register-connotation.json",
     "29fed9845afa685c6e32d1272e82944baa0fd177b44d1352fac17bb119f02c2e"
+  ],
+  [
+    "content/lessons/revision-comparison.json",
+    "96dd735075f5d8795e2bbf03eb576aab90a34b4fa5a97bc1e3d7d28949b0b89e"
   ],
   [
     "content/lessons/root-consonants.json",
@@ -389,6 +413,10 @@ const ASSETS=[
   [
     "content/lessons/sentence-analysis.json",
     "abcac05af502c86b14596b46d3329499ac108a9487302a1e786df560249f52d4"
+  ],
+  [
+    "content/lessons/sentence-rhythm.json",
+    "ac827dcc411c167e9aaced1b25763a1b70ea9e273f6b093cadc7ada5739107fb"
   ],
   [
     "content/lessons/separators.json",
@@ -459,6 +487,14 @@ const ASSETS=[
     "874c12c96312f0f7bb48b43b785e2994f456fb4b390a050aa04595deeb7710ff"
   ],
   [
+    "content/lessons/text-cohesion.json",
+    "5509a5840716e0b5d798deffd19e2b34a35382b157f04d14e273401a62452cd8"
+  ],
+  [
+    "content/lessons/tropes-figures.json",
+    "ca4c77f4d116d2b558fa34da2c4eac55791b0e3ae36247a984f9a44f0f431eee"
+  ],
+  [
     "content/lessons/verb-derived-forms.json",
     "8d1b6c585e80d2df3a31cb128a25c8e9fff3807937e7bb15f041c3fec4a35b26"
   ],
@@ -473,6 +509,10 @@ const ASSETS=[
   [
     "content/lessons/verb-spelling.json",
     "ee849fc79cad83f395ae94234139b54a2d3cdc3098bc6e9bdbf1b948bcfc391c"
+  ],
+  [
+    "content/lessons/verbal-economy.json",
+    "f7965c9015037b0f8902880d726cc33865c326aaf66c5febc67d755df17182ba"
   ],
   [
     "content/lessons/vowels-consonants.json",
@@ -507,6 +547,10 @@ const ASSETS=[
     "026182d77b048a1093552ccd031e49d7285a0b7c9a11813ba19c6efa55fd917c"
   ],
   [
+    "content/modules/author-voice.json",
+    "28e4245c01f8fdcd8df21420e2c0b348617cefca63f5255b3c9e611ac6a448e7"
+  ],
+  [
     "content/modules/basis.json",
     "637035abf714e9145d4b409e5b16a9d8a081e15c9a02dffc61a259067e6d7a5c"
   ],
@@ -521,6 +565,10 @@ const ASSETS=[
   [
     "content/modules/clarifying-punctuation.json",
     "2c3cf96d1b31dee70a30676ff2d6c6f41af76a1689726660d893a9818499ecc8"
+  ],
+  [
+    "content/modules/clarity-precision.json",
+    "1100a3809874ccf41af17fb9e0846a0a939d28ad3d04d9fa86396b30461990c1"
   ],
   [
     "content/modules/comparison-punctuation.json",
@@ -567,6 +615,10 @@ const ASSETS=[
     "a94df731c6707061e3a4b0d7a322be39f544ca320900aca21b78c9184960bc0f"
   ],
   [
+    "content/modules/editorial-diagnosis.json",
+    "8ea9a6647a5c9314f0a9783cdca44ff47ab6908f74bc55991f2b4dbc9c6ffdc6"
+  ],
+  [
     "content/modules/end-marks.json",
     "bd874951278319b4db864edca3c7be33b9ada1d34f5285f7e26c6b1c8770497e"
   ],
@@ -577,6 +629,10 @@ const ASSETS=[
   [
     "content/modules/function-words.json",
     "965137bfc76e271c28cabc611d0460464b3e031155b908d2f1b82a50e0365b42"
+  ],
+  [
+    "content/modules/functional-styles.json",
+    "4aa5b61984fd03cc762a2aac90c87a9e3b95a02d87dc5a1739cfc9d16ad806d0"
   ],
   [
     "content/modules/historical-changes.json",
@@ -719,6 +775,10 @@ const ASSETS=[
     "50627580df1b302084b1d34cd04bbfe165c53ae09f72b57eb3f9fdf346319f52"
   ],
   [
+    "content/modules/proofreading-typography.json",
+    "9154d9f069f97b03d169b0b1bd14f08344a520ece6306bb4259d97490b61c1ac"
+  ],
+  [
     "content/modules/proper-name-declension.json",
     "dd30c2e828a44e5a9a26b36701cac578595919cc9cf96513169eda0165fce863"
   ],
@@ -733,6 +793,10 @@ const ASSETS=[
   [
     "content/modules/reported-speech.json",
     "411b0f0cad670a4b335fe643f78d09792582736d37cd6f7bb848b384cfa175df"
+  ],
+  [
+    "content/modules/revision-comparison.json",
+    "d79f88ca7b9861e7c992488c9a5f1ab32f65dd6794b15d1d249e6f19d267c93e"
   ],
   [
     "content/modules/root-consonants.json",
@@ -753,6 +817,10 @@ const ASSETS=[
   [
     "content/modules/secondary-members.json",
     "77e52cf1ac616fdd651b24eeb30fb0fb6c0291d169b3dc92884d8d38118814e4"
+  ],
+  [
+    "content/modules/sentence-rhythm.json",
+    "d61a9da366d2957cf1d86040b343b100f407a3dbae32e19f2f1803497d41de65"
   ],
   [
     "content/modules/sentence-structure.json",
@@ -815,6 +883,14 @@ const ASSETS=[
     "bde6eb44a5451a7a56ee91cb0d1ae9eb9c0edf9ec0823f554bbf6f11bf1751bb"
   ],
   [
+    "content/modules/text-cohesion.json",
+    "14c3bebbd7fa44a1ffa249cdede73e941dd1260f32f5289684d12eb84942a7d2"
+  ],
+  [
+    "content/modules/tropes-figures.json",
+    "63116ae48ef81b5c068684c774eeb002f865bc853727d7ff2bbbf3177c9ffbb4"
+  ],
+  [
     "content/modules/verb-derived-forms.json",
     "a47258d93924dd9c2d64d1d114ad5e72982c02f683a23ab1ae8d64613c4d26d2"
   ],
@@ -829,6 +905,10 @@ const ASSETS=[
   [
     "content/modules/verb-spelling.json",
     "3270822e8a6c9e0ddd1bbef14558df16cdc21923b462591ce4c08e575fb6b77f"
+  ],
+  [
+    "content/modules/verbal-economy.json",
+    "411180078844256caa4b37ec7b261ade296f66e3af1355e52929be0747d7dc62"
   ],
   [
     "content/modules/vowels-consonants.json",
@@ -852,11 +932,11 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "f9c1f224590d1f982f7e0cdad880082eecf88621ffaf8c42668e0f34eb330f1b"
+    "0f988bf512e10b278bdde689690679230e97a5893432e65b44c0091cb88ba120"
   ],
   [
     "content/tips.json",
-    "0bf8e7d4e6ab87c15969c617dbb49fb21bf686b7ab6939a4b4d47f4b2d733546"
+    "97f86425e95d4c00235bb2c52f714cf4210b14bfeac381956c1ae745d1b98096"
   ],
   [
     "icons/apple-touch-icon.png",
@@ -888,7 +968,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "6cf27c4bea669e5c6d2332590c69b2b4a2cae3fb5036203188190d9e4f5991d1"
+    "f1d06bdd354d79b6cb1994ea83a78afd5e599eed2999550e0e6186737c3dedcb"
   ],
   [
     "src/core/assessment.js",
