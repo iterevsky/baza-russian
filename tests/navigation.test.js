@@ -20,4 +20,10 @@ const classification=JSON.parse(await readFile(new URL('../content/lessons/ambig
 // Open editorial drafts are session-local, never a graded attempt.
 click({lesson:lesson.id});assert.match(html(),/Редакторская лаборатория/);assert.doesNotMatch(html(),/class="deep-content"/);click({deep:''});assert.match(html(),/Два слоя сообщения/);const caseId=lesson.editorialCases[0].id;handlers.input({target:{dataset:{editorialDraft:caseId},value:'Мой <черновик> & проверка'}});click({go:'profile'});click({lesson:classification.id});assert.doesNotMatch(html(),/Мой &lt;черновик&gt;/);click({lesson:lesson.id});assert.match(html(),/Мой &lt;черновик&gt; &amp; проверка/);click({deep:''});assert.match(html(),/Мой &lt;черновик&gt;/);await new Promise(r=>setImmediate(r));const afterEditorial=JSON.parse(store.get('baza-russian-design-01'));assert.deepEqual(afterEditorial.byLesson[lesson.id].attempts,newSaved.byLesson[lesson.id].attempts);assert.equal(afterEditorial.byLesson[lesson.id].editorialDrafts,undefined);
 
+// Search planned modules and keep each available module's lessons grouped separately.
+click({go:'catalog'});assert.match(html(),/07\.03 · Однородные члены и обобщающие слова/);assert.match(html(),/07\.08 · Вводные слова, вставные конструкции и обращения/);assert.match(html(),/Однородные члены: перечисление и одиночные союзы/);
+handlers.input({target:{id:'search',value:'01.04'}});assert.match(document.querySelector('#catalog-results').innerHTML,/01\.04 · Словари, справочники и корпус/);assert.doesNotMatch(document.querySelector('#catalog-results').innerHTML,/07\.08/);
+handlers.input({target:{id:'search',value:'07.03'}});assert.match(document.querySelector('#catalog-results').innerHTML,/Повторяющиеся союзы и группы однородных членов/);assert.doesNotMatch(document.querySelector('#catalog-results').innerHTML,/Экзамен и диагностика модуля/);
+handlers.input({target:{id:'search',value:''}});click({lesson:'ru.punctuation.homogeneous-basic'});assert.match(html(),/Однородные члены: перечисление и одиночные союзы/);click({go:'profile'});assert.doesNotMatch(html(),/first-only/);
+
 });

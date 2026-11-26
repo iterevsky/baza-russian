@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.15.0";
-const DIGEST="07ce9bb4480224a85beb4766";
+const RELEASE="0.16.0";
+const DIGEST="f5006664819a47c1718dcafc";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,11 +8,19 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "9327ae94cd5a9084813adb105677bcba627a0071babf935349af5bb007ef8f2e"
+    "0c5347295a3e433d06687380bba57d3f46cc2a0faedb896397aed955cf319d64"
   ],
   [
     "content/lessons/ambiguous-introductory.json",
     "dea64fb90a947ff41efe4504fcf2d382ccd330c9b5737624d3682be700eadc41"
+  ],
+  [
+    "content/lessons/homogeneous-basic.json",
+    "baa7bf86bbc91e5dea08de035c73cbebc7c756040eb7501311bc113c59c106fe"
+  ],
+  [
+    "content/lessons/homogeneous-repeated.json",
+    "39142971c23e2c556a6506bb072e28e1224bfc17906b5547dc1250d6cc0d7d2a"
   ],
   [
     "content/lessons/introductory-boundaries.json",
@@ -64,7 +72,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "0be9fea5fe3c75317a923419262db2d72a35694a8de971d7454b7aae9d1d7883"
+    "c039a6d44ce6fdf299b4fd057623b33cdc14887b7391144afec9edca2c737789"
   ],
   [
     "manifest.webmanifest",
@@ -72,7 +80,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "9b07e67c5ea9de03b7625e15efda32bdcb9599d17809f1e78cc4bed2b23440d7"
+    "7cd2be8f232889642416ea32e6a05792b2b14382a0eabfeea09e92caaea1a808"
   ],
   [
     "src/core/assessment.js",
@@ -80,7 +88,7 @@ const ASSETS=[
   ],
   [
     "src/core/content.js",
-    "7e0f54fc838c7ce1ebc7f62e510975b4d0f760a7bc95d46bb3ca3f49756497d5"
+    "03bb05bc0b3e6d42c6bb1c70e31e67ba88a5f1233f7a93405b21c0a8dccd582d"
   ],
   [
     "src/core/database.js",
@@ -128,7 +136,7 @@ const ASSETS=[
   ],
   [
     "src/styles/main.css",
-    "61f2d3ec80c609241ed9b980b2ee94748ef08acc5669685b8a056ce26bfbe3f2"
+    "4c2458cf18fecf63634be365e76a67ca04f97d79ee4e33f91e7d7f790bdf98f5"
   ]
 ];
 // Generated release metadata is prepended by scripts/build-pwa.mjs.
