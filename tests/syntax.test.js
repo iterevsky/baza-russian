@@ -10,8 +10,8 @@ import {moduleView} from '../src/core/module-view.js';
 import {variants} from '../src/core/exams.js';
 const fetcher=async url=>({ok:true,json:async()=>JSON.parse(await readFile(url,'utf8'))});
 const c=await loadCourse(fetcher),fresh=c.lessons.filter(l=>l.sectionId==='ru.syntax'),mods=c.modules.filter(m=>m.id.startsWith('ru.syntax.'));
-test('syntax has twelve lessons in six modules, distinct practice/control examples, and balanced variants',()=>{
- assert.equal(fresh.length,12);assert.equal(mods.length,6);const seen=new Set(c.lessons.filter(l=>l.sectionId!=='ru.syntax').flatMap(l=>variants(l).flatMap(v=>v.questions.map(q=>norm(q.raw)))));for(const m of c.modules.filter(m=>!mods.includes(m)))for(const q of m.variants.flatMap(v=>v.questions))seen.add(norm(q.raw));
+test('syntax has eighteen lessons in nine modules, distinct practice/control examples, and balanced variants',()=>{
+ assert.equal(fresh.length,18);assert.equal(mods.length,9);const seen=new Set(c.lessons.filter(l=>l.sectionId!=='ru.syntax').flatMap(l=>variants(l).flatMap(v=>v.questions.map(q=>norm(q.raw)))));for(const m of c.modules.filter(m=>!mods.includes(m)))for(const q of m.variants.flatMap(v=>v.questions))seen.add(norm(q.raw));
  const unique=raw=>{assert.ok(!seen.has(norm(raw)),raw);seen.add(norm(raw))};
  for(const l of fresh){assert.equal(l.status,'draft');assert.equal(l.practice.length,6);for(const p of l.practice){assert.ok(gradePractice(p,p.expected));assert.ok(!gradePractice(p,[]));unique(p.prompt.slice(0,p.prompt.lastIndexOf('. ')+1))}for(const q of variants(l).flatMap(v=>v.questions)){unique(q.raw);assert.ok(validExamQuestion(q));assert.ok(gradeExam([q],[q.answer])[0])}}
  for(const m of mods){assert.equal(m.lessonIds.length,2);assert.equal(m.variants.length,2);for(const v of m.variants){assert.equal(v.questions.length,4);for(const q of v.questions)unique(q.raw);for(const id of m.lessonIds)assert.equal(v.questions.filter(q=>q.lessonId===id).length,2)}}
@@ -28,9 +28,17 @@ test('syntax module control uses explicit grammar instructions, persists answers
 });
 test('v0.21 appends six stable lesson IDs and preserves v0.20 progress, including module draft',()=>{
  const added=new Set(['ru.syntax.phrase-structure','ru.syntax.phrase-links','ru.syntax.one-part-types','ru.syntax.incomplete','ru.syntax.homogeneity-syntax','ru.syntax.complication-types']);
- const prior={...c,lessons:c.lessons.filter(l=>!added.has(l.id)),modules:c.modules.filter(m=>!m.lessonIds.some(id=>added.has(id)))};
+ const historical=new Set(c.catalog.lessonOrder.slice(0,19));const prior={...c,lessons:c.lessons.filter(l=>historical.has(l.id)),modules:c.modules.filter(m=>m.lessonIds.every(id=>historical.has(id)))};
  assert.equal(prior.lessons.length,19);assert.equal(prior.modules.length,5);assert.deepEqual(c.catalog.lessonOrder.slice(0,19),prior.lessons.map(l=>l.id));
  const old=normalize(null,prior);for(const l of prior.lessons){old.byLesson[l.id].note='Конспект '+l.id;old.byLesson[l.id].read=true;}
  const m=prior.modules.find(x=>x.id==='ru.syntax.main-members');const d=old.byModule[m.id];beginModule(m,d,85);d.draft.answers=m.variants[0].questions.map(q=>q.answer);finishModule(m,d);beginModule(m,d,95);d.draft.answers[0]=m.variants[1].questions[0].answer;
  const now=parseImport(JSON.stringify(old),c);for(const l of prior.lessons)assert.deepEqual(now.byLesson[l.id],old.byLesson[l.id]);for(const m of prior.modules)assert.deepEqual(now.byModule[m.id],old.byModule[m.id]);for(const id of added)assert.equal(now.byLesson[id].read,false);
+});
+
+test('v0.22 preserves v0.21 records and stable lesson IDs, including an in-progress module exam',()=>{
+ const ids=new Set(c.catalog.lessonOrder.slice(0,25));const prior={...c,lessons:c.lessons.filter(l=>ids.has(l.id)),modules:c.modules.filter(m=>m.lessonIds.every(id=>ids.has(id)))};
+ assert.equal(prior.lessons.length,25);assert.equal(prior.modules.length,8);assert.deepEqual(c.catalog.lessonOrder.slice(0,25),prior.lessons.map(l=>l.id));
+ const old=normalize(null,prior);for(const l of prior.lessons){old.byLesson[l.id].note='Конспект '+l.id;old.byLesson[l.id].read=true;}
+ const m=prior.modules.find(x=>x.id==='ru.syntax.simple-complications');const d=old.byModule[m.id];beginModule(m,d,85);d.draft.answers=m.variants[0].questions.map(q=>q.answer);finishModule(m,d);beginModule(m,d,95);d.draft.answers[0]=m.variants[1].questions[0].answer;
+ const now=parseImport(JSON.stringify(old),c);for(const l of prior.lessons)assert.deepEqual(now.byLesson[l.id],old.byLesson[l.id]);for(const m of prior.modules)assert.deepEqual(now.byModule[m.id],old.byModule[m.id]);for(const l of c.lessons.filter(l=>!ids.has(l.id)))assert.equal(now.byLesson[l.id].read,false);
 });

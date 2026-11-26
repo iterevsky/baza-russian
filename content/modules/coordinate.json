@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.coordinate",
+  "title": "Сложносочинённые предложения",
+  "moduleNumber": "05.08",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.coordinate-structure",
+    "ru.syntax.coordinate-relations"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+    "url": "https://irgali.narod.ru/files/sintaksis.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.coordinate.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.coordinate.module-exam.a.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.coordinate-structure",
+          "raw": "Бухгалтер сверил счета и подписал ведомость.",
+          "answer": "простое",
+          "ex": "Оба сказуемых относятся к одному подлежащему.",
+          "instruction": "Определите структуру: простое или ССП (сложносочинённое предложение)."
+        },
+        {
+          "id": "ru.syntax.coordinate.module-exam.a.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.coordinate-structure",
+          "raw": "Лёд треснул, но плита не раскололась.",
+          "answer": "ССП",
+          "ex": "Две отдельные грамматические основы соединены сочинительным союзом.",
+          "instruction": "Определите структуру: простое или ССП (сложносочинённое предложение)."
+        },
+        {
+          "id": "ru.syntax.coordinate.module-exam.a.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.coordinate-relations",
+          "raw": "Срок истёк, и комиссия закрыла приём заявок.",
+          "answer": "соединительный",
+          "ex": "Союз и соединяет предикативные части.",
+          "instruction": "Определите группу сочинительного союза: соединительный, противительный, разделительный."
+        },
+        {
+          "id": "ru.syntax.coordinate.module-exam.a.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.coordinate-relations",
+          "raw": "Рабочие спешили, но дождь мешал ремонту.",
+          "answer": "противительный",
+          "ex": "Союз а или но выражает сопоставление либо противопоставление.",
+          "instruction": "Определите группу сочинительного союза: соединительный, противительный, разделительный."
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.coordinate.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.coordinate.module-exam.b.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.coordinate-structure",
+          "raw": "Звонок прозвучал, и двери открылись.",
+          "answer": "ССП",
+          "ex": "Две отдельные грамматические основы соединены сочинительным союзом.",
+          "instruction": "Определите структуру: простое или ССП (сложносочинённое предложение)."
+        },
+        {
+          "id": "ru.syntax.coordinate.module-exam.b.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.coordinate-structure",
+          "raw": "Ребёнок снял варежки и положил их на полку.",
+          "answer": "простое",
+          "ex": "Оба сказуемых относятся к одному подлежащему.",
+          "instruction": "Определите структуру: простое или ССП (сложносочинённое предложение)."
+        },
+        {
+          "id": "ru.syntax.coordinate.module-exam.b.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.coordinate-relations",
+          "raw": "Собака залаяла, и хозяин вышел во двор.",
+          "answer": "соединительный",
+          "ex": "Союз и соединяет предикативные части.",
+          "instruction": "Определите группу сочинительного союза: соединительный, противительный, разделительный."
+        },
+        {
+          "id": "ru.syntax.coordinate.module-exam.b.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.coordinate-relations",
+          "raw": "Либо проект утвердят, либо комиссия вернёт его на доработку.",
+          "answer": "разделительный",
+          "ex": "Союз или либо выражает альтернативу.",
+          "instruction": "Определите группу сочинительного союза: соединительный, противительный, разделительный."
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.21.0";
-const DIGEST="ffcea30e14e8bcddfaf3f842";
+const RELEASE="0.22.0";
+const DIGEST="f0e1a521b56dc8c01168540e";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "343466b8271046612552920b02f6a15a0cbe65ca65120b8d898e07e67888fa27"
+    "2fb3bbae2e9949be2f48aa7894ccbe4cfe1b320c2a088d5ab8c032c014d30d9b"
   ],
   [
     "content/lessons/addresses.json",
@@ -29,6 +29,14 @@ const ASSETS=[
   [
     "content/lessons/complication-types.json",
     "12c9b15b06c145ac39cd2b7c4a3624c31919615eda06dc0b7eac73eea54fcd5d"
+  ],
+  [
+    "content/lessons/coordinate-relations.json",
+    "0e621f2a0d9dcecf14d8859e137c823be360e63bf86ad5541aab2fa2b0f476a9"
+  ],
+  [
+    "content/lessons/coordinate-structure.json",
+    "e1da4d14334d4c1f488d5af053e7373c22d1643e912165456517da7d1b4afaad"
   ],
   [
     "content/lessons/homogeneity-syntax.json",
@@ -79,8 +87,16 @@ const ASSETS=[
     "cad7b4f78c66bf705cfed2c001f32ec1f44801e26fb414c451a90bcc4ec53098"
   ],
   [
+    "content/lessons/isolated-members.json",
+    "3f90a2b1c7967994a33305d7ca5858b4d9058f19afe2d412b238eb9d16d88ab7"
+  ],
+  [
     "content/lessons/non-introductory-words.json",
     "3c29a22244de46a79a146e2a3a1c823386423d04332d508b4392c5ff2317d00c"
+  ],
+  [
+    "content/lessons/nonmembers.json",
+    "449b8d6896fc3033282b95452646e17ba4bbe53c28ca16ebe427306d183a2954"
   ],
   [
     "content/lessons/one-part-types.json",
@@ -111,8 +127,20 @@ const ASSETS=[
     "5d242c38d5b45fa3b485fe670b97d38a04e0fb5a9662428645fd8884ed828867"
   ],
   [
+    "content/lessons/subordinate-links.json",
+    "7758311acd743282ed42269d7c38885cf433ea7a6aef4b5391876e3b7ce2331d"
+  ],
+  [
+    "content/lessons/subordinate-types.json",
+    "abed3e232f819a7297f4571e19c52ab6756a56ae6bacbfca59900d114659c234"
+  ],
+  [
     "content/modules/basis.json",
     "637035abf714e9145d4b409e5b16a9d8a081e15c9a02dffc61a259067e6d7a5c"
+  ],
+  [
+    "content/modules/coordinate.json",
+    "ce515c4f7fb3ed81c5b49484335b9c1d68b2affc62ceda0e56cac7390a0c25d3"
   ],
   [
     "content/modules/homogeneous.json",
@@ -121,6 +149,10 @@ const ASSETS=[
   [
     "content/modules/introductory.json",
     "bdfde277bb88daebd268b21452f35895e3e6b87fc55e4db8be160316c9b65639"
+  ],
+  [
+    "content/modules/isolation.json",
+    "9b3adb0ccf001d6a53c8799945d4283a1cd98871beef3c0cb64c54bff58d2dba"
   ],
   [
     "content/modules/main-members.json",
@@ -143,8 +175,12 @@ const ASSETS=[
     "e27a79ad56f41c3a869197066f6695cb12744658473a41486f11572ef71d4f20"
   ],
   [
+    "content/modules/subordinate.json",
+    "34d05c33c20f2ce5af972d0fa7579d798d06cb11a39c9d940d368a1d02ca622e"
+  ],
+  [
     "content/runtime-index.json",
-    "fc446690f7fc07a63e53b49fce54db026bf53180c46f796a3f05bed628d37080"
+    "6fab7dfaeebd153da8d92bc822ae13f0cf73ede57da51157089045d8732e9259"
   ],
   [
     "content/tips.json",
@@ -172,7 +208,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "f9444a489ce98247eeadce3cb3c923def531fca836d85bed0d01c71778152259"
+    "2509cf66d304ef2671530d930355b258d564725ae99ae0190c60bf5be01d3f32"
   ],
   [
     "manifest.webmanifest",
@@ -180,7 +216,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "d327124a842b9ab5ef0420071ddcbf0e5cb38be734d0351c4538797c08111d79"
+    "20e3e68c717297651474b0777cf7f46e7d728c3beaf87f4914e44b1bdc66fa58"
   ],
   [
     "src/core/assessment.js",

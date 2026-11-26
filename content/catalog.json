@@ -207,6 +207,36 @@
           "id": "ru.syntax.complication-types",
           "file": "lessons/complication-types.json",
           "status": "draft"
+        },
+        {
+          "id": "ru.syntax.isolated-members",
+          "file": "lessons/isolated-members.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.nonmembers",
+          "file": "lessons/nonmembers.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.coordinate-structure",
+          "file": "lessons/coordinate-structure.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.coordinate-relations",
+          "file": "lessons/coordinate-relations.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.subordinate-links",
+          "file": "lessons/subordinate-links.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.subordinate-types",
+          "file": "lessons/subordinate-types.json",
+          "status": "draft"
         }
       ],
       "plan": [
@@ -698,6 +728,18 @@
     {
       "id": "ru.syntax.simple-complications",
       "file": "modules/simple-complications.json"
+    },
+    {
+      "id": "ru.syntax.isolation",
+      "file": "modules/isolation.json"
+    },
+    {
+      "id": "ru.syntax.coordinate",
+      "file": "modules/coordinate.json"
+    },
+    {
+      "id": "ru.syntax.subordinate",
+      "file": "modules/subordinate.json"
     }
   ],
   "lessonOrder": [
@@ -725,6 +767,12 @@
     "ru.syntax.one-part-types",
     "ru.syntax.incomplete",
     "ru.syntax.homogeneity-syntax",
-    "ru.syntax.complication-types"
+    "ru.syntax.complication-types",
+    "ru.syntax.isolated-members",
+    "ru.syntax.nonmembers",
+    "ru.syntax.coordinate-structure",
+    "ru.syntax.coordinate-relations",
+    "ru.syntax.subordinate-links",
+    "ru.syntax.subordinate-types"
   ]
 }
