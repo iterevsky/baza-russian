@@ -7,3 +7,6 @@
 .print-card{margin:12px 0;break-inside:avoid}.practice-modes{margin:12px 0 20px}@media print{.lesson-picker,button,.crumb{display:none!important}.print-card{border:1px solid #aaa}.article,.print-sheet{color:#000}.panel,.rule,.example{break-inside:avoid}}
 
 .print-source{display:none}@media print{.lesson-actions{display:none}.print-source{display:block;font-size:10pt;overflow-wrap:anywhere}}
+
+/* Quiet, independent status: never replaces the learning screen. */
+.pwa-panel{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 44px;border-bottom:1px solid var(--line);background:var(--paper);font-size:12px;color:var(--muted)}.pwa-panel[hidden],.pwa-panel button[hidden]{display:none}.pwa-info{display:grid;gap:2px;min-width:0}.pwa-info #pwa-status{font-weight:650;color:var(--ink)}.pwa-actions{display:flex;flex-wrap:wrap;gap:6px;flex-shrink:0}.pwa-actions .iconbtn{font-size:11px;padding:5px 9px}@media(max-width:760px){.pwa-panel{padding:9px 16px;align-items:flex-start;flex-wrap:wrap}.pwa-actions{flex-shrink:1}}@media print{.pwa-panel{display:none!important}}
