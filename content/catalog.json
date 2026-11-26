@@ -54,6 +54,11 @@
           "id": "ru.punctuation.introductory-words",
           "file": "lessons/introductory-words.json",
           "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.non-introductory-words",
+          "file": "lessons/non-introductory-words.json",
+          "status": "draft"
         }
       ]
     },

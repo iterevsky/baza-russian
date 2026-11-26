@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.non-introductory-words",
+  "version": 1,
+  "title": "Слова, которые не являются вводными",
+  "moduleId": "ru.punctuation.introductory",
+  "sectionId": "ru.punctuation",
+  "sectionTitle": "Пунктуация",
+  "moduleNumber": "07.08",
+  "status": "draft",
+  "lead": "Не всякое слово, выражающее сомнение или уточнение, требует запятых.",
+  "goals": [
+    "Отличать вводные слова от частиц и наречий.",
+    "Не ставить лишние запятые после слов вроде «якобы» и «именно».",
+    "Учитывать другие основания для постановки запятых."
+  ],
+  "prerequisites": [
+    "ru.punctuation.introductory-words"
+  ],
+  "related": [
+    "ru.punctuation.introductory-words"
+  ],
+  "source": {
+    "title": "Правила русской орфографии и пунктуации: вводные слова, § 91",
+    "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh"
+  },
+  "aiContext": "Частицы и наречия, ошибочно принимаемые за вводные; отсутствие обособления само по себе; разграничение с иными основаниями для запятых.",
+  "theory": [
+    {
+      "type": "example",
+      "text": "Он якобы забыл ключи.",
+      "caption": "Якобы передаёт недоверие к сообщению, но не является вводным словом."
+    },
+    {
+      "type": "heading",
+      "id": "mechanism",
+      "text": "Почему возникает ошибка"
+    },
+    {
+      "type": "paragraph",
+      "text": "Слова могут выражать отношение к сообщению, усиливать или уточнять его. Однако близость смысла к вводным словам ещё не означает одинакового синтаксического поведения."
+    },
+    {
+      "type": "rule",
+      "id": "rule",
+      "text": "Не обособляйте слово только потому, что оно кажется вводным. Частицы «якобы», «ведь», «именно», «даже», «вряд ли» сами по себе не требуют запятых."
+    },
+    {
+      "type": "examples",
+      "items": [
+        [
+          "Сомнение",
+          "Он, вероятно, ошибся."
+        ],
+        [
+          "Недоверие",
+          "Он якобы ошибся."
+        ],
+        [
+          "Уточнение",
+          "Нам нужен именно этот документ."
+        ],
+        [
+          "Усиление",
+          "Даже сегодня он работает."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "algorithm",
+      "text": "Как проверить себя"
+    },
+    {
+      "type": "steps",
+      "items": [
+        "Определите, какую функцию выполняет слово в предложении.",
+        "Сверьте сомнительное слово со справочником.",
+        "Проверьте, нет ли рядом другой конструкции, требующей запятой."
+      ]
+    },
+    {
+      "type": "example",
+      "text": "Он ведь, кажется, уже звонил.",
+      "caption": "Запятые выделяют вводное «кажется», а не частицу «ведь»."
+    },
+    {
+      "type": "deep",
+      "text": "Возможность убрать слово не является достаточным признаком вводности: частицу «даже» тоже можно опустить, но её грамматическая функция при этом не меняется."
+    }
+  ],
+  "practice": [
+    {
+      "id": "ru.punctuation.non-introductory-words.practice.01",
+      "type": "comma-positions",
+      "parts": [
+        "Он",
+        "якобы",
+        "забыл ключи."
+      ],
+      "expected": [],
+      "ex": "Якобы не является вводным словом."
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words.practice.02",
+      "type": "comma-positions",
+      "parts": [
+        "Мы",
+        "вряд ли",
+        "успеем к началу."
+      ],
+      "expected": [],
+      "ex": "Вряд ли не обособляется."
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words.practice.03",
+      "type": "comma-positions",
+      "parts": [
+        "Нам нужен",
+        "именно",
+        "этот отчёт."
+      ],
+      "expected": [],
+      "ex": "Именно уточняет выбор и не требует запятых."
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words.practice.04",
+      "type": "comma-positions",
+      "parts": [
+        "Она",
+        "вероятно",
+        "уже дома."
+      ],
+      "expected": [
+        0,
+        1
+      ],
+      "ex": "Вероятно здесь вводное слово."
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words.practice.05",
+      "type": "comma-positions",
+      "parts": [
+        "Он ведь",
+        "кажется",
+        "уже звонил."
+      ],
+      "expected": [
+        0,
+        1
+      ],
+      "ex": "Обособляется кажется, а не ведь."
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words.practice.06",
+      "type": "comma-positions",
+      "parts": [
+        "Он",
+        "даже",
+        "не заметил ошибки."
+      ],
+      "expected": [],
+      "ex": "Даже не является вводным словом."
+    }
+  ],
+  "cards": [
+    {
+      "id": "ru.punctuation.non-introductory-words.card.01",
+      "front": "Нужно ли выделять «якобы» запятыми?",
+      "back": "Нет, само слово якобы не является вводным."
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words.card.02",
+      "front": "Достаточно ли возможности удалить слово для признания его вводным?",
+      "back": "Нет. Например, частицу даже можно убрать, но она не станет вводной."
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words.card.03",
+      "front": "Почему в предложении «Он ведь, кажется, устал» есть запятые?",
+      "back": "Они выделяют вводное кажется, а не ведь."
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words.card.04",
+      "front": "Какие слова из урока не обособляются сами по себе?",
+      "back": "Якобы, ведь, именно, даже, вряд ли."
+    }
+  ],
+  "exam": {
+    "id": "ru.punctuation.non-introductory-words.exam.a",
+    "version": 1,
+    "threshold": 100,
+    "questions": [
+      {
+        "id": "ru.punctuation.non-introductory-words.exam.a.01",
+        "type": "exact-text",
+        "raw": "Он якобы видел письмо.",
+        "answer": "Он якобы видел письмо.",
+        "ex": "Якобы не обособляется."
+      },
+      {
+        "id": "ru.punctuation.non-introductory-words.exam.a.02",
+        "type": "exact-text",
+        "raw": "Мы вряд ли найдём ответ.",
+        "answer": "Мы вряд ли найдём ответ.",
+        "ex": "Вряд ли не является вводным."
+      },
+      {
+        "id": "ru.punctuation.non-introductory-words.exam.a.03",
+        "type": "exact-text",
+        "raw": "Это именно наша остановка.",
+        "answer": "Это именно наша остановка.",
+        "ex": "Именно не требует обособления."
+      },
+      {
+        "id": "ru.punctuation.non-introductory-words.exam.a.04",
+        "type": "exact-text",
+        "raw": "Он вероятно вернётся завтра.",
+        "answer": "Он, вероятно, вернётся завтра.",
+        "ex": "Вероятно здесь вводное слово."
+      },
+      {
+        "id": "ru.punctuation.non-introductory-words.exam.a.05",
+        "type": "exact-text",
+        "raw": "Даже дети заметили перемену.",
+        "answer": "Даже дети заметили перемену.",
+        "ex": "Даже не является вводным."
+      },
+      {
+        "id": "ru.punctuation.non-introductory-words.exam.a.06",
+        "type": "exact-text",
+        "raw": "Ты ведь кажется знаешь дорогу.",
+        "answer": "Ты ведь, кажется, знаешь дорогу.",
+        "ex": "Обособляется кажется."
+      }
+    ]
+  },
+  "tipIds": []
+}
