@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.13.0";
-const DIGEST="1ac1f5048bd33712aba00092";
+const RELEASE="0.14.0";
+const DIGEST="d505eb9898578c7beab38ce8";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -12,27 +12,27 @@ const ASSETS=[
   ],
   [
     "content/lessons/ambiguous-introductory.json",
-    "2ee47d2f637dd87b9c47426a0b5e07006fb55f3f70f781fa0a0f84c00d0bc47f"
+    "a3148c33d90096303263a7a8a64b51737da3993d06f36a43a14aa9a64f3f6b7c"
   ],
   [
     "content/lessons/introductory-boundaries.json",
-    "fcd0fe9f9df41219ff07babe7109d0559131ebd7131d5b9a35e61eca6d099ce5"
+    "e3ee6186b86aa2c182fa92339a08dd2d41fc719be76b4a7a6477d9c8189cc8c7"
   ],
   [
     "content/lessons/introductory-conjunctions.json",
-    "b5292cd79000feb38fb8a44d6654d6f9adb16ac2f5a267a9098aadb31165babb"
+    "255b410b7faa30f78c5a8de1efdbbac2177d06544510ac426571b46bf7e31a97"
   ],
   [
     "content/lessons/introductory-editing.json",
-    "cc11d1db28b4a34c4967a72e31160a04cdb6be7310cdc8bf618563215ee98799"
+    "5f472a457c0471057129b630110ddb49e1c88e87f83d3686ddd8c230fdf4c877"
   ],
   [
     "content/lessons/introductory-words.json",
-    "850ab1c3b21079bb94d554f608de138f0c8024879bdfb50dca4fe330c88256b3"
+    "c59ec5f279dbc7941a92dfbcb1245ed3b62290efa6256e03e5bdb1c042e7cc95"
   ],
   [
     "content/lessons/non-introductory-words.json",
-    "f4716c58fc8aff9e0bf40060beedaef49484e6fac6cf124d5fc4e4192663fa56"
+    "ae26040ecd9dc91e712921e82aff3fa50b51effa4f78da6baffe9fcfc3f106f4"
   ],
   [
     "content/modules/introductory.json",
@@ -64,7 +64,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "0908e4e8b6f50bbceaddf2cc75a9d27aaafd13e4c70337a277ea5b25df31e1a9"
+    "c88eb18acd382f37f8259e36503ebeb8bb40439cdce6c04e89bffcaac0157ba7"
   ],
   [
     "manifest.webmanifest",
@@ -72,7 +72,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "d2e25d095ed15d3e472261fd0b1bb289f6561bdfd376962db14a51aaf9031286"
+    "cb64389ee38171bc880d50f9b9b164822f604669ab028a4033f37ca5746a61a5"
   ],
   [
     "src/core/assessment.js",
@@ -80,11 +80,15 @@ const ASSETS=[
   ],
   [
     "src/core/content.js",
-    "41c7ca6a14200ecbe83d4ca1d5e6b1910b85f055b1a25a291b6e47ded90615a6"
+    "7e0f54fc838c7ce1ebc7f62e510975b4d0f760a7bc95d46bb3ca3f49756497d5"
   ],
   [
     "src/core/database.js",
     "e64fd0c41399a9ee6f2d5bce667807eb370cdd70798f37fa2b1c4f9648cfd5bb"
+  ],
+  [
+    "src/core/editorial.js",
+    "04d35910bedcc15867e7d6a1533b2bcb57e31d89a0a45b063d797322ad17ccc0"
   ],
   [
     "src/core/exams.js",
@@ -92,7 +96,7 @@ const ASSETS=[
   ],
   [
     "src/core/lesson-view.js",
-    "f5301e992188ddfac0c797d3449e2b8cdc9b83456d1ff68bdafb88f973dd0461"
+    "409701dc74c390799de2ea8fc5a72b42a55318479bec16ff525f688b7b592043"
   ],
   [
     "src/core/module-view.js",
@@ -124,7 +128,7 @@ const ASSETS=[
   ],
   [
     "src/styles/main.css",
-    "3db7f8524c79eb4870601ee5c1bf581c76f36f6c0bd9c03c2472440db9da7b07"
+    "61f2d3ec80c609241ed9b980b2ee94748ef08acc5669685b8a056ce26bfbe3f2"
   ]
 ];
 // Generated release metadata is prepended by scripts/build-pwa.mjs.

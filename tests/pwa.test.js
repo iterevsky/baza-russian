@@ -18,11 +18,11 @@ function mock({code=source,network=new Map(body),db=new Map()}={}){
 }
 async function files(dir){let result=[];for(const e of await readdir(new URL(dir+'/',root),{withFileTypes:true})){const p=dir+'/'+e.name;result.push(...e.isDirectory()?await files(p):[p])}return result}
 test('PWA manifest, generated hashes and complete assets match the release',async()=>{
- const manifest=JSON.parse(await readFile(new URL('manifest.webmanifest',root)));assert.equal(manifest.scope,'./');assert.equal(manifest.start_url,'./');assert.equal(manifest.display,'standalone');assert.equal(pkg.version,'0.13.0');
+ const manifest=JSON.parse(await readFile(new URL('manifest.webmanifest',root)));assert.equal(manifest.scope,'./');assert.equal(manifest.start_url,'./');assert.equal(manifest.display,'standalone');assert.match(pkg.version,/^\d+\.\d+\.\d+$/);
  assert.deepEqual(assets.map(x=>x[0]),['index.html','manifest.webmanifest',...await files('src'),...await files('content'),...await files('icons')].sort());
  for(const [path,hash] of assets)assert.equal(createHash('sha256').update(body.get(new URL(path,scope).href)).digest('hex'),hash,path);
  for(const icon of manifest.icons){const data=body.get(new URL(icon.src,scope).href);const [w,h]=icon.sizes.split('x').map(Number);assert.equal(data.readUInt32BE(16),w);assert.equal(data.readUInt32BE(20),h)}
- assert.match(source,/const RELEASE="0\.13\.0"/);
+ assert.ok(source.includes(`const RELEASE=${JSON.stringify(pkg.version)};`));
 });
 test('install verifies all assets; offline root, JS, lessons and icons use same release',async()=>{const m=mock();await m.event('install');assert.equal(m.db.get(cacheName).size,assets.length);await m.event('activate');m.network.clear();const count=m.requests;assert.equal(await (await m.fetch(scope+'?from=app')).text(),body.get(scope+'index.html').toString());for(const [path] of assets)assert.deepEqual(Buffer.from(await (await m.fetch(scope+path)).arrayBuffer()),body.get(scope+path));assert.equal(m.requests,count)});
 test('missing or modified resource aborts install without deleting previous release',async()=>{for(const changed of [false,true]){const old=new Map([['old','old']]);const db=new Map([[prefix+'old',old],['foreign-cache',new Map()]]),m=mock({db});const path=scope+'content/catalog.json';if(changed)m.network.set(path,Buffer.from('{}'));else m.network.delete(path);await assert.rejects(m.event('install'),/Missing asset|integrity mismatch/);assert.equal(db.has(cacheName),false);assert.equal(db.get(prefix+'old'),old);assert.ok(db.has('foreign-cache'))}});
