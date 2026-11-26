@@ -34,4 +34,8 @@ await click({lesson:'ru.punctuation.homogeneous-generalizing'});await click({exa
 // A late lesson response must never replace a newer screen.
 const unused=JSON.parse(await readFile(new URL('../content/lessons/homogeneous-definitions.json',import.meta.url),'utf8'));
 delayedPath='homogeneous-definitions.json';const loading=click({lesson:unused.id});assert.match(html(),/Загружаем учебные материалы/);await click({go:'catalog'});release();await loading;assert.match(html(),/Карта знаний/);delayedPath=null;await click({lesson:unused.id});assert.match(html(),/Редакторская лаборатория/);
+
+// Syntax answers use instructions rather than the punctuation-only prompt.
+const syntax=JSON.parse(await readFile(new URL('../content/lessons/basis-core.json',import.meta.url),'utf8'));
+await click({lesson:syntax.id});assert.match(html(),/Грамматическая основа: ядро сообщения/);await click({examStart:''});assert.match(html(),/Выполните синтаксический разбор/);assert.doesNotMatch(html(),/Перепишите предложение/);for(const q of syntax.exam.questions){handlers.input({target:{id:'exam-answer',value:q.answer.toUpperCase()}});await click({examNext:''})}assert.match(html(),/6 из 6/);assert.ok(html().includes(syntax.exam.questions[0].raw));await new Promise(r=>setImmediate(r));assert.equal(JSON.parse(store.get('baza-russian-design-01')).byLesson[syntax.id].exams[0].score,6);
 });

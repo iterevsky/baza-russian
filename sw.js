@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.19.0";
-const DIGEST="c4fd8822a66ab36869a73bdf";
+const RELEASE="0.20.0";
+const DIGEST="72a38cfc518c9039256c1c43";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "437d0be86606c099889c1d30bcf0bb75ae3fc6e13bb0838aab8f4d30348b2876"
+    "fd64c2202f3c1d16c82d4e12ed103e002f60b2fc259cf2a4ff8bc943db1da6d3"
   ],
   [
     "content/lessons/addresses.json",
@@ -17,6 +17,14 @@ const ASSETS=[
   [
     "content/lessons/ambiguous-introductory.json",
     "dea64fb90a947ff41efe4504fcf2d382ccd330c9b5737624d3682be700eadc41"
+  ],
+  [
+    "content/lessons/basis-core.json",
+    "c820dfa8090d4e920202a43b89c062e7a12b3c0994cfab474c3a7d8ed612565a"
+  ],
+  [
+    "content/lessons/basis-count.json",
+    "c11210d1792c54f58de38c7bc1586192c768e2e1b2681f69df66986edd98680a"
   ],
   [
     "content/lessons/homogeneous-basic.json",
@@ -63,6 +71,26 @@ const ASSETS=[
     "3c29a22244de46a79a146e2a3a1c823386423d04332d508b4392c5ff2317d00c"
   ],
   [
+    "content/lessons/predicate.json",
+    "a5655772b8fb1f29c256679f2e234fd9af4ea3a801c8222eeb510db6a515cca0"
+  ],
+  [
+    "content/lessons/secondary-adverbial.json",
+    "a7f7130972e2b170bacd4c53bfc09fdaa6cf73351c9cc224fcc51ed95bbbc0c3"
+  ],
+  [
+    "content/lessons/secondary-attribute.json",
+    "f3cf1b91fcca79c7ca59fe8742022a217b250e3b044cd6a48280d7b79970d792"
+  ],
+  [
+    "content/lessons/subject.json",
+    "5d242c38d5b45fa3b485fe670b97d38a04e0fb5a9662428645fd8884ed828867"
+  ],
+  [
+    "content/modules/basis.json",
+    "637035abf714e9145d4b409e5b16a9d8a081e15c9a02dffc61a259067e6d7a5c"
+  ],
+  [
     "content/modules/homogeneous.json",
     "ca3c529e151daaa91a8f0083f3023ddff6117776156f2929b1fde0a6485329ef"
   ],
@@ -71,8 +99,16 @@ const ASSETS=[
     "bdfde277bb88daebd268b21452f35895e3e6b87fc55e4db8be160316c9b65639"
   ],
   [
+    "content/modules/main-members.json",
+    "40a0ba900e2273d1d9159aa7d70b304cd76cd432375f1c030481cc643b7b4cbf"
+  ],
+  [
+    "content/modules/secondary-members.json",
+    "77e52cf1ac616fdd651b24eeb30fb0fb6c0291d169b3dc92884d8d38118814e4"
+  ],
+  [
     "content/runtime-index.json",
-    "58e90ae8273f5a205deefd5bfd5afbab135457ad72097eb86a91a731f6733dcd"
+    "496d31b3cd3b6296872a9faf079952eac66f1f05553edc1847af97799ad52791"
   ],
   [
     "content/tips.json",
@@ -100,7 +136,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "6664706f89bf66355446c2374aec243ddc549b7969ea9b6fc7f9babc5a6e61f1"
+    "677fb013c916bf93e59a0dac98a88c7fc574a3baaacec9c07fd674ee3cb308a3"
   ],
   [
     "manifest.webmanifest",
@@ -108,15 +144,15 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "df0809c11d0525756d4ed92c7b2e1571c016ff662b0c6afe790858be1935357b"
+    "038bb92d86bc638f528127ff757cf41c170773ca9cee12f4f5b170ac8f1e8185"
   ],
   [
     "src/core/assessment.js",
-    "526546fd69bfcbffda68cec8b8575c703355c077f7db9b763fc31a0fd00bbab9"
+    "1ab24d8d8c88893fd593749e5fa29052141a6f4383f81b1b7b51a89361996292"
   ],
   [
     "src/core/content.js",
-    "9e538f67d4fc00221fc819e036f8e489119ecce38dff7990e81704d19f40feb4"
+    "cb9651bec912d8a547dd2e7a894da0ff95631df31010411ac2d39afb5b62e22c"
   ],
   [
     "src/core/database.js",
@@ -136,11 +172,11 @@ const ASSETS=[
   ],
   [
     "src/core/module-view.js",
-    "39f9b819c06802672da7f70ed97a30d93169b665128b6d690fe6450d520461a2"
+    "4c6a313e322c8258dea8e89b8f5dbbdf4831961e05b0161caa62193e7d46ce4d"
   ],
   [
     "src/core/modules.js",
-    "d4e17394cca38a20aba7f4100f83b423db60b2d15e249e8d242fa8ac3bb78cdf"
+    "ec21ec9a4a342438b3146bea871029780de61b07d0008672f9d8ba5d0715f912"
   ],
   [
     "src/core/practice.js",

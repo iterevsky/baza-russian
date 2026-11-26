@@ -147,7 +147,38 @@
       "title": "Синтаксис",
       "moduleCount": 12,
       "description": "Структура предложения",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.syntax.basis-core",
+          "file": "lessons/basis-core.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.basis-count",
+          "file": "lessons/basis-count.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.subject",
+          "file": "lessons/subject.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.predicate",
+          "file": "lessons/predicate.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.secondary-attribute",
+          "file": "lessons/secondary-attribute.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.syntax.secondary-adverbial",
+          "file": "lessons/secondary-adverbial.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "05.01",
@@ -613,6 +644,39 @@
     {
       "id": "ru.punctuation.homogeneous",
       "file": "modules/homogeneous.json"
+    },
+    {
+      "id": "ru.syntax.basis",
+      "file": "modules/basis.json"
+    },
+    {
+      "id": "ru.syntax.main-members",
+      "file": "modules/main-members.json"
+    },
+    {
+      "id": "ru.syntax.secondary-members",
+      "file": "modules/secondary-members.json"
     }
+  ],
+  "lessonOrder": [
+    "ru.punctuation.introductory-words",
+    "ru.punctuation.non-introductory-words",
+    "ru.punctuation.ambiguous-introductory",
+    "ru.punctuation.introductory-conjunctions",
+    "ru.punctuation.introductory-boundaries",
+    "ru.punctuation.introductory-editing",
+    "ru.punctuation.homogeneous-basic",
+    "ru.punctuation.homogeneous-repeated",
+    "ru.punctuation.homogeneous-double",
+    "ru.punctuation.homogeneous-definitions",
+    "ru.punctuation.homogeneous-generalizing",
+    "ru.punctuation.addresses",
+    "ru.punctuation.insertions",
+    "ru.syntax.basis-core",
+    "ru.syntax.basis-count",
+    "ru.syntax.subject",
+    "ru.syntax.predicate",
+    "ru.syntax.secondary-attribute",
+    "ru.syntax.secondary-adverbial"
   ]
 }

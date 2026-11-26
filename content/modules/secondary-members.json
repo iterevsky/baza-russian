@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.secondary-members",
+  "title": "Второстепенные члены предложения",
+  "moduleNumber": "05.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.secondary-attribute",
+    "ru.syntax.secondary-adverbial"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)",
+    "url": "https://gramota.ru/biblioteka/spravochniki/prostoe-predlozhenie"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.secondary-members.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.secondary-members.module-exam.a.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.secondary-attribute",
+          "raw": "Ключи [отца] лежали на тумбе.",
+          "answer": "определение",
+          "ex": "Отца указывает принадлежность ключей.",
+          "instruction": "Назовите функцию слова или сочетания в квадратных скобках: определение или дополнение."
+        },
+        {
+          "id": "ru.syntax.secondary-members.module-exam.a.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.secondary-attribute",
+          "raw": "Мастер попросил [помощника].",
+          "answer": "дополнение",
+          "ex": "Помощник — объект просьбы.",
+          "instruction": "Назовите функцию слова или сочетания в квадратных скобках: определение или дополнение."
+        },
+        {
+          "id": "ru.syntax.secondary-members.module-exam.a.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.secondary-adverbial",
+          "raw": "Снег падал [медленно].",
+          "answer": "обстоятельство",
+          "ex": "Образ действия.",
+          "instruction": "Назовите функцию фрагмента в квадратных скобках: обстоятельство, дополнение или определение."
+        },
+        {
+          "id": "ru.syntax.secondary-members.module-exam.a.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.secondary-adverbial",
+          "raw": "Она мечтала [о путешествии].",
+          "answer": "дополнение",
+          "ex": "Объект мечты.",
+          "instruction": "Назовите функцию фрагмента в квадратных скобках: обстоятельство, дополнение или определение."
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.secondary-members.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.secondary-members.module-exam.b.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.secondary-attribute",
+          "raw": "На скамейке лежала [мокрая] газета.",
+          "answer": "определение",
+          "ex": "Мокрая обозначает признак газеты.",
+          "instruction": "Назовите функцию слова или сочетания в квадратных скобках: определение или дополнение."
+        },
+        {
+          "id": "ru.syntax.secondary-members.module-exam.b.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.secondary-attribute",
+          "raw": "Мы осмотрели [помещение].",
+          "answer": "дополнение",
+          "ex": "Помещение — объект осмотра.",
+          "instruction": "Назовите функцию слова или сочетания в квадратных скобках: определение или дополнение."
+        },
+        {
+          "id": "ru.syntax.secondary-members.module-exam.b.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.secondary-adverbial",
+          "raw": "[Зимняя] куртка висела в шкафу.",
+          "answer": "определение",
+          "ex": "Признак куртки.",
+          "instruction": "Назовите функцию фрагмента в квадратных скобках: обстоятельство, дополнение или определение."
+        },
+        {
+          "id": "ru.syntax.secondary-members.module-exam.b.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.secondary-adverbial",
+          "raw": "Мы встретились [возле музея].",
+          "answer": "обстоятельство",
+          "ex": "Место встречи.",
+          "instruction": "Назовите функцию фрагмента в квадратных скобках: обстоятельство, дополнение или определение."
+        }
+      ]
+    }
+  ]
+}
