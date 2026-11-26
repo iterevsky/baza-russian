@@ -7,7 +7,7 @@
   "sectionId": "ru.punctuation",
   "sectionTitle": "Пунктуация",
   "moduleNumber": "07.08",
-  "status": "draft",
+  "status": "reviewed",
   "lead": "Не всякое слово, выражающее сомнение или уточнение, требует запятых.",
   "goals": [
     "Отличать вводные слова от частиц и наречий.",
@@ -21,8 +21,8 @@
     "ru.punctuation.introductory-words"
   ],
   "source": {
-    "title": "Правила русской орфографии и пунктуации: вводные слова, § 91",
-    "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh"
+    "title": "Полный академический справочник под ред. В. В. Лопатина: § 91, примечание 2",
+    "url": "https://orthographia.ru/punctuatio.php?sid=127"
   },
   "aiContext": "Частицы и наречия, ошибочно принимаемые за вводные; отсутствие обособления само по себе; разграничение с иными основаниями для запятых.",
   "theory": [
@@ -165,7 +165,7 @@
     {
       "id": "ru.punctuation.non-introductory-words.practice.choice.01",
       "type": "single-choice",
-      "prompt": "Какое слово само по себе не требует обособления?",
+      "prompt": "Какое из этих слов или сочетаний не является вводным, если «к сожалению» выражает эмоциональную оценку, а «по-моему» означает мнение?",
       "options": [
         "К сожалению",
         "Якобы",
@@ -174,7 +174,7 @@
       "expected": [
         1
       ],
-      "ex": "Якобы является частицей."
+      "ex": "Якобы — частица. В заданных значениях «к сожалению» и «по-моему» вводные."
     },
     {
       "id": "ru.punctuation.non-introductory-words.practice.choice.02",

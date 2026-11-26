@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.14.0";
-const DIGEST="d505eb9898578c7beab38ce8";
+const RELEASE="0.15.0";
+const DIGEST="07ce9bb4480224a85beb4766";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,35 +8,35 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "9eca579edd25f6bf14affaf041a46cb5a0a747e8416e121b691ac3f7af9eda21"
+    "9327ae94cd5a9084813adb105677bcba627a0071babf935349af5bb007ef8f2e"
   ],
   [
     "content/lessons/ambiguous-introductory.json",
-    "a3148c33d90096303263a7a8a64b51737da3993d06f36a43a14aa9a64f3f6b7c"
+    "dea64fb90a947ff41efe4504fcf2d382ccd330c9b5737624d3682be700eadc41"
   ],
   [
     "content/lessons/introductory-boundaries.json",
-    "e3ee6186b86aa2c182fa92339a08dd2d41fc719be76b4a7a6477d9c8189cc8c7"
+    "e6ff1c62d0ca5c8a3bd339ece65b9e9d9cae7e57705533150fc91449f5721b56"
   ],
   [
     "content/lessons/introductory-conjunctions.json",
-    "255b410b7faa30f78c5a8de1efdbbac2177d06544510ac426571b46bf7e31a97"
+    "e07d11e45a39822a7748be8f7cfa05b17e520dc6248705a88a8efc6343b6e4f8"
   ],
   [
     "content/lessons/introductory-editing.json",
-    "5f472a457c0471057129b630110ddb49e1c88e87f83d3686ddd8c230fdf4c877"
+    "1045ab5ef401fcc92ecb5a9c40e10e779af52e8c8a3967ce08e4bee82ebda3ac"
   ],
   [
     "content/lessons/introductory-words.json",
-    "c59ec5f279dbc7941a92dfbcb1245ed3b62290efa6256e03e5bdb1c042e7cc95"
+    "cad7b4f78c66bf705cfed2c001f32ec1f44801e26fb414c451a90bcc4ec53098"
   ],
   [
     "content/lessons/non-introductory-words.json",
-    "ae26040ecd9dc91e712921e82aff3fa50b51effa4f78da6baffe9fcfc3f106f4"
+    "3c29a22244de46a79a146e2a3a1c823386423d04332d508b4392c5ff2317d00c"
   ],
   [
     "content/modules/introductory.json",
-    "a2c13e52d38e55eb8723eed17d65738f8cec6b9e4b93dc440e19db6ec03e70fc"
+    "ef61750b977f79e8a3148a06b6b1127de29f17778e8352931c9896ddb8dc3bcc"
   ],
   [
     "content/tips.json",
@@ -64,7 +64,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "c88eb18acd382f37f8259e36503ebeb8bb40439cdce6c04e89bffcaac0157ba7"
+    "0be9fea5fe3c75317a923419262db2d72a35694a8de971d7454b7aae9d1d7883"
   ],
   [
     "manifest.webmanifest",
@@ -72,7 +72,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "cb64389ee38171bc880d50f9b9b164822f604669ab028a4033f37ca5746a61a5"
+    "9b07e67c5ea9de03b7625e15efda32bdcb9599d17809f1e78cc4bed2b23440d7"
   ],
   [
     "src/core/assessment.js",
@@ -96,7 +96,7 @@ const ASSETS=[
   ],
   [
     "src/core/lesson-view.js",
-    "409701dc74c390799de2ea8fc5a72b42a55318479bec16ff525f688b7b592043"
+    "d716734235b7cf77a9cf1df149a97af1d4c1a06efd950014f9c3d9b263ae0612"
   ],
   [
     "src/core/module-view.js",
@@ -104,7 +104,7 @@ const ASSETS=[
   ],
   [
     "src/core/modules.js",
-    "dacd6be4a624e017b0208ae91c6c87717438e0b4d8fc4868c6ac7ec906a75d27"
+    "b126310f31a78e6569ff771b79852a2cf220f5acf3094d382448a73fa21d4d95"
   ],
   [
     "src/core/practice.js",

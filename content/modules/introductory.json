@@ -3,7 +3,7 @@
   "id": "ru.punctuation.introductory",
   "title": "Вводные конструкции",
   "moduleNumber": "07.08",
-  "status": "draft",
+  "status": "reviewed",
   "lessonIds": [
     "ru.punctuation.introductory-words",
     "ru.punctuation.non-introductory-words",
@@ -13,7 +13,7 @@
     "ru.punctuation.introductory-editing"
   ],
   "source": {
-    "title": "Полный академический справочник под ред. В. В. Лопатина, §§ 91–95",
+    "title": "Полный академический справочник под ред. В. В. Лопатина, §§ 91–96",
     "url": "https://orthographia.ru/punctuatio.php?sid=127"
   },
   "variants": [
@@ -68,7 +68,8 @@
           "lessonId": "ru.punctuation.introductory-editing",
           "raw": "Она ведь по-моему уже подписала договор.",
           "answer": "Она ведь, по-моему, уже подписала договор.",
-          "ex": "Ведь — частица; по-моему — указание на мнение."
+          "ex": "Ведь — частица; по-моему — указание на мнение.",
+          "instruction": "«По-моему» означает мнение говорящего."
         },
         {
           "id": "ru.punctuation.introductory.module-exam.a.07",
@@ -76,7 +77,8 @@
           "lessonId": "ru.punctuation.introductory-words",
           "raw": "Срок бесспорно истёк.",
           "answer": "Срок, бесспорно, истёк.",
-          "ex": "Бесспорно выражает оценку достоверности высказывания."
+          "ex": "Бесспорно выражает оценку достоверности высказывания.",
+          "instruction": "«Бесспорно» выражает отдельную оценку достоверности говорящим."
         },
         {
           "id": "ru.punctuation.introductory.module-exam.a.08",

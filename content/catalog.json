@@ -53,32 +53,32 @@
         {
           "id": "ru.punctuation.introductory-words",
           "file": "lessons/introductory-words.json",
-          "status": "draft"
+          "status": "reviewed"
         },
         {
           "id": "ru.punctuation.non-introductory-words",
           "file": "lessons/non-introductory-words.json",
-          "status": "draft"
+          "status": "reviewed"
         },
         {
           "id": "ru.punctuation.ambiguous-introductory",
           "file": "lessons/ambiguous-introductory.json",
-          "status": "draft"
+          "status": "reviewed"
         },
         {
           "id": "ru.punctuation.introductory-conjunctions",
           "file": "lessons/introductory-conjunctions.json",
-          "status": "draft"
+          "status": "reviewed"
         },
         {
           "id": "ru.punctuation.introductory-boundaries",
           "file": "lessons/introductory-boundaries.json",
-          "status": "draft"
+          "status": "reviewed"
         },
         {
           "id": "ru.punctuation.introductory-editing",
           "file": "lessons/introductory-editing.json",
-          "status": "draft"
+          "status": "reviewed"
         }
       ]
     },
