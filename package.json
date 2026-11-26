@@ -1,10 +1,10 @@
 {
   "name": "baza-russian",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "private": true,
   "type": "module",
   "scripts": {
     "test": "node --test",
-    "start": "python -m http.server 8000"
+    "start": "npx --yes http-server . -p 8001 -a 127.0.0.1 -c-1"
   }
 }

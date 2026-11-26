@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "courseId": "ru",
+  "sections": [
+    {
+      "id": "ru.language",
+      "title": "Устройство языка",
+      "moduleCount": 4,
+      "description": "Норма, речь, словари",
+      "lessons": []
+    },
+    {
+      "id": "ru.phonetics",
+      "title": "Фонетика и орфоэпия",
+      "moduleCount": 6,
+      "description": "Звуки, ударения, произношение",
+      "lessons": []
+    },
+    {
+      "id": "ru.word-formation",
+      "title": "Морфемика и словообразование",
+      "moduleCount": 6,
+      "description": "Строение и происхождение слов",
+      "lessons": []
+    },
+    {
+      "id": "ru.morphology",
+      "title": "Морфология",
+      "moduleCount": 10,
+      "description": "Части речи и формы слов",
+      "lessons": []
+    },
+    {
+      "id": "ru.syntax",
+      "title": "Синтаксис",
+      "moduleCount": 12,
+      "description": "Структура предложения",
+      "lessons": []
+    },
+    {
+      "id": "ru.orthography",
+      "title": "Орфография",
+      "moduleCount": 14,
+      "description": "Правописание",
+      "lessons": []
+    },
+    {
+      "id": "ru.punctuation",
+      "title": "Пунктуация",
+      "moduleCount": 14,
+      "description": "Знаки препинания и смысл",
+      "lessons": [
+        {
+          "id": "ru.punctuation.introductory-words",
+          "file": "lessons/introductory-words.json",
+          "status": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ru.lexicon",
+      "title": "Лексика, семантика и фразеология",
+      "moduleCount": 8,
+      "description": "Значение и сочетаемость",
+      "lessons": []
+    },
+    {
+      "id": "ru.history",
+      "title": "История языка и этимология",
+      "moduleCount": 6,
+      "description": "Развитие языка",
+      "lessons": []
+    },
+    {
+      "id": "ru.speech-culture",
+      "title": "Культура речи",
+      "moduleCount": 9,
+      "description": "Нормы и уместность",
+      "lessons": []
+    },
+    {
+      "id": "ru.stylistics",
+      "title": "Стилистика и редактирование",
+      "moduleCount": 10,
+      "description": "Точность и выразительность",
+      "lessons": []
+    },
+    {
+      "id": "ru.argumentation",
+      "title": "Речь, аргументация и жанры",
+      "moduleCount": 8,
+      "description": "Мысль, текст, высказывание",
+      "lessons": []
+    }
+  ]
+}
