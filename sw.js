@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.34.0";
-const DIGEST="bb8a30df28eb33bef0d84f06";
+const RELEASE="0.35.0";
+const DIGEST="75f0e39158178dc37e4e1b1f";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -996,7 +996,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "c834b95388eeaa5d50eb5a42e75634db69f79d4a7fce65251435a46f3b2efe81"
+    "1b398f15ae9ac0308e0ac9da9f744bd08126993a423c394801f0d1a67f6a955a"
   ],
   [
     "content/tips.json",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "a4d03ac30ccbb75283f38575a95aee4d2d7f338ab194c5f987bf8c9de997bee8"
+    "56d9fa946c5dbe3272614afc3f550cceff86ddd8085377f22a83ce8ec34c105d"
   ],
   [
     "manifest.webmanifest",
@@ -1032,11 +1032,11 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "e3e67264ecd979893f7828e7a1ef0c1b336b24a828266a35b25e6e1c227abc1e"
+    "82d54cc7ee8da136e1220af3fc6fb99f022eb3f2acd55b1607f23f1a078e302d"
   ],
   [
     "src/core/assessment.js",
-    "4e83edd21eaea4efbd2b443aa06b103df21ff0d896170bb67d8409338da9b152"
+    "c1fcc2e128a3b45b19570022f30ba2cd3bc6f81fda2b63a9424a7170fda46997"
   ],
   [
     "src/core/choice-order.js",
@@ -1044,31 +1044,31 @@ const ASSETS=[
   ],
   [
     "src/core/content.js",
-    "327b6302b21e7d392ff6b210e43016143f65c45b45822643c97a178e3db997dd"
+    "08e968cb6b660055fd10f6f78c5630daf84cc0aec3aed6bb083e4504dedf4a6e"
   ],
   [
     "src/core/database.js",
-    "e64fd0c41399a9ee6f2d5bce667807eb370cdd70798f37fa2b1c4f9648cfd5bb"
+    "2fd3cd169b42e3f32bdc977a328ad5cf8003fc765937ddebfc2be997d800bb18"
   ],
   [
     "src/core/editorial.js",
-    "04d35910bedcc15867e7d6a1533b2bcb57e31d89a0a45b063d797322ad17ccc0"
+    "648b5d7dfdd859794ecd551b68c199a16cc27be46aee3547e87c36f2ceeb8693"
   ],
   [
     "src/core/exams.js",
-    "077c879584a055a14a687990c52ff1808c16541e9410a105453cfeec6c994c04"
+    "a209e91713d0b491f201e2f469821a8c0c3476d08681bea5feea1bea2669a596"
   ],
   [
     "src/core/lesson-view.js",
-    "51b89a6814145ebf6afa73cccaa842bb7c387d57ffeb1218f1bac96b89eda554"
+    "a447276fadd0385296dbab41327483a3daa51999ff708e80ea44a38616bfa01f"
   ],
   [
     "src/core/module-view.js",
-    "a6b2ef030bebd3ab7f8defd669ee3077506e3ef877f622ba73df6c189254f274"
+    "00723d0489629de95611ec84c72e06a3ba7029bf6f999c1f23c63b5b1a457b97"
   ],
   [
     "src/core/modules.js",
-    "868454fb125fc3874c2c9ac7b56e17073a47b9f6756861b807aa753155182b66"
+    "be423305173407e12902f44f1c26daa33683930c2fba9646000fe19501c2ca6f"
   ],
   [
     "src/core/practice.js",
@@ -1076,7 +1076,7 @@ const ASSETS=[
   ],
   [
     "src/core/progress.js",
-    "385fd2658f017cbac2a3ac0bfbfda17ddd54d36b40d5a8067d64e8bb088c22f4"
+    "b99247db4e72fc2660d495af757bfdb42bc82be2513e25450f943e8b64160698"
   ],
   [
     "src/core/prompt.js",
