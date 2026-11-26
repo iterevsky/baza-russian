@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.33.0";
-const DIGEST="877d2ef4d5cc8d8d7bd7af52";
+const RELEASE="0.34.0";
+const DIGEST="bb8a30df28eb33bef0d84f06";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "7b70e13cca7792c4e4a6b5ab76ebf0344b20d1fe9a6bc517b07b7af4ea51704e"
+    "a4d03ac30ccbb75283f38575a95aee4d2d7f338ab194c5f987bf8c9de997bee8"
   ],
   [
     "manifest.webmanifest",
@@ -1032,15 +1032,15 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "dd1ffce0c929e9fc5461db7243b8150719c16c9d9c06c90366d53f556370ade9"
+    "e3e67264ecd979893f7828e7a1ef0c1b336b24a828266a35b25e6e1c227abc1e"
   ],
   [
     "src/core/assessment.js",
-    "a48d7404a02b264ce9424889750f5db8f6ed0b573ee6a1eaaa55ccb9a79804e9"
+    "4e83edd21eaea4efbd2b443aa06b103df21ff0d896170bb67d8409338da9b152"
   ],
   [
     "src/core/choice-order.js",
-    "c3f2422101a26c7e6348f55921ab39e74c872777ea532dca065becb80407109a"
+    "6b871767ee95592b174fd7e0b45204b64702a458960e0f65df5133e7da11bad7"
   ],
   [
     "src/core/content.js",
@@ -1060,7 +1060,7 @@ const ASSETS=[
   ],
   [
     "src/core/lesson-view.js",
-    "67b599a2242be338d35b4014f129900c27af07cf29782cbf3286c37dd422f205"
+    "51b89a6814145ebf6afa73cccaa842bb7c387d57ffeb1218f1bac96b89eda554"
   ],
   [
     "src/core/module-view.js",
@@ -1072,11 +1072,11 @@ const ASSETS=[
   ],
   [
     "src/core/practice.js",
-    "6e52277643a7f00638e63a8f3d2f10eb78c25c3f443cf822a5855c3fe9f91e79"
+    "898e462f543ae88dd8bf11bad2552f9a83c849a2ebeb9449c085f559eecae762"
   ],
   [
     "src/core/progress.js",
-    "98af888e4cfe15bcb223740dc8cc795d81c58708dbb78c094fa839e8e831d18f"
+    "385fd2658f017cbac2a3ac0bfbfda17ddd54d36b40d5a8067d64e8bb088c22f4"
   ],
   [
     "src/core/prompt.js",

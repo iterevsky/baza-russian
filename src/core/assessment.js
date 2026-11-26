@@ -1,5 +1,5 @@
 export const norm=s=>String(s??'').normalize('NFC').trim().replace(/\s+/g,' ').replace(/\s*,\s*/g,', ').trim();
-export const checkPositions=(selected,expected)=>selected.length===expected.length&&expected.every(i=>selected.includes(i));
+export const checkPositions=(selected,expected)=>Array.isArray(selected)&&Array.isArray(expected)&&selected.length===expected.length&&new Set(selected).size===selected.length&&expected.every(i=>selected.includes(i));
 export const extendedMarks=q=>q?.marks==='comma-colon-dash';
 // Accept an ordinary spaced keyboard hyphen or short dash as a dash input, never change intraword hyphens.
 export const parenthesesMarks=q=>q?.marks==='comma-parentheses';
