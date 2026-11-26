@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.punctuation-variation",
+  "title": "Факультативные и авторские знаки, смысловые варианты (базовый контроль)",
+  "moduleNumber": "07.14",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.punctuation-variation.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Факультативные и авторские знаки, смысловые варианты",
+    "url": "https://orthographia.ru/punctuatio.php?sid=132"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.punctuation-variation.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Для пояснения «Я не включил лампу: в комнате спали» форма двоеточия или тире: обязательна именно форма двоеточия или вариативна?",
+          "answer": "вариативна",
+          "ex": "Пояснительно-причинная связь допускает тире.",
+          "instruction": "Ответьте одним словом: обязательна или вариативна. Оценивайте только явно названный знак или форму границы, а не всё предложение.",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation"
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Запятая при вводном «Вероятно, рейс отменят»: обязательна или вариативна?",
+          "answer": "обязательна",
+          "ex": "Вводное слово обозначает степень уверенности.",
+          "instruction": "Ответьте одним словом: обязательна или вариативна. Оценивайте только явно названный знак или форму границы, а не всё предложение.",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.punctuation-variation.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Запятая в «Мы проверили, исправен ли прибор» между главной частью и косвенным вопросом: обязательна или вариативна?",
+          "answer": "обязательна",
+          "ex": "Придаточное отделяется от главного.",
+          "instruction": "Ответьте одним словом: обязательна или вариативна. Оценивайте только явно названный знак или форму границы, а не всё предложение.",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation"
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Для вставки «Дорога (её недавно отремонтировали) стала удобнее» форма выделения скобками или парным тире: обязательна именно форма скобок или вариативна?",
+          "answer": "вариативна",
+          "ex": "Скобки и тире могут выделять вставные конструкции.",
+          "instruction": "Ответьте одним словом: обязательна или вариативна. Оценивайте только явно названный знак или форму границы, а не всё предложение.",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation"
+        }
+      ]
+    }
+  ]
+}

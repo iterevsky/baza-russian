@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.root-consonants",
+  "title": "Согласные в корне и удвоенные согласные (базовый контроль)",
+  "moduleNumber": "06.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.root-consonants.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Согласные в корне и удвоенные согласные",
+    "url": "https://orthographia.ru/orfografia.php?sid=49"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.root-consonants.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.root-consonants.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "по[…]держать коллегу.",
+          "answer": "поддержать",
+          "ex": "Под- + держать: два д.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.root-consonants.foundation"
+        },
+        {
+          "id": "ru.orthography.root-consonants.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "безопас[…]ный путь.",
+          "answer": "безопасный",
+          "ex": "Безопасен: т нет.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.root-consonants.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.root-consonants.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.root-consonants.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "ко[…]екция марок.",
+          "answer": "коллекция",
+          "ex": "Словарное удвоение л.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.root-consonants.foundation"
+        },
+        {
+          "id": "ru.orthography.root-consonants.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "тетра[…]ь для записей.",
+          "answer": "тетрадь",
+          "ex": "Тетради: проверяется д.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.root-consonants.foundation"
+        }
+      ]
+    }
+  ]
+}

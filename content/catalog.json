@@ -325,7 +325,78 @@
       "title": "Орфография",
       "moduleCount": 14,
       "description": "Правописание",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.orthography.root-vowels.foundation",
+          "file": "lessons/root-vowels.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.root-consonants.foundation",
+          "file": "lessons/root-consonants.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.prefix-spelling.foundation",
+          "file": "lessons/prefix-spelling.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.separators.foundation",
+          "file": "lessons/separators.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.foundation",
+          "file": "lessons/sibilant-vowels.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.foundation",
+          "file": "lessons/noun-adjective-endings.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.verb-spelling.foundation",
+          "file": "lessons/verb-spelling.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.double-n.foundation",
+          "file": "lessons/double-n.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.negation-spelling.foundation",
+          "file": "lessons/negation-spelling.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.word-boundaries.foundation",
+          "file": "lessons/word-boundaries.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.foundation",
+          "file": "lessons/service-word-spelling.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.capital-letters.foundation",
+          "file": "lessons/capital-letters.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.foundation",
+          "file": "lessons/hyphenation-abbreviations.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.orthography.dictionary-yo.foundation",
+          "file": "lessons/dictionary-yo.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "06.01",
@@ -544,6 +615,21 @@
         {
           "id": "ru.punctuation.asyndetic-enumeration",
           "file": "lessons/asyndetic-enumeration.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.foundation",
+          "file": "lessons/mixed-punctuation.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.direct-speech-marks.foundation",
+          "file": "lessons/direct-speech-marks.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.foundation",
+          "file": "lessons/punctuation-variation.json",
           "status": "draft"
         }
       ],
@@ -908,6 +994,74 @@
     {
       "id": "ru.punctuation.asyndetic-punctuation",
       "file": "modules/asyndetic-punctuation.json"
+    },
+    {
+      "id": "ru.punctuation.mixed-punctuation",
+      "file": "modules/mixed-punctuation.json"
+    },
+    {
+      "id": "ru.punctuation.direct-speech-marks",
+      "file": "modules/direct-speech-marks.json"
+    },
+    {
+      "id": "ru.punctuation.punctuation-variation",
+      "file": "modules/punctuation-variation.json"
+    },
+    {
+      "id": "ru.orthography.root-vowels",
+      "file": "modules/root-vowels.json"
+    },
+    {
+      "id": "ru.orthography.root-consonants",
+      "file": "modules/root-consonants.json"
+    },
+    {
+      "id": "ru.orthography.prefix-spelling",
+      "file": "modules/prefix-spelling.json"
+    },
+    {
+      "id": "ru.orthography.separators",
+      "file": "modules/separators.json"
+    },
+    {
+      "id": "ru.orthography.sibilant-vowels",
+      "file": "modules/sibilant-vowels.json"
+    },
+    {
+      "id": "ru.orthography.noun-adjective-endings",
+      "file": "modules/noun-adjective-endings.json"
+    },
+    {
+      "id": "ru.orthography.verb-spelling",
+      "file": "modules/verb-spelling.json"
+    },
+    {
+      "id": "ru.orthography.double-n",
+      "file": "modules/double-n.json"
+    },
+    {
+      "id": "ru.orthography.negation-spelling",
+      "file": "modules/negation-spelling.json"
+    },
+    {
+      "id": "ru.orthography.word-boundaries",
+      "file": "modules/word-boundaries.json"
+    },
+    {
+      "id": "ru.orthography.service-word-spelling",
+      "file": "modules/service-word-spelling.json"
+    },
+    {
+      "id": "ru.orthography.capital-letters",
+      "file": "modules/capital-letters.json"
+    },
+    {
+      "id": "ru.orthography.hyphenation-abbreviations",
+      "file": "modules/hyphenation-abbreviations.json"
+    },
+    {
+      "id": "ru.orthography.dictionary-yo",
+      "file": "modules/dictionary-yo.json"
     }
   ],
   "lessonOrder": [
@@ -965,6 +1119,23 @@
     "ru.punctuation.subordinate-marks",
     "ru.punctuation.subordinate-junction",
     "ru.punctuation.asyndetic-colon-dash",
-    "ru.punctuation.asyndetic-enumeration"
+    "ru.punctuation.asyndetic-enumeration",
+    "ru.punctuation.mixed-punctuation.foundation",
+    "ru.punctuation.direct-speech-marks.foundation",
+    "ru.punctuation.punctuation-variation.foundation",
+    "ru.orthography.root-vowels.foundation",
+    "ru.orthography.root-consonants.foundation",
+    "ru.orthography.prefix-spelling.foundation",
+    "ru.orthography.separators.foundation",
+    "ru.orthography.sibilant-vowels.foundation",
+    "ru.orthography.noun-adjective-endings.foundation",
+    "ru.orthography.verb-spelling.foundation",
+    "ru.orthography.double-n.foundation",
+    "ru.orthography.negation-spelling.foundation",
+    "ru.orthography.word-boundaries.foundation",
+    "ru.orthography.service-word-spelling.foundation",
+    "ru.orthography.capital-letters.foundation",
+    "ru.orthography.hyphenation-abbreviations.foundation",
+    "ru.orthography.dictionary-yo.foundation"
   ]
 }

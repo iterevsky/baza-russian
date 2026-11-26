@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.prefix-spelling",
+  "title": "Приставки, включая пре-/при- и з-/с- (базовый контроль)",
+  "moduleNumber": "06.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.prefix-spelling.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Приставки, включая пре-/при- и з-/с-",
+    "url": "https://orthographia.ru/orfografia.php?sid=33"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.prefix-spelling.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.prefix-spelling.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "ра[…]делить сумму.",
+          "answer": "разделить",
+          "ex": "Перед звонким д пишется з.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.prefix-spelling.foundation"
+        },
+        {
+          "id": "ru.orthography.prefix-spelling.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "бе[…]платный вход.",
+          "answer": "бесплатный",
+          "ex": "Перед глухим п пишется с.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.prefix-spelling.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.prefix-spelling.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.prefix-spelling.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "пр[…]дать документу форму (добавить свойство).",
+          "answer": "придать",
+          "ex": "При- в значении добавления.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.prefix-spelling.foundation"
+        },
+        {
+          "id": "ru.orthography.prefix-spelling.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "пр[…]дать друга (нарушить верность).",
+          "answer": "предать",
+          "ex": "Слово предать имеет закреплённое написание пре-.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.prefix-spelling.foundation"
+        }
+      ]
+    }
+  ]
+}

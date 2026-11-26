@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.dictionary-yo",
+  "title": "Словарные и трудные написания, варианты, Ё/Е (базовый контроль)",
+  "moduleNumber": "06.14",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.dictionary-yo.foundation"
+  ],
+  "source": {
+    "title": "Академос ИРЯ РАН: словарная проверка, требуется поэлементная сверка",
+    "url": "https://orfo.ruslang.ru/"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.dictionary-yo.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.dictionary-yo.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "пер[…]петии судьбы.",
+          "answer": "перипетии",
+          "ex": "Словарное написание перипетии.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.dictionary-yo.foundation"
+        },
+        {
+          "id": "ru.orthography.dictionary-yo.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "осужд[…]нный судом (причастие).",
+          "answer": "осуждённый",
+          "ex": "Ударное ё в причастии.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.dictionary-yo.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.dictionary-yo.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.dictionary-yo.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "ди[…]ертация (научная работа на степень).",
+          "answer": "диссертация",
+          "ex": "Словарная форма диссертация: две с, без лишнего слога.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.dictionary-yo.foundation"
+        },
+        {
+          "id": "ru.orthography.dictionary-yo.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "ж[…]лтый цвет.",
+          "answer": "жёлтый",
+          "ex": "Ё в корне; желтеть.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.dictionary-yo.foundation"
+        }
+      ]
+    }
+  ]
+}

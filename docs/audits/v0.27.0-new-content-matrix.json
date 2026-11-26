@@ -1,0 +1,2484 @@
+[
+  {
+    "number": "07.12",
+    "id": "ru.punctuation.mixed-punctuation.foundation",
+    "title": "Смешанные предложения: границы частей и блоков",
+    "coverage": "Разметка границ, общая придаточная часть, однородные придаточные, бессоюзное пояснение",
+    "gaps": "Схемы с несколькими уровнями подчинения; полный ввод сложной пунктуации; альтернативы тире и точки с запятой.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Сложные предложения с разными видами связи",
+      "url": "https://orthographia.ru/punctuatio.php?sid=132"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "Я знал, что поезд задержится □ но не ожидал отмены рейса.",
+        "answer": ",",
+        "rationale": "Но соединяет однородные сказуемые при одном подлежащем; перед ним запятая, одновременно закрывающая придаточное.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Если сработает сигнализация, загорится лампа □ и прозвучит сирена. Условие относится к обоим событиям.",
+        "answer": "нет",
+        "rationale": "Две главные части имеют общее условное придаточное и одиночный союз и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Он уточнил □ когда начнётся совещание, и записал время.",
+        "answer": ",",
+        "rationale": "Запятая открывает изъяснительное придаточное.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Сотрудники услышали грохот □ обрушилась перегородка, которую собирались демонтировать. Требуется традиционный знак пояснения.",
+        "answer": ":",
+        "rationale": "Второй блок поясняет источник грохота; в нейтральной схеме двоеточие.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Когда дверь открылась □ вошёл курьер, но никто его не заметил.",
+        "answer": ",",
+        "rationale": "Закрывается придаточное времени.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Мы увидели, что снег растаял □ и река вышла из берегов. Оба события входят в сообщение «увидели».",
+        "answer": "нет",
+        "rationale": "Однородные придаточные соединены одиночным и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Я надеялся, что автобус придёт □ но остановка оставалась пустой.",
+        "answer": ",",
+        "rationale": "Закрывается придаточное, но связывает главные части.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Как только прозвенел звонок, дети встали □ и учитель открыл журнал. Временная часть общая.",
+        "answer": "нет",
+        "rationale": "Общая придаточная часть объединяет главные.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "В журнале отмечено □ датчик, который заменили утром, исправен. Требуется традиционный знак раскрытия сообщения.",
+        "answer": ":",
+        "rationale": "Бессоюзный пояснительный блок раскрывает содержание отметки.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Мы спросили □ где находится выход, и направились к лестнице.",
+        "answer": ",",
+        "rationale": "Перед косвенным вопросом нужна граница придаточной части.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Пока техники работали, экран оставался тёмным □ а индикатор мигал.",
+        "answer": ",",
+        "rationale": "Противительный союз а разделяет главные части.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Директор понял, что срок истёк □ и заявку уже не примут. Оба придаточных раскрывают содержание понимания.",
+        "answer": "нет",
+        "rationale": "Одиночный и связывает однородные придаточные.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Хотя ветер усилился □ катер продолжил путь, и пассажиры остались на палубе.",
+        "answer": ",",
+        "rationale": "Запятая закрывает уступительное придаточное.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Я увидел, как поднялся флаг □ но не услышал команды.",
+        "answer": ",",
+        "rationale": "Но соединяет однородные сказуемые, одновременно закрывает придаточное.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Если наступит мороз, пруд замёрзнет □ и лыжники выйдут на лёд. Условие относится к обоим действиям.",
+        "answer": "нет",
+        "rationale": "Общее придаточное перед главными частями с одиночным и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Мы договорились □ если поставка задержится, созвонимся вечером. Требуется нейтральный знак раскрытия содержания договорённости.",
+        "answer": ":",
+        "rationale": "Бессоюзный второй блок поясняет содержание первого.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Врач спросил □ как давно начался кашель, и назначил анализы.",
+        "answer": ",",
+        "rationale": "Изъяснительная часть отделяется от главной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Пока готовили зал, зрители ждали □ но артисты уже репетировали.",
+        "answer": ",",
+        "rationale": "Но связывает предикативные части.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Секретарь сообщил, что письмо пришло □ и документы зарегистрированы. Это два факта в одном сообщении.",
+        "answer": "нет",
+        "rationale": "Однородные придаточные соединены и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Я проверил прибор □ когда индикатор погас, и выключил питание.",
+        "answer": ",",
+        "rationale": "Придаточная часть времени обособляется.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Начальник предупредил □ хотя ремонт закончен, движение пока закрыто. Требуется традиционный знак пояснения.",
+        "answer": ":",
+        "rationale": "Второй сложный блок раскрывает содержание предупреждения.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Когда собрание закончилось, секретарь убрал бумаги □ но председатель остался в кабинете.",
+        "answer": ",",
+        "rationale": "Противительный союз но требует запятой между главными частями.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "07.13",
+    "id": "ru.punctuation.direct-speech-marks.foundation",
+    "title": "Прямая речь, цитаты и диалог: схемы оформления",
+    "coverage": "Позиция слов автора, конечные знаки, встроенная цитата, абзацный диалог",
+    "gaps": "Разрыв прямой речи, вложенные кавычки, оформление длинных цитат и реальных диалогов требуют расширенной тренировки.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Прямая речь, цитаты, диалог",
+      "url": "https://orthographia.ru/punctuatio.php?sid=137"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "Автор перед репликой: Павел сказал □ «Я вернусь к вечеру».",
+        "answer": ":",
+        "rationale": "Двоеточие после предваряющих слов автора.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Оформите два знака на месте □: «Работа закончена»□ сообщил мастер.",
+        "answer": ", —",
+        "rationale": "Повествовательная реплика перед словами автора: запятая за кавычками, затем тире.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Вопрос внутри реплики: «Вы готовы□» — спросил тренер.",
+        "answer": "?",
+        "rationale": "Вопросительный знак относится к реплике и находится внутри кавычек.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Встроенная цитата: В письме встретилась формулировка □ «срок уточняется». Вставьте знак перед кавычками или нет.",
+        "answer": "нет",
+        "rationale": "Цитата является членом авторского предложения.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Восклицание внутри реплики: «Осторожно□» — крикнул механик.",
+        "answer": "!",
+        "rationale": "Восклицательный знак сохраняется перед закрывающей кавычкой.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Абзацная реплика диалога: □ Добрый вечер. Вставьте начальный знак.",
+        "answer": "—",
+        "rationale": "Абзацную реплику обозначает тире.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Автор перед репликой: Лектор предупредил □ «Перерыв будет коротким».",
+        "answer": ":",
+        "rationale": "Вводящие слова автора отделяются двоеточием.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Оформите два знака на месте □: «Заявление принято»□ ответил секретарь.",
+        "answer": ", —",
+        "rationale": "После повествовательной реплики перед словами автора — запятая и тире.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "«Куда ведёт лестница□» — поинтересовался турист.",
+        "answer": "?",
+        "rationale": "Знак вопроса остаётся внутри кавычек.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Повествовательная реплика заканчивает всё предложение: Вера объяснила: «Я останусь дома»□",
+        "answer": ".",
+        "rationale": "Точка завершает авторское предложение за закрывающими кавычками.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "«Не трогайте провод□» — предупредил электрик. Реплика восклицательная.",
+        "answer": "!",
+        "rationale": "Эмоциональный конечный знак находится внутри реплики.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "В отчёте напечатали выражение □ «в пределах нормы». Знак перед цитатой или нет?",
+        "answer": "нет",
+        "rationale": "Встроенная цитата не отделяется двоеточием.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Оформите два знака: «Транспорт прибыл»□ отметил диспетчер.",
+        "answer": ", —",
+        "rationale": "Запятая после закрывающих кавычек и тире отделяют слова автора.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Автор перед репликой: Она прошептала □ «Слушайте внимательно».",
+        "answer": ":",
+        "rationale": "Реплика предваряется словами автора.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "«Когда начнётся спектакль□» — спросила зрительница.",
+        "answer": "?",
+        "rationale": "Вопросительный знак входит в прямую речь.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Цитата входит в словосочетание: Мы заменили слово □ «срочно» на «сегодня». Знак перед цитатой или нет?",
+        "answer": "нет",
+        "rationale": "Слово в кавычках непосредственно зависит от существительного.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Оформите знак конца: Оператор ответил: «Канал свободен»□",
+        "answer": ".",
+        "rationale": "Повествовательная прямая речь завершает всё предложение; точка снаружи.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "«Браво□» — воскликнул зритель.",
+        "answer": "!",
+        "rationale": "Восклицание внутри реплики.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Автор перед репликой: Курьер напомнил □ «Посылку нужно забрать».",
+        "answer": ":",
+        "rationale": "После слов автора ставится двоеточие.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Оформите два знака: «Все расчёты проверены»□ доложила аналитик.",
+        "answer": ", —",
+        "rationale": "Повествовательную реплику от последующих вводящих слов отделяют запятая и тире.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Абзацная реплика без кавычек: □ Увидимся завтра. Вставьте начальный знак.",
+        "answer": "—",
+        "rationale": "Начало реплики оформляется тире.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "В записке повторяется фраза □ «согласовано с отделом». Знак перед цитатой или нет?",
+        "answer": "нет",
+        "rationale": "Цитата встроена как определение содержания фразы.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "07.14",
+    "id": "ru.punctuation.punctuation-variation.foundation",
+    "title": "Обязательные, факультативные и авторские знаки",
+    "coverage": "Различие обязательного знака и выбора формы; альтернативы в БСП, вставках, интонационном тире",
+    "gaps": "Индивидуальная авторская пунктуация, художественный корпус и стилистический анализ расширяются отдельной лабораторией.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Факультативные и авторские знаки, смысловые варианты",
+      "url": "https://orthographia.ru/punctuatio.php?sid=132"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "Запятая перед что в «Я понял, что ошибся» в нейтральном тексте: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Граница главной и изъяснительной частей.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая или точка с запятой между перечисляемыми самостоятельными частями «Ветер крепчал, море темнело»: обязательна именно запятая или вариативна степень границы?",
+        "answer": "вариативна",
+        "rationale": "Точка с запятой может подчеркнуть самостоятельность картин.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая перед но в «Солнце светило, но было холодно»: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Перед противительным союзом нужна запятая.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Скобки или парное тире для самостоятельной вставки: обязательна именно форма скобок или вариативна форма выделения?",
+        "answer": "вариативна",
+        "rationale": "Оба способа выделения вставки нормативны в соответствующем контексте.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая после обращения «Коллеги, начнём»: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Обращение отделяется от предложения.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "В БСП с причиной «Мы остались: дождь усилился»: обязательна именно форма двоеточия или вариативна?",
+        "answer": "вариативна",
+        "rationale": "Тире может передавать пояснение или причину.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая между однородными без союза «Взяли бумагу, карандаши»: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Перечисление без союза разделяется запятой.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Для вставки «Корабль (это был буксир) подошёл к берегу» выбор скобок или тире: обязательна именно форма скобок или вариативна?",
+        "answer": "вариативна",
+        "rationale": "Вставные сообщения допускают оба способа выделения.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая после вводного сочетания «К сожалению, встреча отменена»: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Вводное сочетание в указанной функции обособляется.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "В перечислительном БСП «Река блестела, камыши шуршали»: обязательна именно запятая или вариативна степень границы?",
+        "answer": "вариативна",
+        "rationale": "Точка с запятой обозначает более сильное членение.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая между главной и придаточной частью «Я останусь, если потребуется»: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Условная придаточная часть отделяется.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "При пояснении «Он не ответил: микрофон был выключен» выбор двоеточия или тире: обязательна именно форма двоеточия или вариативна?",
+        "answer": "вариативна",
+        "rationale": "Причинное отношение допускает тире в соответствующей интонации.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая перед а в «Не спорили, а уточняли»: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Противительный союз разделяет однородные сказуемые.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "В нейтральной фразе «Брат — врач» при слабом логическом выделении и тесной связи подлежащего со сказуемым. Обязательна именно форма с тире или вариативна в названных условиях?",
+        "answer": "вариативна",
+        "rationale": "Интонационно-смысловые условия влияют на тире между главными членами.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая перед изъяснительным союзом «Она спросила, когда откроется зал»: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Граница косвенного вопроса и главной части.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "«Я оглянулся: свет погас» — второй блок объясняет причину действия. Обязательна именно форма двоеточия или вариативна?",
+        "answer": "вариативна",
+        "rationale": "Норма предусматривает тире в пояснительных отношениях.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая при распространённом обращении «Дорогие гости, проходите»: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Обращение отделяется целиком.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "«Лес шумел, снег летел» — степень границы перечислительных частей, запятая или точка с запятой: обязательна именно запятая или вариативна?",
+        "answer": "вариативна",
+        "rationale": "Автор выбирает степень членения.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая при вводном «Вероятно, рейс отменят»: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Вводное слово обозначает степень уверенности.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Для пояснения «Я не включил лампу: в комнате спали» форма двоеточия или тире: обязательна именно форма двоеточия или вариативна?",
+        "answer": "вариативна",
+        "rationale": "Пояснительно-причинная связь допускает тире.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Запятая в «Мы проверили, исправен ли прибор» между главной частью и косвенным вопросом: обязательна или вариативна?",
+        "answer": "обязательна",
+        "rationale": "Придаточное отделяется от главного.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Для вставки «Дорога (её недавно отремонтировали) стала удобнее» форма выделения скобками или парным тире: обязательна именно форма скобок или вариативна?",
+        "answer": "вариативна",
+        "rationale": "Скобки и тире могут выделять вставные конструкции.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.01",
+    "id": "ru.orthography.root-vowels.foundation",
+    "title": "Гласные корня: проверка, чередование и словарь",
+    "coverage": "Проверка по значению, словарная гласная, основные модели -лаг-/-лож-, -бер-/-бир-, -раст-/-рос-/-ращ-, -кас-/-кос-, -гар-/-гор-",
+    "gaps": "Полный перечень чередований, исключения и словарная стратегия на большем материале.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Проверяемые, непроверяемые и чередующиеся гласные корня",
+      "url": "https://orthographia.ru/orfografia.php?sid=31"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "осв[…]тить коридор (сделать светлым).",
+        "answer": "осветить",
+        "rationale": "Свет: корень -свет-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "прим[…]рить спорящих.",
+        "answer": "примирить",
+        "rationale": "Мир: восстановить мир между людьми.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "предл[…]гать решение.",
+        "answer": "предлагать",
+        "rationale": "В корне -лаг- перед г пишется а.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "соб[…]рать документы.",
+        "answer": "собирать",
+        "rationale": "В -бер-/-бир- перед -а- пишется и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "в[…]негрет к обеду.",
+        "answer": "винегрет",
+        "rationale": "Словарное написание винегрет.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "выр[…]сли деревья.",
+        "answer": "выросли",
+        "rationale": "Перед с в -рос- пишется о; сравните растут.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ч[…]стота в помещении.",
+        "answer": "чистота",
+        "rationale": "Чистый, а не частый.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ч[…]стота колебаний.",
+        "answer": "частота",
+        "rationale": "Частый, а не чистый.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пол[…]скать бельё.",
+        "answer": "полоскать",
+        "rationale": "Полощет: корень -полоск-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пол[…]скать кошку.",
+        "answer": "поласкать",
+        "rationale": "Ласка: другое значение.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "изл[…]жить доводы.",
+        "answer": "изложить",
+        "rationale": "Перед ж пишется о в -лаг-/-лож-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "выб[…]рать маршрут.",
+        "answer": "выбирать",
+        "rationale": "Перед суффиксом -а- пишется -бир-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "с[…]бака на поводке.",
+        "answer": "собака",
+        "rationale": "Непроверяемая гласная; словарное написание.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "зар[…]сли камыша.",
+        "answer": "заросли",
+        "rationale": "Корень -рос- перед с.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "р[…]стение в горшке.",
+        "answer": "растение",
+        "rationale": "В -раст- перед ст пишется а.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "прик[…]снуться к стеклу.",
+        "answer": "прикоснуться",
+        "rationale": "В -кас-/-кос- без следующего суффикса -а- пишется о.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "к[…]саться темы.",
+        "answer": "касаться",
+        "rationale": "Наличие -а- после корня требует -кас-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "заг[…]реть на солнце.",
+        "answer": "загореть",
+        "rationale": "Без ударения в -гар-/-гор- обычно о.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пос[…]деть на скамье.",
+        "answer": "посидеть",
+        "rationale": "Сидя: проверка значения «сидеть».",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пос[…]деть от возраста.",
+        "answer": "поседеть",
+        "rationale": "Седой: стать седым.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "к[…]ридор здания.",
+        "answer": "коридор",
+        "rationale": "Непроверяемое словарное написание.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "выр[…]щивать рассаду.",
+        "answer": "выращивать",
+        "rationale": "Перед щ пишется а в -ращ-.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.02",
+    "id": "ru.orthography.root-consonants.foundation",
+    "title": "Согласные корня и удвоенные согласные",
+    "coverage": "Проверка согласных, непроизносимые согласные, морфемные стыки, словарные удвоения",
+    "gaps": "Отдельная систематизация удвоений в заимствованиях и производных; сложные морфемные разборы.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Согласные в корне и удвоенные согласные",
+      "url": "https://orthographia.ru/orfografia.php?sid=49"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "гри[…] в корзине.",
+        "answer": "гриб",
+        "rationale": "Грибы: перед гласной слышно б.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "мес[…]ный житель.",
+        "answer": "местный",
+        "rationale": "Место: т сохраняется.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "чудес[…]ный вид (если знак не нужен, всё равно напишите слово).",
+        "answer": "чудесный",
+        "rationale": "Чудеса: т нет.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ра[…]сыпать крупу.",
+        "answer": "рассыпать",
+        "rationale": "Рас- и корень с начальным с дают удвоение.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "гру[…]а студентов.",
+        "answer": "группа",
+        "rationale": "Словарное удвоение п.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пру[…] у дома.",
+        "answer": "пруд",
+        "rationale": "Пруды: проверяется д.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "про[…]ьба о помощи.",
+        "answer": "просьба",
+        "rationale": "Просить: с сохраняется перед гласной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "счас[…]ливый случай.",
+        "answer": "счастливый",
+        "rationale": "Счастье: т в корне.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "опас[…]ный поворот.",
+        "answer": "опасный",
+        "rationale": "Опасен: т отсутствует.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "бе[…]звучный режим.",
+        "answer": "беззвучный",
+        "rationale": "Без- и звучный: два з.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "кла[…]а (помещение для занятий, родительный падеж слова «класс»).",
+        "answer": "класса",
+        "rationale": "Сохраняется удвоенное с слова класс.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ре[…]кий звук (нечастый).",
+        "answer": "редкий",
+        "rationale": "Редок: д в сильной позиции.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "по[…]ний вечер.",
+        "answer": "поздний",
+        "rationale": "Опоздать: д в корне.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "вкус[…]ный обед.",
+        "answer": "вкусный",
+        "rationale": "Вкусен: т нет.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "во[…]становить файл.",
+        "answer": "восстановить",
+        "rationale": "Вос- и -станов-: два с.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "а[…]ея в парке.",
+        "answer": "аллея",
+        "rationale": "Словарное удвоение л.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "морозный ду[…] (дерево).",
+        "answer": "дуб",
+        "rationale": "Дубы: проверяется б.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "сер[…]це бьётся.",
+        "answer": "сердце",
+        "rationale": "Сердечный: д слышен.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "безопас[…]ный путь.",
+        "answer": "безопасный",
+        "rationale": "Безопасен: т нет.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "по[…]держать коллегу.",
+        "answer": "поддержать",
+        "rationale": "Под- + держать: два д.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ко[…]екция марок.",
+        "answer": "коллекция",
+        "rationale": "Словарное удвоение л.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "тетра[…]ь для записей.",
+        "answer": "тетрадь",
+        "rationale": "Тетради: проверяется д.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.03",
+    "id": "ru.orthography.prefix-spelling.foundation",
+    "title": "Приставки: постоянное написание, з/с, пре/при",
+    "coverage": "Неизменные приставки, з/с, значения пре/при, смысловые пары",
+    "gaps": "Раз-/роз-, пра-/про-, на-/над-, словарные пре/при и все случаи приставочных гласных.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Приставки, включая пре-/при- и з-/с-",
+      "url": "https://orthographia.ru/orfografia.php?sid=33"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "бе[…]шумный двигатель.",
+        "answer": "бесшумный",
+        "rationale": "Перед глухим ш пишется с.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ра[…]будить соседа.",
+        "answer": "разбудить",
+        "rationale": "Перед звонким б пишется з.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "[…]дать отчёт.",
+        "answer": "сдать",
+        "rationale": "Приставка с- неизменна.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]крепить табличку.",
+        "answer": "прикрепить",
+        "rationale": "Присоединение: при-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]высить норму.",
+        "answer": "превысить",
+        "rationale": "Превышение, выход за предел: пре-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]бывать в гостинице (находиться).",
+        "answer": "пребывать",
+        "rationale": "Пребывать означает находиться, не прибыть.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "бе[…]вредный состав.",
+        "answer": "безвредный",
+        "rationale": "Перед звонким в пишется з.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ра[…]писать график.",
+        "answer": "расписать",
+        "rationale": "Перед глухим п пишется с.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "[…]жать пружину.",
+        "answer": "сжать",
+        "rationale": "Неизменная с-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]открыть форточку.",
+        "answer": "приоткрыть",
+        "rationale": "Неполное действие: при-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]одолеть препятствие.",
+        "answer": "преодолеть",
+        "rationale": "Закреплённое написание преодолеть.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]бывать на вокзал (о поезде).",
+        "answer": "прибывать",
+        "rationale": "Движение к месту: при-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "и[…]править ошибку.",
+        "answer": "исправить",
+        "rationale": "Перед глухим п пишется с в приставке ис-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "во[…]главить комиссию.",
+        "answer": "возглавить",
+        "rationale": "Перед звонким г пишется з.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "[…]бить наледь.",
+        "answer": "сбить",
+        "rationale": "Приставка с- не меняется.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]шить пуговицу.",
+        "answer": "пришить",
+        "rationale": "Присоединение: при-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]градить дорогу.",
+        "answer": "преградить",
+        "rationale": "Преградить — перегородить; пре-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]ёмник сигнала.",
+        "answer": "приёмник",
+        "rationale": "Принимает сигнал; при-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "бе[…]платный вход.",
+        "answer": "бесплатный",
+        "rationale": "Перед глухим п пишется с.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ра[…]делить сумму.",
+        "answer": "разделить",
+        "rationale": "Перед звонким д пишется з.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]дать документу форму (добавить свойство).",
+        "answer": "придать",
+        "rationale": "При- в значении добавления.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пр[…]дать друга (нарушить верность).",
+        "answer": "предать",
+        "rationale": "Слово предать имеет закреплённое написание пре-.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.04",
+    "id": "ru.orthography.separators.foundation",
+    "title": "Разделительные Ъ и Ь, И/Ы после приставок",
+    "coverage": "Ъ после приставок и числовых частей, разделительный ь, ы/и после приставок",
+    "gaps": "Грамматический мягкий знак, специальные заимствования и полный список приставок с сохранением и.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Ъ, Ь, И/Ы после приставок",
+      "url": "https://orthographia.ru/orfografia.php?sid=0"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "под[…]езд к дому.",
+        "answer": "подъезд",
+        "rationale": "После приставки под- перед е нужен ъ.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "в[…]юга на улице.",
+        "answer": "вьюга",
+        "rationale": "Разделительный ь внутри слова перед ю.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "с[…]грать партию.",
+        "answer": "сыграть",
+        "rationale": "После с- начальное и корня переходит в ы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "меж[…]нститутский проект.",
+        "answer": "межинститутский",
+        "rationale": "После меж- сохраняется и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "двух[…]ярусная кровать.",
+        "answer": "двухъярусная",
+        "rationale": "После двух- перед я в сложном слове пишется ъ.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "об[…]явить решение.",
+        "answer": "объявить",
+        "rationale": "После об- перед я пишется ъ.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "сем[…]я друзей.",
+        "answer": "семья",
+        "rationale": "Разделительный ь внутри слова.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пред[…]стория события.",
+        "answer": "предыстория",
+        "rationale": "После пред- перед начальным и корня пишется ы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "сверх[…]нтересный доклад.",
+        "answer": "сверхинтересный",
+        "rationale": "После сверх- сохраняется и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "с[…]ёмка фильма.",
+        "answer": "съёмка",
+        "rationale": "После с- перед ё пишется ъ.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "вороб[…]и на крыше.",
+        "answer": "воробьи",
+        "rationale": "Разделительный ь перед и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "раз[…]скать письмо.",
+        "answer": "разыскать",
+        "rationale": "После раз- начальное и передаётся ы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "дез[…]нформация в сети.",
+        "answer": "дезинформация",
+        "rationale": "После иноязычной приставки дез- сохраняется и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "об[…]ект исследования.",
+        "answer": "объект",
+        "rationale": "Закреплённое написание с ъ после об-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "солов[…]и запели.",
+        "answer": "соловьи",
+        "rationale": "Разделительный ь перед и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "без[…]дейный текст.",
+        "answer": "безыдейный",
+        "rationale": "После без- перед и корня пишется ы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "вз[…]мать плату.",
+        "answer": "взимать",
+        "rationale": "Традиционное исключение с и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "трёх[…]язычный словарь.",
+        "answer": "трёхъязычный",
+        "rationale": "После трёх- перед я требуется ъ.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "павил[…]он выставки.",
+        "answer": "павильон",
+        "rationale": "В заимствовании разделительный ь перед о.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "под[…]скать вариант.",
+        "answer": "подыскать",
+        "rationale": "После под- начальное и передаётся ы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "меж[…]гровой перерыв.",
+        "answer": "межигровой",
+        "rationale": "После меж- сохраняется и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "из[…]ян в изделии.",
+        "answer": "изъян",
+        "rationale": "Закреплённое написание с ъ.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.05",
+    "id": "ru.orthography.sibilant-vowels.foundation",
+    "title": "Гласные после шипящих и Ц",
+    "coverage": "ЖИ/ШИ, ЧА/ЩА, ЧУ/ЩУ, И/Ы после Ц, О/Ё/Е в корнях и окончаниях",
+    "gaps": "Суффиксы после шипящих и ц, все словарные исключения, подробные глагольные и именные формы.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: ЖИ/ШИ, ЧА/ЩА, ЧУ/ЩУ, О/Ё после шипящих и Ц",
+      "url": "https://orthographia.ru/orfografia.php?sid=14"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "ж[…]знь города.",
+        "answer": "жизнь",
+        "rationale": "В сочетании жи пишется и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ч[…]ща леса.",
+        "answer": "чаща",
+        "rationale": "Ча пишется с а.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "щ[…]ка в реке.",
+        "answer": "щука",
+        "rationale": "Щу пишется с у.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ц[…]рк на площади.",
+        "answer": "цирк",
+        "rationale": "В корне после ц обычно и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ц[…]плёнок вылупился.",
+        "answer": "цыплёнок",
+        "rationale": "Корневое исключение с ы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ш[…]пот за дверью.",
+        "answer": "шёпот",
+        "rationale": "Корень чередуется с е: шептать.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "маш[…]на на стоянке.",
+        "answer": "машина",
+        "rationale": "Ши пишется с и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "прощ[…]ние с другом.",
+        "answer": "прощание",
+        "rationale": "Ща пишется с а.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ч[…]до природы.",
+        "answer": "чудо",
+        "rationale": "Чу пишется с у.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ц[…]фра в таблице.",
+        "answer": "цифра",
+        "rationale": "В корне после ц пишется и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "улиц[…] пустели.",
+        "answer": "улицы",
+        "rationale": "Ы в окончании множественного числа после ц.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ш[…]рох листьев.",
+        "answer": "шорох",
+        "rationale": "Словарное корневое о после ш.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ч[…]лка над бровями.",
+        "answer": "чёлка",
+        "rationale": "Корневое ё; чело — родственное слово.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "мяч[…]м играли.",
+        "answer": "мячом",
+        "rationale": "Ударное окончание творительного падежа: о.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "крыш[…]й накрыли строение (творительный падеж).",
+        "answer": "крышей",
+        "rationale": "Безударное окончание после шипящей: е.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ж[…]ри конкурса.",
+        "answer": "жюри",
+        "rationale": "Заимствование с ю после ж.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ц[…]кнуть на собаку.",
+        "answer": "цыкнуть",
+        "rationale": "Корневое исключение с ы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "печ[…]т хлеб.",
+        "answer": "печёт",
+        "rationale": "В глагольном окончании под ударением ё.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ш[…]в на ткани.",
+        "answer": "шов",
+        "rationale": "Словарное о в корне, сравните шва.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "нож[…]м разрезали.",
+        "answer": "ножом",
+        "rationale": "Ударное окончание после ж — о.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "свеч[…]й осветили стол.",
+        "answer": "свечой",
+        "rationale": "Ударное окончание — о.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "брош[…]ра о выставке.",
+        "answer": "брошюра",
+        "rationale": "Заимствование с ю после ш.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.06",
+    "id": "ru.orthography.noun-adjective-endings.foundation",
+    "title": "Суффиксы и окончания имён",
+    "coverage": "Падежные окончания существительных, особые основы -ия/-ие/-ий, согласование прилагательных, -ек/-ик",
+    "gaps": "Остальные суффиксы имён, формы множественного числа, исключения и полноценный тренажёр склонения.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Суффиксы и окончания существительных и прилагательных",
+      "url": "https://orthographia.ru/orfografia.php?sid=30"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "к деревн[…] (дательный падеж).",
+        "answer": "деревне",
+        "rationale": "Первое склонение, дательный: -е.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "о тетрад[…] (предложный).",
+        "answer": "тетради",
+        "rationale": "Третье склонение: -и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "в здани[…] (где?).",
+        "answer": "здании",
+        "rationale": "Существительное на -ие в предложном падеже: -ии.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "замоч[…]к (родительный: замочка).",
+        "answer": "замочек",
+        "rationale": "Гласная выпадает, суффикс -ек-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ключ[…]к (родительный: ключика).",
+        "answer": "ключик",
+        "rationale": "Гласная сохраняется, -ик-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "к син[…] морю (дательный).",
+        "answer": "синему",
+        "rationale": "Согласование с морем, мягкая основа: -ему.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "о площад[…] (предложный).",
+        "answer": "площади",
+        "rationale": "Третье склонение: -и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "к пристан[…] (дательный).",
+        "answer": "пристани",
+        "rationale": "Третье склонение: -и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "к станци[…] (дательный).",
+        "answer": "станции",
+        "rationale": "На -ия в дательном: -ии.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ореш[…]к (родительный: орешка).",
+        "answer": "орешек",
+        "rationale": "Беглая гласная е в -ек-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "стол[…]к (родительный: столика).",
+        "answer": "столик",
+        "rationale": "И сохраняется в косвенной форме.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "о дальн[…] береге (предложный).",
+        "answer": "дальнем",
+        "rationale": "Мягкая основа, окончание -ем.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "по троп[…] (дательный).",
+        "answer": "тропе",
+        "rationale": "Первое склонение: -е.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "о пристанищ[…] (предложный, от «пристанище»).",
+        "answer": "пристанище",
+        "rationale": "Обычное второе склонение, -е.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "в санатори[…] (где?).",
+        "answer": "санатории",
+        "rationale": "На -ий в предложном: -ии.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "платоч[…]к (родительный: платочка).",
+        "answer": "платочек",
+        "rationale": "Е выпадает: -ек-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "фонар[…]к (родительный: фонарика).",
+        "answer": "фонарик",
+        "rationale": "И сохраняется: -ик-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "с нов[…] оборудованием (творительный).",
+        "answer": "новым",
+        "rationale": "Средний род, творительный: -ым.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "без помощ[…] (родительный).",
+        "answer": "помощи",
+        "rationale": "Третье склонение: -и.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "к лекци[…] (дательный).",
+        "answer": "лекции",
+        "rationale": "На -ия в дательном: -ии.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "кусоч[…]к (родительный: кусочка).",
+        "answer": "кусочек",
+        "rationale": "Е выпадает: -ек-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "с зимн[…] пальто (творительный).",
+        "answer": "зимним",
+        "rationale": "Средний род, мягкая основа: -им.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.07",
+    "id": "ru.orthography.verb-spelling.foundation",
+    "title": "Личные окончания глаголов и гласные причастий",
+    "coverage": "I/II спряжение, личные окончания, исключения, действительные причастия настоящего времени",
+    "gaps": "Пассивные причастия, суффиксы инфинитива и прошедшего времени, особые и разноспрягаемые глаголы.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Личные окончания глаголов и суффиксы глагольных форм",
+      "url": "https://orthographia.ru/orfografia.php?sid=29"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "ты чита[…]шь письмо.",
+        "answer": "читаешь",
+        "rationale": "Читать — I спряжение.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "он стро[…]т дом.",
+        "answer": "строит",
+        "rationale": "Строить — II спряжение.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "мы слыш[…]м шум.",
+        "answer": "слышим",
+        "rationale": "Слышать — исключение II спряжения.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "он бре[…]т бороду.",
+        "answer": "бреет",
+        "rationale": "Брить — I спряжение.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пиш[…]щий автор.",
+        "answer": "пишущий",
+        "rationale": "Они пишут: -ущ-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "вид[…]щий цель человек.",
+        "answer": "видящий",
+        "rationale": "Они видят: -ящ-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ты рису[…]шь план.",
+        "answer": "рисуешь",
+        "rationale": "Рисовать — I спряжение.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "он кле[…]т обои.",
+        "answer": "клеит",
+        "rationale": "Клеить — II.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "мы смотр[…]м фильм.",
+        "answer": "смотрим",
+        "rationale": "Смотреть — исключение II.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "они кол[…]т дрова.",
+        "answer": "колют",
+        "rationale": "Колоть — I.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "се[…]щий пшеницу фермер.",
+        "answer": "сеющий",
+        "rationale": "Они сеют: -ющ-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "дыш[…]щий паром человек.",
+        "answer": "дышащий",
+        "rationale": "Они дышат: -ащ-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ты дума[…]шь о работе.",
+        "answer": "думаешь",
+        "rationale": "Думать — I.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "они гон[…]т стадо.",
+        "answer": "гонят",
+        "rationale": "Гнать — исключение II.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "он держ[…]т ручку.",
+        "answer": "держит",
+        "rationale": "Держать — исключение II.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "они стел[…]т скатерть (от «стлать»).",
+        "answer": "стелют",
+        "rationale": "Стлать — I; форма стелют.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "чита[…]щий ребёнок.",
+        "answer": "читающий",
+        "rationale": "Они читают: -ющ-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "стро[…]щий мост рабочий.",
+        "answer": "строящий",
+        "rationale": "Они строят: -ящ-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "она завис[…]т от расписания.",
+        "answer": "зависит",
+        "rationale": "Зависеть — исключение II.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "мы терп[…]м неудобства.",
+        "answer": "терпим",
+        "rationale": "Терпеть — исключение II.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "мо[…]щий окна сотрудник.",
+        "answer": "моющий",
+        "rationale": "Они моют: -ющ-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "слыш[…]щий музыку слушатель.",
+        "answer": "слышащий",
+        "rationale": "Они слышат: -ащ-.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.08",
+    "id": "ru.orthography.double-n.foundation",
+    "title": "Н и НН: именные и отглагольные образования",
+    "coverage": "Базовые именные суффиксы, полные и краткие причастия, отглагольные прилагательные, исключения",
+    "gaps": "Сложные прилагательные, причастия без зависимых слов, краткие прилагательные, наречия, словарные исключения.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Н и НН в разных частях речи",
+      "url": "https://orthographia.ru/orfografia.php?sid=0"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "кожа[…]ый ремень.",
+        "answer": "кожаный",
+        "rationale": "Суффикс -ан-: одна н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "соломе[…]ая крыша.",
+        "answer": "соломенная",
+        "rationale": "Суффикс -енн-: две н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "деревя[…]ый стол.",
+        "answer": "деревянный",
+        "rationale": "Исключение с нн.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "прочита[…]ая книга (её прочитали).",
+        "answer": "прочитанная",
+        "rationale": "Полное страдательное причастие от совершенного вида.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "книга прочита[…]а.",
+        "answer": "прочитана",
+        "rationale": "Краткое страдательное причастие: одна н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "жаре[…]ая рыба (название блюда, без зависимых слов).",
+        "answer": "жареная",
+        "rationale": "Отглагольное прилагательное без приставки: одна н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "серебря[…]ая цепочка.",
+        "answer": "серебряная",
+        "rationale": "Суффикс -ян-: одна н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "экскурсио[…]ый маршрут.",
+        "answer": "экскурсионный",
+        "rationale": "Суффикс -онн-: две н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "стекля[…]ая банка.",
+        "answer": "стеклянная",
+        "rationale": "Исключение с нн.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "подписа[…]ый директором акт.",
+        "answer": "подписанный",
+        "rationale": "Полное причастие: нн.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "акт подписа[…] директором.",
+        "answer": "подписан",
+        "rationale": "Краткое причастие: н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "жаре[…]ая на углях рыба.",
+        "answer": "жаренная",
+        "rationale": "Зависимое обстоятельство действия; полное причастие.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "гуси[…]ый пух.",
+        "answer": "гусиный",
+        "rationale": "Суффикс -ин-: одна н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "торжестве[…]ая встреча.",
+        "answer": "торжественная",
+        "rationale": "Суффикс -енн-: нн.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "оловя[…]ый солдатик.",
+        "answer": "оловянный",
+        "rationale": "Исключение с нн.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "приглаш[…]ые на встречу гости.",
+        "answer": "приглашённые",
+        "rationale": "Полное страдательное причастие с нн и ё.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "гости приглаше[…]ы.",
+        "answer": "приглашены",
+        "rationale": "Краткое причастие: одна н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ветре[…]ый день.",
+        "answer": "ветреный",
+        "rationale": "Словарное исключение: одна н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "безветре[…]ая ночь.",
+        "answer": "безветренная",
+        "rationale": "Безветренный пишется с нн.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "асфальтирова[…]ая дорога.",
+        "answer": "асфальтированная",
+        "rationale": "Суффикс -ированн-: нн.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "дорога отремонтирова[…]а.",
+        "answer": "отремонтирована",
+        "rationale": "Краткое причастие: н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "лимо[…]ый сок.",
+        "answer": "лимонный",
+        "rationale": "Основа лимон + суффикс -н-.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.09",
+    "id": "ru.orthography.negation-spelling.foundation",
+    "title": "НЕ и НИ: отрицание, усиление и написание",
+    "coverage": "НЕ/НИ в отрицании, глаголы, краткие причастия, имена в контексте, местоимения, недо-",
+    "gaps": "Полные причастия, наречия разных типов, устойчивые обороты, двойное отрицание, придаточные с ни.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: НЕ и НИ: значение и правописание",
+      "url": "https://orthographia.ru/orfografia.php?sid=79"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "Он (не/закончил) отчёт.",
+        "answer": "не закончил",
+        "rationale": "Не с глаголом раздельно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(не/высокий) дом, то есть низкий.",
+        "answer": "невысокий",
+        "rationale": "Утверждается единый признак.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(не/высокий), а низкий забор.",
+        "answer": "не высокий",
+        "rationale": "Прямое противопоставление с а.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(ни/одного) письма не пришло.",
+        "answer": "ни одного",
+        "rationale": "Ни усиливает отрицание.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(не/кого) позвать (нет людей).",
+        "answer": "некого",
+        "rationale": "Отрицательное местоимение без предлога.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Акт (не/подписан).",
+        "answer": "не подписан",
+        "rationale": "Краткое страдательное причастие.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Она (не/навидит) обман.",
+        "answer": "ненавидит",
+        "rationale": "Глагол без не не употребляется.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(не/громкий) звук, то есть тихий.",
+        "answer": "негромкий",
+        "rationale": "Единый признак; слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(не/громкий), а тихий голос.",
+        "answer": "не громкий",
+        "rationale": "Отрицается признак с противопоставлением.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(ни/разу) не забыл.",
+        "answer": "ни разу",
+        "rationale": "Усиление отрицания.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(ни/кого) не встретил.",
+        "answer": "никого",
+        "rationale": "Отрицательное местоимение без предлога.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Письмо (не/отправлено).",
+        "answer": "не отправлено",
+        "rationale": "Краткое страдательное причастие.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Он (не/прочитал) инструкцию.",
+        "answer": "не прочитал",
+        "rationale": "С глаголом раздельно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(не/правда), то есть ложь.",
+        "answer": "неправда",
+        "rationale": "Утверждается самостоятельное понятие.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Это (не/правда), а выдумка.",
+        "answer": "не правда",
+        "rationale": "Противопоставление отрицает понятие «правда».",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(ни/у/кого) не было ключа.",
+        "answer": "ни у кого",
+        "rationale": "Предлог разделяет элементы местоимения.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(не/у/кого) спросить (некого спросить).",
+        "answer": "не у кого",
+        "rationale": "Предлог между не и местоимением.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Документ (не/проверен).",
+        "answer": "не проверен",
+        "rationale": "Краткое причастие.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Он (не/доел) порцию (не закончил есть).",
+        "answer": "не доел",
+        "rationale": "Не + глагол доесть: действие не завершено.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Он (недо/солил) суп (положил мало соли).",
+        "answer": "недосолил",
+        "rationale": "Недо- обозначает недостаточность.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(ни/где) не нашёл папку.",
+        "answer": "нигде",
+        "rationale": "Отрицательное наречие слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(не/спеша) вошёл в зал.",
+        "answer": "не спеша",
+        "rationale": "Не с деепричастной формой раздельно.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.10",
+    "id": "ru.orthography.word-boundaries.foundation",
+    "title": "Слитное, раздельное и дефисное написание",
+    "coverage": "Пол-/полу-, распространённые первые части сложных слов, сложные прилагательные",
+    "gaps": "Сложные существительные, координационные правила, специальные термины и полный перечень моделей.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Слитное, раздельное и дефисное написание",
+      "url": "https://orthographia.ru/orfografia.php?sid=63"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "(пол/яблока) на тарелке.",
+        "answer": "пол-яблока",
+        "rationale": "Перед гласной дефис.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(пол/часа) ожидания.",
+        "answer": "полчаса",
+        "rationale": "Перед строчной согласной ч слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(полу/круг) на схеме.",
+        "answer": "полукруг",
+        "rationale": "Полу- пишется слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(сине/зелёный) оттенок.",
+        "answer": "сине-зелёный",
+        "rationale": "Сложное обозначение цвета через дефис.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(железно/дорожный) вокзал.",
+        "answer": "железнодорожный",
+        "rationale": "Образовано от сочетания железная дорога; слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(пол/чайной/ложки) соли.",
+        "answer": "пол чайной ложки",
+        "rationale": "Между пол и существительным определение.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(пол/лимона) для чая.",
+        "answer": "пол-лимона",
+        "rationale": "Перед л дефис.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(пол/стакана) воды.",
+        "answer": "полстакана",
+        "rationale": "Перед строчной с слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(полу/остров) на карте.",
+        "answer": "полуостров",
+        "rationale": "Полу- слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(северо/восточный) ветер.",
+        "answer": "северо-восточный",
+        "rationale": "Сложное географическое направление через дефис.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(авиа/рейс) отменён.",
+        "answer": "авиарейс",
+        "rationale": "Первая часть авиа- слитна.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(пол/большого/арбуза).",
+        "answer": "пол большого арбуза",
+        "rationale": "Определение разделяет пол и существительное.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(пол/Москвы) посетили.",
+        "answer": "пол-Москвы",
+        "rationale": "Перед прописной буквой дефис.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(пол/метра) ткани.",
+        "answer": "полметра",
+        "rationale": "Перед м слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(полу/финал) турнира.",
+        "answer": "полуфинал",
+        "rationale": "Полу- слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(научно/технический) прогресс.",
+        "answer": "научно-технический",
+        "rationale": "Равноправные основы: научный и технический.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(авто/школа) открылась.",
+        "answer": "автошкола",
+        "rationale": "Первая часть авто- слитна.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(пол/столовой/ложки) масла.",
+        "answer": "пол столовой ложки",
+        "rationale": "Определение между пол и существительным.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(пол/огурца) нарезали.",
+        "answer": "пол-огурца",
+        "rationale": "Перед гласной дефис.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(пол/ведра) воды.",
+        "answer": "полведра",
+        "rationale": "Перед в слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(микро/район) города.",
+        "answer": "микрорайон",
+        "rationale": "Микро- слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(тёмно/синий) пиджак.",
+        "answer": "тёмно-синий",
+        "rationale": "Оттенок цвета через дефис.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.11",
+    "id": "ru.orthography.service-word-spelling.foundation",
+    "title": "Наречия, предлоги, союзы и частицы",
+    "coverage": "Омонимичные союзы, предлоги и имена, наречия, частицы",
+    "gaps": "Расширенный словарь наречных сочетаний, все производные предлоги и спорные союзы.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Правописание наречий, предлогов, союзов и частиц",
+      "url": "https://orthographia.ru/orfografia.php?sid=63"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "Я (то/же) приду на встречу (также).",
+        "answer": "тоже",
+        "rationale": "Тоже означает «также».",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Выбрали (то/же) место, что вчера.",
+        "answer": "то же",
+        "rationale": "Местоимение то с частицей же.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Поторопимся, (что/бы) успеть.",
+        "answer": "чтобы",
+        "rationale": "Целевой союз.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(в/следствие) дождя рейс задержан.",
+        "answer": "вследствие",
+        "rationale": "Производный предлог причины.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Действовать (по/новому).",
+        "answer": "по-новому",
+        "rationale": "Дефис в наречии с по- и -ому.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(кое/кто) уже пришёл.",
+        "answer": "кое-кто",
+        "rationale": "Неопределённое местоимение с кое-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Он сделал (так/же), как мы.",
+        "answer": "так же",
+        "rationale": "Наречие так и частица же, сравнение способа.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Я изучу отчёт, а (так/же) приложение (и приложение).",
+        "answer": "также",
+        "rationale": "Союз присоединяет ещё один объект.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Я спросил, (что/бы) ему предложить.",
+        "answer": "что бы",
+        "rationale": "Местоимение что с частицей бы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Обнаружили ошибку (в/следствии) по делу.",
+        "answer": "в следствии",
+        "rationale": "Существительное в предложном падеже.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Работа шла (по/старому) плану.",
+        "answer": "по старому",
+        "rationale": "Предлог относится к существительному плану.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(кто/либо) из участников видел письмо?",
+        "answer": "кто-либо",
+        "rationale": "Неопределённое местоимение через дефис.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(с/начала) проверьте документы (сперва).",
+        "answer": "сначала",
+        "rationale": "Наречие времени слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(с/начала) месяца прошло три дня. Впишите сочетание без начала предложения, со строчной.",
+        "answer": "с начала",
+        "rationale": "Предлог и существительное начало.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Поговорим (на/счёт) поставки (то есть о поставке).",
+        "answer": "насчёт",
+        "rationale": "Производный предлог слитно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Перевели деньги (на/счёт) клиента.",
+        "answer": "на счёт",
+        "rationale": "Существительное счёт с предлогом.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Отвечай (по/русски).",
+        "answer": "по-русски",
+        "rationale": "Наречие с по- и -ски через дефис.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Он (всё/таки) согласился.",
+        "answer": "всё-таки",
+        "rationale": "Частица -таки в этом сочетании через дефис.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Мы ждали (в/течени[…]) часа.",
+        "answer": "в течение",
+        "rationale": "Производный предлог времени раздельно с е.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "В течени[…] реки заметили водоворот. Впишите только существительное.",
+        "answer": "течении",
+        "rationale": "Предложный падеж существительного течение.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Сделай это (как/нибудь).",
+        "answer": "как-нибудь",
+        "rationale": "Наречие с -нибудь через дефис.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(кое/у/кого) остались вопросы. Впишите сочетание со строчной.",
+        "answer": "кое у кого",
+        "rationale": "При предлоге компоненты разделены пробелами.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.12",
+    "id": "ru.orthography.capital-letters.foundation",
+    "title": "Прописные и строчные буквы: имена и наименования",
+    "coverage": "Географические имена, производные прилагательные, жители, официальные названия",
+    "gaps": "Праздники, исторические эпохи, религиозные названия, должности, бренды, индивидуальные обращения и официально-деловые исключения.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Прописные и строчные буквы, имена собственные",
+      "url": "https://orthographia.ru/orfografia.php?sid=81"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "Город (москва) (название города; впишите правильно слово).",
+        "answer": "Москва",
+        "rationale": "Индивидуальное имя города с прописной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Мы гуляли по (московским) улицам.",
+        "answer": "московским",
+        "rationale": "Описательное прилагательное, не официальное имя.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(чёрное) море (географическое название, слово «море» не вводите).",
+        "answer": "Чёрное",
+        "rationale": "Собственная часть географического имени с прописной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "В (московской) области (административное название).",
+        "answer": "Московской",
+        "rationale": "Первое слово официального географического названия.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Встретились с (петербуржцами).",
+        "answer": "петербуржцами",
+        "rationale": "Названия жителей со строчной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(российская академия наук) (официальное название целиком).",
+        "answer": "Российская академия наук",
+        "rationale": "Прописная у первого слова официального названия.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Город (казань).",
+        "answer": "Казань",
+        "rationale": "Имя города с прописной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "На (невских) берегах (описание местности, не название).",
+        "answer": "невских",
+        "rationale": "Производное описательное прилагательное со строчной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Гуляли по (невскому проспекту) (официальное название целиком).",
+        "answer": "Невскому проспекту",
+        "rationale": "Собственная часть прописная, родовое проспект строчное.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "В (ленинградской) области (административное название).",
+        "answer": "Ленинградской",
+        "rationale": "Имя территории с прописной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Встретились с (волгоградцами).",
+        "answer": "волгоградцами",
+        "rationale": "Название жителей со строчной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(международный валютный фонд) (официальное название целиком).",
+        "answer": "Международный валютный фонд",
+        "rationale": "Прописная у первого слова.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Город (ростов-на-дону) (название целиком).",
+        "answer": "Ростов-на-Дону",
+        "rationale": "Служебное на со строчной внутри имени.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "На (казанских) улицах.",
+        "answer": "казанских",
+        "rationale": "Описательное прилагательное со строчной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(байкал) (название озера).",
+        "answer": "Байкал",
+        "rationale": "Географическое имя с прописной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "В (белом) море (название моря).",
+        "answer": "Белом",
+        "rationale": "Собственная часть географического имени.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Пришли (москвичи).",
+        "answer": "москвичи",
+        "rationale": "Название жителей строчное.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(московская государственная консерватория) (общеупотребительное краткое название учреждения целиком).",
+        "answer": "Московская государственная консерватория",
+        "rationale": "В названии учреждения прописная у первого слова, остальные слова здесь строчные.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Город (санкт-петербург) (официальное название).",
+        "answer": "Санкт-Петербург",
+        "rationale": "Обе собственные части с прописной и дефисом.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Купили (тульский) пряник (обычное описательное название изделия).",
+        "answer": "тульский",
+        "rationale": "Прилагательное не часть собственного имени.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(улица арбат) (в середине предложения, сочетание целиком).",
+        "answer": "улица Арбат",
+        "rationale": "Родовое обозначение улица строчное.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(государственный русский музей) (официальное название).",
+        "answer": "Государственный Русский музей",
+        "rationale": "Прописные у первого слова и Русский как части закреплённого названия.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.13",
+    "id": "ru.orthography.hyphenation-abbreviations.foundation",
+    "title": "Перенос, сокращения и графические обозначения",
+    "coverage": "Основные ограничения переноса, графические сокращения, аббревиатуры, базовые единицы",
+    "gaps": "Полный норматив сокращений, буквенные окончания цифр, инициалы, рубрикация и специализированные стандарты.",
+    "source": {
+      "title": "Полный академический справочник под ред. В. В. Лопатина: Перенос, сокращения, аббревиатуры и графические обозначения",
+      "url": "https://orthographia.ru/orfografia.php?sid=97"
+    },
+    "sourceCheck": "2026-11-26: доступные индексированные фрагменты справочника; авторские примеры, полная поэлементная сверка не завершена",
+    "items": [
+      {
+        "raw": "Допустим ли перенос «ма-йка»? Ответьте да или нет.",
+        "answer": "нет",
+        "rationale": "Й нельзя отделять от предшествующей гласной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Допустим ли перенос «май-ка»? Ответьте да или нет.",
+        "answer": "да",
+        "rationale": "Й остаётся с предыдущей буквой, обе части содержат гласную.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Графическое сокращение слова «год» после числа, одна буква и нужный знак.",
+        "answer": "г.",
+        "rationale": "Графическое сокращение с точкой.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Обозначение килограмма после числа: кг или кг.?",
+        "answer": "кг",
+        "rationale": "Условное обозначение единицы без точки.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Можно ли перенести аббревиатуру «ООН» как «О-ОН»? Да или нет.",
+        "answer": "нет",
+        "rationale": "Прописную аббревиатуру не разделяют переносом.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Допустим ли перенос «о-сень»? Да или нет.",
+        "answer": "нет",
+        "rationale": "Нельзя оставлять одну букву на строке.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Допустим ли перенос «коль-цо»? Да или нет.",
+        "answer": "да",
+        "rationale": "Ь остаётся с предшествующей согласной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Допустим ли перенос «кол-ьцо»? Да или нет.",
+        "answer": "нет",
+        "rationale": "Ь нельзя отрывать от предыдущей буквы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Графическое сокращение «страница» в виде «стр» с необходимым знаком.",
+        "answer": "стр.",
+        "rationale": "После графического сокращения ставят точку.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Обозначение сантиметра: см или см.?",
+        "answer": "см",
+        "rationale": "Обозначение единицы без точки.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Можно ли разделить «20-й» переносом между цифрами и окончанием? Да или нет.",
+        "answer": "нет",
+        "rationale": "Сочетание цифр и буквенного окончания не переносят.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Допустим ли перенос «осень» как «осе-нь»? Да или нет.",
+        "answer": "нет",
+        "rationale": "Оставшаяся часть не содержит гласной.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Допустим ли перенос «подъ-езд»? Да или нет.",
+        "answer": "да",
+        "rationale": "Ъ остаётся с предшествующей согласной; перенос после знака допустим.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Допустим ли перенос «под-ъезд»? Да или нет.",
+        "answer": "нет",
+        "rationale": "Ъ нельзя отделять от предыдущей буквы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Графическое сокращение «рисунок» в ссылке: рис или рис.?",
+        "answer": "рис.",
+        "rationale": "Сокращённое слово оформляется с точкой.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Обозначение метра после числа: м или м.?",
+        "answer": "м",
+        "rationale": "Условное обозначение единицы без точки.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Можно ли разделить «МГУ» переносом? Да или нет.",
+        "answer": "нет",
+        "rationale": "Прописные буквенные аббревиатуры не переносят по частям.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Допустим ли перенос «арми-я»? Да или нет.",
+        "answer": "нет",
+        "rationale": "Одну букву нельзя переносить отдельно.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Допустим ли перенос «чай-ник»? Да или нет.",
+        "answer": "да",
+        "rationale": "Й не отрывается от предшествующей буквы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Допустим ли перенос «ча-йник»? Да или нет.",
+        "answer": "нет",
+        "rationale": "Й отделён от предыдущей буквы.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Графическое сокращение «город» перед названием, одна буква с нужным знаком.",
+        "answer": "г.",
+        "rationale": "В данной функции графическое сокращение с точкой.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "Обозначение миллиметра после числа: мм или мм.?",
+        "answer": "мм",
+        "rationale": "Обозначение единицы без точки.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  },
+  {
+    "number": "06.14",
+    "id": "ru.orthography.dictionary-yo.foundation",
+    "title": "Словарные написания и буквы Ё/Е",
+    "coverage": "Словарная стратегия, распространённые трудные слова, смыслоразличительная ё, различие режима обучения и обычного письма",
+    "gaps": "Поэлементная сверка каждого словарного задания в Академосе, нормативные варианты, расширенный словарный тренажёр.",
+    "source": {
+      "title": "Академос ИРЯ РАН: словарная проверка, требуется поэлементная сверка",
+      "url": "https://orfo.ruslang.ru/"
+    },
+    "sourceCheck": "Академос указан как источник предстоящей поэлементной словарной проверки; независимая проверка не завершена",
+    "items": [
+      {
+        "raw": "(все/всё) оборудование исправно.",
+        "answer": "всё",
+        "rationale": "Местоимение среднего рода, целое.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "(все/всё) участники пришли.",
+        "answer": "все",
+        "rationale": "Множественное число.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пре[…]едент в практике.",
+        "answer": "прецедент",
+        "rationale": "Словарное написание без дополнительной н.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "иску[…]тво живописи.",
+        "answer": "искусство",
+        "rationale": "Словарная форма с двумя с после у.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "компроми[…] сторон.",
+        "answer": "компромисс",
+        "rationale": "Словарное удвоение с.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "соверш[…]нный поступок (тот, который совершили).",
+        "answer": "совершённый",
+        "rationale": "Страдательное причастие с ё.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "соверш[…]нная техника (безупречная).",
+        "answer": "совершенная",
+        "rationale": "Качественное прилагательное с е.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "он узна[…]т знакомых по голосу (сейчас, регулярно).",
+        "answer": "узнаёт",
+        "rationale": "Форма настоящего времени от узнавать, ё.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "он узна[…]т результат завтра (будущее от узнать).",
+        "answer": "узнает",
+        "rationale": "Будущее от узнать, е.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "интел[…]гентный человек.",
+        "answer": "интеллигентный",
+        "rationale": "Словарное написание -ллиг-.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "а[…]елляция на решение.",
+        "answer": "апелляция",
+        "rationale": "Одна п, две л; словарная форма.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ко[…]еспондент газеты.",
+        "answer": "корреспондент",
+        "rationale": "Словарное удвоение р.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "привез[…]нный груз (который привезли).",
+        "answer": "привезённый",
+        "rationale": "Ударное ё в причастии.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "безнад[…]жный случай.",
+        "answer": "безнадёжный",
+        "rationale": "В учебной записи требуется ударное ё.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "инци[…]ент на трассе.",
+        "answer": "инцидент",
+        "rationale": "Словарное написание: инцидент, без дополнительной н перед д.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "агре[…]ия в разговоре.",
+        "answer": "агрессия",
+        "rationale": "Словарное удвоение с.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "а[…]арат для измерений.",
+        "answer": "аппарат",
+        "rationale": "Словарное удвоение п.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ш[…]лк на ткани.",
+        "answer": "шёлк",
+        "rationale": "Ударное ё, сравните шелка́.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "осужд[…]нный судом (причастие).",
+        "answer": "осуждённый",
+        "rationale": "Ударное ё в причастии.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "пер[…]петии судьбы.",
+        "answer": "перипетии",
+        "rationale": "Словарное написание перипетии.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ди[…]ертация (научная работа на степень).",
+        "answer": "диссертация",
+        "rationale": "Словарная форма диссертация: две с, без лишнего слога.",
+        "status": "author-key; requires independent re-solve"
+      },
+      {
+        "raw": "ж[…]лтый цвет.",
+        "answer": "жёлтый",
+        "rationale": "Ё в корне; желтеть.",
+        "status": "author-key; requires independent re-solve"
+      }
+    ]
+  }
+]

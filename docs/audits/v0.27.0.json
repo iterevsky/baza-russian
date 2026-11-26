@@ -1,0 +1,75 @@
+{
+  "release": "0.27.0",
+  "plannedModules": 107,
+  "populatedModules": 40,
+  "lessons": 72,
+  "lessonStatuses": {
+    "draft": 66,
+    "reviewed": 6
+  },
+  "moduleStatuses": {
+    "draft": 40
+  },
+  "practice": 453,
+  "practiceTypes": {
+    "classification": 4,
+    "comma-positions": 102,
+    "multi-choice": 4,
+    "single-choice": 237,
+    "text-edit": 106
+  },
+  "examQuestions": 1176,
+  "examTypes": {
+    "exact-text": 296,
+    "grammar-answer": 608,
+    "written-answer": 272
+  },
+  "cards": 239,
+  "editorialCases": 78,
+  "deepDiveCounts": {
+    "1": 42,
+    "2": 24,
+    "3": 6
+  },
+  "tips": 6,
+  "lessonsLinkedToTips": 3,
+  "lessonsWithPrerequisites": 5,
+  "lessonsWithRelated": 69,
+  "indexBytes": 1150019,
+  "singleChoiceSamePosition": [
+    {
+      "id": "ru.syntax.complication-types",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.homogeneity-syntax",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.incomplete",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.one-part-types",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.phrase-links",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.phrase-structure",
+      "count": 6,
+      "correctIndex": 0
+    }
+  ],
+  "limitations": [
+    "Counts and answer-position signals only; not linguistic, pedagogical, accessibility or real-browser certification.",
+    "A fixed position can be mitigated by verified shuffling, but authored banks should also be balanced; check UI and history compatibility before changing."
+  ]
+}

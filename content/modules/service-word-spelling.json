@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.service-word-spelling",
+  "title": "Правописание наречий, предлогов, союзов и частиц (базовый контроль)",
+  "moduleNumber": "06.11",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.service-word-spelling.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Правописание наречий, предлогов, союзов и частиц",
+    "url": "https://orthographia.ru/orfografia.php?sid=63"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.service-word-spelling.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Мы ждали (в/течени[…]) часа.",
+          "answer": "в течение",
+          "ex": "Производный предлог времени раздельно с е.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.service-word-spelling.foundation"
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "В течени[…] реки заметили водоворот. Впишите только существительное.",
+          "answer": "течении",
+          "ex": "Предложный падеж существительного течение.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.service-word-spelling.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.service-word-spelling.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Сделай это (как/нибудь).",
+          "answer": "как-нибудь",
+          "ex": "Наречие с -нибудь через дефис.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.service-word-spelling.foundation"
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "(кое/у/кого) остались вопросы. Впишите сочетание со строчной.",
+          "answer": "кое у кого",
+          "ex": "При предлоге компоненты разделены пробелами.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.service-word-spelling.foundation"
+        }
+      ]
+    }
+  ]
+}

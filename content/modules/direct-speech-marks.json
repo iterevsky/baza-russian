@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.direct-speech-marks",
+  "title": "Прямая речь, цитаты, диалог (базовый контроль)",
+  "moduleNumber": "07.13",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.direct-speech-marks.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Прямая речь, цитаты, диалог",
+    "url": "https://orthographia.ru/punctuatio.php?sid=137"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.direct-speech-marks.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.direct-speech-marks.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Оформите два знака: «Все расчёты проверены»□ доложила аналитик.",
+          "answer": ", —",
+          "ex": "Повествовательную реплику от последующих вводящих слов отделяют запятая и тире.",
+          "instruction": "Введите только знак или пару знаков, обозначенных □ (например, , —); если знак не нужен, введите нет. Для тире используйте —. Контекст задаёт тип реплики.",
+          "lessonId": "ru.punctuation.direct-speech-marks.foundation"
+        },
+        {
+          "id": "ru.punctuation.direct-speech-marks.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Автор перед репликой: Курьер напомнил □ «Посылку нужно забрать».",
+          "answer": ":",
+          "ex": "После слов автора ставится двоеточие.",
+          "instruction": "Введите только знак или пару знаков, обозначенных □ (например, , —); если знак не нужен, введите нет. Для тире используйте —. Контекст задаёт тип реплики.",
+          "lessonId": "ru.punctuation.direct-speech-marks.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.direct-speech-marks.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.direct-speech-marks.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "В записке повторяется фраза □ «согласовано с отделом». Знак перед цитатой или нет?",
+          "answer": "нет",
+          "ex": "Цитата встроена как определение содержания фразы.",
+          "instruction": "Введите только знак или пару знаков, обозначенных □ (например, , —); если знак не нужен, введите нет. Для тире используйте —. Контекст задаёт тип реплики.",
+          "lessonId": "ru.punctuation.direct-speech-marks.foundation"
+        },
+        {
+          "id": "ru.punctuation.direct-speech-marks.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Абзацная реплика без кавычек: □ Увидимся завтра. Вставьте начальный знак.",
+          "answer": "—",
+          "ex": "Начало реплики оформляется тире.",
+          "instruction": "Введите только знак или пару знаков, обозначенных □ (например, , —); если знак не нужен, введите нет. Для тире используйте —. Контекст задаёт тип реплики.",
+          "lessonId": "ru.punctuation.direct-speech-marks.foundation"
+        }
+      ]
+    }
+  ]
+}

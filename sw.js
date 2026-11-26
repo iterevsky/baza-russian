@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.26.0";
-const DIGEST="dc638c25a438e4f65c49d431";
+const RELEASE="0.27.0";
+const DIGEST="d923ddc1e14f77a2d3e19f6d";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "ecdf4da98500c0c906fddc140dfcb3cf85adacb5f7bd09842ce6e3377a1ca82a"
+    "8b8adc8a8c205e72bf659aff5eafc074b805ad1069d21b903841ae3d841cc9c2"
   ],
   [
     "content/lessons/addresses.json",
@@ -37,6 +37,10 @@ const ASSETS=[
   [
     "content/lessons/basis-count.json",
     "c11210d1792c54f58de38c7bc1586192c768e2e1b2681f69df66986edd98680a"
+  ],
+  [
+    "content/lessons/capital-letters.json",
+    "462756bacf0f732e4d26e1de2efc3f386c616d76e0e29e3695f31c6d2c13394b"
   ],
   [
     "content/lessons/clarification.json",
@@ -87,6 +91,18 @@ const ASSETS=[
     "63663028acde697a111bedb53f37825a371815b7612713d25c1bbb6c9fd18cce"
   ],
   [
+    "content/lessons/dictionary-yo.json",
+    "8d255b04fcdac3c2fbcda2673b51143f2c74ef662cb36716ae5089eeec7a94e2"
+  ],
+  [
+    "content/lessons/direct-speech-marks.json",
+    "4c8eb534a62ede20337e7b123a4d4be9c8ded833ce15f516ad40e0b12ad6f2a7"
+  ],
+  [
+    "content/lessons/double-n.json",
+    "9e77694decdc2d74925941d140c446d3f903852c7a5e20886103aa55498b63b4"
+  ],
+  [
     "content/lessons/end-basic.json",
     "e9b1ad7f9a420d26fa1531f91bc0d729e0acbd6bbe6762712fa4a3234bc17761"
   ],
@@ -125,6 +141,10 @@ const ASSETS=[
   [
     "content/lessons/homogeneous-repeated.json",
     "39142971c23e2c556a6506bb072e28e1224bfc17906b5547dc1250d6cc0d7d2a"
+  ],
+  [
+    "content/lessons/hyphenation-abbreviations.json",
+    "bb3ce916732266b1b24025852b88e80e842e4067812960e5dd7e225430ec57d6"
   ],
   [
     "content/lessons/incomplete.json",
@@ -167,12 +187,24 @@ const ASSETS=[
     "c327e4d7c49daad082d06c7708b7e819527c822ecfe354810276d219a62bc08b"
   ],
   [
+    "content/lessons/mixed-punctuation.json",
+    "12ed2f75d3ef2b7bf101cf0a54adcf5ca89545c0077131bb1e6901706fa8ca26"
+  ],
+  [
+    "content/lessons/negation-spelling.json",
+    "726cd5a162c704c7699f21dd90773f1c2d1f0cedc0e2f6158f5db53d2a65b0bf"
+  ],
+  [
     "content/lessons/non-introductory-words.json",
     "3c29a22244de46a79a146e2a3a1c823386423d04332d508b4392c5ff2317d00c"
   ],
   [
     "content/lessons/nonmembers.json",
     "449b8d6896fc3033282b95452646e17ba4bbe53c28ca16ebe427306d183a2954"
+  ],
+  [
+    "content/lessons/noun-adjective-endings.json",
+    "0925a7364ac2277b9c3169f17fd348a2cdc681a96d1768c98ef1d7b684b4326e"
   ],
   [
     "content/lessons/one-part-types.json",
@@ -195,6 +227,22 @@ const ASSETS=[
     "a5655772b8fb1f29c256679f2e234fd9af4ea3a801c8222eeb510db6a515cca0"
   ],
   [
+    "content/lessons/prefix-spelling.json",
+    "62e2fde809ea51774537978f51446324a2356830edc1cd7ddcc5e4a7395c616c"
+  ],
+  [
+    "content/lessons/punctuation-variation.json",
+    "1395e29408a43c3a6757b1a1045b327d130030d3d859150563dc4d75dc3654cc"
+  ],
+  [
+    "content/lessons/root-consonants.json",
+    "9185502fc9870b12dce8579e42dabf632eabebdeb996d2adb109a49ff69d7bfe"
+  ],
+  [
+    "content/lessons/root-vowels.json",
+    "1aaa38a72cb7e9d6bae9efd3773e88872aea2ff90bf109de9446be8254c37499"
+  ],
+  [
     "content/lessons/secondary-adverbial.json",
     "a7f7130972e2b170bacd4c53bfc09fdaa6cf73351c9cc224fcc51ed95bbbc0c3"
   ],
@@ -205,6 +253,18 @@ const ASSETS=[
   [
     "content/lessons/sentence-analysis.json",
     "abcac05af502c86b14596b46d3329499ac108a9487302a1e786df560249f52d4"
+  ],
+  [
+    "content/lessons/separators.json",
+    "9fabbd8a5ca3ff0454efe2b1786d575d0f701c7e7c17529a6309a7abf1dab505"
+  ],
+  [
+    "content/lessons/service-word-spelling.json",
+    "c4584c928dd47a98615811173d7c029d0b18e64af27b730750830747c43ac802"
+  ],
+  [
+    "content/lessons/sibilant-vowels.json",
+    "232fc88080495e9aa56d9541a0fe622b53af8d4899c9aef23d3b549217c500a6"
   ],
   [
     "content/lessons/speech-forms.json",
@@ -231,12 +291,24 @@ const ASSETS=[
     "abed3e232f819a7297f4571e19c52ab6756a56ae6bacbfca59900d114659c234"
   ],
   [
+    "content/lessons/verb-spelling.json",
+    "ee849fc79cad83f395ae94234139b54a2d3cdc3098bc6e9bdbf1b948bcfc391c"
+  ],
+  [
+    "content/lessons/word-boundaries.json",
+    "ee083c3e286aba0cbe784ef473bd8cfe833b58cf47997287aabbd96b5c343091"
+  ],
+  [
     "content/modules/asyndetic-punctuation.json",
     "026182d77b048a1093552ccd031e49d7285a0b7c9a11813ba19c6efa55fd917c"
   ],
   [
     "content/modules/basis.json",
     "637035abf714e9145d4b409e5b16a9d8a081e15c9a02dffc61a259067e6d7a5c"
+  ],
+  [
+    "content/modules/capital-letters.json",
+    "5d963fb273450e03dab90e1d61ba38b3764100d57cb0a80bf8c247eb604b68de"
   ],
   [
     "content/modules/clarifying-punctuation.json",
@@ -259,12 +331,28 @@ const ASSETS=[
     "284e95d531a110df9b0e4de84622bf00a6852b6b39f11820f24d195495f8a4a0"
   ],
   [
+    "content/modules/dictionary-yo.json",
+    "398183471657e833a6c219fb7046a37d7b4b66c830f479563485ce227e8d620d"
+  ],
+  [
+    "content/modules/direct-speech-marks.json",
+    "db7a641723589fcaab7e1593514bffc8f9b05da5506a17bafce2f002d1761329"
+  ],
+  [
+    "content/modules/double-n.json",
+    "a94df731c6707061e3a4b0d7a322be39f544ca320900aca21b78c9184960bc0f"
+  ],
+  [
     "content/modules/end-marks.json",
     "bd874951278319b4db864edca3c7be33b9ada1d34f5285f7e26c6b1c8770497e"
   ],
   [
     "content/modules/homogeneous.json",
     "ca3c529e151daaa91a8f0083f3023ddff6117776156f2929b1fde0a6485329ef"
+  ],
+  [
+    "content/modules/hyphenation-abbreviations.json",
+    "e0328d2a74f400aa200463e9b876f42e946df9f3414225a66e80942a7b46faf8"
   ],
   [
     "content/modules/introductory.json",
@@ -279,8 +367,20 @@ const ASSETS=[
     "40a0ba900e2273d1d9159aa7d70b304cd76cd432375f1c030481cc643b7b4cbf"
   ],
   [
+    "content/modules/mixed-punctuation.json",
+    "84e574a132fa45bafac506720cd77bd19ff1cbbb55453cb24356f5588d5428b7"
+  ],
+  [
     "content/modules/mixed.json",
     "0d342389bc818079984982800a275b0355f99a51161d2d6dbfaa75dc944c667c"
+  ],
+  [
+    "content/modules/negation-spelling.json",
+    "eb5a1de6fd11487c5e1ce9f6c5567babf2e722ee8848dc8e44e84780af00b34a"
+  ],
+  [
+    "content/modules/noun-adjective-endings.json",
+    "dc8d0c873b80b396b63d6008b8dfd2278a8ae15c0a05480f8de36adefae57b72"
   ],
   [
     "content/modules/one-part.json",
@@ -299,8 +399,24 @@ const ASSETS=[
     "7d81295a76a16d8236160a82dff89f1053b0c5c89936dc53ecfd7641f8ccc99e"
   ],
   [
+    "content/modules/prefix-spelling.json",
+    "13580fc2f4721727909dc4b0c3f4a832ce79050b70c727b22bd0eef9c4ff5811"
+  ],
+  [
+    "content/modules/punctuation-variation.json",
+    "673c329e06484b534db847d110db656ee78e52152c1ea1e3a1cd8e5ca46edebd"
+  ],
+  [
     "content/modules/reported-speech.json",
     "411b0f0cad670a4b335fe643f78d09792582736d37cd6f7bb848b384cfa175df"
+  ],
+  [
+    "content/modules/root-consonants.json",
+    "a2a1723ebafde088e9174db3fd2f974bbcf8cfe85d3e203e91c1bd0d4eb3fd7f"
+  ],
+  [
+    "content/modules/root-vowels.json",
+    "c0742dd152ac849a9020c62ae0c399cc82ada6d6aeaf67e1e7040c43456c40e3"
   ],
   [
     "content/modules/secondary-members.json",
@@ -309,6 +425,18 @@ const ASSETS=[
   [
     "content/modules/sentence-structure.json",
     "965d5ebc9086b50c4b34c261dba156540fc954fafe9ff3a4a70977b965b4ec9f"
+  ],
+  [
+    "content/modules/separators.json",
+    "f1055cff055407570ed7c171b6fdb9f109d76b6ff32e3e449a995b69daec7b07"
+  ],
+  [
+    "content/modules/service-word-spelling.json",
+    "deed7b1dc48bc7b3d38730ac540321f4a36e168ff3f9d0c0f2b500fd2cce4af8"
+  ],
+  [
+    "content/modules/sibilant-vowels.json",
+    "4dd2970217e65005011f4af3b47265ffcc7df865250d203f12adef855a901814"
   ],
   [
     "content/modules/simple-complications.json",
@@ -323,12 +451,20 @@ const ASSETS=[
     "34d05c33c20f2ce5af972d0fa7579d798d06cb11a39c9d940d368a1d02ca622e"
   ],
   [
+    "content/modules/verb-spelling.json",
+    "3270822e8a6c9e0ddd1bbef14558df16cdc21923b462591ce4c08e575fb6b77f"
+  ],
+  [
+    "content/modules/word-boundaries.json",
+    "2159511f8654cde210a360a6dda5e5b65e980038297f2d484fa118e1335b05fa"
+  ],
+  [
     "content/runtime-index.json",
-    "04edab8dfe28fbe9f710a8609b2cb98cbdc58e5cf3d50aff61ff1c005462bcf2"
+    "1d1f55a9a6ed786e2feee5846a26eef5a6f5e4b4dac64b9457c23f9717b4aabf"
   ],
   [
     "content/tips.json",
-    "61df14991c15da1da4f58f29d8a0769c9187b652435ad536e9f945041aa64a2f"
+    "62596e2ba4e358bf2903b55e5c2796da258594e85071219dfd631b661178c5af"
   ],
   [
     "icons/apple-touch-icon.png",
@@ -352,7 +488,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "16c06eaa9a16269cec0531b0081917ab544ac5943d88c3622059c7363cc34851"
+    "767abca76131e9e02aa523c122d022ccb475103fafe0adb66d849432f3ddf40c"
   ],
   [
     "manifest.webmanifest",
@@ -360,11 +496,15 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "e0d88a441d633011a7cd210d29884fe4d06c00f873b669102bf24af20bfcd73d"
+    "4167c9eed8c9f8a493ed0a2c0eee9f5b579ca8efc664c5fdafa6c7d6bac8d12f"
   ],
   [
     "src/core/assessment.js",
-    "1ab24d8d8c88893fd593749e5fa29052141a6f4383f81b1b7b51a89361996292"
+    "a48d7404a02b264ce9424889750f5db8f6ed0b573ee6a1eaaa55ccb9a79804e9"
+  ],
+  [
+    "src/core/choice-order.js",
+    "c3f2422101a26c7e6348f55921ab39e74c872777ea532dca065becb80407109a"
   ],
   [
     "src/core/content.js",
@@ -384,19 +524,19 @@ const ASSETS=[
   ],
   [
     "src/core/lesson-view.js",
-    "d716734235b7cf77a9cf1df149a97af1d4c1a06efd950014f9c3d9b263ae0612"
+    "0b40a7058f05deb211704214e900ee93da6dad0e7c4dcda0b9378b2e1c6d68f1"
   ],
   [
     "src/core/module-view.js",
-    "4c6a313e322c8258dea8e89b8f5dbbdf4831961e05b0161caa62193e7d46ce4d"
+    "a6b2ef030bebd3ab7f8defd669ee3077506e3ef877f622ba73df6c189254f274"
   ],
   [
     "src/core/modules.js",
-    "ec21ec9a4a342438b3146bea871029780de61b07d0008672f9d8ba5d0715f912"
+    "868454fb125fc3874c2c9ac7b56e17073a47b9f6756861b807aa753155182b66"
   ],
   [
     "src/core/practice.js",
-    "39a7481e031e291d42917c89aec0257d03ce33998aa019e1dd673b2b9243805e"
+    "bb7172ff4562cfbd6aca29b488f230b42c390992a2f90a77b0c5510995dea96e"
   ],
   [
     "src/core/progress.js",
@@ -404,7 +544,7 @@ const ASSETS=[
   ],
   [
     "src/core/prompt.js",
-    "7a17b0d430d6157c831121d7263e1ba0827c2fea51fc2161d13e5313a621922c"
+    "73a8aa34b321d5dced96f5eb6847491e0f82fa1cbb58679df6e14af63202aa31"
   ],
   [
     "src/core/storage.js",

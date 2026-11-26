@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.mixed-punctuation",
+  "title": "Сложные предложения с разными видами связи (базовый контроль)",
+  "moduleNumber": "07.12",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.mixed-punctuation.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Сложные предложения с разными видами связи",
+    "url": "https://orthographia.ru/punctuatio.php?sid=132"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.mixed-punctuation.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Секретарь сообщил, что письмо пришло □ и документы зарегистрированы. Это два факта в одном сообщении.",
+          "answer": "нет",
+          "ex": "Однородные придаточные соединены и.",
+          "instruction": "Введите знак вместо □: запятая , или двоеточие :, либо слово нет, если знак не нужен. Остальной текст не переписывайте.",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation"
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Я проверил прибор □ когда индикатор погас, и выключил питание.",
+          "answer": ",",
+          "ex": "Придаточная часть времени обособляется.",
+          "instruction": "Введите знак вместо □: запятая , или двоеточие :, либо слово нет, если знак не нужен. Остальной текст не переписывайте.",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.mixed-punctuation.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Начальник предупредил □ хотя ремонт закончен, движение пока закрыто. Требуется традиционный знак пояснения.",
+          "answer": ":",
+          "ex": "Второй сложный блок раскрывает содержание предупреждения.",
+          "instruction": "Введите знак вместо □: запятая , или двоеточие :, либо слово нет, если знак не нужен. Остальной текст не переписывайте.",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation"
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Когда собрание закончилось, секретарь убрал бумаги □ но председатель остался в кабинете.",
+          "answer": ",",
+          "ex": "Противительный союз но требует запятой между главными частями.",
+          "instruction": "Введите знак вместо □: запятая , или двоеточие :, либо слово нет, если знак не нужен. Остальной текст не переписывайте.",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation"
+        }
+      ]
+    }
+  ]
+}

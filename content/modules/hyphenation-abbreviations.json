@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.hyphenation-abbreviations",
+  "title": "Перенос, сокращения, аббревиатуры и графические обозначения (базовый контроль)",
+  "moduleNumber": "06.13",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.hyphenation-abbreviations.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Перенос, сокращения, аббревиатуры и графические обозначения",
+    "url": "https://orthographia.ru/orfografia.php?sid=97"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.hyphenation-abbreviations.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Допустим ли перенос «чай-ник»? Да или нет.",
+          "answer": "да",
+          "ex": "Й не отрывается от предшествующей буквы.",
+          "instruction": "Ответьте строго в формате, указанном в задании: да/нет либо сокращение или обозначение с нужным знаком. Не добавляйте точку к ответу да или нет.",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation"
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Допустим ли перенос «ча-йник»? Да или нет.",
+          "answer": "нет",
+          "ex": "Й отделён от предыдущей буквы.",
+          "instruction": "Ответьте строго в формате, указанном в задании: да/нет либо сокращение или обозначение с нужным знаком. Не добавляйте точку к ответу да или нет.",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.hyphenation-abbreviations.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Графическое сокращение «город» перед названием, одна буква с нужным знаком.",
+          "answer": "г.",
+          "ex": "В данной функции графическое сокращение с точкой.",
+          "instruction": "Ответьте строго в формате, указанном в задании: да/нет либо сокращение или обозначение с нужным знаком. Не добавляйте точку к ответу да или нет.",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation"
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Обозначение миллиметра после числа: мм или мм.?",
+          "answer": "мм",
+          "ex": "Обозначение единицы без точки.",
+          "instruction": "Ответьте строго в формате, указанном в задании: да/нет либо сокращение или обозначение с нужным знаком. Не добавляйте точку к ответу да или нет.",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation"
+        }
+      ]
+    }
+  ]
+}

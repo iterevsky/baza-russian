@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.root-vowels",
+  "title": "Проверяемые, непроверяемые и чередующиеся гласные корня (базовый контроль)",
+  "moduleNumber": "06.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.root-vowels.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Проверяемые, непроверяемые и чередующиеся гласные корня",
+    "url": "https://orthographia.ru/orfografia.php?sid=31"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.root-vowels.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.root-vowels.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "пос[…]деть от возраста.",
+          "answer": "поседеть",
+          "ex": "Седой: стать седым.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.root-vowels.foundation"
+        },
+        {
+          "id": "ru.orthography.root-vowels.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "пос[…]деть на скамье.",
+          "answer": "посидеть",
+          "ex": "Сидя: проверка значения «сидеть».",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.root-vowels.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.root-vowels.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.root-vowels.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "к[…]ридор здания.",
+          "answer": "коридор",
+          "ex": "Непроверяемое словарное написание.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.root-vowels.foundation"
+        },
+        {
+          "id": "ru.orthography.root-vowels.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "выр[…]щивать рассаду.",
+          "answer": "выращивать",
+          "ex": "Перед щ пишется а в -ращ-.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.root-vowels.foundation"
+        }
+      ]
+    }
+  ]
+}

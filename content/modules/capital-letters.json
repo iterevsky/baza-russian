@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.capital-letters",
+  "title": "Прописные и строчные буквы, имена собственные (базовый контроль)",
+  "moduleNumber": "06.12",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.capital-letters.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Прописные и строчные буквы, имена собственные",
+    "url": "https://orthographia.ru/orfografia.php?sid=81"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.capital-letters.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.capital-letters.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Купили (тульский) пряник (обычное описательное название изделия).",
+          "answer": "тульский",
+          "ex": "Прилагательное не часть собственного имени.",
+          "instruction": "Восстановите регистр в слове или сочетании в скобках. Введите только его полностью, сохранив остальные буквы и пробелы.",
+          "lessonId": "ru.orthography.capital-letters.foundation"
+        },
+        {
+          "id": "ru.orthography.capital-letters.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Город (санкт-петербург) (официальное название).",
+          "answer": "Санкт-Петербург",
+          "ex": "Обе собственные части с прописной и дефисом.",
+          "instruction": "Восстановите регистр в слове или сочетании в скобках. Введите только его полностью, сохранив остальные буквы и пробелы.",
+          "lessonId": "ru.orthography.capital-letters.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.capital-letters.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.capital-letters.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "(государственный русский музей) (официальное название).",
+          "answer": "Государственный Русский музей",
+          "ex": "Прописные у первого слова и Русский как части закреплённого названия.",
+          "instruction": "Восстановите регистр в слове или сочетании в скобках. Введите только его полностью, сохранив остальные буквы и пробелы.",
+          "lessonId": "ru.orthography.capital-letters.foundation"
+        },
+        {
+          "id": "ru.orthography.capital-letters.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "(улица арбат) (в середине предложения, сочетание целиком).",
+          "answer": "улица Арбат",
+          "ex": "Родовое обозначение улица строчное.",
+          "instruction": "Восстановите регистр в слове или сочетании в скобках. Введите только его полностью, сохранив остальные буквы и пробелы.",
+          "lessonId": "ru.orthography.capital-letters.foundation"
+        }
+      ]
+    }
+  ]
+}
