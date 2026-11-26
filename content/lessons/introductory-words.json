@@ -185,6 +185,33 @@
       "ex": "Сочетание указывает на источник сообщения.",
       "id": "ru.punctuation.introductory-words.practice.05",
       "type": "comma-positions"
+    },
+    {
+      "id": "ru.punctuation.introductory-words.practice.choice.01",
+      "type": "single-choice",
+      "prompt": "В предложении «Однако встреча состоялась» какую роль играет «однако»?",
+      "options": [
+        "Вводное слово",
+        "Противительный союз"
+      ],
+      "expected": [
+        1
+      ],
+      "ex": "В начале данного предложения однако соединяет его с предшествующим высказыванием."
+    },
+    {
+      "id": "ru.punctuation.introductory-words.practice.choice.02",
+      "type": "single-choice",
+      "prompt": "Что выражает «по мнению автора» в предложении «По мнению автора, замысел удался»?",
+      "options": [
+        "Источник мнения",
+        "Время события",
+        "Причину события"
+      ],
+      "expected": [
+        0
+      ],
+      "ex": "Сочетание указывает на источник мнения."
     }
   ],
   "cards": [
@@ -255,5 +282,56 @@
   },
   "tipIds": [
     "however"
+  ],
+  "examVariants": [
+    {
+      "id": "ru.punctuation.introductory-words.exam.b",
+      "version": 1,
+      "threshold": 100,
+      "questions": [
+        {
+          "id": "ru.punctuation.introductory-words.exam.b.01",
+          "type": "exact-text",
+          "raw": "К удивлению поездка оказалась короткой.",
+          "answer": "К удивлению, поездка оказалась короткой.",
+          "ex": "Вводное сочетание выражает эмоциональную оценку."
+        },
+        {
+          "id": "ru.punctuation.introductory-words.exam.b.02",
+          "type": "exact-text",
+          "raw": "Мы наверное встретимся вечером.",
+          "answer": "Мы, наверное, встретимся вечером.",
+          "ex": "Наверное выражает предположение."
+        },
+        {
+          "id": "ru.punctuation.introductory-words.exam.b.03",
+          "type": "exact-text",
+          "raw": "По мнению врача нагрузку нужно снизить.",
+          "answer": "По мнению врача, нагрузку нужно снизить.",
+          "ex": "Указание на источник мнения."
+        },
+        {
+          "id": "ru.punctuation.introductory-words.exam.b.04",
+          "type": "exact-text",
+          "raw": "Однако поезд не остановился.",
+          "answer": "Однако поезд не остановился.",
+          "ex": "В начале предложения это противительный союз."
+        },
+        {
+          "id": "ru.punctuation.introductory-words.exam.b.05",
+          "type": "exact-text",
+          "raw": "Ответ однако оказался точным.",
+          "answer": "Ответ, однако, оказался точным.",
+          "ex": "Здесь однако является вводным."
+        },
+        {
+          "id": "ru.punctuation.introductory-words.exam.b.06",
+          "type": "exact-text",
+          "raw": "Он вряд ли согласится.",
+          "answer": "Он вряд ли согласится.",
+          "ex": "Вряд ли не является вводным."
+        }
+      ]
+    }
   ]
 }

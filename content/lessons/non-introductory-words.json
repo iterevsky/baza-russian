@@ -161,6 +161,34 @@
       ],
       "expected": [],
       "ex": "Даже не является вводным словом."
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words.practice.choice.01",
+      "type": "single-choice",
+      "prompt": "Какое слово само по себе не требует обособления?",
+      "options": [
+        "К сожалению",
+        "Якобы",
+        "По-моему"
+      ],
+      "expected": [
+        1
+      ],
+      "ex": "Якобы является частицей."
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words.practice.choice.02",
+      "type": "single-choice",
+      "prompt": "Почему в предложении «Он ведь, кажется, устал» стоит первая запятая?",
+      "options": [
+        "Обособляется ведь",
+        "Отделяется подлежащее",
+        "Начинается вводное слово кажется"
+      ],
+      "expected": [
+        2
+      ],
+      "ex": "Запятые относятся к вводному слову кажется."
     }
   ],
   "cards": [
@@ -234,5 +262,56 @@
       }
     ]
   },
-  "tipIds": []
+  "tipIds": [],
+  "examVariants": [
+    {
+      "id": "ru.punctuation.non-introductory-words.exam.b",
+      "version": 1,
+      "threshold": 100,
+      "questions": [
+        {
+          "id": "ru.punctuation.non-introductory-words.exam.b.01",
+          "type": "exact-text",
+          "raw": "Она якобы потеряла билет.",
+          "answer": "Она якобы потеряла билет.",
+          "ex": "Якобы не обособляется."
+        },
+        {
+          "id": "ru.punctuation.non-introductory-words.exam.b.02",
+          "type": "exact-text",
+          "raw": "Вряд ли автобус уже ушёл.",
+          "answer": "Вряд ли автобус уже ушёл.",
+          "ex": "Вряд ли не вводное сочетание."
+        },
+        {
+          "id": "ru.punctuation.non-introductory-words.exam.b.03",
+          "type": "exact-text",
+          "raw": "Нужна именно эта деталь.",
+          "answer": "Нужна именно эта деталь.",
+          "ex": "Именно уточняет выбор."
+        },
+        {
+          "id": "ru.punctuation.non-introductory-words.exam.b.04",
+          "type": "exact-text",
+          "raw": "Встреча вероятно состоится утром.",
+          "answer": "Встреча, вероятно, состоится утром.",
+          "ex": "Вероятно выражает предположение."
+        },
+        {
+          "id": "ru.punctuation.non-introductory-words.exam.b.05",
+          "type": "exact-text",
+          "raw": "Он даже не открыл дверь.",
+          "answer": "Он даже не открыл дверь.",
+          "ex": "Даже не требует обособления."
+        },
+        {
+          "id": "ru.punctuation.non-introductory-words.exam.b.06",
+          "type": "exact-text",
+          "raw": "Она ведь кажется уже вернулась.",
+          "answer": "Она ведь, кажется, уже вернулась.",
+          "ex": "Обособляется кажется, а не ведь."
+        }
+      ]
+    }
+  ]
 }
