@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.argumentation.logic-fallacies",
+  "title": "Логические ошибки и манипуляции (базовый контроль)",
+  "moduleNumber": "12.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.argumentation.logic-fallacies.foundation"
+  ],
+  "source": {
+    "title": "Большая российская энциклопедия, Логические ошибки",
+    "url": "https://old.bigenc.ru/philosophy/text/2181515"
+  },
+  "variants": [
+    {
+      "id": "ru.argumentation.logic-fallacies.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.logic-fallacies.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Сравнивают стоимость за литр с ценой за упаковку без пересчёта. Что нарушено: сопоставимость или рифмовка?",
+          "answer": "сопоставимость",
+          "ex": "Показатели выражены на разных основаниях.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.logic-fallacies.foundation"
+        },
+        {
+          "id": "ru.argumentation.logic-fallacies.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«В городе А новый маршрут успешен, поэтому любой такой маршрут успешен». Что следует проверить: условия переноса или регистр буквы?",
+          "answer": "условия переноса",
+          "ex": "Результат зависит от местного спроса и других обстоятельств.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.logic-fallacies.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.argumentation.logic-fallacies.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.logic-fallacies.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "В споре вместо расчёта затрат показывают устрашающие картинки, не связанные с проектом. Чего всё ещё недостаёт: расчёта затрат или изображений?",
+          "answer": "расчёта затрат",
+          "ex": "Эмоциональный эффект не отвечает на исходный вопрос о цене.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.logic-fallacies.foundation"
+        },
+        {
+          "id": "ru.argumentation.logic-fallacies.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "«Некоторые сотрудники опоздали» заменили выводом «все опоздали». Какое слово неправомерно усилили: некоторые или сотрудники?",
+          "answer": "некоторые",
+          "ex": "Частное утверждение подменено всеобщим.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.logic-fallacies.foundation"
+        }
+      ]
+    }
+  ]
+}

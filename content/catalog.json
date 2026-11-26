@@ -1168,7 +1168,48 @@
       "title": "Речь, аргументация и жанры",
       "moduleCount": 8,
       "description": "Мысль, текст, высказывание",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.argumentation.thesis-evidence.foundation",
+          "file": "lessons/thesis-evidence.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.logic-fallacies.foundation",
+          "file": "lessons/logic-fallacies.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.reasoning-counterarguments.foundation",
+          "file": "lessons/reasoning-counterarguments.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.foundation",
+          "file": "lessons/business-correspondence.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.analytical-memo.foundation",
+          "file": "lessons/analytical-memo.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.public-science-writing.foundation",
+          "file": "lessons/public-science-writing.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.oral-speech-discussion.foundation",
+          "file": "lessons/oral-speech-discussion.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.independent-writing.foundation",
+          "file": "lessons/independent-writing.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "12.01",
@@ -1601,6 +1642,38 @@
     {
       "id": "ru.stylistics.revision-comparison",
       "file": "modules/revision-comparison.json"
+    },
+    {
+      "id": "ru.argumentation.thesis-evidence",
+      "file": "modules/thesis-evidence.json"
+    },
+    {
+      "id": "ru.argumentation.logic-fallacies",
+      "file": "modules/logic-fallacies.json"
+    },
+    {
+      "id": "ru.argumentation.reasoning-counterarguments",
+      "file": "modules/reasoning-counterarguments.json"
+    },
+    {
+      "id": "ru.argumentation.business-correspondence",
+      "file": "modules/business-correspondence.json"
+    },
+    {
+      "id": "ru.argumentation.analytical-memo",
+      "file": "modules/analytical-memo.json"
+    },
+    {
+      "id": "ru.argumentation.public-science-writing",
+      "file": "modules/public-science-writing.json"
+    },
+    {
+      "id": "ru.argumentation.oral-speech-discussion",
+      "file": "modules/oral-speech-discussion.json"
+    },
+    {
+      "id": "ru.argumentation.independent-writing",
+      "file": "modules/independent-writing.json"
     }
   ],
   "lessonOrder": [
@@ -1734,6 +1807,14 @@
     "ru.stylistics.author-voice.foundation",
     "ru.stylistics.editorial-diagnosis.foundation",
     "ru.stylistics.proofreading-typography.foundation",
-    "ru.stylistics.revision-comparison.foundation"
+    "ru.stylistics.revision-comparison.foundation",
+    "ru.argumentation.thesis-evidence.foundation",
+    "ru.argumentation.logic-fallacies.foundation",
+    "ru.argumentation.reasoning-counterarguments.foundation",
+    "ru.argumentation.business-correspondence.foundation",
+    "ru.argumentation.analytical-memo.foundation",
+    "ru.argumentation.public-science-writing.foundation",
+    "ru.argumentation.oral-speech-discussion.foundation",
+    "ru.argumentation.independent-writing.foundation"
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.argumentation.oral-speech-discussion",
+  "title": "Устная речь, выступление и дискуссия (базовый контроль)",
+  "moduleNumber": "12.07",
+  "status": "draft",
+  "lessonIds": [
+    "ru.argumentation.oral-speech-discussion.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, критерии хорошей речи",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii"
+  },
+  "variants": [
+    {
+      "id": "ru.argumentation.oral-speech-discussion.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.oral-speech-discussion.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Один участник сообщает проверяемое число, другой выражает недовольство. Нужно ли различать факт и оценку? Да или нет.",
+          "answer": "да",
+          "ex": "Они выполняют разные функции и требуют разных ответов.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.oral-speech-discussion.foundation"
+        },
+        {
+          "id": "ru.argumentation.oral-speech-discussion.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Докладчик показывает график и произносит «здесь всё видно». Чего недостаёт: словесного объяснения ключевого вывода или украшений?",
+          "answer": "словесного объяснения ключевого вывода",
+          "ex": "Не все слушатели могут быстро прочитать график или увидеть его.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.oral-speech-discussion.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.argumentation.oral-speech-discussion.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.oral-speech-discussion.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "После выступления задан вопрос, выходящий за его тему. Можно ли обозначить границу компетенции и предложить уточнить сведения? Да или нет.",
+          "answer": "да",
+          "ex": "Это позволяет ответить корректно без выдумки.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.oral-speech-discussion.foundation"
+        },
+        {
+          "id": "ru.argumentation.oral-speech-discussion.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "В конце доклада автор возвращается к исходному вопросу и сообщает решение. Как называется эта часть: заключение или обращение?",
+          "answer": "заключение",
+          "ex": "Она завершает смысловую структуру доклада.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.oral-speech-discussion.foundation"
+        }
+      ]
+    }
+  ]
+}

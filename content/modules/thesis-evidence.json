@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.argumentation.thesis-evidence",
+  "title": "Тезис, аргумент, доказательство и пример (базовый контроль)",
+  "moduleNumber": "12.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.argumentation.thesis-evidence.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Тезис",
+    "url": "https://gramota.ru/meta/tezis"
+  },
+  "variants": [
+    {
+      "id": "ru.argumentation.thesis-evidence.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.thesis-evidence.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«Нужен навес, поскольку посетители мокнут под дождём». Что связывает основание и предложение: защита от дождя или цвет навеса?",
+          "answer": "защита от дождя",
+          "ex": "Предложение отвечает на описанную проблему.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.thesis-evidence.foundation"
+        },
+        {
+          "id": "ru.argumentation.thesis-evidence.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Из двух возможных объяснений события выбрали одно без проверки второго. Что осталось непроверенным: альтернатива или орфограмма?",
+          "answer": "альтернатива",
+          "ex": "Конкурирующее объяснение ещё не исключено.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.thesis-evidence.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.argumentation.thesis-evidence.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.thesis-evidence.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Автор цитирует исследование о школьниках для вывода о младенцах. Что различается: исследуемая группа или пунктуация?",
+          "answer": "исследуемая группа",
+          "ex": "Вывод переносится на группу, которую исследование не охватывало.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.thesis-evidence.foundation"
+        },
+        {
+          "id": "ru.argumentation.thesis-evidence.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "«В опросе ответили 40 из 100 приглашённых». Можно ли называть 100 числом ответивших? Да или нет.",
+          "answer": "нет",
+          "ex": "Сто человек приглашены, но ответили сорок.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.thesis-evidence.foundation"
+        }
+      ]
+    }
+  ]
+}

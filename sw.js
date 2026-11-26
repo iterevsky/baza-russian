@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.32.0";
-const DIGEST="8f96ae978dbfa3dab121cf4c";
+const RELEASE="0.33.0";
+const DIGEST="877d2ef4d5cc8d8d7bd7af52";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "20ab0b93e8978c34dd9767910b85dffe125c7e77aba5f1544f0948beeaab36b5"
+    "20a54a75db8dd4d2df1b535468d1536f465a733b39a193f9e1e57c9d3d4e4fdd"
   ],
   [
     "content/lessons/addresses.json",
@@ -25,6 +25,10 @@ const ASSETS=[
   [
     "content/lessons/ambiguous-introductory.json",
     "dea64fb90a947ff41efe4504fcf2d382ccd330c9b5737624d3682be700eadc41"
+  ],
+  [
+    "content/lessons/analytical-memo.json",
+    "e43122d634928f4794857c83467931f6d149134257bee00e392da0e7b9fc15b2"
   ],
   [
     "content/lessons/asyndetic-colon-dash.json",
@@ -53,6 +57,10 @@ const ASSETS=[
   [
     "content/lessons/borrowing-etymology.json",
     "4ab0b8a365d6a8d7293e14ff544c1a3e98992b524da0bc3af12796cbddefb50e"
+  ],
+  [
+    "content/lessons/business-correspondence.json",
+    "1371f4170e93221db20c82656ab21ff67b0da154bf1e40d6ee90b4e264a568bc"
   ],
   [
     "content/lessons/capital-letters.json",
@@ -211,6 +219,10 @@ const ASSETS=[
     "dec60e62d0c22a0282f535c697f4cb8fea9f1ceb84591edaec04b9378c806d74"
   ],
   [
+    "content/lessons/independent-writing.json",
+    "9b14d202c17e8975bd422785e305f616082494be9df7057188aaeaa73403c210"
+  ],
+  [
     "content/lessons/indirect-transformation.json",
     "c026274524e815d11b9bc230f9538f6a22fea2f11c3f5fcd858b97baf2d0e43c"
   ],
@@ -265,6 +277,10 @@ const ASSETS=[
   [
     "content/lessons/lexical-relations.json",
     "0974dcc71be16ae15f89e2ed939ceddea5eef5179deaac017edcb7c3be3db9cb"
+  ],
+  [
+    "content/lessons/logic-fallacies.json",
+    "4dfa91ecb8150f64200b1a5c5d54a6ebb2ff76d0a2919844ef1995e5ffb8b972"
   ],
   [
     "content/lessons/mixed-links.json",
@@ -327,6 +343,10 @@ const ASSETS=[
     "819e6d26716ae06aaca52e76c966b210874027f0a52681efc845a185ce436e76"
   ],
   [
+    "content/lessons/oral-speech-discussion.json",
+    "6c9aa0f522522efcdca4dc8abf95ec85b5cf3eeac249e27ae6f78766ddcc2c59"
+  ],
+  [
     "content/lessons/paronyms-collocation.json",
     "fdf9ca0c57b4709c686aa4e634eb7ad883ad64c38365a1d0d35356dd5f9751ae"
   ],
@@ -375,8 +395,16 @@ const ASSETS=[
     "1cfa52c5f58f3644ebd51851efae28551aa410934af32ee156f6e2053871aac0"
   ],
   [
+    "content/lessons/public-science-writing.json",
+    "1b0de2e87b8f897a74363b5443e8c2d3c037889a334f5fbc91d9c8df49278d66"
+  ],
+  [
     "content/lessons/punctuation-variation.json",
     "1395e29408a43c3a6757b1a1045b327d130030d3d859150563dc4d75dc3654cc"
+  ],
+  [
+    "content/lessons/reasoning-counterarguments.json",
+    "66b529f896cf081e428042ef89a41201cbb47e9c0df9c347c4a62b50235c98c0"
   ],
   [
     "content/lessons/register-connotation.json",
@@ -491,6 +519,10 @@ const ASSETS=[
     "5509a5840716e0b5d798deffd19e2b34a35382b157f04d14e273401a62452cd8"
   ],
   [
+    "content/lessons/thesis-evidence.json",
+    "a34798df2c9618bc607297c37c0a2ebc2914b3a21a8afc3b479ca0d9ac028713"
+  ],
+  [
     "content/lessons/tropes-figures.json",
     "ca4c77f4d116d2b558fa34da2c4eac55791b0e3ae36247a984f9a44f0f431eee"
   ],
@@ -543,6 +575,10 @@ const ASSETS=[
     "d64c1762b377ce425bbcaed48300394f2146cf7670acf9f1866119974cfdd34b"
   ],
   [
+    "content/modules/analytical-memo.json",
+    "c6afb9f018cf112e598c3a089a5d2c0e1b37c2c801f57532b688d727e32f365b"
+  ],
+  [
     "content/modules/asyndetic-punctuation.json",
     "026182d77b048a1093552ccd031e49d7285a0b7c9a11813ba19c6efa55fd917c"
   ],
@@ -557,6 +593,10 @@ const ASSETS=[
   [
     "content/modules/borrowing-etymology.json",
     "ec553876242294b959e97b3f5674255c06e7de153df3a83331ed1a154842f198"
+  ],
+  [
+    "content/modules/business-correspondence.json",
+    "52753e5122bceaa666c42ed223177ee92859554d98c5378caccb2fa7d669123c"
   ],
   [
     "content/modules/capital-letters.json",
@@ -651,6 +691,10 @@ const ASSETS=[
     "0a162893c3195f072ea15f527280d74b38fcf5a670b9a64548eb2ffdf85183eb"
   ],
   [
+    "content/modules/independent-writing.json",
+    "ce135e866444ad83e047abd869d41226dd55ab5b0ac6fbe861b9cad143e9892b"
+  ],
+  [
     "content/modules/introductory.json",
     "bdfde277bb88daebd268b21452f35895e3e6b87fc55e4db8be160316c9b65639"
   ],
@@ -681,6 +725,10 @@ const ASSETS=[
   [
     "content/modules/lexical-relations.json",
     "4cdcda89b24db6e1d002ecd90b5273f4d48d270adac72c059b2337b595e5d1cc"
+  ],
+  [
+    "content/modules/logic-fallacies.json",
+    "2ddf4487ce09d5f41a8c41b0710a18d4b6d3fda57e0e38014acc2737089848fb"
   ],
   [
     "content/modules/main-members.json",
@@ -739,6 +787,10 @@ const ASSETS=[
     "e686a9f7e016d76c8f2a3c29aa7fa63310a794d1260990b2e64444d795f6e7d8"
   ],
   [
+    "content/modules/oral-speech-discussion.json",
+    "22c955a7452c634ef44e3a1e617b0d77a4c040b0e13f74c1adc41e235d008e95"
+  ],
+  [
     "content/modules/paronyms-collocation.json",
     "ba4df567c82bb3eeb275c4c63df5dbe2fdc71dbd1e01a7f3c8af74db9fca163c"
   ],
@@ -783,8 +835,16 @@ const ASSETS=[
     "dd30c2e828a44e5a9a26b36701cac578595919cc9cf96513169eda0165fce863"
   ],
   [
+    "content/modules/public-science-writing.json",
+    "7855e406204e29360e1577b44e9992b5156e7d253b6190a5a6a74e89488fd656"
+  ],
+  [
     "content/modules/punctuation-variation.json",
     "673c329e06484b534db847d110db656ee78e52152c1ea1e3a1cd8e5ca46edebd"
+  ],
+  [
+    "content/modules/reasoning-counterarguments.json",
+    "7de268f696ef0b987a4a9b957d612deeb18820844ee92a7559129f2c23422cc1"
   ],
   [
     "content/modules/register-connotation.json",
@@ -887,6 +947,10 @@ const ASSETS=[
     "14c3bebbd7fa44a1ffa249cdede73e941dd1260f32f5289684d12eb84942a7d2"
   ],
   [
+    "content/modules/thesis-evidence.json",
+    "6e36502f0eebb17ff02e4b1ff0bba4b71914b6edba6dd9d4e848b80849c81eec"
+  ],
+  [
     "content/modules/tropes-figures.json",
     "63116ae48ef81b5c068684c774eeb002f865bc853727d7ff2bbbf3177c9ffbb4"
   ],
@@ -932,11 +996,11 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "0f988bf512e10b278bdde689690679230e97a5893432e65b44c0091cb88ba120"
+    "c834b95388eeaa5d50eb5a42e75634db69f79d4a7fce65251435a46f3b2efe81"
   ],
   [
     "content/tips.json",
-    "97f86425e95d4c00235bb2c52f714cf4210b14bfeac381956c1ae745d1b98096"
+    "d7f1768b67017f65098903d78e532aefe7ba48fb5d1e613d8adda5c50e8ad35c"
   ],
   [
     "icons/apple-touch-icon.png",
@@ -960,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "9878bb6d2467164950ef84ce629220d62e279f490156148476d8629b30de39fa"
+    "7b70e13cca7792c4e4a6b5ab76ebf0344b20d1fe9a6bc517b07b7af4ea51704e"
   ],
   [
     "manifest.webmanifest",
@@ -968,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "f1d06bdd354d79b6cb1994ea83a78afd5e599eed2999550e0e6186737c3dedcb"
+    "dd1ffce0c929e9fc5461db7243b8150719c16c9d9c06c90366d53f556370ade9"
   ],
   [
     "src/core/assessment.js",

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.argumentation.business-correspondence",
+  "title": "Деловое письмо и рабочая переписка (базовый контроль)",
+  "moduleNumber": "12.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.argumentation.business-correspondence.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Как составить деловое письмо",
+    "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sostavit-pismo"
+  },
+  "variants": [
+    {
+      "id": "ru.argumentation.business-correspondence.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«Просим подтвердить получение письма». Какое действие ожидается: подтверждение или оплата?",
+          "answer": "подтверждение",
+          "ex": "Прямо запрашивается сообщение о получении.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "В теме письма указано «срочно», но не указан вопрос. Что полезнее добавить: предмет письма или второй восклицательный знак?",
+          "answer": "предмет письма",
+          "ex": "Тема должна идентифицировать задачу, а не только её приоритет.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.argumentation.business-correspondence.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Два коллеги имеют одинаковое имя; письмо адресовано одному из них. Что проверить перед отправкой: адрес получателя или длину абзаца?",
+          "answer": "адрес получателя",
+          "ex": "Проверка предотвращает отправку не тому человеку.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "«Спасибо за ответ. Уточните, пожалуйста, дату поставки». Что выражает второе предложение: просьбу или подтверждение поставки? Ответ в именительном падеже.",
+          "answer": "просьба",
+          "ex": "Дата пока запрашивается, а не подтверждается.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.argumentation.reasoning-counterarguments",
+  "title": "Структура рассуждения и контраргументация (базовый контроль)",
+  "moduleNumber": "12.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.argumentation.reasoning-counterarguments.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, научный стиль и аргументация",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+  },
+  "variants": [
+    {
+      "id": "ru.argumentation.reasoning-counterarguments.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.reasoning-counterarguments.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "В тексте три основания, но ни одно не связано с исходным вопросом. Что нарушено: релевантность или согласование рода?",
+          "answer": "релевантность",
+          "ex": "Аргументы должны отвечать на обсуждаемую проблему.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.reasoning-counterarguments.foundation"
+        },
+        {
+          "id": "ru.argumentation.reasoning-counterarguments.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«Необходимо выяснить причины задержки» вместо «виноват водитель» при нехватке сведений. Что изменилось: степень категоричности или число водителей?",
+          "answer": "степень категоричности",
+          "ex": "Вывод о виновности заменён задачей проверки.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.reasoning-counterarguments.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.argumentation.reasoning-counterarguments.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.reasoning-counterarguments.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Когда новые данные опровергают исходную позицию, следует пересмотреть её или обязательно сохранить? Ответ: пересмотреть или сохранить.",
+          "answer": "пересмотреть",
+          "ex": "Аргументированная позиция допускает изменение по новым основаниям.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.reasoning-counterarguments.foundation"
+        },
+        {
+          "id": "ru.argumentation.reasoning-counterarguments.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "В предложении «поскольку расходы неизвестны, окончательное решение отложим» что связывает части: обоснование решения или перечисление предметов?",
+          "answer": "обоснование решения",
+          "ex": "Первая часть объясняет основание второй.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.reasoning-counterarguments.foundation"
+        }
+      ]
+    }
+  ]
+}
