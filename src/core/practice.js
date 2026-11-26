@@ -1,0 +1,17 @@
+import {norm,checkPositions} from './assessment.js';
+const str=x=>typeof x==='string'&&x.trim().length>0;
+const strings=(xs,n)=>Array.isArray(xs)&&xs.length>=n&&xs.every(str);
+export const advanced=q=>['classification','text-edit'].includes(q?.type);
+export function validAdvanced(q){
+ if(!str(q.prompt)||!str(q.ex))return false;
+ if(q.type==='text-edit')return str(q.raw)&&strings(q.accepted,1)&&new Set(q.accepted.map(norm)).size===q.accepted.length&&q.accepted.every(x=>norm(x.replaceAll(',',''))===norm(q.raw.replaceAll(',','')))&&!q.accepted.some(x=>norm(x)===norm(q.raw));
+ if(q.type==='classification')return strings(q.rows,2)&&strings(q.categories,2)&&new Set(q.rows).size===q.rows.length&&new Set(q.categories).size===q.categories.length&&Array.isArray(q.expected)&&q.expected.length===q.rows.length&&q.expected.every((i,r)=>Number.isInteger(i)&&i>=r*q.categories.length&&i<(r+1)*q.categories.length);
+ return false;
+}
+export function chooseCategory(q,selected,i){if(q?.type!=='classification'||!Number.isInteger(i)||i<0||i>=q.rows.length*q.categories.length)return selected;const row=Math.floor(i/q.categories.length);return [...selected.filter(x=>Math.floor(x/q.categories.length)!==row),i].sort((a,b)=>a-b)}
+export function ready(q,selected,text=''){if(!q)return false;if(q.type==='text-edit')return typeof text==='string'&&text.trim().length>0;if(q.type==='classification')return selected.length===q.rows.length&&new Set(selected.map(i=>Math.floor(i/q.categories.length))).size===q.rows.length&&selected.every(i=>Number.isInteger(i)&&i>=0&&i<q.rows.length*q.categories.length);return q.type==='comma-positions'||selected.length>0;}
+export function gradePractice(q,selected,text=''){return ready(q,selected,text)&&(q.type==='text-edit'?q.accepted.some(x=>norm(x)===norm(text)):checkPositions(selected,q.expected));}
+export function validAttempt(q,a){if(!Array.isArray(a.selected))return false;if(q.type==='text-edit')return !a.selected.length&&typeof a.answerText==='string'&&ready(q,[],a.answerText)&&a.correct===gradePractice(q,[],a.answerText);if(q.type==='classification')return ready(q,a.selected)&&a.correct===gradePractice(q,a.selected);const n=q.type==='comma-positions'?q.parts.length-1:q.options.length;return a.selected.every(i=>Number.isInteger(i)&&i>=0&&i<n)}
+export function describeAnswer(q,selected,text=''){if(q.type==='text-edit')return text;if(q.type==='classification')return q.rows.map((row,i)=>row+' → '+(q.categories[selected.find(x=>Math.floor(x/q.categories.length)===i)%q.categories.length]??'нет ответа')).join(' · ');if(q.type==='comma-positions')return q.parts.map((p,i)=>p+(selected.includes(i)?',':'')).join(' ');return selected.map(i=>q.options[i]).join(' · ')}
+export function answerKey(q){return q.type==='text-edit'?q.accepted.join(' / '):describeAnswer(q,q.expected)}
+export function advancedView(q,selected,text,checked,esc){if(q.type==='text-edit')return `<p class="sentence">${esc(q.raw)}</p><label for="practice-text">Исправленный текст (меняйте только запятые)</label><textarea class="search practice-text" id="practice-text" rows="4" ${checked?'disabled':''}>${esc(text)}</textarea>`;return `<div class="classification-list">${q.rows.map((row,r)=>`<fieldset class="classification-row"><legend>${esc(row)}</legend><div class="choice-list">${q.categories.map((c,i)=>{const k=r*q.categories.length+i;return `<button class="secondary" data-classify="${k}" aria-pressed="${selected.includes(k)}" ${checked?'disabled':''}>${esc(c)}</button>`}).join('')}</div></fieldset>`).join('')}</div>`;}

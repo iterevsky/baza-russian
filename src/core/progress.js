@@ -1,3 +1,4 @@
+import {validAttempt} from './practice.js';
 import {normalizeModule} from './modules.js';
 import {variantById,thresholdOrDefault} from './exams.js';
 import {gradeExam} from './assessment.js';
@@ -9,7 +10,7 @@ export function normalizeLesson(raw,l){
  d.note=typeof raw.note==='string'?raw.note:'';d.read=raw.read===true;
  const matches=(x)=>x&&(!x.lessonId||x.lessonId===l.id)&&(!x.contentVersion||x.contentVersion===l.version);
  const list=(x)=>Array.isArray(x)?x:[];
- for(const a of list(raw.attempts)){if(!matches(a))continue;const q=a.questionId?l.practice.findIndex(x=>x.id===a.questionId):a.q; if(!Number.isInteger(q)||!l.practice[q]||typeof a.correct!=='boolean'||!Array.isArray(a.selected)||!a.selected.every(i=>Number.isInteger(i)&&i>=0&&i<(l.practice[q].type==='comma-positions'?l.practice[q].parts.length-1:l.practice[q].options.length)))continue;d.attempts.push({...a,q,lessonId:l.id,questionId:l.practice[q].id,contentVersion:l.version});}
+ for(const a of list(raw.attempts)){if(!matches(a))continue;const q=a.questionId?l.practice.findIndex(x=>x.id===a.questionId):a.q; if(!Number.isInteger(q)||!l.practice[q]||typeof a.correct!=='boolean'||!validAttempt(l.practice[q],a))continue;d.attempts.push({...a,q,lessonId:l.id,questionId:l.practice[q].id,contentVersion:l.version});}
  for(const a of list(raw.cards)){if(!matches(a))continue;const card=a.cardId?l.cards.findIndex(x=>x.id===a.cardId):a.card;if(!Number.isInteger(card)||!l.cards[card]||!['again','known'].includes(a.rating))continue;d.cards.push({...a,card,lessonId:l.id,cardId:l.cards[card].id,contentVersion:l.version});}
  for(const a of list(raw.exams)){if(!matches(a))continue;const v=variantById(l,a.examId||l.exam.id);if(!v||a.version&&a.version!==v.version||!Array.isArray(a.answers)||a.answers.length!==v.questions.length||!a.answers.every(x=>typeof x==='string')||!Number.isInteger(a.score)||a.score!==gradeExam(v.questions,a.answers).filter(Boolean).length||d.exams.some(e=>e.examId===v.id))continue;if(a.questionIds&&(!Array.isArray(a.questionIds)||a.questionIds.some((id,i)=>id!==v.questions[i]?.id)||a.questionIds.length!==v.questions.length))continue;d.exams.push({...a,lessonId:l.id,examId:v.id,version:v.version,threshold:thresholdOrDefault(a.threshold),questionIds:v.questions.map(q=>q.id),contentVersion:l.version});}
  const draft=raw.examDraft;const v=variantById(l,draft?.examId);if(v&&!d.exams.some(a=>a.examId===v.id)&&draft.version===v.version&&Array.isArray(draft.answers)&&draft.answers.length===v.questions.length&&draft.answers.every(x=>typeof x==='string')&&Number.isInteger(draft.index)&&draft.index>=0&&draft.index<v.questions.length)d.examDraft={examId:v.id,version:v.version,answers:[...draft.answers],index:draft.index,threshold:thresholdOrDefault(draft.threshold)};

@@ -10,3 +10,6 @@
 
 /* Quiet, independent status: never replaces the learning screen. */
 .pwa-panel{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 44px;border-bottom:1px solid var(--line);background:var(--paper);font-size:12px;color:var(--muted)}.pwa-panel[hidden],.pwa-panel button[hidden]{display:none}.pwa-info{display:grid;gap:2px;min-width:0}.pwa-info #pwa-status{font-weight:650;color:var(--ink)}.pwa-actions{display:flex;flex-wrap:wrap;gap:6px;flex-shrink:0}.pwa-actions .iconbtn{font-size:11px;padding:5px 9px}@media(max-width:760px){.pwa-panel{padding:9px 16px;align-items:flex-start;flex-wrap:wrap}.pwa-actions{flex-shrink:1}}@media print{.pwa-panel{display:none!important}}
+
+/* Structured practice */
+.classification-list{display:grid;gap:14px}.classification-row{min-width:0;border:1px solid var(--line);padding:14px;border-radius:8px;margin:0}.classification-row legend{padding:0 5px;max-width:100%;overflow-wrap:anywhere;font-weight:600}.classification-row .choice-list{margin-top:6px}.practice-text{display:block;width:100%;box-sizing:border-box;margin-top:8px;resize:vertical;font:inherit;line-height:1.5}.feedback{overflow-wrap:anywhere}
