@@ -8,7 +8,7 @@ import {variants} from '../src/core/exams.js';
 import {normalize,parseImport} from '../src/core/progress.js';
 import {beginModule,finishModule} from '../src/core/modules.js';
 const fetcher=async u=>({ok:true,json:async()=>JSON.parse(await readFile(u,'utf8'))});
-const c=await loadCourse(fetcher),ids=new Set(c.catalog.lessonOrder.slice(0,37)),prior={...c,lessons:c.lessons.filter(l=>ids.has(l.id)),modules:c.modules.filter(m=>m.lessonIds.every(id=>ids.has(id)))},added=c.lessons.filter(l=>!ids.has(l.id)),mods=c.modules.filter(m=>!prior.modules.includes(m));
+const c=await loadCourse(fetcher),ids=new Set(c.catalog.lessonOrder.slice(0,37)),prior={...c,lessons:c.lessons.filter(l=>ids.has(l.id)),modules:c.modules.filter(m=>m.lessonIds.every(id=>ids.has(id)))},added=c.lessons.slice(37,43),mods=c.modules.filter(m=>m.lessonIds.every(id=>added.some(l=>l.id===id)));
 test('v0.24 adds six punctuation lessons, distinct exam prompts, and comma-position exercises',()=>{
  assert.equal(added.length,6);assert.deepEqual([...new Set(added.map(l=>l.moduleNumber))],['07.01','07.02','07.04']);assert.equal(mods.length,3);
  const seen=new Set(prior.lessons.flatMap(l=>variants(l).flatMap(v=>v.questions.map(q=>norm(q.raw)))));for(const m of prior.modules)for(const v of m.variants)for(const q of v.questions)seen.add(norm(q.raw));

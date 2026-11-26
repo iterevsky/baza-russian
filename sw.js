@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.24.0";
-const DIGEST="0108063a087425f81419868c";
+const RELEASE="0.25.0";
+const DIGEST="d3cb42e9b4ec15485baee982";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "b795b96774fb984df3c38b425e64539f08fe096886a126e66e6f7b634d5c7978"
+    "ecdd804f4451f44321e2e827097dffd6ee6b1c16bf505c5dcf80b4a598e66c1a"
   ],
   [
     "content/lessons/addresses.json",
@@ -31,6 +31,18 @@ const ASSETS=[
     "c11210d1792c54f58de38c7bc1586192c768e2e1b2681f69df66986edd98680a"
   ],
   [
+    "content/lessons/clarification.json",
+    "168f62ffdd7287b481495df10c164231f9eceb2e7d4848b17f57b35e588d49fe"
+  ],
+  [
+    "content/lessons/comparison-free.json",
+    "bc9044ff315e265863b3c4440f40635427959cca194e685ef679033766f3f741"
+  ],
+  [
+    "content/lessons/comparison-role.json",
+    "52ae9422f97c03bcfd488671942cb061f4404ad93193202947af1f829bfc9615"
+  ],
+  [
     "content/lessons/complication-types.json",
     "12c9b15b06c145ac39cd2b7c4a3624c31919615eda06dc0b7eac73eea54fcd5d"
   ],
@@ -51,12 +63,24 @@ const ASSETS=[
     "3cd13953cf1741f6fd498ebbfbd01eeb90f0c8ea57f955cb1092cbf7aab7a753"
   ],
   [
+    "content/lessons/detached-circumstances.json",
+    "fd856492a8378dff21c12d2ef7069a07a3e09ac293b1d60bb309b81cfebcb40b"
+  ],
+  [
+    "content/lessons/detached-definitions.json",
+    "63663028acde697a111bedb53f37825a371815b7612713d25c1bbb6c9fd18cce"
+  ],
+  [
     "content/lessons/end-basic.json",
     "e9b1ad7f9a420d26fa1531f91bc0d729e0acbd6bbe6762712fa4a3234bc17761"
   ],
   [
     "content/lessons/end-ellipsis.json",
     "2f7168bf313da88a57eba75f6272a39a178fdeb804686f8c47f56b56bc19831b"
+  ],
+  [
+    "content/lessons/explanation-attachment.json",
+    "e7faf85d74cef46ab3767d6daee3799967517dd27083006c77df3e956d5a4364"
   ],
   [
     "content/lessons/gerund-punctuation.json",
@@ -187,8 +211,20 @@ const ASSETS=[
     "637035abf714e9145d4b409e5b16a9d8a081e15c9a02dffc61a259067e6d7a5c"
   ],
   [
+    "content/modules/clarifying-punctuation.json",
+    "2c3cf96d1b31dee70a30676ff2d6c6f41af76a1689726660d893a9818499ecc8"
+  ],
+  [
+    "content/modules/comparison-punctuation.json",
+    "69b86b6186dd55c8303a16aea6241bd6a97c723b08db4a85218a588693175008"
+  ],
+  [
     "content/modules/coordinate.json",
     "ce515c4f7fb3ed81c5b49484335b9c1d68b2affc62ceda0e56cac7390a0c25d3"
+  ],
+  [
+    "content/modules/detached-punctuation.json",
+    "284e95d531a110df9b0e4de84622bf00a6852b6b39f11820f24d195495f8a4a0"
   ],
   [
     "content/modules/end-marks.json",
@@ -252,7 +288,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "75c64169e57683f89bfa478ce580074477d9c3f928bd691f36a0b7c5235cf389"
+    "ce08a86705a6f8e46ef40c81f5bf5e231d1f4cdab05e04bc9ca465cf40c5cf53"
   ],
   [
     "content/tips.json",
@@ -280,7 +316,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "38b383c65c2eee5f6ef7a2d476f9c8d3bfe6bae682f4f12e3f30d2859482f018"
+    "f193306b7f6bef7dd961716fbcd550c9556905401c5cec1a36c0177d0b248edb"
   ],
   [
     "manifest.webmanifest",
@@ -288,7 +324,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "f9a2ae814a187f50ba5fa3047cea5bd185279e6fdf027c6b602af7b4c161fa90"
+    "357c8ba10d03e7101ad7fdb1ec08b66471a82023d0f3cd65025d8314327cae3e"
   ],
   [
     "src/core/assessment.js",

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.detached-punctuation",
+  "title": "Обособленные определения, приложения и обстоятельства",
+  "moduleNumber": "07.05",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.detached-definitions",
+    "ru.punctuation.detached-circumstances"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина. Обособленные члены предложения",
+    "url": "https://www.orthographia.ru/punctuatio.php?sid=117"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.detached-punctuation.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.a.detached-circumstances.20",
+          "type": "grammar-answer",
+          "raw": "[В течение недели] сотрудники проверяли заявки.",
+          "answer": "не обособляется",
+          "ex": "Обычное обстоятельство не требует запятой при нейтральной тесной связи с предложением.",
+          "instruction": "Укажите, обособляется ли оборот в начале предложения при обычном нейтральном прочтении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.detached-circumstances"
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.a.detached-definitions.20",
+          "type": "grammar-answer",
+          "raw": "Повар [Виталий] приготовил завтрак.",
+          "answer": "не обособляется",
+          "ex": "Должность перед именем образует тесное наименование, без пояснительной интонации.",
+          "instruction": "Укажите, обособляется ли отмеченная в квадратных скобках конструкция при нейтральном прочтении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.detached-definitions"
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.a.detached-circumstances.19",
+          "type": "grammar-answer",
+          "raw": "[Несмотря на высокую стоимость] заказ приняли.",
+          "answer": "обособляется",
+          "ex": "Начальный уступительный оборот выделяется запятой.",
+          "instruction": "Укажите, обособляется ли оборот в начале предложения при обычном нейтральном прочтении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.detached-circumstances"
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.a.detached-definitions.19",
+          "type": "grammar-answer",
+          "raw": "Глеб [заведующий лабораторией института] изучил результаты.",
+          "answer": "обособляется",
+          "ex": "Приложение после имени либо определение при личном местоимении содержит дополнительную характеристику.",
+          "instruction": "Укажите, обособляется ли отмеченная в квадратных скобках конструкция при нейтральном прочтении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.detached-definitions"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.detached-punctuation.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.b.detached-circumstances.21",
+          "type": "grammar-answer",
+          "raw": "[Несмотря на неудобный график] мастер пришёл вовремя.",
+          "answer": "обособляется",
+          "ex": "Начальный уступительный оборот выделяется запятой.",
+          "instruction": "Укажите, обособляется ли оборот в начале предложения при обычном нейтральном прочтении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.detached-circumstances"
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.b.detached-definitions.22",
+          "type": "grammar-answer",
+          "raw": "Преподаватель [Виктор] открыл аудиторию.",
+          "answer": "не обособляется",
+          "ex": "Должность перед именем образует тесное наименование, без пояснительной интонации.",
+          "instruction": "Укажите, обособляется ли отмеченная в квадратных скобках конструкция при нейтральном прочтении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.detached-definitions"
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.b.detached-definitions.21",
+          "type": "grammar-answer",
+          "raw": "[Удивлённые внезапной тишиной] они остановились.",
+          "answer": "обособляется",
+          "ex": "Приложение после имени либо определение при личном местоимении содержит дополнительную характеристику.",
+          "instruction": "Укажите, обособляется ли отмеченная в квадратных скобках конструкция при нейтральном прочтении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.detached-definitions"
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.b.detached-circumstances.22",
+          "type": "grammar-answer",
+          "raw": "[После контрольного запуска] механизм разобрали.",
+          "answer": "не обособляется",
+          "ex": "Обычное обстоятельство не требует запятой при нейтральной тесной связи с предложением.",
+          "instruction": "Укажите, обособляется ли оборот в начале предложения при обычном нейтральном прочтении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.detached-circumstances"
+        }
+      ]
+    }
+  ]
+}

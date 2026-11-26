@@ -485,6 +485,36 @@
           "id": "ru.punctuation.gerund-punctuation",
           "file": "lessons/gerund-punctuation.json",
           "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.detached-definitions",
+          "file": "lessons/detached-definitions.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.detached-circumstances",
+          "file": "lessons/detached-circumstances.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.clarification",
+          "file": "lessons/clarification.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.explanation-attachment",
+          "file": "lessons/explanation-attachment.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.comparison-free",
+          "file": "lessons/comparison-free.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.comparison-role",
+          "file": "lessons/comparison-role.json",
+          "status": "draft"
         }
       ],
       "plan": [
@@ -824,6 +854,18 @@
     {
       "id": "ru.punctuation.participial",
       "file": "modules/participial.json"
+    },
+    {
+      "id": "ru.punctuation.detached-punctuation",
+      "file": "modules/detached-punctuation.json"
+    },
+    {
+      "id": "ru.punctuation.clarifying-punctuation",
+      "file": "modules/clarifying-punctuation.json"
+    },
+    {
+      "id": "ru.punctuation.comparison-punctuation",
+      "file": "modules/comparison-punctuation.json"
     }
   ],
   "lessonOrder": [
@@ -869,6 +911,12 @@
     "ru.punctuation.dash-predicate",
     "ru.punctuation.dash-incomplete",
     "ru.punctuation.participle-punctuation",
-    "ru.punctuation.gerund-punctuation"
+    "ru.punctuation.gerund-punctuation",
+    "ru.punctuation.detached-definitions",
+    "ru.punctuation.detached-circumstances",
+    "ru.punctuation.clarification",
+    "ru.punctuation.explanation-attachment",
+    "ru.punctuation.comparison-free",
+    "ru.punctuation.comparison-role"
   ]
 }

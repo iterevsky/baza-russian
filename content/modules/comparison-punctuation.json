@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.comparison-punctuation",
+  "title": "Сравнительные обороты",
+  "moduleNumber": "07.07",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.comparison-free",
+    "ru.punctuation.comparison-role"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина. Сравнительные обороты, §§ 88–90",
+    "url": "https://orthographia.ru/punctum_uk.php?pid=257"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.comparison-punctuation.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.comparison-punctuation.module-exam.a.comparison-role.20",
+          "type": "grammar-answer",
+          "raw": "Она работала над книгой [как редактор].",
+          "answer": "не обособляется",
+          "ex": "Оборот означает роль или назначение: «в качестве».",
+          "instruction": "Определите обособление оборота с как с учётом указанного смыслового контекста. Контекст: оборот означает роль (в качестве). Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.comparison-role"
+        },
+        {
+          "id": "ru.punctuation.comparison-punctuation.module-exam.a.comparison-free.19",
+          "type": "grammar-answer",
+          "raw": "Корабли [словно игрушечные модели] качались на рейде.",
+          "answer": "обособляется",
+          "ex": "Свободное вставное сравнение выделяется с двух сторон.",
+          "instruction": "Укажите, обособляется ли сравнительное сочетание. Свободные вставные сравнения читаются как добавочная характеристика, устойчивые выражения — в переносном значении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.comparison-free"
+        },
+        {
+          "id": "ru.punctuation.comparison-punctuation.module-exam.a.comparison-free.20",
+          "type": "grammar-answer",
+          "raw": "Она покраснела [как рак].",
+          "answer": "не обособляется",
+          "ex": "Сравнительный компонент составляет сказуемое либо устойчивое сочетание и не обособляется.",
+          "instruction": "Укажите, обособляется ли сравнительное сочетание. Свободные вставные сравнения читаются как добавочная характеристика, устойчивые выражения — в переносном значении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.comparison-free"
+        },
+        {
+          "id": "ru.punctuation.comparison-punctuation.module-exam.a.comparison-role.19",
+          "type": "grammar-answer",
+          "raw": "[Как редактор] она замечала повторы в рукописи.",
+          "answer": "обособляется",
+          "ex": "Оборот обозначает причину: его можно раскрыть придаточным с «поскольку».",
+          "instruction": "Определите обособление оборота с как с учётом указанного смыслового контекста. Контекст: оборот обозначает причину. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.comparison-role"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.comparison-punctuation.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.comparison-punctuation.module-exam.b.comparison-free.21",
+          "type": "grammar-answer",
+          "raw": "Синие тени [точно полосы краски] легли на снег.",
+          "answer": "обособляется",
+          "ex": "Свободное вставное сравнение выделяется с двух сторон.",
+          "instruction": "Укажите, обособляется ли сравнительное сочетание. Свободные вставные сравнения читаются как добавочная характеристика, устойчивые выражения — в переносном значении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.comparison-free"
+        },
+        {
+          "id": "ru.punctuation.comparison-punctuation.module-exam.b.comparison-role.21",
+          "type": "grammar-answer",
+          "raw": "[Как механик] он понимал причину вибрации.",
+          "answer": "обособляется",
+          "ex": "Оборот обозначает причину: его можно раскрыть придаточным с «поскольку».",
+          "instruction": "Определите обособление оборота с как с учётом указанного смыслового контекста. Контекст: оборот обозначает причину. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.comparison-role"
+        },
+        {
+          "id": "ru.punctuation.comparison-punctuation.module-exam.b.comparison-role.22",
+          "type": "grammar-answer",
+          "raw": "Его вызвали [как механика].",
+          "answer": "не обособляется",
+          "ex": "Оборот означает роль или назначение: «в качестве».",
+          "instruction": "Определите обособление оборота с как с учётом указанного смыслового контекста. Контекст: оборот означает роль (в качестве). Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.comparison-role"
+        },
+        {
+          "id": "ru.punctuation.comparison-punctuation.module-exam.b.comparison-free.22",
+          "type": "grammar-answer",
+          "raw": "Он дрожал [как осиновый лист].",
+          "answer": "не обособляется",
+          "ex": "Сравнительный компонент составляет сказуемое либо устойчивое сочетание и не обособляется.",
+          "instruction": "Укажите, обособляется ли сравнительное сочетание. Свободные вставные сравнения читаются как добавочная характеристика, устойчивые выражения — в переносном значении. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.comparison-free"
+        }
+      ]
+    }
+  ]
+}
