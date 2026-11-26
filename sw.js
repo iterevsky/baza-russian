@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.10.0";
-const DIGEST="1b2e3fc43a36d5b31d97d54f";
+const RELEASE="0.11.0";
+const DIGEST="0794654c0ab96045fff320b8";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,23 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "8a3e343a5c91a7968bcb1242eb31131cbdacdd01b2526a3e818eab1412e7709f"
+    "0785cebc1ef9791867d5af5da469465b728b6edc4e50ed0f52f92ff38fc59cce"
+  ],
+  [
+    "content/lessons/ambiguous-introductory.json",
+    "ffaae688018583d5f47d2d9c54f40ffa49510954cc773822ee462b42b574461a"
+  ],
+  [
+    "content/lessons/introductory-boundaries.json",
+    "fcd0fe9f9df41219ff07babe7109d0559131ebd7131d5b9a35e61eca6d099ce5"
+  ],
+  [
+    "content/lessons/introductory-conjunctions.json",
+    "398a6de08a39e46ca0b5e333a0e6096a906eac7abc916f5c99962e7ee8af4397"
+  ],
+  [
+    "content/lessons/introductory-editing.json",
+    "4a87ac8b02063ef1e0a300c58edc90007ec893b3d944ab68885fa82a747a65cb"
   ],
   [
     "content/lessons/introductory-words.json",
@@ -44,7 +60,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "ae98fb0ebce28307b1073e9c97b4dcf227bf9fe5ae27599a5ffb026943554483"
+    "f2675bd69ca0c824bc0e3ddaf3ee4dfc22ba7da71bf6d7c3152713b146c7cff9"
   ],
   [
     "manifest.webmanifest",
@@ -52,7 +68,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "4db8d905c7cf2ab646f640aa844735956763f590593d975d980ebe234c1278ff"
+    "177becd6f4fbe89fdeae93aa8bfc1c9db599232a1716b8bc9d738888fe06d850"
   ],
   [
     "src/core/assessment.js",
@@ -72,7 +88,7 @@ const ASSETS=[
   ],
   [
     "src/core/lesson-view.js",
-    "0e2bdf99f3f985af079e4f55c11a6b7a437dde4c207f573e70da425d008fcd24"
+    "ccd482563dd238a61f207ee6550c8bc96f81fd53538b8de655f39c275c869346"
   ],
   [
     "src/core/progress.js",

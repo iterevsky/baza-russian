@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.introductory-editing",
+  "version": 1,
+  "title": "Редакторская практика: вводные конструкции",
+  "moduleId": "ru.punctuation.introductory",
+  "sectionId": "ru.punctuation",
+  "sectionTitle": "Пунктуация",
+  "moduleNumber": "07.08",
+  "status": "draft",
+  "lead": "Соберите изученные правила в единый способ проверки текста.",
+  "goals": [
+    "Находить основания для каждого знака.",
+    "Различать лишние и пропущенные запятые.",
+    "Проверять несколько конструкций в одном предложении."
+  ],
+  "prerequisites": [
+    "ru.punctuation.introductory-words",
+    "ru.punctuation.non-introductory-words",
+    "ru.punctuation.ambiguous-introductory",
+    "ru.punctuation.introductory-conjunctions",
+    "ru.punctuation.introductory-boundaries"
+  ],
+  "related": [
+    "ru.punctuation.introductory-words"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: §§ 91–95",
+    "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh"
+  },
+  "aiContext": "Не ставьте знаки по списку слов. Найдите основу, определите грамматическую функцию, затем проверьте связи и границы конструкций. Редакторская задача шире пунктуации. Вводные слова помогают показать степень уверенности и переходы мысли, но избыток таких комментариев может мешать ясности. Оценка стиля требует контекста; здесь автоматически проверяются только заданные знаки.",
+  "tipIds": [],
+  "theory": [
+    {
+      "type": "example",
+      "text": "Он ведь, кажется, уже всё решил.",
+      "caption": "Частица и вводное слово"
+    },
+    {
+      "type": "heading",
+      "id": "mechanism",
+      "text": "Как устроена конструкция"
+    },
+    {
+      "type": "paragraph",
+      "text": "Редактор проверяет не слово само по себе, а устройство предложения. В «Он ведь, кажется, уже всё решил» частица «ведь» не обособляется, а вводное «кажется» выделяется с двух сторон."
+    },
+    {
+      "type": "rule",
+      "id": "rule",
+      "text": "Не ставьте знаки по списку слов. Найдите основу, определите грамматическую функцию, затем проверьте связи и границы конструкций."
+    },
+    {
+      "type": "heading",
+      "id": "contrast",
+      "text": "Сравним контексты"
+    },
+    {
+      "type": "examples",
+      "items": [
+        [
+          "Частица и вводное слово",
+          "Он ведь, кажется, уже всё решил."
+        ],
+        [
+          "Противопоставление",
+          "Однако он, к счастью, успел."
+        ],
+        [
+          "Союз и вводность",
+          "Текст короткий и, по-моему, убедительный."
+        ],
+        [
+          "Грамматическая основа",
+          "Мне кажется, что здесь всё ясно."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "algorithm",
+      "text": "Алгоритм проверки"
+    },
+    {
+      "type": "steps",
+      "items": [
+        "Отметьте грамматические основы и союзы.",
+        "Найдите слова, которые выражают отношение говорящего.",
+        "Исключите частицы, наречия и члены предложения.",
+        "Проверьте границы оборотов и перечитайте результат."
+      ]
+    },
+    {
+      "type": "deep",
+      "text": "Редакторская задача шире пунктуации. Вводные слова помогают показать степень уверенности и переходы мысли, но избыток таких комментариев может мешать ясности. Оценка стиля требует контекста; здесь автоматически проверяются только заданные знаки."
+    }
+  ],
+  "practice": [
+    {
+      "id": "ru.punctuation.introductory-editing.practice.01",
+      "type": "comma-positions",
+      "parts": [
+        "Он ведь",
+        "кажется",
+        "уже всё понял."
+      ],
+      "expected": [
+        0,
+        1
+      ],
+      "ex": "Ведь не вводное; кажется вводное."
+    },
+    {
+      "id": "ru.punctuation.introductory-editing.practice.02",
+      "type": "comma-positions",
+      "parts": [
+        "Однако",
+        "мы",
+        "к счастью",
+        "успели."
+      ],
+      "expected": [
+        1,
+        2
+      ],
+      "ex": "Однако — союз; к счастью обособляется."
+    },
+    {
+      "id": "ru.punctuation.introductory-editing.practice.03",
+      "type": "comma-positions",
+      "parts": [
+        "Она",
+        "якобы",
+        "видела письмо",
+        "но",
+        "вероятно",
+        "ошиблась."
+      ],
+      "expected": [
+        2,
+        3,
+        4
+      ],
+      "ex": "Якобы без запятых, но связывает сказуемые, вероятно вводное."
+    },
+    {
+      "id": "ru.punctuation.introductory-editing.practice.04",
+      "type": "comma-positions",
+      "parts": [
+        "Мне кажется",
+        "что ответ",
+        "верен."
+      ],
+      "expected": [
+        0
+      ],
+      "ex": "Кажется — сказуемое, запятая перед что."
+    },
+    {
+      "id": "ru.punctuation.introductory-editing.practice.05",
+      "type": "comma-positions",
+      "parts": [
+        "Мы",
+        "по-моему",
+        "зря спорили."
+      ],
+      "expected": [
+        0,
+        1
+      ],
+      "ex": "По-моему обособляется."
+    },
+    {
+      "id": "ru.punctuation.introductory-editing.practice.06",
+      "type": "comma-positions",
+      "parts": [
+        "Они заметили тропу",
+        "очевидно",
+        "ведущую к реке",
+        "и свернули."
+      ],
+      "expected": [
+        0,
+        2
+      ],
+      "ex": "Вводное слово входит в обособленный оборот.",
+      "instruction": "Расставьте запятые. Оценка относится к обособленному определению, а не ко всему сообщению."
+    },
+    {
+      "id": "ru.punctuation.introductory-editing.practice.07",
+      "type": "comma-positions",
+      "parts": [
+        "Он",
+        "даже",
+        "не заметил ошибки."
+      ],
+      "expected": [],
+      "ex": "Даже — частица."
+    },
+    {
+      "id": "ru.punctuation.introductory-editing.practice.08",
+      "type": "comma-positions",
+      "parts": [
+        "Доклад короткий",
+        "и",
+        "несомненно",
+        "полезный."
+      ],
+      "expected": [
+        1,
+        2
+      ],
+      "ex": "И самостоятельный союз, несомненно вводное."
+    }
+  ],
+  "cards": [
+    {
+      "id": "ru.punctuation.introductory-editing.card.01",
+      "front": "С чего начать редактуру?",
+      "back": "Найти грамматические основы и структуру предложения."
+    },
+    {
+      "id": "ru.punctuation.introductory-editing.card.02",
+      "front": "Почему не обособляется «ведь»?",
+      "back": "Это частица, а не вводная конструкция."
+    },
+    {
+      "id": "ru.punctuation.introductory-editing.card.03",
+      "front": "Как проверить запятую после союза?",
+      "back": "Выяснить, соединяет ли союз элементы независимо от вводного слова."
+    },
+    {
+      "id": "ru.punctuation.introductory-editing.card.04",
+      "front": "Что оценивается в автоматической редактуре?",
+      "back": "Пунктуация в заданном контексте, не авторский стиль."
+    }
+  ],
+  "exam": {
+    "id": "ru.punctuation.introductory-editing.exam.a",
+    "version": 1,
+    "threshold": 100,
+    "questions": [
+      {
+        "id": "ru.punctuation.introductory-editing.exam.a.01",
+        "type": "exact-text",
+        "raw": "Она ведь наверное уже дома.",
+        "answer": "Она ведь, наверное, уже дома.",
+        "ex": "Ведь частица, наверное вводное."
+      },
+      {
+        "id": "ru.punctuation.introductory-editing.exam.a.02",
+        "type": "exact-text",
+        "raw": "Однако он по-моему ошибся.",
+        "answer": "Однако он, по-моему, ошибся.",
+        "ex": "Однако союз; по-моему вводное."
+      },
+      {
+        "id": "ru.punctuation.introductory-editing.exam.a.03",
+        "type": "exact-text",
+        "raw": "Он якобы всё прочитал но видимо забыл подробности.",
+        "answer": "Он якобы всё прочитал, но, видимо, забыл подробности.",
+        "ex": "Якобы частица; видимо вводное."
+      },
+      {
+        "id": "ru.punctuation.introductory-editing.exam.a.04",
+        "type": "exact-text",
+        "raw": "Ей кажется что встреча отменена.",
+        "answer": "Ей кажется, что встреча отменена.",
+        "ex": "Придаточное после сказуемого."
+      },
+      {
+        "id": "ru.punctuation.introductory-editing.exam.a.05",
+        "type": "exact-text",
+        "raw": "Мы нашли письмо очевидно написанное наспех и прочитали его.",
+        "answer": "Мы нашли письмо, очевидно написанное наспех, и прочитали его.",
+        "ex": "Вводное слово открывает оборот.",
+        "instruction": "Оценка относится к обособленному определению, а не ко всему сообщению."
+      },
+      {
+        "id": "ru.punctuation.introductory-editing.exam.a.06",
+        "type": "exact-text",
+        "raw": "План простой и конечно разумный.",
+        "answer": "План простой и, конечно, разумный.",
+        "ex": "Самостоятельный союз и вводное слово."
+      }
+    ]
+  },
+  "examVariants": [
+    {
+      "id": "ru.punctuation.introductory-editing.exam.b",
+      "version": 1,
+      "threshold": 100,
+      "questions": [
+        {
+          "id": "ru.punctuation.introductory-editing.exam.b.01",
+          "type": "exact-text",
+          "raw": "Он даже кажется не удивился.",
+          "answer": "Он даже, кажется, не удивился.",
+          "ex": "Даже частица; кажется вводное."
+        },
+        {
+          "id": "ru.punctuation.introductory-editing.exam.b.02",
+          "type": "exact-text",
+          "raw": "Однако они к сожалению опоздали.",
+          "answer": "Однако они, к сожалению, опоздали.",
+          "ex": "Однако союз, к сожалению вводное."
+        },
+        {
+          "id": "ru.punctuation.introductory-editing.exam.b.03",
+          "type": "exact-text",
+          "raw": "Она якобы звонила но вероятно перепутала номер.",
+          "answer": "Она якобы звонила, но, вероятно, перепутала номер.",
+          "ex": "Якобы частица; вероятно вводное."
+        },
+        {
+          "id": "ru.punctuation.introductory-editing.exam.b.04",
+          "type": "exact-text",
+          "raw": "Нам кажется что решение верное.",
+          "answer": "Нам кажется, что решение верное.",
+          "ex": "Граница придаточного."
+        },
+        {
+          "id": "ru.punctuation.introductory-editing.exam.b.05",
+          "type": "exact-text",
+          "raw": "Она заметила записку вероятно оставленную накануне и подняла её.",
+          "answer": "Она заметила записку, вероятно оставленную накануне, и подняла её.",
+          "ex": "Вводное слово открывает оборот.",
+          "instruction": "Оценка относится к обособленному определению, а не ко всему сообщению."
+        },
+        {
+          "id": "ru.punctuation.introductory-editing.exam.b.06",
+          "type": "exact-text",
+          "raw": "Вопрос важный и безусловно своевременный.",
+          "answer": "Вопрос важный и, безусловно, своевременный.",
+          "ex": "И связывает признаки; безусловно вводное."
+        }
+      ]
+    }
+  ]
+}

@@ -59,6 +59,26 @@
           "id": "ru.punctuation.non-introductory-words",
           "file": "lessons/non-introductory-words.json",
           "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.ambiguous-introductory",
+          "file": "lessons/ambiguous-introductory.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.introductory-conjunctions",
+          "file": "lessons/introductory-conjunctions.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.introductory-boundaries",
+          "file": "lessons/introductory-boundaries.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.introductory-editing",
+          "file": "lessons/introductory-editing.json",
+          "status": "draft"
         }
       ]
     },

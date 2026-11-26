@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.introductory-conjunctions",
+  "version": 1,
+  "title": "Вводные слова рядом с союзами",
+  "moduleId": "ru.punctuation.introductory",
+  "sectionId": "ru.punctuation",
+  "sectionTitle": "Пунктуация",
+  "moduleNumber": "07.08",
+  "status": "draft",
+  "lead": "Не каждая запятая перед вводным словом ставится одинаково: сначала найдите связь между частями.",
+  "goals": [
+    "Различать функцию союза и вводной конструкции.",
+    "Определять, где открывается вводная конструкция."
+  ],
+  "prerequisites": [
+    "ru.punctuation.ambiguous-introductory"
+  ],
+  "related": [
+    "ru.punctuation.introductory-words"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: § 95",
+    "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh"
+  },
+  "aiContext": "Если сочинительный союз связывает элементы предложения независимо от вводного слова, отделяйте вводное слово от союза. Когда союз входит в единый вводный переход, разделять их не нужно. Сочетания в начале предложения и пограничные контексты могут иметь вариантное оформление. В упражнениях используются ясные случаи самостоятельного союза, чтобы не оценивать авторский выбор как ошибку.",
+  "tipIds": [],
+  "theory": [
+    {
+      "type": "example",
+      "text": "Он устал, но, вероятно, продолжит работу.",
+      "caption": "Самостоятельный союз"
+    },
+    {
+      "type": "heading",
+      "id": "mechanism",
+      "text": "Как устроена конструкция"
+    },
+    {
+      "type": "paragraph",
+      "text": "В «Он устал, но, вероятно, продолжит работу» союз «но» противопоставляет действия. Слово «вероятно» можно убрать, сохранив это противопоставление. Запятая после союза открывает вводную конструкцию."
+    },
+    {
+      "type": "rule",
+      "id": "rule",
+      "text": "Если сочинительный союз связывает элементы предложения независимо от вводного слова, отделяйте вводное слово от союза. Когда союз входит в единый вводный переход, разделять их не нужно."
+    },
+    {
+      "type": "heading",
+      "id": "contrast",
+      "text": "Сравним контексты"
+    },
+    {
+      "type": "examples",
+      "items": [
+        [
+          "Самостоятельный союз",
+          "Он устал, но, вероятно, продолжит работу."
+        ],
+        [
+          "Связь однородных членов",
+          "Документ длинный и, конечно, сложный."
+        ],
+        [
+          "Единый переход",
+          "Доступ закрыт, а значит, войти нельзя."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "id": "algorithm",
+      "text": "Алгоритм проверки"
+    },
+    {
+      "type": "steps",
+      "items": [
+        "Установите, что соединяет союз.",
+        "Проверьте, сохраняется ли структура при удалении вводной части.",
+        "Если союз самостоятельный, откройте вводную конструкцию после него.",
+        "Если союз образует с вводным словом смысловой переход, не разделяйте их автоматически."
+      ]
+    },
+    {
+      "type": "deep",
+      "text": "Сочетания в начале предложения и пограничные контексты могут иметь вариантное оформление. В упражнениях используются ясные случаи самостоятельного союза, чтобы не оценивать авторский выбор как ошибку."
+    }
+  ],
+  "practice": [
+    {
+      "id": "ru.punctuation.introductory-conjunctions.practice.01",
+      "type": "comma-positions",
+      "parts": [
+        "Текст короткий",
+        "и",
+        "конечно",
+        "ясный."
+      ],
+      "expected": [
+        1,
+        2
+      ],
+      "ex": "И соединяет однородные именные части сказуемого."
+    },
+    {
+      "id": "ru.punctuation.introductory-conjunctions.practice.02",
+      "type": "comma-positions",
+      "parts": [
+        "Он спешил",
+        "но",
+        "вероятно",
+        "успевал."
+      ],
+      "expected": [
+        0,
+        1,
+        2
+      ],
+      "ex": "Но соединяет сказуемые."
+    },
+    {
+      "id": "ru.punctuation.introductory-conjunctions.practice.03",
+      "type": "comma-positions",
+      "parts": [
+        "Задача трудная",
+        "но",
+        "к счастью",
+        "решаемая."
+      ],
+      "expected": [
+        0,
+        1,
+        2
+      ],
+      "ex": "Но не входит во вводное сочетание."
+    },
+    {
+      "id": "ru.punctuation.introductory-conjunctions.practice.04",
+      "type": "comma-positions",
+      "parts": [
+        "Мы купим бумагу",
+        "или",
+        "возможно",
+        "картон."
+      ],
+      "expected": [
+        1,
+        2
+      ],
+      "ex": "Или соединяет дополнения."
+    },
+    {
+      "id": "ru.punctuation.introductory-conjunctions.practice.05",
+      "type": "comma-positions",
+      "parts": [
+        "Доклад важный",
+        "и",
+        "несомненно",
+        "полезный."
+      ],
+      "expected": [
+        1,
+        2
+      ],
+      "ex": "И соединяет однородные члены."
+    },
+    {
+      "id": "ru.punctuation.introductory-conjunctions.practice.06",
+      "type": "comma-positions",
+      "parts": [
+        "Она не молчала",
+        "а",
+        "напротив",
+        "активно спорила."
+      ],
+      "expected": [
+        0,
+        1,
+        2
+      ],
+      "ex": "А выражает противопоставление, напротив обособляется."
+    }
+  ],
+  "cards": [
+    {
+      "id": "ru.punctuation.introductory-conjunctions.card.01",
+      "front": "Когда ставить запятую после «и» перед вводным словом?",
+      "back": "Когда союз самостоятельно соединяет члены или части предложения."
+    },
+    {
+      "id": "ru.punctuation.introductory-conjunctions.card.02",
+      "front": "Что проверить при удалении вводного слова?",
+      "back": "Сохранилась ли грамматическая структура и роль союза."
+    },
+    {
+      "id": "ru.punctuation.introductory-conjunctions.card.03",
+      "front": "Что такое «а значит»?",
+      "back": "Возможен единый вводный переход, внутри которого запятая не нужна."
+    },
+    {
+      "id": "ru.punctuation.introductory-conjunctions.card.04",
+      "front": "Можно ли применять правило механически?",
+      "back": "Нет, функция союза зависит от контекста."
+    }
+  ],
+  "exam": {
+    "id": "ru.punctuation.introductory-conjunctions.exam.a",
+    "version": 1,
+    "threshold": 100,
+    "questions": [
+      {
+        "id": "ru.punctuation.introductory-conjunctions.exam.a.01",
+        "type": "exact-text",
+        "raw": "Маршрут короткий и вероятно удобный.",
+        "answer": "Маршрут короткий и, вероятно, удобный.",
+        "ex": "И соединяет однородные именные части сказуемого."
+      },
+      {
+        "id": "ru.punctuation.introductory-conjunctions.exam.a.02",
+        "type": "exact-text",
+        "raw": "Он волновался но к счастью не растерялся.",
+        "answer": "Он волновался, но, к счастью, не растерялся.",
+        "ex": "Но противопоставляет действия."
+      },
+      {
+        "id": "ru.punctuation.introductory-conjunctions.exam.a.03",
+        "type": "exact-text",
+        "raw": "Мы выберем чай или возможно кофе.",
+        "answer": "Мы выберем чай или, возможно, кофе.",
+        "ex": "Или соединяет дополнения."
+      },
+      {
+        "id": "ru.punctuation.introductory-conjunctions.exam.a.04",
+        "type": "exact-text",
+        "raw": "Отчёт подробный и несомненно полезный.",
+        "answer": "Отчёт подробный и, несомненно, полезный.",
+        "ex": "И соединяет однородные именные части сказуемого."
+      },
+      {
+        "id": "ru.punctuation.introductory-conjunctions.exam.a.05",
+        "type": "exact-text",
+        "raw": "Она не обиделась а напротив засмеялась.",
+        "answer": "Она не обиделась, а, напротив, засмеялась.",
+        "ex": "А сохраняет противопоставление."
+      },
+      {
+        "id": "ru.punctuation.introductory-conjunctions.exam.a.06",
+        "type": "exact-text",
+        "raw": "Путь сложный но конечно проходимый.",
+        "answer": "Путь сложный, но, конечно, проходимый.",
+        "ex": "Но самостоятельно связывает признаки."
+      }
+    ]
+  },
+  "examVariants": [
+    {
+      "id": "ru.punctuation.introductory-conjunctions.exam.b",
+      "version": 1,
+      "threshold": 100,
+      "questions": [
+        {
+          "id": "ru.punctuation.introductory-conjunctions.exam.b.01",
+          "type": "exact-text",
+          "raw": "Ответ краткий и конечно точный.",
+          "answer": "Ответ краткий и, конечно, точный.",
+          "ex": "И связывает однородные именные части сказуемого."
+        },
+        {
+          "id": "ru.punctuation.introductory-conjunctions.exam.b.02",
+          "type": "exact-text",
+          "raw": "Он устал но по-видимому не заметил этого.",
+          "answer": "Он устал, но, по-видимому, не заметил этого.",
+          "ex": "Но самостоятельно связывает сказуемые."
+        },
+        {
+          "id": "ru.punctuation.introductory-conjunctions.exam.b.03",
+          "type": "exact-text",
+          "raw": "Закажем суп или возможно салат.",
+          "answer": "Закажем суп или, возможно, салат.",
+          "ex": "Или связывает дополнения."
+        },
+        {
+          "id": "ru.punctuation.introductory-conjunctions.exam.b.04",
+          "type": "exact-text",
+          "raw": "Книга редкая и безусловно ценная.",
+          "answer": "Книга редкая и, безусловно, ценная.",
+          "ex": "И связывает однородные признаки."
+        },
+        {
+          "id": "ru.punctuation.introductory-conjunctions.exam.b.05",
+          "type": "exact-text",
+          "raw": "Он не ушёл а напротив вернулся к столу.",
+          "answer": "Он не ушёл, а, напротив, вернулся к столу.",
+          "ex": "А сохраняет противопоставление."
+        },
+        {
+          "id": "ru.punctuation.introductory-conjunctions.exam.b.06",
+          "type": "exact-text",
+          "raw": "Вопрос непростой но к счастью понятный.",
+          "answer": "Вопрос непростой, но, к счастью, понятный.",
+          "ex": "Но связывает признаки."
+        }
+      ]
+    }
+  ]
+}
