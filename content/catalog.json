@@ -324,6 +324,16 @@
           "id": "ru.punctuation.homogeneous-generalizing",
           "file": "lessons/homogeneous-generalizing.json",
           "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.addresses",
+          "file": "lessons/addresses.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.insertions",
+          "file": "lessons/insertions.json",
+          "status": "draft"
         }
       ],
       "plan": [

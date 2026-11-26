@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.17.0";
-const DIGEST="8ae0317d4b6c89be576522f8";
+const RELEASE="0.18.0";
+const DIGEST="95030f9746d80073212023ea";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,11 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "c0a2fb82e0776491443e0defdd80e58718ad22a6355f82a886843efa1f343175"
+    "437d0be86606c099889c1d30bcf0bb75ae3fc6e13bb0838aab8f4d30348b2876"
+  ],
+  [
+    "content/lessons/addresses.json",
+    "cd266c98ca0bc6d96aecfbc65e639a19ff697b4f5cfeca4d6f51b8fd314d1d77"
   ],
   [
     "content/lessons/ambiguous-introductory.json",
@@ -33,6 +37,10 @@ const ASSETS=[
   [
     "content/lessons/homogeneous-repeated.json",
     "39142971c23e2c556a6506bb072e28e1224bfc17906b5547dc1250d6cc0d7d2a"
+  ],
+  [
+    "content/lessons/insertions.json",
+    "5bb4b54cd6d066c9f435b202f32da3bcd7b1b2782cce6781b7ea0a804e0c2692"
   ],
   [
     "content/lessons/introductory-boundaries.json",
@@ -60,7 +68,7 @@ const ASSETS=[
   ],
   [
     "content/modules/introductory.json",
-    "ef61750b977f79e8a3148a06b6b1127de29f17778e8352931c9896ddb8dc3bcc"
+    "bdfde277bb88daebd268b21452f35895e3e6b87fc55e4db8be160316c9b65639"
   ],
   [
     "content/tips.json",
@@ -88,7 +96,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "c039187518fdfeb613e1989b826f0bd8d25d6f491f7a92994d331c32885a8cb2"
+    "6c3845d3eb3039055ee914b60d6a97b940f6e4df47db30d21de68446343be277"
   ],
   [
     "manifest.webmanifest",
@@ -96,11 +104,11 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "c988ffe8fcd5532ed8f0d6aa19b2816a20dbb6b8ecebb6d92c27d5c37bc5440c"
+    "ab48f8aed90d30e948c7dcb79242fc81aa348a603af83d1d271abfb297fa7699"
   ],
   [
     "src/core/assessment.js",
-    "cd27ed8096e380bd93bfc1406eecf97a92421e3477cf238f056bf523a825d04d"
+    "526546fd69bfcbffda68cec8b8575c703355c077f7db9b763fc31a0fd00bbab9"
   ],
   [
     "src/core/content.js",
@@ -124,11 +132,11 @@ const ASSETS=[
   ],
   [
     "src/core/module-view.js",
-    "fe1262a79265b04539f80eda7d8dc9d5640084c4e4c8121b9701137287e360b4"
+    "39f9b819c06802672da7f70ed97a30d93169b665128b6d690fe6450d520461a2"
   ],
   [
     "src/core/modules.js",
-    "fbf13f51b1afa7bfd8cb9d730b968f35a9bf3a13ab8abea55b43a4c96992a207"
+    "d4e17394cca38a20aba7f4100f83b423db60b2d15e249e8d242fa8ac3bb78cdf"
   ],
   [
     "src/core/practice.js",
