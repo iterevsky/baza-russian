@@ -455,6 +455,36 @@
           "id": "ru.punctuation.insertions",
           "file": "lessons/insertions.json",
           "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.end-basic",
+          "file": "lessons/end-basic.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.end-ellipsis",
+          "file": "lessons/end-ellipsis.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.dash-predicate",
+          "file": "lessons/dash-predicate.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.dash-incomplete",
+          "file": "lessons/dash-incomplete.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.participle-punctuation",
+          "file": "lessons/participle-punctuation.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.gerund-punctuation",
+          "file": "lessons/gerund-punctuation.json",
+          "status": "draft"
         }
       ],
       "plan": [
@@ -782,6 +812,18 @@
     {
       "id": "ru.syntax.sentence-structure",
       "file": "modules/sentence-structure.json"
+    },
+    {
+      "id": "ru.punctuation.end-marks",
+      "file": "modules/end-marks.json"
+    },
+    {
+      "id": "ru.punctuation.predicate-dash",
+      "file": "modules/predicate-dash.json"
+    },
+    {
+      "id": "ru.punctuation.participial",
+      "file": "modules/participial.json"
     }
   ],
   "lessonOrder": [
@@ -821,6 +863,12 @@
     "ru.syntax.speech-forms",
     "ru.syntax.indirect-transformation",
     "ru.syntax.sentence-analysis",
-    "ru.syntax.information-structure"
+    "ru.syntax.information-structure",
+    "ru.punctuation.end-basic",
+    "ru.punctuation.end-ellipsis",
+    "ru.punctuation.dash-predicate",
+    "ru.punctuation.dash-incomplete",
+    "ru.punctuation.participle-punctuation",
+    "ru.punctuation.gerund-punctuation"
   ]
 }

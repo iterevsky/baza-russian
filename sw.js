@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.23.0";
-const DIGEST="5463dada1f6f8c2d180df7eb";
+const RELEASE="0.24.0";
+const DIGEST="0108063a087425f81419868c";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "a2d5f02f7875f5964748b20a2a477440a6dfa8f273ddc47637a131e40949e6c4"
+    "b795b96774fb984df3c38b425e64539f08fe096886a126e66e6f7b634d5c7978"
   ],
   [
     "content/lessons/addresses.json",
@@ -41,6 +41,26 @@ const ASSETS=[
   [
     "content/lessons/coordinate-structure.json",
     "e1da4d14334d4c1f488d5af053e7373c22d1643e912165456517da7d1b4afaad"
+  ],
+  [
+    "content/lessons/dash-incomplete.json",
+    "e1cb7978d69b6ad5b333c97458a61fb7d7a7a621a37eaa6487d66e5510ef14cb"
+  ],
+  [
+    "content/lessons/dash-predicate.json",
+    "3cd13953cf1741f6fd498ebbfbd01eeb90f0c8ea57f955cb1092cbf7aab7a753"
+  ],
+  [
+    "content/lessons/end-basic.json",
+    "e9b1ad7f9a420d26fa1531f91bc0d729e0acbd6bbe6762712fa4a3234bc17761"
+  ],
+  [
+    "content/lessons/end-ellipsis.json",
+    "2f7168bf313da88a57eba75f6272a39a178fdeb804686f8c47f56b56bc19831b"
+  ],
+  [
+    "content/lessons/gerund-punctuation.json",
+    "04b08d75d9caf2b05fcf75f855983dbf870cb653a03f3d67a0ae6e48cc121ece"
   ],
   [
     "content/lessons/homogeneity-syntax.json",
@@ -119,6 +139,10 @@ const ASSETS=[
     "819e6d26716ae06aaca52e76c966b210874027f0a52681efc845a185ce436e76"
   ],
   [
+    "content/lessons/participle-punctuation.json",
+    "ce3b9e8f54cc8ebcf3c8d25ad60bfeb57befca4959daad50626f50bcb7abee04"
+  ],
+  [
     "content/lessons/phrase-links.json",
     "64bb582728a1e13279829d5d5e992fc546e8118880f222d2fdc2258ede2b94a0"
   ],
@@ -167,6 +191,10 @@ const ASSETS=[
     "ce515c4f7fb3ed81c5b49484335b9c1d68b2affc62ceda0e56cac7390a0c25d3"
   ],
   [
+    "content/modules/end-marks.json",
+    "bd874951278319b4db864edca3c7be33b9ada1d34f5285f7e26c6b1c8770497e"
+  ],
+  [
     "content/modules/homogeneous.json",
     "ca3c529e151daaa91a8f0083f3023ddff6117776156f2929b1fde0a6485329ef"
   ],
@@ -191,8 +219,16 @@ const ASSETS=[
     "e686a9f7e016d76c8f2a3c29aa7fa63310a794d1260990b2e64444d795f6e7d8"
   ],
   [
+    "content/modules/participial.json",
+    "68a66aa818e783b03893b58f2a4fa21bc7734f1e5a50d78bd443c81cd3cb0d72"
+  ],
+  [
     "content/modules/phrases.json",
     "9168e48885f2dfa2567dec9d5de5833ed4438e8e343fb96b6ecc7e1ddf57d665"
+  ],
+  [
+    "content/modules/predicate-dash.json",
+    "7d81295a76a16d8236160a82dff89f1053b0c5c89936dc53ecfd7641f8ccc99e"
   ],
   [
     "content/modules/reported-speech.json",
@@ -216,7 +252,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "4caff78065215ea7f262f2c5ba24447e34fe6e264a67a00eeca1fc1c71c320dd"
+    "75c64169e57683f89bfa478ce580074477d9c3f928bd691f36a0b7c5235cf389"
   ],
   [
     "content/tips.json",
@@ -244,7 +280,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "a9f674249ef17f89695d8e5687119f3da524ae5dbcc595f6e9f5aadba59d0e60"
+    "38b383c65c2eee5f6ef7a2d476f9c8d3bfe6bae682f4f12e3f30d2859482f018"
   ],
   [
     "manifest.webmanifest",
@@ -252,7 +288,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "39d679422200179f60c8382ef3e30f1594979f08016f01c6198b20bff21a5f42"
+    "f9a2ae814a187f50ba5fa3047cea5bd185279e6fdf027c6b602af7b4c161fa90"
   ],
   [
     "src/core/assessment.js",

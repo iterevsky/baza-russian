@@ -46,7 +46,7 @@ test('v0.22 preserves v0.21 records and stable lesson IDs, including an in-progr
 test('v0.23 appends six IDs, keeps all v0.22 history, and covers every syntax module',()=>{
  const ids=new Set(c.catalog.lessonOrder.slice(0,31));const prior={...c,lessons:c.lessons.filter(l=>ids.has(l.id)),modules:c.modules.filter(m=>m.lessonIds.every(id=>ids.has(id)))};
  assert.equal(prior.lessons.length,31);assert.equal(prior.modules.length,11);assert.deepEqual(c.catalog.lessonOrder.slice(0,31),prior.lessons.map(l=>l.id));
- const added=c.lessons.filter(l=>!ids.has(l.id));assert.equal(added.length,6);assert.equal(new Set(fresh.map(l=>l.moduleNumber)).size,12);
+ const added=c.lessons.slice(31,37);assert.equal(added.length,6);assert.equal(new Set(fresh.map(l=>l.moduleNumber)).size,12);
  const old=normalize(null,prior);for(const l of prior.lessons){old.byLesson[l.id].note='Конспект '+l.id;old.byLesson[l.id].read=true;}
  const m=prior.modules.find(x=>x.id==='ru.syntax.subordinate');const d=old.byModule[m.id];beginModule(m,d,85);d.draft.answers=m.variants[0].questions.map(q=>q.answer);finishModule(m,d);beginModule(m,d,95);d.draft.answers[0]=m.variants[1].questions[0].answer;
  const now=parseImport(JSON.stringify(old),c);for(const l of prior.lessons)assert.deepEqual(now.byLesson[l.id],old.byLesson[l.id]);for(const m of prior.modules)assert.deepEqual(now.byModule[m.id],old.byModule[m.id]);for(const l of added)assert.equal(now.byLesson[l.id].read,false);
