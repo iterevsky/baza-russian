@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.morphology.function-words",
+  "title": "Предлоги, союзы, частицы и междометия (базовый контроль)",
+  "moduleNumber": "04.09",
+  "status": "draft",
+  "lessonIds": [
+    "ru.morphology.function-words.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+    "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.morphology.function-words.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.function-words.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенной единицы: предлог, союз, частица, междометие.\n[Разве] он согласен?",
+          "answer": "частица",
+          "ex": "частица. Опирайтесь на функцию в контексте.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.function-words.foundation"
+        },
+        {
+          "id": "ru.morphology.function-words.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенной единицы: предлог, союз, частица, междометие.\n[Браво], великолепно!",
+          "answer": "междометие",
+          "ex": "междометие. Опирайтесь на функцию в контексте.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.function-words.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.morphology.function-words.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.function-words.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенной единицы: предлог, союз, частица, междометие.\nМы вышли [из-за] угла.",
+          "answer": "предлог",
+          "ex": "предлог. Опирайтесь на функцию в контексте.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.function-words.foundation"
+        },
+        {
+          "id": "ru.morphology.function-words.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенной единицы: предлог, союз, частица, междометие.\nОн вернулся, [хотя] устал.",
+          "answer": "союз",
+          "ex": "союз. Опирайтесь на функцию в контексте.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.function-words.foundation"
+        }
+      ]
+    }
+  ]
+}

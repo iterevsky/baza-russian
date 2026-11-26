@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.lexicon.idioms",
+  "title": "Фразеологизмы и устойчивые выражения (базовый контроль)",
+  "moduleNumber": "08.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.lexicon.idioms.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Лексикология и лексикография",
+    "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+  },
+  "variants": [
+    {
+      "id": "ru.lexicon.idioms.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.idioms.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«На вес золота» (редкий специалист): очень ценный / бесполезный?",
+          "answer": "очень ценный",
+          "ex": "Подчёркнута высокая значимость.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.idioms.foundation"
+        },
+        {
+          "id": "ru.lexicon.idioms.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«Зарубить на носу»: запомнить / забыть?",
+          "answer": "запомнить",
+          "ex": "Современное значение — крепко запомнить.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.idioms.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.lexicon.idioms.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.idioms.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "«Спустя рукава» (выполнять): небрежно / тщательно?",
+          "answer": "небрежно",
+          "ex": "Оборот характеризует плохое исполнение работы.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.idioms.foundation"
+        },
+        {
+          "id": "ru.lexicon.idioms.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "«В час по чайной ложке» (продвигаться): медленно / быстро?",
+          "answer": "медленно",
+          "ex": "Подчёркнут крайне малый темп.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.idioms.foundation"
+        }
+      ]
+    }
+  ]
+}

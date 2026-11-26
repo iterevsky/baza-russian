@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.morphology.parts-of-speech",
+  "title": "Части речи и грамматические признаки (базовый контроль)",
+  "moduleNumber": "04.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.morphology.parts-of-speech.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+    "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.morphology.parts-of-speech.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.parts-of-speech.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенного слова одним термином; для именных частей используйте полное название с «имя».\n[Пусть] он придёт.",
+          "answer": "частица",
+          "ex": "частица. Слово рассматривается в данном предложении.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.parts-of-speech.foundation"
+        },
+        {
+          "id": "ru.morphology.parts-of-speech.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенного слова одним термином; для именных частей используйте полное название с «имя».\n[Ах], какой вечер!",
+          "answer": "междометие",
+          "ex": "междометие. Слово рассматривается в данном предложении.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.parts-of-speech.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.morphology.parts-of-speech.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.parts-of-speech.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенного слова одним термином; для именных частей используйте полное название с «имя».\nВ комнате [зеркало].",
+          "answer": "имя существительное",
+          "ex": "имя существительное. Слово рассматривается в данном предложении.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.parts-of-speech.foundation"
+        },
+        {
+          "id": "ru.morphology.parts-of-speech.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенного слова одним термином; для именных частей используйте полное название с «имя».\nСолнце [взошло].",
+          "answer": "глагол",
+          "ex": "глагол. Слово рассматривается в данном предложении.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.parts-of-speech.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.28.0";
-const DIGEST="57ce2b0560de0f8a457a6f19";
+const RELEASE="0.30.0";
+const DIGEST="a78b0f4e6265023c9186c6e4";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,11 +8,19 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "4063e6314e0030a15bb871e27e9b265824e6bfce5832a06a00a872cfd3b2b298"
+    "c98c0d422a364c78164ff94f52e27dfbc8c1ca59068e18e1c181b75f5679e7b8"
   ],
   [
     "content/lessons/addresses.json",
     "cd266c98ca0bc6d96aecfbc65e639a19ff697b4f5cfeca4d6f51b8fd314d1d77"
+  ],
+  [
+    "content/lessons/adjective-morphology.json",
+    "8a29dfcd697ffe8896fb34e14f485954d05046ef51f6b491cd48e3f8bf6ac410"
+  ],
+  [
+    "content/lessons/adverb-state.json",
+    "d96edd15e14c51caa2e41d65c339fcb6290d2cb3dc17fd4febf746c20e53a1a9"
   ],
   [
     "content/lessons/ambiguous-introductory.json",
@@ -37,6 +45,10 @@ const ASSETS=[
   [
     "content/lessons/basis-count.json",
     "c11210d1792c54f58de38c7bc1586192c768e2e1b2681f69df66986edd98680a"
+  ],
+  [
+    "content/lessons/borrowing-etymology.json",
+    "4ab0b8a365d6a8d7293e14ff544c1a3e98992b524da0bc3af12796cbddefb50e"
   ],
   [
     "content/lessons/capital-letters.json",
@@ -83,6 +95,14 @@ const ASSETS=[
     "3cd13953cf1741f6fd498ebbfbd01eeb90f0c8ea57f955cb1092cbf7aab7a753"
   ],
   [
+    "content/lessons/derivation-chain.json",
+    "8163a509ed176164485d693beda778467a6d963c53b3ae9a730a056b536005c4"
+  ],
+  [
+    "content/lessons/derivation-methods.json",
+    "2cba1c55e2e7bf2c6a966a0281c9e2646d11cd664103c81e1161e36ed90b957d"
+  ],
+  [
     "content/lessons/detached-circumstances.json",
     "fd856492a8378dff21c12d2ef7069a07a3e09ac293b1d60bb309b81cfebcb40b"
   ],
@@ -93,6 +113,10 @@ const ASSETS=[
   [
     "content/lessons/dictionary-method.json",
     "6f8dfd9036eb34084f41e339abb04bf23a3657976e5eef697745ce6eb329d3f1"
+  ],
+  [
+    "content/lessons/dictionary-vocabulary.json",
+    "b58d93509326df52d88d885583c0e89e95302041a987e2ca85023f912c147128"
   ],
   [
     "content/lessons/dictionary-yo.json",
@@ -119,8 +143,20 @@ const ASSETS=[
     "e7faf85d74cef46ab3767d6daee3799967517dd27083006c77df3e956d5a4364"
   ],
   [
+    "content/lessons/figurative-meaning.json",
+    "8e893caf7f295434f2e4b4f94203ecce2eb345323d75e3befdbc444208fc948b"
+  ],
+  [
+    "content/lessons/function-words.json",
+    "9ecd9bb8b830f04353f832d3c8d6066a72bc68a121c2b5aa4273f8b350ff3c33"
+  ],
+  [
     "content/lessons/gerund-punctuation.json",
     "04b08d75d9caf2b05fcf75f855983dbf870cb653a03f3d67a0ae6e48cc121ece"
+  ],
+  [
+    "content/lessons/historical-changes.json",
+    "18d9f3e16e050456190a713c98b577ad44c74fe1f596ef39bac315a4cb4b1810"
   ],
   [
     "content/lessons/homogeneity-syntax.json",
@@ -149,6 +185,10 @@ const ASSETS=[
   [
     "content/lessons/hyphenation-abbreviations.json",
     "bb3ce916732266b1b24025852b88e80e842e4067812960e5dd7e225430ec57d6"
+  ],
+  [
+    "content/lessons/idioms.json",
+    "f4478ae920b74943755288593c3d9ff9ea63f2a4a573652ed92e83fe8a34cddd"
   ],
   [
     "content/lessons/incomplete.json",
@@ -199,12 +239,36 @@ const ASSETS=[
     "1e0465a2c9e02e768cad00cb62ac461cc41c64b0d2a83eec3e861eabfcae1fd9"
   ],
   [
+    "content/lessons/lexical-layers.json",
+    "032d2074b8be6538e625ad676e3c7e85ce3425b09a01d4f7de6682eb3089936f"
+  ],
+  [
+    "content/lessons/lexical-meaning.json",
+    "76d01557460c11028d6553b9185d94d89d5b462ffdf21b93b5a458fe5ede2cc6"
+  ],
+  [
+    "content/lessons/lexical-relations.json",
+    "0974dcc71be16ae15f89e2ed939ceddea5eef5179deaac017edcb7c3be3db9cb"
+  ],
+  [
     "content/lessons/mixed-links.json",
     "c327e4d7c49daad082d06c7708b7e819527c822ecfe354810276d219a62bc08b"
   ],
   [
     "content/lessons/mixed-punctuation.json",
     "12ed2f75d3ef2b7bf101cf0a54adcf5ca89545c0077131bb1e6901706fa8ca26"
+  ],
+  [
+    "content/lessons/morpheme-alternations.json",
+    "2f5e126df30910e25c004a2f5d90279a65e4234af67d725b68c2f1b3987280b4"
+  ],
+  [
+    "content/lessons/morpheme-types.json",
+    "b67157cce8533451233b6b5686db2d0a4cd1d46426690c5f76244977926e406e"
+  ],
+  [
+    "content/lessons/morphological-analysis.json",
+    "c4b52365ec43d6bede69f63a0d4adda73c5c08e27131d754a52e6e5f7dc1d649"
   ],
   [
     "content/lessons/negation-spelling.json",
@@ -223,12 +287,28 @@ const ASSETS=[
     "0925a7364ac2277b9c3169f17fd348a2cdc681a96d1768c98ef1d7b684b4326e"
   ],
   [
+    "content/lessons/noun-morphology.json",
+    "3e6da861ad8d696637f2a08685efa30a43084bf002ba99da9acf9303c4ce8987"
+  ],
+  [
+    "content/lessons/numeral-morphology.json",
+    "ecbb111145a8f6e77f7bb6586a702cb40a2b7717646ad63402de5a53c7bc3047"
+  ],
+  [
     "content/lessons/one-part-types.json",
     "819e6d26716ae06aaca52e76c966b210874027f0a52681efc845a185ce436e76"
   ],
   [
+    "content/lessons/paronyms-collocation.json",
+    "fdf9ca0c57b4709c686aa4e634eb7ad883ad64c38365a1d0d35356dd5f9751ae"
+  ],
+  [
     "content/lessons/participle-punctuation.json",
     "ce3b9e8f54cc8ebcf3c8d25ad60bfeb57befca4959daad50626f50bcb7abee04"
+  ],
+  [
+    "content/lessons/parts-of-speech.json",
+    "0e18dd57911fefc71dfff7d73d6b3fb9f1fe24bfbd3f447ac2a254cfa3945687"
   ],
   [
     "content/lessons/phrase-links.json",
@@ -247,6 +327,10 @@ const ASSETS=[
     "62e2fde809ea51774537978f51446324a2356830edc1cd7ddcc5e4a7395c616c"
   ],
   [
+    "content/lessons/pronoun-morphology.json",
+    "a0fadc03905991c1dd512a66f568d7e00e435a5d3ed1c72211962e3e226b006d"
+  ],
+  [
     "content/lessons/pronunciation-combinations.json",
     "7f730a7f8a291210cd9560ba7e9c49da48d51e0b032a08c9e1f4d949aa8dc2d8"
   ],
@@ -255,12 +339,24 @@ const ASSETS=[
     "1395e29408a43c3a6757b1a1045b327d130030d3d859150563dc4d75dc3654cc"
   ],
   [
+    "content/lessons/register-connotation.json",
+    "29fed9845afa685c6e32d1272e82944baa0fd177b44d1352fac17bb119f02c2e"
+  ],
+  [
     "content/lessons/root-consonants.json",
     "9185502fc9870b12dce8579e42dabf632eabebdeb996d2adb109a49ff69d7bfe"
   ],
   [
     "content/lessons/root-vowels.json",
     "1aaa38a72cb7e9d6bae9efd3773e88872aea2ff90bf109de9446be8254c37499"
+  ],
+  [
+    "content/lessons/russian-language-history.json",
+    "783afba1503705e8318415d4f859c0c03e5aa56d27d75480514c913451840401"
+  ],
+  [
+    "content/lessons/scientific-etymology.json",
+    "f0ab14c176731d9705ef0868947cd9eb3a77a9985d7857a31c47c4798a048309"
   ],
   [
     "content/lessons/secondary-adverbial.json",
@@ -285,6 +381,10 @@ const ASSETS=[
   [
     "content/lessons/sibilant-vowels.json",
     "232fc88080495e9aa56d9541a0fe622b53af8d4899c9aef23d3b549217c500a6"
+  ],
+  [
+    "content/lessons/slavonic-layers.json",
+    "814782c0118ed516609473838206312c9e56b2013568b8fb4262393e71b9d9e8"
   ],
   [
     "content/lessons/sound-changes.json",
@@ -327,6 +427,14 @@ const ASSETS=[
     "874c12c96312f0f7bb48b43b785e2994f456fb4b390a050aa04595deeb7710ff"
   ],
   [
+    "content/lessons/verb-derived-forms.json",
+    "8d1b6c585e80d2df3a31cb128a25c8e9fff3807937e7bb15f041c3fec4a35b26"
+  ],
+  [
+    "content/lessons/verb-morphology.json",
+    "57b5ccb4dd729173fcdab667b6d9a3bde5a4f8f25d716d2abbd4c536690ab821"
+  ],
+  [
     "content/lessons/verb-spelling.json",
     "ee849fc79cad83f395ae94234139b54a2d3cdc3098bc6e9bdbf1b948bcfc391c"
   ],
@@ -339,12 +447,36 @@ const ASSETS=[
     "ee083c3e286aba0cbe784ef473bd8cfe833b58cf47997287aabbd96b5c343091"
   ],
   [
+    "content/lessons/word-family.json",
+    "ec8b69a9488ddd07c74acfd84eea3bd839e673c0152c74b7cb1f411404e5af90"
+  ],
+  [
+    "content/lessons/word-stem.json",
+    "e618899a4a34dbaa560321e88a988967e2b3a40b41e06768136092b509c5cced"
+  ],
+  [
+    "content/lessons/writing-reforms.json",
+    "7bb2159175e359c73f84735858ba96e297399df0a37be356ba925c1b6106fbba"
+  ],
+  [
+    "content/modules/adjective-morphology.json",
+    "d43d4044e622cb34e8ecd597f51c4468e3d668fca8332680350c807f0173a520"
+  ],
+  [
+    "content/modules/adverb-state.json",
+    "d64c1762b377ce425bbcaed48300394f2146cf7670acf9f1866119974cfdd34b"
+  ],
+  [
     "content/modules/asyndetic-punctuation.json",
     "026182d77b048a1093552ccd031e49d7285a0b7c9a11813ba19c6efa55fd917c"
   ],
   [
     "content/modules/basis.json",
     "637035abf714e9145d4b409e5b16a9d8a081e15c9a02dffc61a259067e6d7a5c"
+  ],
+  [
+    "content/modules/borrowing-etymology.json",
+    "ec553876242294b959e97b3f5674255c06e7de153df3a83331ed1a154842f198"
   ],
   [
     "content/modules/capital-letters.json",
@@ -367,12 +499,24 @@ const ASSETS=[
     "ce515c4f7fb3ed81c5b49484335b9c1d68b2affc62ceda0e56cac7390a0c25d3"
   ],
   [
+    "content/modules/derivation-chain.json",
+    "a562deffcc710e3ab09bc72bf39150e624b1a5047a57a82bfef5c926c9b8ee47"
+  ],
+  [
+    "content/modules/derivation-methods.json",
+    "c29924a6c8fc325158be3d318b60ae055201059df2797edb70bc1fcddb34093d"
+  ],
+  [
     "content/modules/detached-punctuation.json",
     "284e95d531a110df9b0e4de84622bf00a6852b6b39f11820f24d195495f8a4a0"
   ],
   [
     "content/modules/dictionary-method.json",
     "a06c8966a432b14a17772dc408e15230805e875e02f90265922d7d7f3b3b7b50"
+  ],
+  [
+    "content/modules/dictionary-vocabulary.json",
+    "ddf0939ef014d1693ad12e0d77425f8cb5f408f617d9b465e96750aa4f59b468"
   ],
   [
     "content/modules/dictionary-yo.json",
@@ -391,12 +535,28 @@ const ASSETS=[
     "bd874951278319b4db864edca3c7be33b9ada1d34f5285f7e26c6b1c8770497e"
   ],
   [
+    "content/modules/figurative-meaning.json",
+    "96b70e718cf15dd695aa09f10881537ed1fc076ec5a670f41e6cd555376d1b2a"
+  ],
+  [
+    "content/modules/function-words.json",
+    "965137bfc76e271c28cabc611d0460464b3e031155b908d2f1b82a50e0365b42"
+  ],
+  [
+    "content/modules/historical-changes.json",
+    "1cd5712b5791e6c22a5049e04b2c6b21039655188c2e01d43384adc8add9f0de"
+  ],
+  [
     "content/modules/homogeneous.json",
     "ca3c529e151daaa91a8f0083f3023ddff6117776156f2929b1fde0a6485329ef"
   ],
   [
     "content/modules/hyphenation-abbreviations.json",
     "e0328d2a74f400aa200463e9b876f42e946df9f3414225a66e80942a7b46faf8"
+  ],
+  [
+    "content/modules/idioms.json",
+    "0a162893c3195f072ea15f527280d74b38fcf5a670b9a64548eb2ffdf85183eb"
   ],
   [
     "content/modules/introductory.json",
@@ -419,6 +579,18 @@ const ASSETS=[
     "d523b4844da8e715607e437af3e077793c41228e9fbf8d0b074bf1f4794235db"
   ],
   [
+    "content/modules/lexical-layers.json",
+    "acacdd5b68c4cfede3a6f48058a7cad09885e13c53fa19a6bd49221dda7a4fb2"
+  ],
+  [
+    "content/modules/lexical-meaning.json",
+    "0ef0430498c29af5115a1ac1f5f504dcd0950f68f5f55e6a23472ce722f80feb"
+  ],
+  [
+    "content/modules/lexical-relations.json",
+    "4cdcda89b24db6e1d002ecd90b5273f4d48d270adac72c059b2337b595e5d1cc"
+  ],
+  [
     "content/modules/main-members.json",
     "40a0ba900e2273d1d9159aa7d70b304cd76cd432375f1c030481cc643b7b4cbf"
   ],
@@ -431,6 +603,18 @@ const ASSETS=[
     "0d342389bc818079984982800a275b0355f99a51161d2d6dbfaa75dc944c667c"
   ],
   [
+    "content/modules/morpheme-alternations.json",
+    "63c2ce68d0b5509bc52718bd423eb52b6b044d8b8a98baad81d2e83756d519c3"
+  ],
+  [
+    "content/modules/morpheme-types.json",
+    "69f0a85b124ed40e986b850d18f2d04642c1230029747ca2edfd39f7b2ab86bc"
+  ],
+  [
+    "content/modules/morphological-analysis.json",
+    "415e20ceb7003b3074fbc959b3ea83ce6ee1c9380875d1a567d31da817a0cfe7"
+  ],
+  [
     "content/modules/negation-spelling.json",
     "eb5a1de6fd11487c5e1ce9f6c5567babf2e722ee8848dc8e44e84780af00b34a"
   ],
@@ -439,12 +623,28 @@ const ASSETS=[
     "dc8d0c873b80b396b63d6008b8dfd2278a8ae15c0a05480f8de36adefae57b72"
   ],
   [
+    "content/modules/noun-morphology.json",
+    "02fe9711cae2bca6a249e39bbe690d428d589963aab822c7e917d0979085b5ff"
+  ],
+  [
+    "content/modules/numeral-morphology.json",
+    "782c6659dba782c12d52b885a90ec45ee754b8586290f2065be881f1b43f66de"
+  ],
+  [
     "content/modules/one-part.json",
     "e686a9f7e016d76c8f2a3c29aa7fa63310a794d1260990b2e64444d795f6e7d8"
   ],
   [
+    "content/modules/paronyms-collocation.json",
+    "ba4df567c82bb3eeb275c4c63df5dbe2fdc71dbd1e01a7f3c8af74db9fca163c"
+  ],
+  [
     "content/modules/participial.json",
     "68a66aa818e783b03893b58f2a4fa21bc7734f1e5a50d78bd443c81cd3cb0d72"
+  ],
+  [
+    "content/modules/parts-of-speech.json",
+    "3b684c644741040ffae911bc9eeb8d1a1f8319a070396578f834e399536f54ef"
   ],
   [
     "content/modules/phrases.json",
@@ -459,12 +659,20 @@ const ASSETS=[
     "13580fc2f4721727909dc4b0c3f4a832ce79050b70c727b22bd0eef9c4ff5811"
   ],
   [
+    "content/modules/pronoun-morphology.json",
+    "99d42181be5d4866ffa5ccead90e1f08ee2952be10e31a1bbf656087a499acf2"
+  ],
+  [
     "content/modules/pronunciation-combinations.json",
     "50627580df1b302084b1d34cd04bbfe165c53ae09f72b57eb3f9fdf346319f52"
   ],
   [
     "content/modules/punctuation-variation.json",
     "673c329e06484b534db847d110db656ee78e52152c1ea1e3a1cd8e5ca46edebd"
+  ],
+  [
+    "content/modules/register-connotation.json",
+    "36da2a753fb467dc663db875806d42863078e3d039d8bcb566fd96dca6510d0b"
   ],
   [
     "content/modules/reported-speech.json",
@@ -477,6 +685,14 @@ const ASSETS=[
   [
     "content/modules/root-vowels.json",
     "c0742dd152ac849a9020c62ae0c399cc82ada6d6aeaf67e1e7040c43456c40e3"
+  ],
+  [
+    "content/modules/russian-language-history.json",
+    "a84f6c586e0ce9cec0843a3055235785411180625367a110edd683d694b3c33e"
+  ],
+  [
+    "content/modules/scientific-etymology.json",
+    "3131f144fb4b0c0d72a9f8bc68789ff7702c9bcd8e85d8b32e7da53cb3355bbf"
   ],
   [
     "content/modules/secondary-members.json",
@@ -503,6 +719,10 @@ const ASSETS=[
     "e27a79ad56f41c3a869197066f6695cb12744658473a41486f11572ef71d4f20"
   ],
   [
+    "content/modules/slavonic-layers.json",
+    "f5c8d160f7909fcb2320cd48a3a37ef9dbd19a706f1857166000e144f15b7881"
+  ],
+  [
     "content/modules/sound-changes.json",
     "63e4b10be4baff986908682a6bf23de5da39a24a8b0313aafa173aab64315dd1"
   ],
@@ -527,6 +747,14 @@ const ASSETS=[
     "bde6eb44a5451a7a56ee91cb0d1ae9eb9c0edf9ec0823f554bbf6f11bf1751bb"
   ],
   [
+    "content/modules/verb-derived-forms.json",
+    "a47258d93924dd9c2d64d1d114ad5e72982c02f683a23ab1ae8d64613c4d26d2"
+  ],
+  [
+    "content/modules/verb-morphology.json",
+    "7a8b9d5dc9bdb4c76a833f4587d674bf6b4f5c21ee35eb3e40df60020c238c0c"
+  ],
+  [
     "content/modules/verb-spelling.json",
     "3270822e8a6c9e0ddd1bbef14558df16cdc21923b462591ce4c08e575fb6b77f"
   ],
@@ -539,12 +767,24 @@ const ASSETS=[
     "2159511f8654cde210a360a6dda5e5b65e980038297f2d484fa118e1335b05fa"
   ],
   [
+    "content/modules/word-family.json",
+    "05651437587048ea6f8e9184dfb185eedcb8e6f5a7f87e9a25c2b1239dd2d721"
+  ],
+  [
+    "content/modules/word-stem.json",
+    "36a2d4deebde497adddd4d4f34a5eeef1ddef2170e4595fb3b3db300d248429f"
+  ],
+  [
+    "content/modules/writing-reforms.json",
+    "306b6739a7a24bffbff5b86c9ea87320c00b26e214675d9198bff59de65109a1"
+  ],
+  [
     "content/runtime-index.json",
-    "6198d5f8fb68f133a4f88211991724bc13b16891f7122c36e3d9654f79ecb319"
+    "89e1cfc3c9ef51c43513f96df5c50450836ad5f7cd73c12ec915c15fae7b7f40"
   ],
   [
     "content/tips.json",
-    "e9c87cb812c14116908cd0a7b9e3560d93901136e3fde94baa4b0f9c80e27f8e"
+    "bbe94012c85bf6a8eb0d62608fdbc8b58ef278c2e5e15f9361a0ce3481151f73"
   ],
   [
     "icons/apple-touch-icon.png",

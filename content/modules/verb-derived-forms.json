@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.morphology.verb-derived-forms",
+  "title": "Причастие и деепричастие (базовый контроль)",
+  "moduleNumber": "04.07",
+  "status": "draft",
+  "lessonIds": [
+    "ru.morphology.verb-derived-forms.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+    "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.morphology.verb-derived-forms.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.verb-derived-forms.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Назовите форму выделенного слова: причастие или деепричастие.\n[кипящая] в чайнике вода",
+          "answer": "причастие",
+          "ex": "причастие. Проверьте согласование или неизменяемость и значение добавочного действия.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.verb-derived-forms.foundation"
+        },
+        {
+          "id": "ru.morphology.verb-derived-forms.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Назовите форму выделенного слова: причастие или деепричастие.\n[закончив] работу, я отдохнул",
+          "answer": "деепричастие",
+          "ex": "деепричастие. Проверьте согласование или неизменяемость и значение добавочного действия.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.verb-derived-forms.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.morphology.verb-derived-forms.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.verb-derived-forms.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Назовите форму выделенного слова: причастие или деепричастие.\n[подписанный] директором приказ",
+          "answer": "причастие",
+          "ex": "причастие. Проверьте согласование или неизменяемость и значение добавочного действия.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.verb-derived-forms.foundation"
+        },
+        {
+          "id": "ru.morphology.verb-derived-forms.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Назовите форму выделенного слова: причастие или деепричастие.\n[смеясь], девочка рассказывала историю",
+          "answer": "деепричастие",
+          "ex": "деепричастие. Проверьте согласование или неизменяемость и значение добавочного действия.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.verb-derived-forms.foundation"
+        }
+      ]
+    }
+  ]
+}

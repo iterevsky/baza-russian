@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.history.writing-reforms",
+  "title": "История письменности, алфавита и орфографии (базовый контроль)",
+  "moduleNumber": "09.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.history.writing-reforms.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, документы о реформе русской орфографии 1917–1918 гг.",
+    "url": "https://gramota.ru/biblioteka/spravochniki/ofitsialno-o-russkom-yazyke/dokumenty-o-reforme-russkoj-orfografii-19171918"
+  },
+  "variants": [
+    {
+      "id": "ru.history.writing-reforms.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.writing-reforms.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Напишите современное слово: Ѳома (имя, используйте строчные буквы).",
+          "answer": "фома",
+          "ex": "Фита заменяется ф.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "id": "ru.history.writing-reforms.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Сохранился ли разделительный ъ после реформы? да / нет.",
+          "answer": "да",
+          "ex": "Он необходим, например, в слове подъём.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.history.writing-reforms.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.writing-reforms.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Напишите современное слово: землѣ (форма дательного падежа).",
+          "answer": "земле",
+          "ex": "В окончании ять передаётся е.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "id": "ru.history.writing-reforms.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Как называется другая древняя славянская азбука наряду с кириллицей?",
+          "answer": "глаголица",
+          "ex": "Обе азбуки относятся к ранней славянской письменности.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.lexicon.register-connotation",
+  "title": "Коннотации, регистры, диалекты и жаргон (базовый контроль)",
+  "moduleNumber": "08.07",
+  "status": "draft",
+  "lessonIds": [
+    "ru.lexicon.register-connotation.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Лексикология и лексикография",
+    "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+  },
+  "variants": [
+    {
+      "id": "ru.lexicon.register-connotation.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.register-connotation.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Выберите для делового отчёта: произошёл сбой / всё накрылось.",
+          "answer": "произошёл сбой",
+          "ex": "Нейтральная формулировка лучше подходит официальному документу.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.register-connotation.foundation"
+        },
+        {
+          "id": "ru.lexicon.register-connotation.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "По какому признаку определяется диалектизм: территориальному / графическому?",
+          "answer": "территориальному",
+          "ex": "Диалект связан с территориальной разновидностью языка.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.register-connotation.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.lexicon.register-connotation.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.register-connotation.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Может ли разговорное слово быть уместным в дружеской беседе? да / нет.",
+          "answer": "да",
+          "ex": "Уместность определяется ситуацией, а не формальной книжностью.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.register-connotation.foundation"
+        },
+        {
+          "id": "ru.lexicon.register-connotation.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Выберите нейтральное обозначение еды: пища / хавка.",
+          "answer": "пища",
+          "ex": "Второе слово имеет сниженный разговорно-жаргонный оттенок.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.register-connotation.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.morphology.numeral-morphology",
+  "title": "Имя числительное: разряды и склонение (базовый контроль)",
+  "moduleNumber": "04.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.morphology.numeral-morphology.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+    "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.morphology.numeral-morphology.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.numeral-morphology.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Запишите указанную форму числительного словами, строчными буквами. Используйте ё, где она требуется в словарной форме.\nР. п. числа 123",
+          "answer": "ста двадцати трёх",
+          "ex": "ста двадцати трёх. Учитывайте падеж и склонение каждого необходимого компонента.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.numeral-morphology.foundation"
+        },
+        {
+          "id": "ru.morphology.numeral-morphology.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Запишите указанную форму числительного словами, строчными буквами. Используйте ё, где она требуется в словарной форме.\nД. п. числа 251",
+          "answer": "двумстам пятидесяти одному",
+          "ex": "двумстам пятидесяти одному. Учитывайте падеж и склонение каждого необходимого компонента.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.numeral-morphology.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.morphology.numeral-morphology.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.numeral-morphology.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Запишите указанную форму числительного словами, строчными буквами. Используйте ё, где она требуется в словарной форме.\nР. п. порядкового 21 (м. р.)",
+          "answer": "двадцать первого",
+          "ex": "двадцать первого. Учитывайте падеж и склонение каждого необходимого компонента.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.numeral-morphology.foundation"
+        },
+        {
+          "id": "ru.morphology.numeral-morphology.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Запишите указанную форму числительного словами, строчными буквами. Используйте ё, где она требуется в словарной форме.\nП. п. порядкового 105 (м. р., без предлога)",
+          "answer": "сто пятом",
+          "ex": "сто пятом. Учитывайте падеж и склонение каждого необходимого компонента.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.numeral-morphology.foundation"
+        }
+      ]
+    }
+  ]
+}

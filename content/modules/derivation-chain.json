@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.word-formation.derivation-chain",
+  "title": "Словообразовательные цепочки и разбор (базовый контроль)",
+  "moduleNumber": "03.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.word-formation.derivation-chain.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+    "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+  },
+  "variants": [
+    {
+      "id": "ru.word-formation.derivation-chain.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.derivation-chain.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Вставьте пропущенное звено указанной цепочки; ответ одним словом в начальной форме.\nгреть → … → подогревать",
+          "answer": "подогреть",
+          "ex": "подогреть. Промежуточное слово должно объяснять обе соседние ступени.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "id": "ru.word-formation.derivation-chain.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Вставьте пропущенное звено указанной цепочки; ответ одним словом в начальной форме.\nчитать → … → перечитывать",
+          "answer": "перечитать",
+          "ex": "перечитать. Промежуточное слово должно объяснять обе соседние ступени.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.derivation-chain.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.derivation-chain.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Вставьте пропущенное звено указанной цепочки; ответ одним словом в начальной форме.\nсухой → … → высушить",
+          "answer": "сушить",
+          "ex": "сушить. Промежуточное слово должно объяснять обе соседние ступени.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "id": "ru.word-formation.derivation-chain.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Вставьте пропущенное звено указанной цепочки; ответ одним словом в начальной форме.\nчистый → … → почистить",
+          "answer": "чистить",
+          "ex": "чистить. Промежуточное слово должно объяснять обе соседние ступени.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        }
+      ]
+    }
+  ]
+}

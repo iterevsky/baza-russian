@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.history.slavonic-layers",
+  "title": "Славянские языки, старославянизмы и исторические пласты (базовый контроль)",
+  "moduleNumber": "09.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.history.slavonic-layers.foundation"
+  ],
+  "source": {
+    "title": "Большая российская энциклопедия, Неполногласие",
+    "url": "https://old.bigenc.ru/linguistics/text/2261599"
+  },
+  "variants": [
+    {
+      "id": "ru.history.slavonic-layers.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.slavonic-layers.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Укажите неполногласную форму: дерево / древо.",
+          "answer": "древо",
+          "ex": "Ре соответствует ере.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.slavonic-layers.foundation"
+        },
+        {
+          "id": "ru.history.slavonic-layers.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Какой язык относится к западнославянским: польский / русский?",
+          "answer": "польский",
+          "ex": "Русский принадлежит восточной группе.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.slavonic-layers.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.history.slavonic-layers.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.slavonic-layers.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Какой язык относится к южнославянским: болгарский / белорусский?",
+          "answer": "болгарский",
+          "ex": "Белорусский — восточнославянский.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.slavonic-layers.foundation"
+        },
+        {
+          "id": "ru.history.slavonic-layers.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Достаточно ли увидеть буквы «ра», чтобы доказать книжнославянское происхождение? да / нет.",
+          "answer": "нет",
+          "ex": "Необходимо системное соответствие и историческое подтверждение.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.slavonic-layers.foundation"
+        }
+      ]
+    }
+  ]
+}

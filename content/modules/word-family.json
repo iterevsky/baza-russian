@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.word-formation.word-family",
+  "title": "Однокоренные слова и формы слова (базовый контроль)",
+  "moduleNumber": "03.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.word-formation.word-family.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+    "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+  },
+  "variants": [
+    {
+      "id": "ru.word-formation.word-family.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.word-family.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Классифицируйте пару: формы, родственные, неродственные.\nкнига / книге",
+          "answer": "формы",
+          "ex": "формы. Критерий — тождество лексемы или общий современный корень и смысл.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "id": "ru.word-formation.word-family.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Классифицируйте пару: формы, родственные, неродственные.\nзима / зимний",
+          "answer": "родственные",
+          "ex": "родственные. Критерий — тождество лексемы или общий современный корень и смысл.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.word-family.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.word-family.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Классифицируйте пару: формы, родственные, неродственные.\nпарк / паркет",
+          "answer": "неродственные",
+          "ex": "неродственные. Критерий — тождество лексемы или общий современный корень и смысл.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "id": "ru.word-formation.word-family.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Классифицируйте пару: формы, родственные, неродственные.\nручка / ручкой",
+          "answer": "формы",
+          "ex": "формы. Критерий — тождество лексемы или общий современный корень и смысл.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.word-formation.word-stem",
+  "title": "Основа слова и нулевое окончание (базовый контроль)",
+  "moduleNumber": "03.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.word-formation.word-stem.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+    "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+  },
+  "variants": [
+    {
+      "id": "ru.word-formation.word-stem.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.word-stem.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Укажите тип окончания: нулевое, выраженное, отсутствует.\nкенгуру",
+          "answer": "отсутствует",
+          "ex": "отсутствует. Сопоставление с другими формами позволяет установить наличие и выраженность окончания.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "id": "ru.word-formation.word-stem.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Укажите тип окончания: нулевое, выраженное, отсутствует.\nгвоздь (И. п., ед. ч.)",
+          "answer": "нулевое",
+          "ex": "нулевое. Сопоставление с другими формами позволяет установить наличие и выраженность окончания.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.word-stem.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.word-stem.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Укажите тип окончания: нулевое, выраженное, отсутствует.\nна столе (столе)",
+          "answer": "выраженное",
+          "ex": "выраженное. Сопоставление с другими формами позволяет установить наличие и выраженность окончания.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "id": "ru.word-formation.word-stem.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Укажите тип окончания: нулевое, выраженное, отсутствует.\nиздалека",
+          "answer": "отсутствует",
+          "ex": "отсутствует. Сопоставление с другими формами позволяет установить наличие и выраженность окончания.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        }
+      ]
+    }
+  ]
+}

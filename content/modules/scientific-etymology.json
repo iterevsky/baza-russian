@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.history.scientific-etymology",
+  "title": "Научная этимология и народные этимологии (базовый контроль)",
+  "moduleNumber": "09.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.history.scientific-etymology.foundation"
+  ],
+  "source": {
+    "title": "ИРЯ РАН, Этимология и история слов русского языка",
+    "url": "https://etymolog.ruslang.ru/"
+  },
+  "variants": [
+    {
+      "id": "ru.history.scientific-etymology.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.scientific-etymology.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "О чём свидетельствует сходство написания без прочих данных: о доказанном родстве / о возможной гипотезе?",
+          "answer": "о возможной гипотезе",
+          "ex": "Одного внешнего сходства недостаточно.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Является ли противоречие хронологии поводом пересмотреть гипотезу? да / нет.",
+          "answer": "да",
+          "ex": "Гипотеза должна согласоваться с порядком событий.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.history.scientific-etymology.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.scientific-etymology.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Какой источник предпочтительнее для проверки происхождения: этимологический словарь / рекламный слоган?",
+          "answer": "этимологический словарь",
+          "ex": "Он приводит профессиональные исторические объяснения.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Может ли научная этимология оставаться дискуссионной? да / нет.",
+          "answer": "да",
+          "ex": "Данные могут допускать конкурирующие объяснения.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        }
+      ]
+    }
+  ]
+}

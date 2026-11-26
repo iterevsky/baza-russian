@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.history.historical-changes",
+  "title": "Исторические звуковые и грамматические изменения (базовый контроль)",
+  "moduleNumber": "09.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.history.historical-changes.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, правописание беглых гласных; исторический комментарий",
+    "url": "https://gramota.ru/uchebnik/pravila/pravopisanie-bezudarnykh-beglykh-glasnykh"
+  },
+  "variants": [
+    {
+      "id": "ru.history.historical-changes.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.historical-changes.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "В паре день — дня представлены формы одного слова или разные слова? Напишите «формы» или «слова».",
+          "answer": "формы",
+          "ex": "Лексическое значение сохраняется при изменении падежа.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.historical-changes.foundation"
+        },
+        {
+          "id": "ru.history.historical-changes.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Утрата двойственного числа относится прежде всего к фонетике или грамматике?",
+          "answer": "грамматике",
+          "ex": "Изменяется набор грамматических категорий.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.historical-changes.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.history.historical-changes.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.historical-changes.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Является ли современная буква ъ обозначением самостоятельного гласного звука? да / нет.",
+          "answer": "нет",
+          "ex": "В современной графике она выполняет разделительную функцию.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.historical-changes.foundation"
+        },
+        {
+          "id": "ru.history.historical-changes.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Одновременно ли завершались исторические изменения во всех говорах? да / нет.",
+          "answer": "нет",
+          "ex": "Распространение изменений по территории неравномерно.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.historical-changes.foundation"
+        }
+      ]
+    }
+  ]
+}
