@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.27.0";
-const DIGEST="d923ddc1e14f77a2d3e19f6d";
+const RELEASE="0.28.0";
+const DIGEST="57ce2b0560de0f8a457a6f19";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "8b8adc8a8c205e72bf659aff5eafc074b805ad1069d21b903841ae3d841cc9c2"
+    "4063e6314e0030a15bb871e27e9b265824e6bfce5832a06a00a872cfd3b2b298"
   ],
   [
     "content/lessons/addresses.json",
@@ -89,6 +89,10 @@ const ASSETS=[
   [
     "content/lessons/detached-definitions.json",
     "63663028acde697a111bedb53f37825a371815b7612713d25c1bbb6c9fd18cce"
+  ],
+  [
+    "content/lessons/dictionary-method.json",
+    "6f8dfd9036eb34084f41e339abb04bf23a3657976e5eef697745ce6eb329d3f1"
   ],
   [
     "content/lessons/dictionary-yo.json",
@@ -183,6 +187,18 @@ const ASSETS=[
     "3f90a2b1c7967994a33305d7ca5858b4d9058f19afe2d412b238eb9d16d88ab7"
   ],
   [
+    "content/lessons/language-levels.json",
+    "fa9d212732c910bd0f5773d038d97b0f415cbd72b724dad5a98a089e06d19896"
+  ],
+  [
+    "content/lessons/language-norm.json",
+    "acd9842ade86786688f74b17dfd069cb7f75d7ac03de8d4152f8f95102a3c3ad"
+  ],
+  [
+    "content/lessons/language-speech-text.json",
+    "1e0465a2c9e02e768cad00cb62ac461cc41c64b0d2a83eec3e861eabfcae1fd9"
+  ],
+  [
     "content/lessons/mixed-links.json",
     "c327e4d7c49daad082d06c7708b7e819527c822ecfe354810276d219a62bc08b"
   ],
@@ -231,6 +247,10 @@ const ASSETS=[
     "62e2fde809ea51774537978f51446324a2356830edc1cd7ddcc5e4a7395c616c"
   ],
   [
+    "content/lessons/pronunciation-combinations.json",
+    "7f730a7f8a291210cd9560ba7e9c49da48d51e0b032a08c9e1f4d949aa8dc2d8"
+  ],
+  [
     "content/lessons/punctuation-variation.json",
     "1395e29408a43c3a6757b1a1045b327d130030d3d859150563dc4d75dc3654cc"
   ],
@@ -267,8 +287,20 @@ const ASSETS=[
     "232fc88080495e9aa56d9541a0fe622b53af8d4899c9aef23d3b549217c500a6"
   ],
   [
+    "content/lessons/sound-changes.json",
+    "1d3dbae0366454e1a4ca1427f4066784dfa3333ad2f4036b2a9d28df7370dfb8"
+  ],
+  [
+    "content/lessons/sounds-letters.json",
+    "9074d624a3430bd7f48462ac6c7eb2cab99a767201c23841c53a3c5cf0dc4fe8"
+  ],
+  [
     "content/lessons/speech-forms.json",
     "5c5f772b15c5acd8d960ea9251aba3ada7205395b026efbf0c8f5d56c10165e0"
+  ],
+  [
+    "content/lessons/stress-variants.json",
+    "bae20c19772c8b621f134d57036be95618b68c2a84e6abab44c215deffc6f67d"
   ],
   [
     "content/lessons/subject.json",
@@ -291,8 +323,16 @@ const ASSETS=[
     "abed3e232f819a7297f4571e19c52ab6756a56ae6bacbfca59900d114659c234"
   ],
   [
+    "content/lessons/syllable-stress.json",
+    "874c12c96312f0f7bb48b43b785e2994f456fb4b390a050aa04595deeb7710ff"
+  ],
+  [
     "content/lessons/verb-spelling.json",
     "ee849fc79cad83f395ae94234139b54a2d3cdc3098bc6e9bdbf1b948bcfc391c"
+  ],
+  [
+    "content/lessons/vowels-consonants.json",
+    "62ee8dabcc87bd8708df91d9d3d61f10075273de55afa4fbe94c2a0e6749a4b9"
   ],
   [
     "content/lessons/word-boundaries.json",
@@ -331,6 +371,10 @@ const ASSETS=[
     "284e95d531a110df9b0e4de84622bf00a6852b6b39f11820f24d195495f8a4a0"
   ],
   [
+    "content/modules/dictionary-method.json",
+    "a06c8966a432b14a17772dc408e15230805e875e02f90265922d7d7f3b3b7b50"
+  ],
+  [
     "content/modules/dictionary-yo.json",
     "398183471657e833a6c219fb7046a37d7b4b66c830f479563485ce227e8d620d"
   ],
@@ -361,6 +405,18 @@ const ASSETS=[
   [
     "content/modules/isolation.json",
     "9b3adb0ccf001d6a53c8799945d4283a1cd98871beef3c0cb64c54bff58d2dba"
+  ],
+  [
+    "content/modules/language-levels.json",
+    "d9d09ba97c6dc934dbb3bf7ec7764338e980a2ac382cb1237a0b4a899f8d9d32"
+  ],
+  [
+    "content/modules/language-norm.json",
+    "ae510eccabadadc9f3700a833e4789e3a13438452656988de05a44a6927ecf15"
+  ],
+  [
+    "content/modules/language-speech-text.json",
+    "d523b4844da8e715607e437af3e077793c41228e9fbf8d0b074bf1f4794235db"
   ],
   [
     "content/modules/main-members.json",
@@ -403,6 +459,10 @@ const ASSETS=[
     "13580fc2f4721727909dc4b0c3f4a832ce79050b70c727b22bd0eef9c4ff5811"
   ],
   [
+    "content/modules/pronunciation-combinations.json",
+    "50627580df1b302084b1d34cd04bbfe165c53ae09f72b57eb3f9fdf346319f52"
+  ],
+  [
     "content/modules/punctuation-variation.json",
     "673c329e06484b534db847d110db656ee78e52152c1ea1e3a1cd8e5ca46edebd"
   ],
@@ -443,6 +503,18 @@ const ASSETS=[
     "e27a79ad56f41c3a869197066f6695cb12744658473a41486f11572ef71d4f20"
   ],
   [
+    "content/modules/sound-changes.json",
+    "63e4b10be4baff986908682a6bf23de5da39a24a8b0313aafa173aab64315dd1"
+  ],
+  [
+    "content/modules/sounds-letters.json",
+    "8b3babf6798e5354c6d37e3904b9eb89ae9ce7525d915bf2bd0270e94a6e4d19"
+  ],
+  [
+    "content/modules/stress-variants.json",
+    "570b8ea957b4ebae49ac3b382968b0f6eb8323e58aeb805c23216d1d9841629e"
+  ],
+  [
     "content/modules/subordinate-punctuation.json",
     "977d23076f5e95072b03eeb3ea94e8a5981e67aa082f1fc8d6cb0c1fe1c98139"
   ],
@@ -451,8 +523,16 @@ const ASSETS=[
     "34d05c33c20f2ce5af972d0fa7579d798d06cb11a39c9d940d368a1d02ca622e"
   ],
   [
+    "content/modules/syllable-stress.json",
+    "bde6eb44a5451a7a56ee91cb0d1ae9eb9c0edf9ec0823f554bbf6f11bf1751bb"
+  ],
+  [
     "content/modules/verb-spelling.json",
     "3270822e8a6c9e0ddd1bbef14558df16cdc21923b462591ce4c08e575fb6b77f"
+  ],
+  [
+    "content/modules/vowels-consonants.json",
+    "9daa9ece7a02e804c003ae8839930ffea1fd5e6c3ab150bbee13954955d20ee6"
   ],
   [
     "content/modules/word-boundaries.json",
@@ -460,11 +540,11 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "1d1f55a9a6ed786e2feee5846a26eef5a6f5e4b4dac64b9457c23f9717b4aabf"
+    "6198d5f8fb68f133a4f88211991724bc13b16891f7122c36e3d9654f79ecb319"
   ],
   [
     "content/tips.json",
-    "62596e2ba4e358bf2903b55e5c2796da258594e85071219dfd631b661178c5af"
+    "e9c87cb812c14116908cd0a7b9e3560d93901136e3fde94baa4b0f9c80e27f8e"
   ],
   [
     "icons/apple-touch-icon.png",
@@ -488,7 +568,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "767abca76131e9e02aa523c122d022ccb475103fafe0adb66d849432f3ddf40c"
+    "e8f916e1c6b0517c4913e5b4ff8886cd86ee4a9e40d2540602d1f9f2ac80354d"
   ],
   [
     "manifest.webmanifest",
@@ -496,7 +576,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "4167c9eed8c9f8a493ed0a2c0eee9f5b579ca8efc664c5fdafa6c7d6bac8d12f"
+    "834c31cfd707f4d0f0645ca3365f898a7fc36e83440371e157fcda763b6b6cb0"
   ],
   [
     "src/core/assessment.js",
@@ -508,7 +588,7 @@ const ASSETS=[
   ],
   [
     "src/core/content.js",
-    "cb9651bec912d8a547dd2e7a894da0ff95631df31010411ac2d39afb5b62e22c"
+    "327b6302b21e7d392ff6b210e43016143f65c45b45822643c97a178e3db997dd"
   ],
   [
     "src/core/database.js",
@@ -524,7 +604,7 @@ const ASSETS=[
   ],
   [
     "src/core/lesson-view.js",
-    "0b40a7058f05deb211704214e900ee93da6dad0e7c4dcda0b9378b2e1c6d68f1"
+    "67b599a2242be338d35b4014f129900c27af07cf29782cbf3286c37dd422f205"
   ],
   [
     "src/core/module-view.js",
@@ -536,7 +616,7 @@ const ASSETS=[
   ],
   [
     "src/core/practice.js",
-    "bb7172ff4562cfbd6aca29b488f230b42c390992a2f90a77b0c5510995dea96e"
+    "6e52277643a7f00638e63a8f3d2f10eb78c25c3f443cf822a5855c3fe9f91e79"
   ],
   [
     "src/core/progress.js",
@@ -556,7 +636,7 @@ const ASSETS=[
   ],
   [
     "src/styles/main.css",
-    "4c2458cf18fecf63634be365e76a67ca04f97d79ee4e33f91e7d7f790bdf98f5"
+    "628bb9e8ab8adea35d89e750a3ebd9b81335915c19f56652af1953f8373e4581"
   ]
 ];
 // Generated release metadata is prepended by scripts/build-pwa.mjs.

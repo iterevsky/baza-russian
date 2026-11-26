@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.phonetics.sound-changes",
+  "title": "Редукция, оглушение и ассимиляция (базовый контроль)",
+  "moduleNumber": "02.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.phonetics.sound-changes.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Фонетика: позиционные изменения",
+    "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_2/"
+  },
+  "variants": [
+    {
+      "id": "ru.phonetics.sound-changes.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.sound-changes.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Какой звук соответствует д в «будка»? Введите букву без скобок.",
+          "answer": "т",
+          "ex": "Оглушение перед к.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "id": "ru.phonetics.sound-changes.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Назовите процесс в конечном согласном слова «хлеб».",
+          "answer": "оглушение",
+          "ex": "Б произносится как [п].",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.sound-changes.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.sound-changes.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Какой конечный звук в «снег»? Введите букву без скобок.",
+          "answer": "к",
+          "ex": "Г оглушается.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "id": "ru.phonetics.sound-changes.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Назовите процесс в первом согласном слова «сделал».",
+          "answer": "озвончение",
+          "ex": "С перед д озвончается.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.phonetics.stress-variants",
+  "title": "Варианты ударения и орфоэпические словари (базовый контроль)",
+  "moduleNumber": "02.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.phonetics.stress-variants.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру. Особенности русского словесного ударения; Русский орфографический словарь: ударение",
+    "url": "https://gramota.ru/biblioteka/slovari/russkoe-slovesnoe-udarenie/osobennosti-russkogo-udareniya"
+  },
+  "variants": [
+    {
+      "id": "ru.phonetics.stress-variants.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.stress-variants.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "В записи «краси́вы» номер ударного слога? Цифрами.",
+          "answer": "2",
+          "ex": "Кра-си́-вы.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "id": "ru.phonetics.stress-variants.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Если два издания разошлись, нужно сопоставить их годы и назначение? Да или нет.",
+          "answer": "да",
+          "ex": "Это позволяет понять различие рекомендаций.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.stress-variants.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.stress-variants.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "В записи «сре́дствами» номер ударного слога? Цифрами.",
+          "answer": "1",
+          "ex": "Ударение на первом гласном.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "id": "ru.phonetics.stress-variants.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Можно ли считать рифму универсальным правилом ударения? Да или нет.",
+          "answer": "нет",
+          "ex": "Она помогает помнить конкретные слова.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        }
+      ]
+    }
+  ]
+}

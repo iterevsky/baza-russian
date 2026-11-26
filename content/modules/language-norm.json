@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.language.language-norm",
+  "title": "Литературный язык и языковая норма (базовый контроль)",
+  "moduleNumber": "01.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.language.language-norm.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру. Кодификация языковой нормы",
+    "url": "https://gramota.ru/biblioteka/slovari/slovar-trudnostej-russkogo-yazyka/kodifikatsiya-yazykovoy-normy-trudnye-poiski-zolotoy-serediny"
+  },
+  "variants": [
+    {
+      "id": "ru.language.language-norm.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.language.language-norm.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Выбор одного из допустимых вариантов в редакции означает, что второй повсеместно запрещён? Да или нет.",
+          "answer": "нет",
+          "ex": "Это локальная политика.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-norm.foundation"
+        },
+        {
+          "id": "ru.language.language-norm.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Для правописания нужен орфографический или этимологический словарь?",
+          "answer": "орфографический",
+          "ex": "Этимология не устанавливает современную норму.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-norm.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.language.language-norm.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.language.language-norm.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Форма, маркированная как разговорная, автоматически нейтральна в официальном документе? Да или нет.",
+          "answer": "нет",
+          "ex": "Нужно учитывать сферу употребления.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-norm.foundation"
+        },
+        {
+          "id": "ru.language.language-norm.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Сравнивая старую и новую рекомендации, следует указывать издания? Да или нет.",
+          "answer": "да",
+          "ex": "Это обеспечивает проверяемость.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-norm.foundation"
+        }
+      ]
+    }
+  ]
+}

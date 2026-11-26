@@ -7,7 +7,28 @@
       "title": "Устройство языка",
       "moduleCount": 4,
       "description": "Норма, речь, словари",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.language.language-speech-text.foundation",
+          "file": "lessons/language-speech-text.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.language.language-levels.foundation",
+          "file": "lessons/language-levels.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.language.language-norm.foundation",
+          "file": "lessons/language-norm.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.language.dictionary-method.foundation",
+          "file": "lessons/dictionary-method.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "01.01",
@@ -32,7 +53,38 @@
       "title": "Фонетика и орфоэпия",
       "moduleCount": 6,
       "description": "Звуки, ударения, произношение",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.phonetics.sounds-letters.foundation",
+          "file": "lessons/sounds-letters.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.phonetics.vowels-consonants.foundation",
+          "file": "lessons/vowels-consonants.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.phonetics.syllable-stress.foundation",
+          "file": "lessons/syllable-stress.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.phonetics.sound-changes.foundation",
+          "file": "lessons/sound-changes.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.phonetics.pronunciation-combinations.foundation",
+          "file": "lessons/pronunciation-combinations.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.phonetics.stress-variants.foundation",
+          "file": "lessons/stress-variants.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "02.01",
@@ -1062,6 +1114,46 @@
     {
       "id": "ru.orthography.dictionary-yo",
       "file": "modules/dictionary-yo.json"
+    },
+    {
+      "id": "ru.language.language-speech-text",
+      "file": "modules/language-speech-text.json"
+    },
+    {
+      "id": "ru.language.language-levels",
+      "file": "modules/language-levels.json"
+    },
+    {
+      "id": "ru.language.language-norm",
+      "file": "modules/language-norm.json"
+    },
+    {
+      "id": "ru.language.dictionary-method",
+      "file": "modules/dictionary-method.json"
+    },
+    {
+      "id": "ru.phonetics.sounds-letters",
+      "file": "modules/sounds-letters.json"
+    },
+    {
+      "id": "ru.phonetics.vowels-consonants",
+      "file": "modules/vowels-consonants.json"
+    },
+    {
+      "id": "ru.phonetics.syllable-stress",
+      "file": "modules/syllable-stress.json"
+    },
+    {
+      "id": "ru.phonetics.sound-changes",
+      "file": "modules/sound-changes.json"
+    },
+    {
+      "id": "ru.phonetics.pronunciation-combinations",
+      "file": "modules/pronunciation-combinations.json"
+    },
+    {
+      "id": "ru.phonetics.stress-variants",
+      "file": "modules/stress-variants.json"
     }
   ],
   "lessonOrder": [
@@ -1136,6 +1228,16 @@
     "ru.orthography.service-word-spelling.foundation",
     "ru.orthography.capital-letters.foundation",
     "ru.orthography.hyphenation-abbreviations.foundation",
-    "ru.orthography.dictionary-yo.foundation"
+    "ru.orthography.dictionary-yo.foundation",
+    "ru.language.language-speech-text.foundation",
+    "ru.language.language-levels.foundation",
+    "ru.language.language-norm.foundation",
+    "ru.language.dictionary-method.foundation",
+    "ru.phonetics.sounds-letters.foundation",
+    "ru.phonetics.vowels-consonants.foundation",
+    "ru.phonetics.syllable-stress.foundation",
+    "ru.phonetics.sound-changes.foundation",
+    "ru.phonetics.pronunciation-combinations.foundation",
+    "ru.phonetics.stress-variants.foundation"
   ]
 }
