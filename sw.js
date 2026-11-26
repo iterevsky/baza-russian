@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.25.0";
-const DIGEST="d3cb42e9b4ec15485baee982";
+const RELEASE="0.26.0";
+const DIGEST="dc638c25a438e4f65c49d431";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -8,7 +8,7 @@ const ASSETS=[
   ],
   [
     "content/catalog.json",
-    "ecdd804f4451f44321e2e827097dffd6ee6b1c16bf505c5dcf80b4a598e66c1a"
+    "ecdf4da98500c0c906fddc140dfcb3cf85adacb5f7bd09842ce6e3377a1ca82a"
   ],
   [
     "content/lessons/addresses.json",
@@ -17,6 +17,14 @@ const ASSETS=[
   [
     "content/lessons/ambiguous-introductory.json",
     "dea64fb90a947ff41efe4504fcf2d382ccd330c9b5737624d3682be700eadc41"
+  ],
+  [
+    "content/lessons/asyndetic-colon-dash.json",
+    "e03c765a52e86ca1bad4e4d595c2a57aa44e1b0f1557b7b8da22be2790626f54"
+  ],
+  [
+    "content/lessons/asyndetic-enumeration.json",
+    "6b9087c204ae931d5f0029b56fca43ee969a4ea8c8f7c52ef573a0538e2fc0ed"
   ],
   [
     "content/lessons/asyndetic-relations.json",
@@ -45,6 +53,14 @@ const ASSETS=[
   [
     "content/lessons/complication-types.json",
     "12c9b15b06c145ac39cd2b7c4a3624c31919615eda06dc0b7eac73eea54fcd5d"
+  ],
+  [
+    "content/lessons/coordinate-common.json",
+    "b9694d3e40a002e77021842a0b5b36efe80c68959f02ceede88ed6516b8c4351"
+  ],
+  [
+    "content/lessons/coordinate-marks.json",
+    "4fea218a67244991c9b9ea694f41d598ce1f25f30fe092ede2c9f4bf0318e8b8"
   ],
   [
     "content/lessons/coordinate-relations.json",
@@ -199,12 +215,24 @@ const ASSETS=[
     "5d242c38d5b45fa3b485fe670b97d38a04e0fb5a9662428645fd8884ed828867"
   ],
   [
+    "content/lessons/subordinate-junction.json",
+    "eb0cf66565d214a0615e27949d70c9863fc235822e3d5311cd903d66b96d4e37"
+  ],
+  [
     "content/lessons/subordinate-links.json",
     "7758311acd743282ed42269d7c38885cf433ea7a6aef4b5391876e3b7ce2331d"
   ],
   [
+    "content/lessons/subordinate-marks.json",
+    "4d3f216c080e281b62222674c5c6cbc33c3adfe78e7002b419bc2e74b3945532"
+  ],
+  [
     "content/lessons/subordinate-types.json",
     "abed3e232f819a7297f4571e19c52ab6756a56ae6bacbfca59900d114659c234"
+  ],
+  [
+    "content/modules/asyndetic-punctuation.json",
+    "026182d77b048a1093552ccd031e49d7285a0b7c9a11813ba19c6efa55fd917c"
   ],
   [
     "content/modules/basis.json",
@@ -217,6 +245,10 @@ const ASSETS=[
   [
     "content/modules/comparison-punctuation.json",
     "69b86b6186dd55c8303a16aea6241bd6a97c723b08db4a85218a588693175008"
+  ],
+  [
+    "content/modules/coordinate-punctuation.json",
+    "c3781da4460570c7af00a495f343338ba537e4af55022e34bd6aefc93ff0ac23"
   ],
   [
     "content/modules/coordinate.json",
@@ -283,12 +315,16 @@ const ASSETS=[
     "e27a79ad56f41c3a869197066f6695cb12744658473a41486f11572ef71d4f20"
   ],
   [
+    "content/modules/subordinate-punctuation.json",
+    "977d23076f5e95072b03eeb3ea94e8a5981e67aa082f1fc8d6cb0c1fe1c98139"
+  ],
+  [
     "content/modules/subordinate.json",
     "34d05c33c20f2ce5af972d0fa7579d798d06cb11a39c9d940d368a1d02ca622e"
   ],
   [
     "content/runtime-index.json",
-    "ce08a86705a6f8e46ef40c81f5bf5e231d1f4cdab05e04bc9ca465cf40c5cf53"
+    "04edab8dfe28fbe9f710a8609b2cb98cbdc58e5cf3d50aff61ff1c005462bcf2"
   ],
   [
     "content/tips.json",
@@ -316,7 +352,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "f193306b7f6bef7dd961716fbcd550c9556905401c5cec1a36c0177d0b248edb"
+    "16c06eaa9a16269cec0531b0081917ab544ac5943d88c3622059c7363cc34851"
   ],
   [
     "manifest.webmanifest",
@@ -324,7 +360,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "357c8ba10d03e7101ad7fdb1ec08b66471a82023d0f3cd65025d8314327cae3e"
+    "e0d88a441d633011a7cd210d29884fe4d06c00f873b669102bf24af20bfcd73d"
   ],
   [
     "src/core/assessment.js",

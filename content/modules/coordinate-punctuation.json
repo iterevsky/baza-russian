@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.coordinate-punctuation",
+  "title": "Знаки в сложносочинённых предложениях",
+  "moduleNumber": "07.09",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.coordinate-marks",
+    "ru.punctuation.coordinate-common"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в сложносочинённых предложениях, §§ 112–114",
+    "url": "https://orthographia.ru/punctuatio.php?sid=133"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.coordinate-punctuation.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.a.coordinate-marks.20",
+          "type": "exact-text",
+          "raw": "Лаборант взвесил образец и заполнил журнал.",
+          "answer": "Лаборант взвесил образец и заполнил журнал.",
+          "ex": "Проверьте число основ: союз и связывает однородные сказуемые одной основы; запятая не ставится.",
+          "lessonId": "ru.punctuation.coordinate-marks"
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.a.coordinate-marks.19",
+          "type": "exact-text",
+          "raw": "Кран опустил груз и рабочие закрепили его.",
+          "answer": "Кран опустил груз, и рабочие закрепили его.",
+          "ex": "Проверьте число основ: союз связывает самостоятельные части, поэтому в нейтральном оформлении нужна запятая.",
+          "lessonId": "ru.punctuation.coordinate-marks"
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.a.coordinate-common.20",
+          "type": "exact-text",
+          "raw": "В цехе остановилась линия но освещение работало.",
+          "answer": "В цехе остановилась линия, но освещение работало.",
+          "ex": "Противительный союз разделяет части ССП; общий член не отменяет запятую.",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "instruction": "Начальное обстоятельство задаёт общую обстановку для обеих частей, если у второй части нет собственного обстоятельства места."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.a.coordinate-common.19",
+          "type": "exact-text",
+          "raw": "После объявления зал затих и ведущий вышел на сцену.",
+          "answer": "После объявления зал затих и ведущий вышел на сцену.",
+          "ex": "Начальное обстоятельство объединяет обе части, перед одиночным и запятая не нужна.",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "instruction": "Начальное обстоятельство задаёт общую обстановку для обеих частей, если у второй части нет собственного обстоятельства места."
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.coordinate-punctuation.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.b.coordinate-common.21",
+          "type": "exact-text",
+          "raw": "На пристани шумели волны и скрипели сходни.",
+          "answer": "На пристани шумели волны и скрипели сходни.",
+          "ex": "Начальное обстоятельство объединяет обе части, перед одиночным и запятая не нужна.",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "instruction": "Начальное обстоятельство задаёт общую обстановку для обеих частей, если у второй части нет собственного обстоятельства места."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.b.coordinate-marks.22",
+          "type": "exact-text",
+          "raw": "Художник смешал краски и продолжил работу.",
+          "answer": "Художник смешал краски и продолжил работу.",
+          "ex": "Проверьте число основ: союз и связывает однородные сказуемые одной основы; запятая не ставится.",
+          "lessonId": "ru.punctuation.coordinate-marks"
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.b.coordinate-common.22",
+          "type": "exact-text",
+          "raw": "К концу дня очередь уменьшилась но кассы ещё работали.",
+          "answer": "К концу дня очередь уменьшилась, но кассы ещё работали.",
+          "ex": "Противительный союз разделяет части ССП; общий член не отменяет запятую.",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "instruction": "Начальное обстоятельство задаёт общую обстановку для обеих частей, если у второй части нет собственного обстоятельства места."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.b.coordinate-marks.21",
+          "type": "exact-text",
+          "raw": "Звонок раздался но никто не ответил.",
+          "answer": "Звонок раздался, но никто не ответил.",
+          "ex": "Проверьте число основ: союз связывает самостоятельные части, поэтому в нейтральном оформлении нужна запятая.",
+          "lessonId": "ru.punctuation.coordinate-marks"
+        }
+      ]
+    }
+  ]
+}

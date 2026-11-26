@@ -515,6 +515,36 @@
           "id": "ru.punctuation.comparison-role",
           "file": "lessons/comparison-role.json",
           "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.coordinate-marks",
+          "file": "lessons/coordinate-marks.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.coordinate-common",
+          "file": "lessons/coordinate-common.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.subordinate-marks",
+          "file": "lessons/subordinate-marks.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.subordinate-junction",
+          "file": "lessons/subordinate-junction.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.asyndetic-colon-dash",
+          "file": "lessons/asyndetic-colon-dash.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.punctuation.asyndetic-enumeration",
+          "file": "lessons/asyndetic-enumeration.json",
+          "status": "draft"
         }
       ],
       "plan": [
@@ -866,6 +896,18 @@
     {
       "id": "ru.punctuation.comparison-punctuation",
       "file": "modules/comparison-punctuation.json"
+    },
+    {
+      "id": "ru.punctuation.coordinate-punctuation",
+      "file": "modules/coordinate-punctuation.json"
+    },
+    {
+      "id": "ru.punctuation.subordinate-punctuation",
+      "file": "modules/subordinate-punctuation.json"
+    },
+    {
+      "id": "ru.punctuation.asyndetic-punctuation",
+      "file": "modules/asyndetic-punctuation.json"
     }
   ],
   "lessonOrder": [
@@ -917,6 +959,12 @@
     "ru.punctuation.clarification",
     "ru.punctuation.explanation-attachment",
     "ru.punctuation.comparison-free",
-    "ru.punctuation.comparison-role"
+    "ru.punctuation.comparison-role",
+    "ru.punctuation.coordinate-marks",
+    "ru.punctuation.coordinate-common",
+    "ru.punctuation.subordinate-marks",
+    "ru.punctuation.subordinate-junction",
+    "ru.punctuation.asyndetic-colon-dash",
+    "ru.punctuation.asyndetic-enumeration"
   ]
 }
