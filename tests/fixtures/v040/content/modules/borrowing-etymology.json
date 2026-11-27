@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.history.borrowing-etymology",
+  "title": "Заимствования и этимология слов (базовый контроль)",
+  "moduleNumber": "09.05",
+  "status": "draft",
+  "lessonIds": [
+    "ru.history.borrowing-etymology.foundation"
+  ],
+  "source": {
+    "title": "ИРЯ РАН, Этимология и история слов русского языка",
+    "url": "https://etymolog.ruslang.ru/"
+  },
+  "variants": [
+    {
+      "id": "ru.history.borrowing-etymology.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.borrowing-etymology.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "При калькировании обязательно ли заимствовать звуковую оболочку слова? да / нет.",
+          "answer": "нет",
+          "ex": "Калька воспроизводит структуру собственными средствами.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.borrowing-etymology.foundation"
+        },
+        {
+          "id": "ru.history.borrowing-etymology.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Можно ли установить путь слова лишь по сходству двух современных написаний? да / нет.",
+          "answer": "нет",
+          "ex": "Нужны исторические свидетельства и закономерные соответствия.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.borrowing-etymology.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.history.borrowing-etymology.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.borrowing-etymology.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "В паре футбол — футбольный второе слово образовано от освоенного слова. Это словообразование или изменение падежа?",
+          "answer": "словообразование",
+          "ex": "Появилась новая лексема с суффиксом.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.borrowing-etymology.foundation"
+        },
+        {
+          "id": "ru.history.borrowing-etymology.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Может ли заимствованное слово стать общеупотребительным? да / нет.",
+          "answer": "да",
+          "ex": "Иностранный источник не определяет современную частотность.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.borrowing-etymology.foundation"
+        }
+      ]
+    }
+  ]
+}

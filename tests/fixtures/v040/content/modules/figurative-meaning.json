@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.lexicon.figurative-meaning",
+  "title": "Прямое и переносное значение (базовый контроль)",
+  "moduleNumber": "08.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.lexicon.figurative-meaning.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Лексикология и лексикография",
+    "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+  },
+  "variants": [
+    {
+      "id": "ru.lexicon.figurative-meaning.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.figurative-meaning.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«Море вопросов»: метафора или метонимия?",
+          "answer": "метафора",
+          "ex": "Количество вопросов уподоблено огромному водному пространству.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "id": "ru.lexicon.figurative-meaning.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«Весь стадион зааплодировал» (зрители): метафора или метонимия?",
+          "answer": "метонимия",
+          "ex": "Место обозначает людей, находящихся в нём.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.lexicon.figurative-meaning.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.figurative-meaning.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "«Сладкий чай» (с сахаром): прямое или переносное?",
+          "answer": "прямое",
+          "ex": "Признак описывает вкус напитка.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "id": "ru.lexicon.figurative-meaning.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "«Сладкая месть»: метафора или метонимия?",
+          "answer": "метафора",
+          "ex": "Удовольствие переносится из области вкуса на эмоциональное переживание.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        }
+      ]
+    }
+  ]
+}

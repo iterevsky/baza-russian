@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.lexicon.lexical-meaning",
+  "title": "Лексическое значение и многозначность (базовый контроль)",
+  "moduleNumber": "08.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.lexicon.lexical-meaning.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Лексикология и лексикография",
+    "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+  },
+  "variants": [
+    {
+      "id": "ru.lexicon.lexical-meaning.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.lexical-meaning.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«Кисть винограда»: часть руки / гроздь?",
+          "answer": "гроздь",
+          "ex": "Ягоды образуют скопление на общей оси.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-meaning.foundation"
+        },
+        {
+          "id": "ru.lexicon.lexical-meaning.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Что изменилось в «окно — окнами»: значение предмета / падеж и число?",
+          "answer": "падеж и число",
+          "ex": "Обе формы одной лексемы называют окно.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-meaning.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.lexicon.lexical-meaning.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.lexical-meaning.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Как называется наличие нескольких связанных словарных значений одной лексемы?",
+          "answer": "многозначность",
+          "ex": "Связанные значения объединены одной лексемой.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-meaning.foundation"
+        },
+        {
+          "id": "ru.lexicon.lexical-meaning.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "В «ножка стула» имеется в виду опора / часть ноги человека?",
+          "answer": "опора",
+          "ex": "Опорная функция объясняет связь с исходным значением.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-meaning.foundation"
+        }
+      ]
+    }
+  ]
+}

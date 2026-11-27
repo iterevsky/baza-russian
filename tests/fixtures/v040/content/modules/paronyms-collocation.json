@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.lexicon.paronyms-collocation",
+  "title": "Паронимы и лексическая сочетаемость (базовый контроль)",
+  "moduleNumber": "08.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.lexicon.paronyms-collocation.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, критерии хорошей речи и точность словоупотребления",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii"
+  },
+  "variants": [
+    {
+      "id": "ru.lexicon.paronyms-collocation.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.paronyms-collocation.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Вставьте: ... рост как развитие личности (личный / личностный).",
+          "answer": "личностный",
+          "ex": "Речь о развитии психологических качеств личности.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.paronyms-collocation.foundation"
+        },
+        {
+          "id": "ru.lexicon.paronyms-collocation.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Выберите сочетание для оказания поддержки: оказать помощь / принять помощь (действие оказывающего поддержку).",
+          "answer": "оказать помощь",
+          "ex": "Принимает помощь тот, кому помогают.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.paronyms-collocation.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.lexicon.paronyms-collocation.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.paronyms-collocation.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Вставьте: ... значение (играть / иметь).",
+          "answer": "иметь",
+          "ex": "Устойчивое нейтральное сочетание — иметь значение.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.paronyms-collocation.foundation"
+        },
+        {
+          "id": "ru.lexicon.paronyms-collocation.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Вставьте: ... роль (играть / иметь — выберите устойчивое сочетание со значением «влиять на результат»).",
+          "answer": "играть",
+          "ex": "Играет роль — устойчивый способ выразить влияние.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.paronyms-collocation.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.lexicon.dictionary-vocabulary",
+  "title": "Расширение словарного запаса и работа с толковым словарём (базовый контроль)",
+  "moduleNumber": "08.08",
+  "status": "draft",
+  "lessonIds": [
+    "ru.lexicon.dictionary-vocabulary.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Лексикология и лексикография",
+    "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+  },
+  "variants": [
+    {
+      "id": "ru.lexicon.dictionary-vocabulary.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Какой словарь прежде всего проверяет нормативное написание: орфографический / фразеологический?",
+          "answer": "орфографический",
+          "ex": "Он фиксирует написание слов.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Если в толковом словаре указано несколько значений, выбирают первое или подходящее по контексту?",
+          "answer": "подходящее по контексту",
+          "ex": "Порядок значений сам по себе не решает задачу понимания текста.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.lexicon.dictionary-vocabulary.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Начальная форма «статьями»?",
+          "answer": "статья",
+          "ex": "Именительный единственного числа.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Доказывает ли частотность формы в корпусе её нормативность сама по себе? да / нет.",
+          "answer": "нет",
+          "ex": "Корпус фиксирует употребление, включая отклонения от нормы.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        }
+      ]
+    }
+  ]
+}

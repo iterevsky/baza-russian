@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.lexicon.figurative-meaning.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.lexicon.figurative-meaning.module-exam.b",
@@ -58,7 +59,186 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.lexicon.figurative-meaning.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.lexicon.figurative-meaning.module-exam.r41-a",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "«Пламя свечи»: значение слова «пламя» прямое или переносное?",
+          "answer": "прямое",
+          "ex": "Описано реальное горение.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-a.01",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "raw": "«Пламя гнева»: сходство или смежность лежит в основе переноса?",
+          "answer": "сходство",
+          "ex": "Интенсивность чувства уподоблена горению.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-a.02",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "raw": "«Весь зал аплодировал»: названо помещение вместо людей. Каков тип переноса?",
+          "answer": "метонимия",
+          "ex": "Помещение и находящиеся в нём люди связаны смежностью.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-a.03",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "raw": "«Стеклянная ваза»: прилагательное употреблено прямо или переносно?",
+          "answer": "прямо",
+          "ex": "Указан реальный материал предмета.",
+          "accepted": [
+            "прямое"
+          ],
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-a.04",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "«Ледяной взгляд»: назван физический холод или эмоциональная отчуждённость?",
+          "answer": "эмоциональная отчуждённость",
+          "ex": "Холод переносится на отношение человека.",
+          "accepted": [
+            "эмоциональная холодность"
+          ],
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-a.05",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "«Нос лодки»: связь с исходным значением по положению или по материалу?",
+          "answer": "по положению",
+          "ex": "Передняя выступающая часть напоминает нос.",
+          "accepted": [
+            "положение"
+          ],
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-a.06",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "«Читать Чехова»: назван автор вместо его произведений. Тип переноса?",
+          "answer": "метонимия",
+          "ex": "Автор связан с созданным им текстом.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-a.07",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "raw": "«Каменное сердце»: тип переноса по сходству?",
+          "answer": "метафора",
+          "ex": "Нечувствительность уподобляется твёрдости камня.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-a.08",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.lexicon.figurative-meaning.module-exam.r41-b",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "«Серебряная ложка»: значение прилагательного прямое или переносное, если она из серебра?",
+          "answer": "прямое",
+          "ex": "Указан материал.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-b.01",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "raw": "«Серебряный голос»: что описывает образ — металл или звуковое впечатление?",
+          "answer": "звуковое впечатление",
+          "ex": "Звук описан через ассоциацию с серебром.",
+          "accepted": [
+            "звуковом впечатлении"
+          ],
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-b.02",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "«Редакция ответила на письмо»: учреждение вместо сотрудников. Как называется такой перенос?",
+          "answer": "метонимия",
+          "ex": "Связь учреждения и его представителей основана на смежности.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-b.03",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "raw": "«Море огней»: перенос по сходству или по соседству?",
+          "answer": "по сходству",
+          "ex": "Множество огней уподоблено необъятной поверхности моря.",
+          "accepted": [
+            "сходство"
+          ],
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-b.04",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "«Горькое лекарство» (на вкус): употребление прямое или переносное?",
+          "answer": "прямое",
+          "ex": "Речь о вкусовом ощущении.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-b.05",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "raw": "«Горькая утрата»: какое чувство названо через вкус — радость или скорбь?",
+          "answer": "скорбь",
+          "ex": "Горечь связывается с тяжёлым переживанием.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-b.06",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "raw": "«Съел две тарелки супа»: ёмкость названа вместо содержимого. Тип переноса?",
+          "answer": "метонимия",
+          "ex": "Смежность сосуда и содержимого.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-b.07",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        },
+        {
+          "raw": "«Стена дождя»: какой тип переноса основан на сходстве плотности и преграды?",
+          "answer": "метафора",
+          "ex": "Плотный дождь уподоблён стене.",
+          "id": "ru.lexicon.figurative-meaning.module-exam.r41-b.08",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.figurative-meaning.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

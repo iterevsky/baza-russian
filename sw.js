@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.40.0";
-const DIGEST="947e4fa2e47410c150a85c50";
+const RELEASE="0.41.0";
+const DIGEST="021041ca7b9c504c102996d8";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -56,7 +56,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/borrowing-etymology.json",
-    "4ab0b8a365d6a8d7293e14ff544c1a3e98992b524da0bc3af12796cbddefb50e"
+    "91132091fecb88ae0634b57e37755f3eb3bfe5d56baf3891941cab52eadc3f17"
   ],
   [
     "content/lessons/business-correspondence.json",
@@ -132,7 +132,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/dictionary-vocabulary.json",
-    "b58d93509326df52d88d885583c0e89e95302041a987e2ca85023f912c147128"
+    "3bab13a762befbed4c03141a95983cbb9f78a036d27516bd8dd98573960eeb5b"
   ],
   [
     "content/lessons/dictionary-yo.json",
@@ -164,7 +164,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/figurative-meaning.json",
-    "8e893caf7f295434f2e4b4f94203ecce2eb345323d75e3befdbc444208fc948b"
+    "2e76493194fbc791ee20e2130426fe1b128af1c3650a299d14f02833a386c927"
   ],
   [
     "content/lessons/function-words.json",
@@ -180,7 +180,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/historical-changes.json",
-    "18d9f3e16e050456190a713c98b577ad44c74fe1f596ef39bac315a4cb4b1810"
+    "ffea79fca88e1a76eb85a3578f3269e918d147574de8ad7a46576771ae16919e"
   ],
   [
     "content/lessons/homogeneity-syntax.json",
@@ -212,7 +212,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/idioms.json",
-    "f4478ae920b74943755288593c3d9ff9ea63f2a4a573652ed92e83fe8a34cddd"
+    "31477367d16974ba7e5458383fefcef1520c3fb2ce7242beed8c75e3832b6830"
   ],
   [
     "content/lessons/incomplete.json",
@@ -268,15 +268,15 @@ const ASSETS=[
   ],
   [
     "content/lessons/lexical-layers.json",
-    "032d2074b8be6538e625ad676e3c7e85ce3425b09a01d4f7de6682eb3089936f"
+    "27db907ec1c8325b3a3aa9d79bd961b72f2be160326aa3c15e40578bb7186872"
   ],
   [
     "content/lessons/lexical-meaning.json",
-    "76d01557460c11028d6553b9185d94d89d5b462ffdf21b93b5a458fe5ede2cc6"
+    "e66a94372b633d6851835f5e2ceea9b0599e9aacae35454ca76eb60173328b52"
   ],
   [
     "content/lessons/lexical-relations.json",
-    "0974dcc71be16ae15f89e2ed939ceddea5eef5179deaac017edcb7c3be3db9cb"
+    "3042c23f15176dc15ff5fefe058d38f9f716ead07ef9d668dd22d47bb3886c3d"
   ],
   [
     "content/lessons/logic-fallacies.json",
@@ -348,7 +348,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/paronyms-collocation.json",
-    "fdf9ca0c57b4709c686aa4e634eb7ad883ad64c38365a1d0d35356dd5f9751ae"
+    "de3fe866ffca8c255e9cf49c04dd808e789c4f9d7849dd6f7e998c7a0a0d06a1"
   ],
   [
     "content/lessons/participle-construction-norms.json",
@@ -408,7 +408,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/register-connotation.json",
-    "29fed9845afa685c6e32d1272e82944baa0fd177b44d1352fac17bb119f02c2e"
+    "334ade6df82e68dbaa805c4003d712e1ced9b3281c3f5954627ec3ba3f09fb2f"
   ],
   [
     "content/lessons/revision-comparison.json",
@@ -424,11 +424,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/russian-language-history.json",
-    "783afba1503705e8318415d4f859c0c03e5aa56d27d75480514c913451840401"
+    "01bbaa15f80b429edb37bac7a69e779090fc18c6db5997247d52cab17e04a223"
   ],
   [
     "content/lessons/scientific-etymology.json",
-    "f0ab14c176731d9705ef0868947cd9eb3a77a9985d7857a31c47c4798a048309"
+    "a12c0342f6170a49e046bf35044f761bfcb8083c7997c4ab3a632179f84e8d38"
   ],
   [
     "content/lessons/secondary-adverbial.json",
@@ -460,7 +460,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/slavonic-layers.json",
-    "814782c0118ed516609473838206312c9e56b2013568b8fb4262393e71b9d9e8"
+    "81b9ae0c013c38d752ade68c701fac0c350eacfb2dc8493128263d3ae0c41aeb"
   ],
   [
     "content/lessons/sound-changes.json",
@@ -564,7 +564,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/writing-reforms.json",
-    "7bb2159175e359c73f84735858ba96e297399df0a37be356ba925c1b6106fbba"
+    "bf7f25c30b51e78231a8ea16d5a68ee4c14b99a1e0da07ed70ce59b7fe31e280"
   ],
   [
     "content/modules/adjective-morphology.json",
@@ -592,7 +592,7 @@ const ASSETS=[
   ],
   [
     "content/modules/borrowing-etymology.json",
-    "ec553876242294b959e97b3f5674255c06e7de153df3a83331ed1a154842f198"
+    "52c9e89e8b7aff37694b0614dacdff01befc326543c14723e1993b262db26712"
   ],
   [
     "content/modules/business-correspondence.json",
@@ -640,7 +640,7 @@ const ASSETS=[
   ],
   [
     "content/modules/dictionary-vocabulary.json",
-    "ddf0939ef014d1693ad12e0d77425f8cb5f408f617d9b465e96750aa4f59b468"
+    "9e8a627b8a784c0d60416215d1dca9ca1361fff8893c9d28e77e612497db68cd"
   ],
   [
     "content/modules/dictionary-yo.json",
@@ -664,7 +664,7 @@ const ASSETS=[
   ],
   [
     "content/modules/figurative-meaning.json",
-    "96b70e718cf15dd695aa09f10881537ed1fc076ec5a670f41e6cd555376d1b2a"
+    "f6676eb82bb89cb944b41f7a0fa5f46d481cb5ca0ff609c565e19476919a25be"
   ],
   [
     "content/modules/function-words.json",
@@ -676,7 +676,7 @@ const ASSETS=[
   ],
   [
     "content/modules/historical-changes.json",
-    "1cd5712b5791e6c22a5049e04b2c6b21039655188c2e01d43384adc8add9f0de"
+    "a616557040bdc27866337932d84ce385586b0f0ce3240981400f38911b6d777f"
   ],
   [
     "content/modules/homogeneous.json",
@@ -688,7 +688,7 @@ const ASSETS=[
   ],
   [
     "content/modules/idioms.json",
-    "0a162893c3195f072ea15f527280d74b38fcf5a670b9a64548eb2ffdf85183eb"
+    "efafeeb6ac42b1f6beb1f634a99f70a0a6527b3b6d624900b8b346efe45e509c"
   ],
   [
     "content/modules/independent-writing.json",
@@ -716,15 +716,15 @@ const ASSETS=[
   ],
   [
     "content/modules/lexical-layers.json",
-    "acacdd5b68c4cfede3a6f48058a7cad09885e13c53fa19a6bd49221dda7a4fb2"
+    "a4b8245d355273719c58adc0a2f41b7dca8821253075427c51b83be185bbaef9"
   ],
   [
     "content/modules/lexical-meaning.json",
-    "0ef0430498c29af5115a1ac1f5f504dcd0950f68f5f55e6a23472ce722f80feb"
+    "b17baf6e7bdb52a623ea141f8842b99e0f51949e05b392ab250b89cf5913c91c"
   ],
   [
     "content/modules/lexical-relations.json",
-    "4cdcda89b24db6e1d002ecd90b5273f4d48d270adac72c059b2337b595e5d1cc"
+    "7af3e68c2c56f1b52ca4bee5878aaf86db98b5dde564ec2e94fec96ce2c4a6fe"
   ],
   [
     "content/modules/logic-fallacies.json",
@@ -792,7 +792,7 @@ const ASSETS=[
   ],
   [
     "content/modules/paronyms-collocation.json",
-    "ba4df567c82bb3eeb275c4c63df5dbe2fdc71dbd1e01a7f3c8af74db9fca163c"
+    "b72f2865debfe65f4710d561066faec97624228665e42607d7ab5c38bd7a5bd9"
   ],
   [
     "content/modules/participial.json",
@@ -848,7 +848,7 @@ const ASSETS=[
   ],
   [
     "content/modules/register-connotation.json",
-    "36da2a753fb467dc663db875806d42863078e3d039d8bcb566fd96dca6510d0b"
+    "04edba86bde745a6f3d0262458df2c30707d24d7f5ce6159d853df48d740cd07"
   ],
   [
     "content/modules/reported-speech.json",
@@ -868,11 +868,11 @@ const ASSETS=[
   ],
   [
     "content/modules/russian-language-history.json",
-    "a84f6c586e0ce9cec0843a3055235785411180625367a110edd683d694b3c33e"
+    "604a6212c46a18103a2eb31ff58cb4910946371ea2131b06a13b42d3c065bb29"
   ],
   [
     "content/modules/scientific-etymology.json",
-    "3131f144fb4b0c0d72a9f8bc68789ff7702c9bcd8e85d8b32e7da53cb3355bbf"
+    "4b0fe7b31cdc9dd2e10cdf8f70d592fbcd7d7dfb1ee35bad6e6d51298b0fe159"
   ],
   [
     "content/modules/secondary-members.json",
@@ -904,7 +904,7 @@ const ASSETS=[
   ],
   [
     "content/modules/slavonic-layers.json",
-    "f5c8d160f7909fcb2320cd48a3a37ef9dbd19a706f1857166000e144f15b7881"
+    "c381b5edef8fc44f511a2828d941fc25ef299bbbbcc02142e5ca2d3e2876ee78"
   ],
   [
     "content/modules/sound-changes.json",
@@ -992,11 +992,11 @@ const ASSETS=[
   ],
   [
     "content/modules/writing-reforms.json",
-    "306b6739a7a24bffbff5b86c9ea87320c00b26e214675d9198bff59de65109a1"
+    "94168249dce39e39e5486469299475f77a6cc844ca70fe69c9221ae594d21527"
   ],
   [
     "content/runtime-index.json",
-    "77c3f691533d4c27c963afb93c9b126bc6312cd5a5c2dd3a25c1c29b25da8904"
+    "65e8943e76fca2e4b41555574260c181c3ae4b8b5bf0547e8de8f0ff393a17f1"
   ],
   [
     "content/tips.json",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "aaf278f893c4852d72bc4e2402527994c4204e835509ac6940bbe2180c7c4ae7"
+    "e5030c1e7aea373990796596735ec375d15f5af18be09f58e406dd204b47cc46"
   ],
   [
     "manifest.webmanifest",
@@ -1032,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "2ebd1414fa2e2e21d187ed57fc029fc1512f29c875e66d1524ea53fa0980f98b"
+    "1d5084e063521ef4d1148d6443035d5ff22565439e5a8e1ceac4ca96504568e6"
   ],
   [
     "src/core/assessment.js",

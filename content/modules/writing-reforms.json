@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.history.writing-reforms.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.history.writing-reforms.module-exam.b",
@@ -58,7 +59,185 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.history.writing-reforms.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.history.writing-reforms.module-exam.r41-a",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "Запишите современное написание «столъ».",
+          "answer": "стол",
+          "ex": "Конечный твёрдый знак устранён.",
+          "id": "ru.history.writing-reforms.module-exam.r41-a.01",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "raw": "Запишите современное написание «лѣсъ».",
+          "answer": "лес",
+          "ex": "Ять заменяется е, конечный ъ опускается.",
+          "id": "ru.history.writing-reforms.module-exam.r41-a.02",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "raw": "Какой шрифт ввели для светской печати при Петре I?",
+          "answer": "гражданский шрифт",
+          "ex": "Речь о графическом оформлении печати.",
+          "accepted": [
+            "гражданский"
+          ],
+          "id": "ru.history.writing-reforms.module-exam.r41-a.03",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какая буква в «объём» сохранилась после реформы в разделительной функции?",
+          "answer": "ъ",
+          "ex": "Разделительный твёрдый знак не отменён.",
+          "accepted": [
+            "твёрдый знак",
+            "твердый знак"
+          ],
+          "id": "ru.history.writing-reforms.module-exam.r41-a.04",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Запишите современное написание имени «Ѳома».",
+          "answer": "фома",
+          "ex": "Фита в имени заменяется буквой ф.",
+          "id": "ru.history.writing-reforms.module-exam.r41-a.05",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "raw": "Запишите современную форму «синія рѣки».",
+          "answer": "синие реки",
+          "ex": "Изменено окончание множественного числа и заменён ять.",
+          "id": "ru.history.writing-reforms.module-exam.r41-a.06",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "raw": "Подготовка реформы 1917–1918 гг. началась до революции или только после неё?",
+          "answer": "до революции",
+          "ex": "Проекты упрощения обсуждались ранее.",
+          "id": "ru.history.writing-reforms.module-exam.r41-a.07",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "raw": "Устранение ятя изменило сразу произношение всех слов? Да или нет.",
+          "answer": "нет",
+          "ex": "В литературном произношении к реформе ять и е совпадали; менялось письмо.",
+          "id": "ru.history.writing-reforms.module-exam.r41-a.08",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.history.writing-reforms.module-exam.r41-b",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "Запишите современное написание «домъ».",
+          "answer": "дом",
+          "ex": "Отменён ъ в конце слова после согласной.",
+          "id": "ru.history.writing-reforms.module-exam.r41-b.01",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "raw": "Запишите современное написание «бѣлый».",
+          "answer": "белый",
+          "ex": "Ять заменён е.",
+          "id": "ru.history.writing-reforms.module-exam.r41-b.02",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "raw": "Запишите современное написание «исторія».",
+          "answer": "история",
+          "ex": "Десятеричное і заменено и.",
+          "id": "ru.history.writing-reforms.module-exam.r41-b.03",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "raw": "Запишите современное написание «Ѳёдор».",
+          "answer": "фёдор",
+          "ex": "Фита заменена ф.",
+          "accepted": [
+            "федор"
+          ],
+          "id": "ru.history.writing-reforms.module-exam.r41-b.04",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "В каком веке введён гражданский шрифт: XVII или XVIII?",
+          "answer": "xviii",
+          "ex": "Петровская реформа проходила в начале XVIII века.",
+          "accepted": [
+            "18",
+            "18-м",
+            "xviii веке"
+          ],
+          "id": "ru.history.writing-reforms.module-exam.r41-b.05",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какой год относится к введению обязательной новой орфографии для государственной печати декретом СНК: 1918 или 1956?",
+          "answer": "1918",
+          "ex": "Декрет СНК опубликован осенью 1918 года.",
+          "id": "ru.history.writing-reforms.module-exam.r41-b.06",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "raw": "Запишите современное написание «подъѣздъ».",
+          "answer": "подъезд",
+          "ex": "Разделительный ъ сохраняется, ять заменяется е, конечный ъ исчезает.",
+          "id": "ru.history.writing-reforms.module-exam.r41-b.07",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        },
+        {
+          "raw": "При научной передаче оригинальной графики следует молча модернизировать буквы или оговорить способ передачи?",
+          "answer": "оговорить способ передачи",
+          "ex": "Редакторская операция должна быть прозрачной.",
+          "id": "ru.history.writing-reforms.module-exam.r41-b.08",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.history.writing-reforms.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.lexicon.lexical-layers",
+  "title": "Термины, заимствования, архаизмы и неологизмы (базовый контроль)",
+  "moduleNumber": "08.05",
+  "status": "draft",
+  "lessonIds": [
+    "ru.lexicon.lexical-layers.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Лексикология и лексикография",
+    "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+  },
+  "variants": [
+    {
+      "id": "ru.lexicon.lexical-layers.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.lexical-layers.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«Трапеция» в геометрии: термин или историзм?",
+          "answer": "термин",
+          "ex": "Слово имеет специальное определение в математике.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-layers.foundation"
+        },
+        {
+          "id": "ru.lexicon.lexical-layers.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Относится ли статус заимствования к происхождению или к грамматическому роду?",
+          "answer": "происхождению",
+          "ex": "Заимствованность описывает исторический путь слова.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-layers.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.lexicon.lexical-layers.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.lexical-layers.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "«Уста» вместо «губы» в поэтическом тексте: архаизм или историзм?",
+          "answer": "архаизм",
+          "ex": "Существующая часть тела названа старым книжным словом.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-layers.foundation"
+        },
+        {
+          "id": "ru.lexicon.lexical-layers.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Может ли слово быть одновременно заимствованием и термином? да / нет.",
+          "answer": "да",
+          "ex": "Классификации имеют разные основания.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-layers.foundation"
+        }
+      ]
+    }
+  ]
+}

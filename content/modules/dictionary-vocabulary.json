@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.lexicon.dictionary-vocabulary.module-exam.b",
@@ -58,7 +59,186 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-a",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "Какую заголовочную форму искать для «проверили» в толковом словаре?",
+          "answer": "проверить",
+          "ex": "Глагол обычно представлен инфинитивом.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-a.01",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "raw": "Какой словарь нужен для проверки ударения: орфоэпический или этимологический?",
+          "answer": "орфоэпический",
+          "ex": "Он описывает произношение и ударение.",
+          "accepted": [
+            "орфоэпический словарь"
+          ],
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-a.02",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какую начальную форму искать для «письмами»?",
+          "answer": "письмо",
+          "ex": "Именительный единственного числа — обычная заголовочная форма.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-a.03",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "raw": "Какой словарь нужен, чтобы узнать происхождение слова «портфель»?",
+          "answer": "этимологический",
+          "ex": "Этот тип словаря описывает историю слова.",
+          "accepted": [
+            "этимологический словарь"
+          ],
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-a.04",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какой словарь выбрать для значения незнакомого слова «абрис»?",
+          "answer": "толковый",
+          "ex": "Значения описывает толковый словарь.",
+          "accepted": [
+            "толковый словарь"
+          ],
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-a.05",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какую заголовочную форму искать для «синих» в сочетании «синих чашек»?",
+          "answer": "синий",
+          "ex": "Начальная форма прилагательного — мужской род, единственное число, именительный падеж.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-a.06",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "raw": "В статье «разг.» относится к стилю или падежу?",
+          "answer": "стилю",
+          "ex": "Это стилистическая помета.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-a.07",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "raw": "Номера 1 и 2 внутри одной статьи толкового словаря обычно разделяют значения или буквы?",
+          "answer": "значения",
+          "ex": "Нумерация помогает различить значения лексемы.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-a.08",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-b",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "Какой словарь проверить для написания «исподтишка»?",
+          "answer": "орфографический",
+          "ex": "Он кодифицирует написание.",
+          "accepted": [
+            "орфографический словарь"
+          ],
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-b.01",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какую заголовочную форму искать для «бежала»?",
+          "answer": "бежать",
+          "ex": "Глагол ищут по инфинитиву.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-b.02",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "raw": "Что уместнее записать для запоминания слова: только перевод или значение с примером?",
+          "answer": "значение с примером",
+          "ex": "Контекст помогает воспроизводить слово в подходящей ситуации.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-b.03",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "raw": "Словарная помета «устар.» относится к времени употребления или к числу слогов?",
+          "answer": "времени употребления",
+          "ex": "Она характеризует историческую актуальность слова.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-b.04",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "raw": "Какую начальную форму искать для «глубокими»?",
+          "answer": "глубокий",
+          "ex": "Прилагательное ищут по форме мужского рода единственного числа.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-b.05",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "raw": "Какой словарь поможет подобрать близкие по смыслу слова?",
+          "answer": "словарь синонимов",
+          "ex": "Словарь группирует смысловые соответствия.",
+          "accepted": [
+            "синонимический словарь"
+          ],
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-b.06",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Для значения многозначного слова сначала берут первое толкование или сопоставляют толкования с контекстом?",
+          "answer": "сопоставляют толкования с контекстом",
+          "ex": "Порядок значений в статье не определяет смысл конкретного употребления.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-b.07",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        },
+        {
+          "raw": "Какую заголовочную форму искать для «окнами»?",
+          "answer": "окно",
+          "ex": "Форма именительного единственного числа.",
+          "id": "ru.lexicon.dictionary-vocabulary.module-exam.r41-b.08",
+          "type": "grammar-answer",
+          "instruction": "Введите ответ по условию. Используйте строчные буквы, без кавычек и точки в конце. Если нужно выбрать вариант, перепишите его; сохраняйте ё, если она необходима.",
+          "lessonId": "ru.lexicon.dictionary-vocabulary.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.history.russian-language-history",
+  "title": "Происхождение и развитие русского языка (базовый контроль)",
+  "moduleNumber": "09.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.history.russian-language-history.foundation"
+  ],
+  "source": {
+    "title": "Институт Пушкина, лингвострановедческий словарь: Русский язык",
+    "url": "https://ls.pushkininstitute.ru/lsslovar/?title=Русский_язык/C1-C2"
+  },
+  "variants": [
+    {
+      "id": "ru.history.russian-language-history.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.russian-language-history.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Доказывает ли одна дата границы всех звуковых изменений? да / нет.",
+          "answer": "нет",
+          "ex": "Изменения распространяются неодновременно.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.russian-language-history.foundation"
+        },
+        {
+          "id": "ru.history.russian-language-history.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Что исследует история языка: изменения системы / только биографии писателей?",
+          "answer": "изменения системы",
+          "ex": "Писатели — часть истории, но предмет шире.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.russian-language-history.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.history.russian-language-history.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.history.russian-language-history.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Какой материал подходит для исследования старой повседневной письменной речи: частное письмо / современный учебник физики?",
+          "answer": "частное письмо",
+          "ex": "Это прямое историческое свидетельство письменной практики.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.russian-language-history.foundation"
+        },
+        {
+          "id": "ru.history.russian-language-history.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Является ли общий предок современных языков одним из этих современных языков? да / нет.",
+          "answer": "нет",
+          "ex": "Реконструируемая предковая система исторически предшествует потомкам.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.history.russian-language-history.foundation"
+        }
+      ]
+    }
+  ]
+}

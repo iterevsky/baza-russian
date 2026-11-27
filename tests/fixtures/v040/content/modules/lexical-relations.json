@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.lexicon.lexical-relations",
+  "title": "Синонимы, антонимы и омонимы (базовый контроль)",
+  "moduleNumber": "08.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.lexicon.lexical-relations.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Лексикология и лексикография",
+    "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+  },
+  "variants": [
+    {
+      "id": "ru.lexicon.lexical-relations.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.lexical-relations.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«Атла́с — а́тлас»: омографы или антонимы?",
+          "answer": "омографы",
+          "ex": "Одинаковая графика при разных ударениях и значениях.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-relations.foundation"
+        },
+        {
+          "id": "ru.lexicon.lexical-relations.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«Род — рот» в изолированном произношении: омофоны или омографы?",
+          "answer": "омофоны",
+          "ex": "Оглушение конечного д создаёт совпадение звука.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-relations.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.lexicon.lexical-relations.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.lexicon.lexical-relations.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "«Ключ» (родник) и «ключ» (от замка): лексические омонимы или синонимы?",
+          "answer": "лексические омонимы",
+          "ex": "Разные лексемы с совпадающей формой.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-relations.foundation"
+        },
+        {
+          "id": "ru.lexicon.lexical-relations.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "«Вход — выход» (направление движения): синонимы или антонимы?",
+          "answer": "антонимы",
+          "ex": "Движение направлено противоположно.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.lexicon.lexical-relations.foundation"
+        }
+      ]
+    }
+  ]
+}
