@@ -1,0 +1,877 @@
+[
+  {
+    "file": "content/lessons/addresses.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.addresses.editorial.01",
+        "added": "В первом предложении Алексей назван деятелем; во втором имя выделено запятой как обращение."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/adjective-morphology.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.morphology.adjective-morphology.foundation.editorial.01",
+        "added": "Оставлена одна форма сравнения; слово «оптимальный» не усилено без смыслового основания."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/adverb-state.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.morphology.adverb-state.foundation.editorial.01",
+        "added": "Различены обстоятельство образа действия, предикатив безличного предложения и краткое прилагательное среднего рода."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/asyndetic-relations.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.syntax.asyndetic-relations.editorial.01",
+        "added": "В первой конструкции причина следует за результатом, во второй результат следует за причиной."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/author-voice.json",
+    "cards": [
+      {
+        "id": "ru.stylistics.author-voice.foundation.card.01",
+        "before": "Кто произносит реплику в диалоге романа: персонаж / обязательно сам автор?",
+        "after": "Кому принадлежит реплика, обозначенная в романе как слова героя?"
+      },
+      {
+        "id": "ru.stylistics.author-voice.foundation.card.03",
+        "before": "Как называется точка, из которой рассказчик воспринимает события: перспектива / орфограмма?",
+        "after": "Как называется точка, из которой рассказчик воспринимает события?"
+      },
+      {
+        "id": "ru.stylistics.author-voice.foundation.card.04",
+        "before": "Если просторечие повторяется только в репликах одного героя, что следует проверить: функцию / число страниц?",
+        "after": "Просторечие встречается только в репликах одного героя. Какое свойство этого приёма нужно проверить, прежде чем исправлять речь?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/basis-core.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.syntax.basis-core.editorial.01",
+        "added": "Сохранена основа «директор подписал»; новое обстоятельство отвечает на вопрос «где?»."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/basis-count.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.syntax.basis-count.editorial.01",
+        "added": "В первой конструкции один субъект и два однородных сказуемых; во второй две грамматические основы."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/borrowing-etymology.json",
+    "cards": [
+      {
+        "id": "ru.history.borrowing-etymology.foundation.card.01",
+        "before": "Как называется перенос слова из другого языка: заимствование / спряжение?",
+        "after": "Как называется переход слова из одного языка в другой?"
+      },
+      {
+        "id": "ru.history.borrowing-etymology.foundation.card.04",
+        "before": "Что изучает происхождение слов: этимология / пунктуация?",
+        "after": "Какая область лингвистики изучает происхождение слов?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/capital-letters.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.orthography.capital-letters.foundation.editorial.01",
+        "added": "Разграничены обычные прилагательные, названия жителей и официальное название «Московская область»."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/clarity-precision.json",
+    "cards": [
+      {
+        "id": "ru.stylistics.clarity-precision.foundation.card.01",
+        "before": "В предложении «Анна сказала Ольге, что её ждут» что неясно: референт местоимения / время глагола?",
+        "after": "В предложении «Анна сказала Ольге, что её ждут» какая связь остаётся неоднозначной?"
+      },
+      {
+        "id": "ru.stylistics.clarity-precision.foundation.card.03",
+        "before": "Какой показатель нельзя автоматически подменять выручкой: прибыль / выручка?",
+        "after": "Как называется финансовый результат, который нельзя отождествлять с выручкой без учёта расходов?"
+      },
+      {
+        "id": "ru.stylistics.clarity-precision.foundation.card.04",
+        "before": "Что выражает слово «вероятно»: предположение / достоверный факт?",
+        "after": "Какую степень уверенности выражает слово «вероятно»?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/complication-types.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.syntax.complication-types.editorial.01",
+        "added": "Найдены обращение «коллеги», вводное «вероятно» и однородные дополнения «встречу и презентацию»."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/coordinate-common.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.coordinate-common.editorial.01",
+        "added": "Указано, что общее обстоятельство может снять запятую перед одиночным и, но не перед противительным но."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/coordinate-marks.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.coordinate-marks.editorial.01",
+        "added": "Выделены «техник включил и проверил» и отдельная основа «датчик заработал»."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/dash-incomplete.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.dash-incomplete.editorial.01",
+        "added": "Восстановлено «выбрала» после «Лена»; объяснено тире на месте пропуска."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/dash-predicate.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.dash-predicate.editorial.01",
+        "added": "Сопоставлены нулевая связка в настоящем времени и выраженная связка «был» с творительным падежом."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/derivation-chain.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.word-formation.derivation-chain.foundation.editorial.01",
+        "added": "«Лесом» не считается отдельной ступенью словообразования: это форма слова «лес»."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/dictionary-method.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.language.dictionary-method.foundation.editorial.01",
+        "added": "Для каждого источника записаны название, издание или дата обращения, словарная статья либо корпусный запрос."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/dictionary-vocabulary.json",
+    "cards": [
+      {
+        "id": "ru.lexicon.dictionary-vocabulary.foundation.card.03",
+        "before": "Какой словарь нужен для выяснения значения слова: толковый / этимологический?",
+        "after": "Какой тип словаря нужен для выяснения современного значения слова?"
+      },
+      {
+        "id": "ru.lexicon.dictionary-vocabulary.foundation.card.04",
+        "before": "Какой словарь выбирают для истории происхождения слова: толковый / этимологический?",
+        "after": "Какой тип словаря нужен для выяснения происхождения слова?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/double-n.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.orthography.double-n.foundation.editorial.01",
+        "added": "В первом примере назван признак характера, во втором результат воспитания и деятель «бабушкой»."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/editorial-diagnosis.json",
+    "cards": [
+      {
+        "id": "ru.stylistics.editorial-diagnosis.foundation.card.01",
+        "before": "Если дата в тексте расходится с приказом, что проверять первым: факт / запятую?",
+        "after": "Дата в тексте расходится с приказом. Что нужно проверить прежде языковой правки?"
+      },
+      {
+        "id": "ru.stylistics.editorial-diagnosis.foundation.card.02",
+        "before": "Два раздела дословно повторяют одну мысль. Какой уровень диагностики первичен: структура / орфоэпия?",
+        "after": "Два раздела дословно повторяют одну мысль. На каком уровне текста прежде всего нужно искать решение?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/end-basic.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.end-basic.editorial.01",
+        "added": "Выбор точки или восклицательного знака связан с интонацией, а не с обязательным знаком при повелительной форме."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/end-ellipsis.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.end-ellipsis.editorial.01",
+        "added": "Предложены точка, вопросительный знак и сочетание вопросительного с восклицательным; слова не изменены."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/figurative-meaning.json",
+    "cards": [
+      {
+        "id": "ru.lexicon.figurative-meaning.foundation.card.01",
+        "before": "«Стальные нервы»: основание переноса — сходство / смежность?",
+        "after": "На каком отношении между признаками металла и самообладанием основан перенос в выражении «стальные нервы»?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/function-words.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.morphology.function-words.foundation.editorial.01",
+        "added": "В первом примере распознано причинное значение предлога, во втором — существительное с предлогом и предметное значение."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/functional-styles.json",
+    "cards": [
+      {
+        "id": "ru.stylistics.functional-styles.foundation.card.01",
+        "before": "В заявлении на отпуск какая функция главная: документирование / развлечение?",
+        "after": "Какова основная функция заявления на отпуск как официального документа?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/gerund-punctuation.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.gerund-punctuation.editorial.01",
+        "added": "Устойчивое выражение оставлено без обособления; буквальный оборот выделен с обеих сторон."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/homogeneity-syntax.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.syntax.homogeneity-syntax.editorial.01",
+        "added": "Названы ряд дополнений «отчёт и таблицу» и ряд обстоятельств «внимательно и без спешки»."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/homogeneous-basic.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.homogeneous-basic.editorial.01",
+        "added": "Запятая стоит между «количество» и «качество»; перед одиночным и в перечислении её нет."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/homogeneous-double.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.homogeneous-double.editorial.01",
+        "added": "Запятая поставлена перед второй частью союза «но и»."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/homogeneous-generalizing.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.homogeneous-generalizing.editorial.01",
+        "added": "После «все материалы» стоит двоеточие, позиции перечисления разделены запятыми с учётом союза и."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/homogeneous-repeated.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.homogeneous-repeated.editorial.01",
+        "added": "Объяснено, что запятая разделяет группы, внутри каждой пары одиночный и не требует запятой."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/idioms.json",
+    "cards": [
+      {
+        "id": "ru.lexicon.idioms.foundation.card.01",
+        "before": "«Бить баклуши»: бездельничать / работать усердно?",
+        "after": "Объясните значение фразеологизма «бить баклуши»."
+      },
+      {
+        "id": "ru.lexicon.idioms.foundation.card.02",
+        "before": "«Кот наплакал» (денег): очень мало / очень много?",
+        "after": "Что означает «кот наплакал» в выражении о количестве денег?"
+      },
+      {
+        "id": "ru.lexicon.idioms.foundation.card.03",
+        "before": "«Засучив рукава» (работать): усердно / неохотно?",
+        "after": "Как характеризует работу фразеологизм «засучив рукава»?"
+      },
+      {
+        "id": "ru.lexicon.idioms.foundation.card.04",
+        "before": "«Держать язык за зубами»: молчать / спорить?",
+        "after": "Что означает «держать язык за зубами»?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/lexical-meaning.json",
+    "cards": [
+      {
+        "id": "ru.lexicon.lexical-meaning.foundation.card.01",
+        "before": "Уточните значение слова «поле» в выражении «поле пшеницы»: участок земли / область деятельности.",
+        "after": "Объясните значение слова «поле» в сочетании «поле пшеницы»."
+      },
+      {
+        "id": "ru.lexicon.lexical-meaning.foundation.card.02",
+        "before": "В «поле исследований» укажите значение: участок земли / область деятельности.",
+        "after": "Объясните значение слова «поле» в сочетании «поле исследований»."
+      },
+      {
+        "id": "ru.lexicon.lexical-meaning.foundation.card.03",
+        "before": "Выберите значение «хода» в фразе «ход шахматной партии»: развитие событий / отверстие.",
+        "after": "Объясните значение слова «ход» в сочетании «ход шахматной партии»."
+      },
+      {
+        "id": "ru.lexicon.lexical-meaning.foundation.card.04",
+        "before": "Уточните значение «стол» в «стол заказов»: мебель / подразделение.",
+        "after": "Объясните значение слова «стол» в названии «стол заказов»."
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/norm-register.json",
+    "cards": [
+      {
+        "id": "ru.speech-culture.norm-register.foundation.card.01",
+        "before": "В строгом нейтральном тексте выберите род слова «кофе»: мужской / средний.",
+        "after": "Какого рода слово «кофе» в строгом нейтральном тексте?"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.foundation.card.02",
+        "before": "Какую сферу обозначает словарная помета «разг.»? Ответ: разговорная / научная.",
+        "after": "Какую сферу употребления обозначает словарная помета «разг.»?"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.foundation.card.03",
+        "before": "Как называется фактическое употребление языковых единиц: узус / кодификация?",
+        "after": "Как называется фактическое употребление языковых единиц в речи?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/numeral-norms.json",
+    "cards": [
+      {
+        "id": "ru.speech-culture.numeral-norms.foundation.card.04",
+        "before": "Выберите: обе / оба сестры.",
+        "after": "Вставьте форму числительного оба: «… сестры»."
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/paronyms-collocation.json",
+    "cards": [
+      {
+        "id": "ru.lexicon.paronyms-collocation.foundation.card.01",
+        "before": "Вставьте подходящее слово: ... метод снизил затраты (эффективный / эффектный).",
+        "after": "Подберите прилагательное со значением результативности: «… метод снизил затраты»."
+      },
+      {
+        "id": "ru.lexicon.paronyms-collocation.foundation.card.02",
+        "before": "... костюм привлёк взгляды публики (эффективный / эффектный).",
+        "after": "Подберите однокоренное к слову эффект прилагательное со значением яркого впечатления: «… костюм привлёк взгляды публики»."
+      },
+      {
+        "id": "ru.lexicon.paronyms-collocation.foundation.card.03",
+        "before": "Как называется получатель письма: адресат / адресант?",
+        "after": "Как называется получатель письма?"
+      },
+      {
+        "id": "ru.lexicon.paronyms-collocation.foundation.card.04",
+        "before": "Вставьте глагол: ... пальто (одеть / надеть).",
+        "after": "Вставьте нормативный глагол со значением помещения одежды на себя: «… пальто»."
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/participle-construction-norms.json",
+    "cards": [
+      {
+        "id": "ru.speech-culture.participle-construction-norms.foundation.card.03",
+        "before": "Есть ли ошибка связи в «Открыв дверь, мне стало холодно»? Ответ: есть / нет.",
+        "after": "Определите, допустима ли связь деепричастия с остальной конструкцией: «Открыв дверь, мне стало холодно». Обоснуйте."
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.foundation.card.04",
+        "before": "Согласуйте с «папка»: папка с бумагами, (лежащая / лежащие) на полу. Лежит папка.",
+        "after": "Папка, а не бумаги, лежит на полу. Вставьте форму причастия: «папка с бумагами, … на полу» (лежать)."
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/parts-of-speech.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.morphology.parts-of-speech.foundation.editorial.01",
+        "added": "В первом контексте «печь» — существительное, во втором — инфинитив в составе будущего времени."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/phrase-structure.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.syntax.phrase-structure.editorial.01",
+        "added": "Отдельно объяснены подчинительная связь, предикативная связь и сочинение."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/pronoun-morphology.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.morphology.pronoun-morphology.foundation.editorial.01",
+        "added": "В новой формулировке принадлежность отчёта помощнику выражена явно, без двусмысленного «его»."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/register-connotation.json",
+    "cards": [
+      {
+        "id": "ru.lexicon.register-connotation.foundation.card.01",
+        "before": "Какой оттенок слова «болтун» в обычном осуждающем контексте: отрицательный / положительный?",
+        "after": "Какой оценочный оттенок имеет слово «болтун» в обычном осуждающем контексте?"
+      },
+      {
+        "id": "ru.lexicon.register-connotation.foundation.card.02",
+        "before": "Выберите нейтральное название: компьютер / комп.",
+        "after": "Какое нейтральное полное слово соответствует разговорному сокращению «комп»?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/revision-comparison.json",
+    "cards": [
+      {
+        "id": "ru.stylistics.revision-comparison.foundation.card.01",
+        "before": "Исходник «вероятно, завтра». Правка «завтра» теряет какой смысл: неопределённость / род?",
+        "after": "Какой смысловой компонент теряется при замене «вероятно, завтра» на «завтра»?"
+      },
+      {
+        "id": "ru.stylistics.revision-comparison.foundation.card.02",
+        "before": "Исходник «до 18:00 включительно». Какой вариант сохраняет границу: не позднее 18:00 / строго раньше 18:00?",
+        "after": "Переформулируйте «до 18:00 включительно» с помощью слов «не позднее», сохранив границу."
+      },
+      {
+        "id": "ru.stylistics.revision-comparison.foundation.card.03",
+        "before": "«При наличии мест» исчезло из новой версии объявления. Что потеряно: условие / подлежащее?",
+        "after": "Из объявления исчезли слова «при наличии мест». Какой компонент обещания утрачен?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/root-vowels.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.orthography.root-vowels.foundation.editorial.01",
+        "added": "Для каждой пары указано смысловое основание проверки: свет / свят, веять / развитие или вить в соответствующем значении."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/russian-language-history.json",
+    "cards": [
+      {
+        "id": "ru.history.russian-language-history.foundation.card.01",
+        "before": "К какой языковой семье относится русский: индоевропейской / уральской?",
+        "after": "К какой языковой семье относится русский язык?"
+      },
+      {
+        "id": "ru.history.russian-language-history.foundation.card.02",
+        "before": "К какой ветви относится русский: славянской / германской?",
+        "after": "К какой ветви этой семьи относится русский язык?"
+      },
+      {
+        "id": "ru.history.russian-language-history.foundation.card.03",
+        "before": "К какой группе славянских языков относится русский: восточнославянской / западнославянской?",
+        "after": "К какой группе славянских языков относится русский язык?"
+      }
+    ],
+    "rubrics": [
+      {
+        "id": "ru.history.russian-language-history.foundation.editorial.01",
+        "added": "Различены историческое существование русского языка и роль Пушкина в развитии литературной нормы."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/scientific-etymology.json",
+    "cards": [
+      {
+        "id": "ru.history.scientific-etymology.foundation.card.01",
+        "before": "Чем обычно обозначают реконструированную языковую форму перед словом: звёздочкой / запятой?",
+        "after": "Каким знаком перед словом обычно обозначают реконструированную языковую форму?"
+      },
+      {
+        "id": "ru.history.scientific-etymology.foundation.card.02",
+        "before": "Достаточно ли рифмы для доказательства общего происхождения? да / нет.",
+        "after": "Достаточно ли рифмы для доказательства общего происхождения? Почему?"
+      },
+      {
+        "id": "ru.history.scientific-etymology.foundation.card.03",
+        "before": "Условное слово A засвидетельствовано в 1700 году, а предполагаемое исходное B появилось в 1900. Что нарушено: хронология / пунктуация?",
+        "after": "Слово A засвидетельствовано в 1700 году, а предполагаемое исходное B действительно возникло в 1900. Какой критерий нарушает гипотеза?"
+      },
+      {
+        "id": "ru.history.scientific-etymology.foundation.card.04",
+        "before": "Как называется переосмысление непонятной формы через знакомые слова: народная этимология / склонение?",
+        "after": "Как называется переосмысление непонятной формы через знакомые слова?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/sentence-rhythm.json",
+    "cards": [
+      {
+        "id": "ru.stylistics.sentence-rhythm.foundation.card.03",
+        "before": "Что меняется при переносе «только» от субъекта к объекту: область ограничения / число букв?",
+        "after": "Какой смысловой параметр изменяется при переносе частицы «только» от субъекта к объекту?"
+      },
+      {
+        "id": "ru.stylistics.sentence-rhythm.foundation.card.04",
+        "before": "Как называется выразительное отклонение от нейтрального порядка слов: инверсия / омонимия?",
+        "after": "Как называется выразительное отклонение от нейтрального порядка слов?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/separators.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.orthography.separators.foundation.editorial.01",
+        "added": "Различены разделительные ъ и ь, переход и в ы после русской приставки и сохранение и после меж-."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/slavonic-layers.json",
+    "cards": [
+      {
+        "id": "ru.history.slavonic-layers.foundation.card.01",
+        "before": "Укажите полногласную форму: город / град (поселение).",
+        "after": "Назовите современное полногласное соответствие слову «град» в значении поселения."
+      },
+      {
+        "id": "ru.history.slavonic-layers.foundation.card.02",
+        "before": "Укажите неполногласную форму: золото / злато.",
+        "after": "Назовите неполногласное историческое соответствие слову «золото»."
+      },
+      {
+        "id": "ru.history.slavonic-layers.foundation.card.03",
+        "before": "На какой основе сложился старославянский: южнославянской / восточнославянской?",
+        "after": "На какой славянской языковой основе сложился старославянский язык?"
+      },
+      {
+        "id": "ru.history.slavonic-layers.foundation.card.04",
+        "before": "Укажите полногласную форму: берег / брег.",
+        "after": "Назовите полногласное соответствие слову «брег»."
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/sound-changes.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.phonetics.sound-changes.foundation.editorial.01",
+        "added": "Показано совпадение конечного произношения из-за оглушения; написание проверено формой с гласным после согласного либо словарём."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/sounds-letters.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.phonetics.sounds-letters.foundation.editorial.01",
+        "added": "Учтены два звука у ё в начале слова и я после разделительного ь; мягкий знак самостоятельного звука не обозначает."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/speech-errors.json",
+    "cards": [
+      {
+        "id": "ru.speech-culture.speech-errors.foundation.card.02",
+        "before": "Кто получает письмо: адресат / адресант?",
+        "after": "Как называется получатель письма?"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.foundation.card.03",
+        "before": "Кто отправляет послание: адресат / адресант?",
+        "after": "Как называется отправитель послания?"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.foundation.card.04",
+        "before": "Выберите прилагательное: (эффектный / эффективный) метод, который снижает затраты.",
+        "after": "Подберите прилагательное к слову «метод», подчёркивающее его результативность, а не внешнее впечатление."
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/speech-etiquette.json",
+    "cards": [
+      {
+        "id": "ru.speech-culture.speech-etiquette.foundation.card.01",
+        "before": "В письме нескольким адресатам в середине предложения выберите: вас / Вас.",
+        "after": "Вставьте местоимение с нужной прописной или строчной буквой в письме нескольким адресатам: «Просим … подтвердить участие»."
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.foundation.card.02",
+        "before": "В официальной просьбе без срочности выберите маркер вежливости: пожалуйста / немедленно.",
+        "after": "Какое общеупотребительное слово вежливой просьбы можно вставить в «Пришлите, …, документ»?"
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.foundation.card.03",
+        "before": "Как называется формула «Благодарю за помощь»: благодарность / приветствие?",
+        "after": "Как называется этикетная формула «Благодарю за помощь»?"
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.foundation.card.04",
+        "before": "Как называется «До свидания»: прощание / просьба?",
+        "after": "Какую этикетную функцию выполняет формула «До свидания»?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/subject-predicate-agreement.json",
+    "cards": [
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.foundation.card.01",
+        "before": "Выберите сказуемое: список покупателей обновился / обновились. Запишите глагол.",
+        "after": "Поставьте «обновиться» в прошедшем времени: «Список покупателей …»."
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.foundation.card.02",
+        "before": "Выберите сказуемое: пачка писем лежала / лежали. Запишите глагол.",
+        "after": "Поставьте «лежать» в прошедшем времени: «Пачка писем …»."
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.foundation.card.03",
+        "before": "Выберите: решение комиссии вступило / вступили в силу.",
+        "after": "Поставьте «вступить» в прошедшем времени: «Решение комиссии … в силу»."
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.foundation.card.04",
+        "before": "Выберите: результаты исследования опубликованы / опубликовано.",
+        "after": "Вставьте краткое страдательное причастие от «опубликовать»: «Результаты исследования …»."
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/subject.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.syntax.subject.editorial.01",
+        "added": "Подлежащие «инженер» и «план» различены; исполнитель в обеих конструкциях — инженер."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/subordinate-junction.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.subordinate-junction.editorial.01",
+        "added": "Проверена возможность изъять вложенное придаточное и учтена вторая часть союза «то»."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/subordinate-marks.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.punctuation.subordinate-marks.editorial.01",
+        "added": "Показано, что два придаточных относятся к «выяснили» и соединены одиночным и без запятой между ними."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/syllable-stress.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.phonetics.syllable-stress.foundation.editorial.01",
+        "added": "Контексты различают за́мок и замо́к, му́ку и муку́."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/text-cohesion.json",
+    "cards": [
+      {
+        "id": "ru.stylistics.text-cohesion.foundation.card.01",
+        "before": "Как называется смысловая тема отдельного абзаца: микротема / фонема?",
+        "after": "Как называется относительно самостоятельная смысловая тема отдельного абзаца?"
+      },
+      {
+        "id": "ru.stylistics.text-cohesion.foundation.card.04",
+        "before": "Как называется новая информация высказывания в актуальном членении: тема / рема?",
+        "after": "Как называется новая информация высказывания в актуальном членении?"
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/verb-derived-forms.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.morphology.verb-derived-forms.foundation.editorial.01",
+        "added": "В исправленной конструкции читатель письма является субъектом основного действия либо использована придаточная часть."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/verbal-economy.json",
+    "cards": [
+      {
+        "id": "ru.stylistics.verbal-economy.foundation.card.04",
+        "before": "Замените «по причине отсутствия» предлогом и существительным: из-за отсутствия / в отсутствие. Требуется именно причина.",
+        "after": "Замените «по причине отсутствия» более коротким предлогом и существительным, сохранив значение причины."
+      }
+    ],
+    "rubrics": []
+  },
+  {
+    "file": "content/lessons/word-family.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.word-formation.word-family.foundation.editorial.01",
+        "added": "Проверка относится к воде, а не к вождению; подобрано слово «во́ды» или другое подходящее ударное соответствие."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/word-stem.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.word-formation.word-stem.foundation.editorial.01",
+        "added": "У «окно» меняется окончание, у «пальто» форма существительного остаётся неизменной."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/writing-reforms.json",
+    "cards": [],
+    "rubrics": [
+      {
+        "id": "ru.history.writing-reforms.foundation.editorial.01",
+        "added": "В современной версии «хлеб» передано без ѣ и конечного ъ, оригинал приведён отдельно."
+      }
+    ]
+  },
+  {
+    "file": "content/lessons/prefix-spelling.json",
+    "cards": [],
+    "rubrics": [],
+    "theory": [
+      "Особый случай: раз- и роз-"
+    ]
+  },
+  {
+    "file": "content/lessons/negation-spelling.json",
+    "cards": [],
+    "rubrics": [],
+    "theory": [
+      "Отрицание при причастиях и наречиях"
+    ]
+  }
+]

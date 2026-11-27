@@ -9,7 +9,7 @@ import {gradePractice} from '../src/core/practice.js';
 import {moduleView} from '../src/core/module-view.js';
 import {portMessage,probePort} from '../scripts/check-port.mjs';
 import {createServer} from 'node:net';
-import {historicalContent} from './historical-content.mjs';
+import {historicalContent,fetch045} from './historical-content.mjs';
 const fetcher=async u=>({ok:true,json:async()=>JSON.parse(await readFile(u,'utf8'))});
 const c=await loadCourse(fetcher),index=await loadCourseIndex(fetcher);
 const ortho=c.modules.filter(m=>m.moduleNumber.startsWith('06.'));
@@ -22,8 +22,8 @@ test('all 14 revised orthography modules have two independent eight-question var
  const l=c.lessons.find(l=>l.id===m.lessonIds[0]);assert.ok(l.theory.some(b=>b.id==='revision-036'));assert.equal(l.goals.length,3);for(const p of l.practice.filter(p=>p.id.includes('.practice.r36.'))){assert.ok(!seen.has(p.raw),p.raw);seen.add(p.raw);assert.ok(gradePractice(p,[],p.accepted[0]));assert.ok(!gradePractice(p,[],p.accepted[0]+'!'));practice++}}
  assert.equal(exams,224);assert.equal(practice,28);
 });
-test('old graded content, identifiers and version remain exactly unchanged; archive flag only on old module variants',()=>{
- for(const [id,before] of oldLessons){const now=c.lessons.find(l=>l.id===id);assert.equal(now.version,before.version);assert.deepEqual(now.practice.slice(0,before.practice.length),before.practice);for(const key of ['exam','examVariants','cards','editorialCases','deepDive'])assert.deepEqual(now[key],before[key],id+' '+key);assert.deepEqual(now.theory.slice(0,before.theory.length),before.theory)}
+test('old graded content, identifiers and version remain exactly unchanged; archive flag only on old module variants',async()=>{const snapshot=await loadCourse(fetch045);
+ for(const [id,before] of oldLessons){const now=snapshot.lessons.find(l=>l.id===id);assert.equal(now.version,before.version);assert.deepEqual(now.practice.slice(0,before.practice.length),before.practice);for(const key of ['exam','examVariants','cards','editorialCases','deepDive'])assert.deepEqual(now[key],before[key],id+' '+key);assert.deepEqual(now.theory.slice(0,before.theory.length),before.theory)}
  for(const [id,before] of oldModules){const now=c.modules.find(m=>m.id===id);assert.deepEqual(now.variants.slice(0,before.variants.length),before.variants.map(v=>({...v,archived:true})));assert.deepEqual(now.lessonIds,before.lessonIds)}
 });
 test('all 14 historical completed module results and drafts import intact; new attempts start only new banks',()=>{
