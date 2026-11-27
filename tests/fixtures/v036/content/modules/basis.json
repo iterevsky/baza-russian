@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.basis",
+  "title": "Грамматическая основа",
+  "moduleNumber": "05.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.basis-core",
+    "ru.syntax.basis-count"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)",
+    "url": "https://gramota.ru/biblioteka/spravochniki/prostoe-predlozhenie"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.basis.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.basis.module-exam.a.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.basis-core",
+          "raw": "В коридоре прозвенел звонок.",
+          "answer": "звонок прозвенел",
+          "ex": "Сказуемое стоит перед подлежащим.",
+          "instruction": "Выпишите подлежащее, затем сказуемое через один пробел, без знаков препинания."
+        },
+        {
+          "id": "ru.syntax.basis.module-exam.a.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.basis-core",
+          "raw": "Бухгалтер проверил счёт.",
+          "answer": "бухгалтер проверил",
+          "ex": "Счёт — дополнение.",
+          "instruction": "Выпишите подлежащее, затем сказуемое через один пробел, без знаков препинания."
+        },
+        {
+          "id": "ru.syntax.basis.module-exam.a.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.basis-count",
+          "raw": "Моросит.",
+          "answer": "1",
+          "ex": "Безличная основа.",
+          "instruction": "Укажите число грамматических основ цифрой: 1 или 2."
+        },
+        {
+          "id": "ru.syntax.basis.module-exam.a.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.basis-count",
+          "raw": "Сирена завыла, и ворота закрылись.",
+          "answer": "2",
+          "ex": "Две основы.",
+          "instruction": "Укажите число грамматических основ цифрой: 1 или 2."
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.basis.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.basis.module-exam.b.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.basis-core",
+          "raw": "В поле работал трактор.",
+          "answer": "трактор работал",
+          "ex": "В поле — обстоятельство.",
+          "instruction": "Выпишите подлежащее, затем сказуемое через один пробел, без знаков препинания."
+        },
+        {
+          "id": "ru.syntax.basis.module-exam.b.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.basis-core",
+          "raw": "Соседи покрасили забор.",
+          "answer": "соседи покрасили",
+          "ex": "Забор — объект действия.",
+          "instruction": "Выпишите подлежащее, затем сказуемое через один пробел, без знаков препинания."
+        },
+        {
+          "id": "ru.syntax.basis.module-exam.b.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.basis-count",
+          "raw": "Мы хотим поехать домой.",
+          "answer": "1",
+          "ex": "Хотим поехать — одно составное сказуемое.",
+          "instruction": "Укажите число грамматических основ цифрой: 1 или 2."
+        },
+        {
+          "id": "ru.syntax.basis.module-exam.b.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.basis-count",
+          "raw": "Девочка взяла карандаш и нарисовала круг.",
+          "answer": "1",
+          "ex": "Два однородных сказуемых.",
+          "instruction": "Укажите число грамматических основ цифрой: 1 или 2."
+        }
+      ]
+    }
+  ]
+}

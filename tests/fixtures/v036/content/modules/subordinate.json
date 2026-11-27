@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.subordinate",
+  "title": "Сложноподчинённые предложения и виды придаточных",
+  "moduleNumber": "05.09",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.subordinate-links",
+    "ru.syntax.subordinate-types"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+    "url": "https://irgali.narod.ru/files/sintaksis.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.subordinate.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.subordinate.module-exam.a.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subordinate-links",
+          "raw": "Мы остановились, так как дорога размылась.",
+          "answer": "союз",
+          "ex": "Средство связи не является членом придаточной части.",
+          "instruction": "Определите средство связи придаточной части: союз или союзное слово."
+        },
+        {
+          "id": "ru.syntax.subordinate.module-exam.a.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subordinate-links",
+          "raw": "Я спросил, откуда приехал гость.",
+          "answer": "союзное слово",
+          "ex": "Относительное слово выполняет функцию члена придаточной части.",
+          "instruction": "Определите средство связи придаточной части: союз или союзное слово."
+        },
+        {
+          "id": "ru.syntax.subordinate.module-exam.a.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subordinate-types",
+          "raw": "Специалист выяснил, кто подписал документ.",
+          "answer": "изъяснительное",
+          "ex": "Придаточная часть раскрывает содержание речи, мысли или восприятия.",
+          "instruction": "Определите общую группу придаточного: определительное, изъяснительное, обстоятельственное."
+        },
+        {
+          "id": "ru.syntax.subordinate.module-exam.a.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subordinate-types",
+          "raw": "Мастер нашёл деталь, которая подходила к насосу.",
+          "answer": "определительное",
+          "ex": "Придаточная часть характеризует существительное в главной.",
+          "instruction": "Определите общую группу придаточного: определительное, изъяснительное, обстоятельственное."
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.subordinate.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.subordinate.module-exam.b.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subordinate-links",
+          "raw": "Он выяснил, кому принадлежит ключ.",
+          "answer": "союзное слово",
+          "ex": "Относительное слово выполняет функцию члена придаточной части.",
+          "instruction": "Определите средство связи придаточной части: союз или союзное слово."
+        },
+        {
+          "id": "ru.syntax.subordinate.module-exam.b.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subordinate-links",
+          "raw": "Мастер торопился, чтобы работа закончилась вовремя.",
+          "answer": "союз",
+          "ex": "Средство связи не является членом придаточной части.",
+          "instruction": "Определите средство связи придаточной части: союз или союзное слово."
+        },
+        {
+          "id": "ru.syntax.subordinate.module-exam.b.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subordinate-types",
+          "raw": "Я открыл письмо, которое лежало на столе.",
+          "answer": "определительное",
+          "ex": "Придаточная часть характеризует существительное в главной.",
+          "instruction": "Определите общую группу придаточного: определительное, изъяснительное, обстоятельственное."
+        },
+        {
+          "id": "ru.syntax.subordinate.module-exam.b.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subordinate-types",
+          "raw": "Если сигнал повторится, техник проверит кабель.",
+          "answer": "обстоятельственное",
+          "ex": "Придаточная часть выражает обстоятельственное отношение к главной.",
+          "instruction": "Определите общую группу придаточного: определительное, изъяснительное, обстоятельственное."
+        }
+      ]
+    }
+  ]
+}

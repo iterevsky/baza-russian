@@ -19,6 +19,6 @@ test('v0.24 adds six punctuation lessons, distinct exam prompts, and comma-posit
 });
 test('v0.24 import retains previous lesson progress and completed and unfinished module exams',async()=>{
  assert.equal(prior.lessons.length,37);assert.equal(prior.modules.length,14);const old=normalize(null,prior);for(const l of prior.lessons){old.byLesson[l.id].note='Конспект '+l.id;old.byLesson[l.id].read=true;}
- const m=prior.modules.find(x=>x.moduleNumber==='05.12'),d=old.byModule[m.id];beginModule(m,d,85);d.draft.answers=m.variants[0].questions.map(q=>q.answer);finishModule(m,d);beginModule(m,d,95);d.draft.answers[0]=m.variants[1].questions[0].answer;
+ const m=JSON.parse(await readFile(new URL('./fixtures/v036/content/modules/sentence-structure.json',import.meta.url),'utf8')),d=old.byModule[m.id];beginModule(m,d,85);d.draft.answers=m.variants[0].questions.map(q=>q.answer);finishModule(m,d);beginModule(m,d,95);d.draft.answers[0]=m.variants[1].questions[0].answer;
  const indexed=await loadCourseIndex(fetcher),now=parseImport(JSON.stringify(old),indexed);for(const l of prior.lessons)assert.deepEqual(now.byLesson[l.id],old.byLesson[l.id]);for(const m of prior.modules)assert.deepEqual(now.byModule[m.id],old.byModule[m.id]);for(const l of added)assert.equal(now.byLesson[l.id].read,false);for(const m of mods)assert.deepEqual(now.byModule[m.id],{exams:[],draft:null});
 });

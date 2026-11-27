@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.reported-speech",
+  "title": "Прямая и косвенная речь",
+  "moduleNumber": "05.11",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.speech-forms",
+    "ru.syntax.indirect-transformation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+    "url": "https://irgali.narod.ru/files/sintaksis.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.reported-speech.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.reported-speech.module-exam.a.speech-forms.19",
+          "type": "grammar-answer",
+          "raw": "Режиссёр объявил: «Репетиция окончена».",
+          "answer": "прямая",
+          "ex": "Реплика представлена как самостоятельное высказывание, отделённое от слов автора.",
+          "instruction": "Определите вид передачи речи: прямая или косвенная.",
+          "lessonId": "ru.syntax.speech-forms"
+        },
+        {
+          "id": "ru.syntax.reported-speech.module-exam.a.speech-forms.20",
+          "type": "grammar-answer",
+          "raw": "Повар объяснил, что суп нужно охладить.",
+          "answer": "косвенная",
+          "ex": "Содержание чужой речи передано придаточной частью, зависимой от слов рассказчика.",
+          "instruction": "Определите вид передачи речи: прямая или косвенная.",
+          "lessonId": "ru.syntax.speech-forms"
+        },
+        {
+          "id": "ru.syntax.reported-speech.module-exam.a.indirect-transformation.19",
+          "type": "grammar-answer",
+          "raw": "Пилот сообщил, что посадка завершена.",
+          "answer": "сообщение",
+          "ex": "Передаётся утверждение или сообщение о факте.",
+          "instruction": "Какова коммуникативная цель переданной реплики: сообщение, вопрос или побуждение?",
+          "lessonId": "ru.syntax.indirect-transformation"
+        },
+        {
+          "id": "ru.syntax.reported-speech.module-exam.a.indirect-transformation.20",
+          "type": "grammar-answer",
+          "raw": "Артём спросил, почему погас экран.",
+          "answer": "вопрос",
+          "ex": "Передаётся запрос информации: общий или специальный вопрос.",
+          "instruction": "Какова коммуникативная цель переданной реплики: сообщение, вопрос или побуждение?",
+          "lessonId": "ru.syntax.indirect-transformation"
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.reported-speech.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.reported-speech.module-exam.b.indirect-transformation.22",
+          "type": "grammar-answer",
+          "raw": "Садовник сказал, что деревья уже зацвели.",
+          "answer": "сообщение",
+          "ex": "Передаётся утверждение или сообщение о факте.",
+          "instruction": "Какова коммуникативная цель переданной реплики: сообщение, вопрос или побуждение?",
+          "lessonId": "ru.syntax.indirect-transformation"
+        },
+        {
+          "id": "ru.syntax.reported-speech.module-exam.b.indirect-transformation.21",
+          "type": "grammar-answer",
+          "raw": "Руководитель попросил, чтобы отчёт прислали утром.",
+          "answer": "побуждение",
+          "ex": "Передаётся просьба, распоряжение или приказ, направленные на действие.",
+          "instruction": "Какова коммуникативная цель переданной реплики: сообщение, вопрос или побуждение?",
+          "lessonId": "ru.syntax.indirect-transformation"
+        },
+        {
+          "id": "ru.syntax.reported-speech.module-exam.b.speech-forms.22",
+          "type": "grammar-answer",
+          "raw": "Диспетчер уточнил, прибыл ли груз.",
+          "answer": "косвенная",
+          "ex": "Содержание чужой речи передано придаточной частью, зависимой от слов рассказчика.",
+          "instruction": "Определите вид передачи речи: прямая или косвенная.",
+          "lessonId": "ru.syntax.speech-forms"
+        },
+        {
+          "id": "ru.syntax.reported-speech.module-exam.b.speech-forms.21",
+          "type": "grammar-answer",
+          "raw": "«Какой сегодня рейс?» — спросил пассажир.",
+          "answer": "прямая",
+          "ex": "Реплика представлена как самостоятельное высказывание, отделённое от слов автора.",
+          "instruction": "Определите вид передачи речи: прямая или косвенная.",
+          "lessonId": "ru.syntax.speech-forms"
+        }
+      ]
+    }
+  ]
+}

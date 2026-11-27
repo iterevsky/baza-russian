@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.main-members",
+  "title": "Подлежащее и сказуемое, виды сказуемых",
+  "moduleNumber": "05.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.subject",
+    "ru.syntax.predicate"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)",
+    "url": "https://gramota.ru/biblioteka/spravochniki/prostoe-predlozhenie"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.main-members.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.main-members.module-exam.a.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subject",
+          "raw": "Ты выбрал маршрут.",
+          "answer": "ты",
+          "ex": "Местоимение в именительном падеже.",
+          "instruction": "Выпишите подлежащее целиком, без знаков препинания."
+        },
+        {
+          "id": "ru.syntax.main-members.module-exam.a.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subject",
+          "raw": "Двое врачей осмотрели пациента.",
+          "answer": "двое врачей",
+          "ex": "Сочетание целиком.",
+          "instruction": "Выпишите подлежащее целиком, без знаков препинания."
+        },
+        {
+          "id": "ru.syntax.main-members.module-exam.a.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.predicate",
+          "raw": "Птицы будут зимовать здесь.",
+          "answer": "ПГС",
+          "ex": "Будут зимовать — форма будущего времени.",
+          "instruction": "Назовите тип сказуемого сокращением ПГС, СГС или СИС (без точек)."
+        },
+        {
+          "id": "ru.syntax.main-members.module-exam.a.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.predicate",
+          "raw": "Студент захотел отдохнуть.",
+          "answer": "СГС",
+          "ex": "Желание и инфинитив одного субъекта.",
+          "instruction": "Назовите тип сказуемого сокращением ПГС, СГС или СИС (без точек)."
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.main-members.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.main-members.module-exam.b.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subject",
+          "raw": "Отчёт проверен аудитором.",
+          "answer": "отчёт",
+          "ex": "Предмет воздействия является подлежащим.",
+          "instruction": "Выпишите подлежащее целиком, без знаков препинания."
+        },
+        {
+          "id": "ru.syntax.main-members.module-exam.b.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.subject",
+          "raw": "В углу стоял шкаф.",
+          "answer": "шкаф",
+          "ex": "Подлежащее находится после сказуемого.",
+          "instruction": "Выпишите подлежащее целиком, без знаков препинания."
+        },
+        {
+          "id": "ru.syntax.main-members.module-exam.b.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.predicate",
+          "raw": "Задача оказалась трудной.",
+          "answer": "СИС",
+          "ex": "Связка оказалась и именная часть.",
+          "instruction": "Назовите тип сказуемого сокращением ПГС, СГС или СИС (без точек)."
+        },
+        {
+          "id": "ru.syntax.main-members.module-exam.b.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.predicate",
+          "raw": "Мальчик попросил сестру спеть.",
+          "answer": "ПГС",
+          "ex": "Поёт сестра; попросил — сказуемое.",
+          "instruction": "Назовите тип сказуемого сокращением ПГС, СГС или СИС (без точек)."
+        }
+      ]
+    }
+  ]
+}

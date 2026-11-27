@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.sentence-structure",
+  "title": "Синтаксический разбор, порядок слов и актуальное членение",
+  "moduleNumber": "05.12",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.sentence-analysis",
+    "ru.syntax.information-structure"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+    "url": "https://irgali.narod.ru/files/sintaksis.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.sentence-structure.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.sentence-structure.module-exam.a.information-structure.19",
+          "type": "grammar-answer",
+          "raw": "Кто отправил письмо? Письмо отправила секретарь.",
+          "answer": "деятель",
+          "ex": "Ответ заполняет неизвестное кто; в фокусе назван деятель.",
+          "instruction": "По заданному вопросу определите фокус ответа: деятель, объект или время.",
+          "lessonId": "ru.syntax.information-structure"
+        },
+        {
+          "id": "ru.syntax.sentence-structure.module-exam.a.sentence-analysis.20",
+          "type": "grammar-answer",
+          "raw": "Девушка вышла на балкон, когда телефон замолчал.",
+          "answer": "сложное",
+          "ex": "Есть несколько предикативных частей с собственными грамматическими основами.",
+          "instruction": "Определите строение: простое или сложное предложение.",
+          "lessonId": "ru.syntax.sentence-analysis"
+        },
+        {
+          "id": "ru.syntax.sentence-structure.module-exam.a.information-structure.20",
+          "type": "grammar-answer",
+          "raw": "Что изучает геолог? Геолог изучает породу.",
+          "answer": "объект",
+          "ex": "Ответ заполняет неизвестное что; в фокусе назван объект.",
+          "instruction": "По заданному вопросу определите фокус ответа: деятель, объект или время.",
+          "lessonId": "ru.syntax.information-structure"
+        },
+        {
+          "id": "ru.syntax.sentence-structure.module-exam.a.sentence-analysis.19",
+          "type": "grammar-answer",
+          "raw": "Отложив телефон, девушка вышла на балкон.",
+          "answer": "простое",
+          "ex": "Одна предикативная часть; обороты и однородные сказуемые не создают самостоятельной основы.",
+          "instruction": "Определите строение: простое или сложное предложение.",
+          "lessonId": "ru.syntax.sentence-analysis"
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.sentence-structure.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.sentence-structure.module-exam.b.information-structure.22",
+          "type": "grammar-answer",
+          "raw": "Кто выключил свет? Свет выключил администратор.",
+          "answer": "деятель",
+          "ex": "Ответ заполняет неизвестное кто; в фокусе назван деятель.",
+          "instruction": "По заданному вопросу определите фокус ответа: деятель, объект или время.",
+          "lessonId": "ru.syntax.information-structure"
+        },
+        {
+          "id": "ru.syntax.sentence-structure.module-exam.b.sentence-analysis.21",
+          "type": "grammar-answer",
+          "raw": "Утром на площади установили сцену.",
+          "answer": "простое",
+          "ex": "Одна предикативная часть; обороты и однородные сказуемые не создают самостоятельной основы.",
+          "instruction": "Определите строение: простое или сложное предложение.",
+          "lessonId": "ru.syntax.sentence-analysis"
+        },
+        {
+          "id": "ru.syntax.sentence-structure.module-exam.b.information-structure.21",
+          "type": "grammar-answer",
+          "raw": "Когда закончился спектакль? Спектакль закончился поздно вечером.",
+          "answer": "время",
+          "ex": "Ответ заполняет неизвестное когда; в фокусе временная характеристика.",
+          "instruction": "По заданному вопросу определите фокус ответа: деятель, объект или время.",
+          "lessonId": "ru.syntax.information-structure"
+        },
+        {
+          "id": "ru.syntax.sentence-structure.module-exam.b.sentence-analysis.22",
+          "type": "grammar-answer",
+          "raw": "Утром на площади установили сцену, и к вечеру начался концерт.",
+          "answer": "сложное",
+          "ex": "Есть несколько предикативных частей с собственными грамматическими основами.",
+          "instruction": "Определите строение: простое или сложное предложение.",
+          "lessonId": "ru.syntax.sentence-analysis"
+        }
+      ]
+    }
+  ]
+}

@@ -34,7 +34,8 @@
           "instruction": "Ответьте одним словом: обязательна или вариативна. Оценивайте только явно названный знак или форму границы, а не всё предложение.",
           "lessonId": "ru.punctuation.punctuation-variation.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.punctuation.punctuation-variation.module-exam.b",
@@ -57,6 +58,165 @@
           "ex": "Скобки и тире могут выделять вставные конструкции.",
           "instruction": "Ответьте одним словом: обязательна или вариативна. Оценивайте только явно названный знак или форму границы, а не всё предложение.",
           "lessonId": "ru.punctuation.punctuation-variation.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.punctuation.punctuation-variation.module-exam.r37-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В нейтральном предложении «Мы заметили, что лампа погасла» запятая перед что обязательна или вариативна?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательна",
+          "ex": "Отделяет изъяснительную придаточную часть."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Он, безусловно, прав» безусловно выражает уверенность говорящего. Запятые при вводном слове обязательны или вариативны?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательны",
+          "ex": "Вводное слово отделяется с обеих сторон."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В пояснительном БСП «Я увидел главное: ворота открыты» выбор именно двоеточия, а не пояснительного тире, обязателен или вариативен?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "вариативен",
+          "ex": "Пояснительную границу можно оформить тире при соответствующем прочтении."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Маша, передай тетрадь» Маша — обращение. Запятая обязательна или вариативна?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательна",
+          "ex": "Обращение отделяется от членов предложения."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Солнце сияло — море блестело» автор подчёркивает тесную связь двух событий; для нейтрального перечисления возможна запятая. Выбор именно тире обязателен или вариативен?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "вариативен",
+          "ex": "При другом интонационном оформлении возможен иной знак."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Мы подошли к дому, построенному в прошлом веке» запятая перед распространённым постпозитивным определением обязательна или вариативна?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательна",
+          "ex": "Причастный оборот после определяемого существительного обособляется в данной конструкции."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Уходя, закрой окно» запятая при деепричастии со значением отдельного добавочного действия обязательна или вариативна?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательна",
+          "ex": "Обособляется добавочное действие."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Он всё-таки решился (мы этого не ожидали)» форму выделения вставки скобками, а не парными тире при подходящей структуре текста, считать обязательной или вариативной?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "вариативной",
+          "ex": "Форма выделения вставного замечания может варьироваться."
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.punctuation-variation.module-exam.r37-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Когда закончился дождь, мы вышли» запятая после придаточного обязательна или вариативна?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательна",
+          "ex": "Отделяет придаточное времени от главной части."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «К сожалению, поезд ушёл» к сожалению выражает оценку сообщения. Запятая обязательна или вариативна?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательна",
+          "ex": "Вводное сочетание отделяется."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Скажите, пожалуйста, сколько стоит билет» пожалуйста — формула вежливости. Запятые вокруг неё обязательны или вариативны?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательны",
+          "ex": "Формула вежливости обособляется."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В пояснительном БСП «Я понял одно: нужно начать сначала» выбор именно двоеточия, а не пояснительного тире, обязателен или вариативен?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "вариативен",
+          "ex": "Допускается тире при соответствующей интонации пояснения."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Друзья, встречаемся у входа» друзья — обращение. Запятая обязательна или вариативна?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательна",
+          "ex": "Обращение не является членом предложения."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Книги, лежавшие на полке, запылились» границы причастного оборота обязательны или вариативны?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательны",
+          "ex": "Распространённое определение после существительного обособляется."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Он всё же приехал (дорога была длинной)» вставку можно оформить скобками или парными тире при соответствующей структуре. Выбор именно скобок обязателен или вариативен?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "вариативен",
+          "ex": "Форма выделения вставки зависит от контекста и степени самостоятельности."
+        },
+        {
+          "id": "ru.punctuation.punctuation-variation.module-exam.r37-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.punctuation-variation.foundation",
+          "raw": "В «Открыв окно, она услышала шум» запятая после деепричастного оборота обязательна или вариативна?",
+          "instruction": "Впишите только запрошенную форму ответа из условия; оценивайте именно указанный знак или форму границы.",
+          "answer": "обязательна",
+          "ex": "Добавочное действие отделяется от основной части."
         }
       ]
     }

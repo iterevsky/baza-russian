@@ -3,5 +3,5 @@
 import {readFile} from 'node:fs/promises';
 export async function historicalContent(path){
  if(!/^content\/(lessons|modules)\/[a-z0-9-]+\.json$/.test(path))throw Error('Unexpected historical path '+path);
- try{return await readFile(new URL('./fixtures/v035/'+path,import.meta.url))}catch(e){if(e.code!=='ENOENT')throw e;return readFile(new URL('../'+path,import.meta.url))}
+ try{return await readFile(new URL('./fixtures/v035/'+path,import.meta.url))}catch(e){if(e.code!=='ENOENT')throw e;try{return await readFile(new URL('./fixtures/v036/'+path,import.meta.url))}catch(e){if(e.code!=='ENOENT')throw e;return readFile(new URL('../'+path,import.meta.url))}}
 }

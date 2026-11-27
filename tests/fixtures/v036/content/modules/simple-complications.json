@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.simple-complications",
+  "title": "Однородность и осложнение простого предложения",
+  "moduleNumber": "05.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.homogeneity-syntax",
+    "ru.syntax.complication-types"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Синтаксический разбор простого предложения (Грамота.ру)",
+    "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/sintaksicheskiy-razbor-prostogo-predlozheniya"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.simple-complications.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.simple-complications.module-exam.a.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.homogeneity-syntax",
+          "raw": "По тропе бежали щенок и котёнок.",
+          "answer": "подлежащие",
+          "ex": "Ряд называет носителей признака или деятелей.",
+          "instruction": "Назовите функцию однородного ряда: подлежащие, дополнения, обстоятельства."
+        },
+        {
+          "id": "ru.syntax.simple-complications.module-exam.a.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.homogeneity-syntax",
+          "raw": "Турист взял карту и компас.",
+          "answer": "дополнения",
+          "ex": "Ряд обозначает объекты действия.",
+          "instruction": "Назовите функцию однородного ряда: подлежащие, дополнения, обстоятельства."
+        },
+        {
+          "id": "ru.syntax.simple-complications.module-exam.a.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.complication-types",
+          "raw": "К сожалению, музей закрыт.",
+          "answer": "вводное слово",
+          "ex": "Слово комментирует достоверность или оценку сообщения.",
+          "instruction": "Назовите вид осложнения: однородные члены, обособленное определение, вводное слово, обращение."
+        },
+        {
+          "id": "ru.syntax.simple-complications.module-exam.a.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.complication-types",
+          "raw": "Доктор, объясните результаты.",
+          "answer": "обращение",
+          "ex": "Назван адресат, а не подлежащее.",
+          "instruction": "Назовите вид осложнения: однородные члены, обособленное определение, вводное слово, обращение."
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.simple-complications.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.simple-complications.module-exam.b.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.homogeneity-syntax",
+          "raw": "Поезд ходит утром и ночью.",
+          "answer": "обстоятельства",
+          "ex": "Ряд характеризует действие по времени, месту или способу.",
+          "instruction": "Назовите функцию однородного ряда: подлежащие, дополнения, обстоятельства."
+        },
+        {
+          "id": "ru.syntax.simple-complications.module-exam.b.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.homogeneity-syntax",
+          "raw": "В вазе стояли гвоздики и тюльпаны.",
+          "answer": "подлежащие",
+          "ex": "Ряд называет носителей признака или деятелей.",
+          "instruction": "Назовите функцию однородного ряда: подлежащие, дополнения, обстоятельства."
+        },
+        {
+          "id": "ru.syntax.simple-complications.module-exam.b.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.complication-types",
+          "raw": "Мы обсудили сроки и расходы.",
+          "answer": "однородные члены",
+          "ex": "Равноправные элементы выполняют одинаковую функцию.",
+          "instruction": "Назовите вид осложнения: однородные члены, обособленное определение, вводное слово, обращение."
+        },
+        {
+          "id": "ru.syntax.simple-complications.module-exam.b.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.complication-types",
+          "raw": "Папка, найденная в архиве, оказалась пустой.",
+          "answer": "обособленное определение",
+          "ex": "Распространённое определение после определяемого существительного обособлено.",
+          "instruction": "Назовите вид осложнения: однородные члены, обособленное определение, вводное слово, обращение."
+        }
+      ]
+    }
+  ]
+}

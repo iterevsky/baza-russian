@@ -9,7 +9,9 @@ import {beginModule,finishModule,moduleReport,validateModules} from '../src/core
 import {moduleView} from '../src/core/module-view.js';
 import {variants} from '../src/core/exams.js';
 const fetcher=async url=>({ok:true,json:async()=>JSON.parse(await readFile(url,'utf8'))});
-const c=await loadCourse(fetcher),fresh=c.lessons.filter(l=>l.sectionId==='ru.syntax'),mods=c.modules.filter(m=>m.id.startsWith('ru.syntax.'));
+// Recreate the v0.36 syntax banks for these historical assertions; current migration is separately tested.
+const live=await loadCourse(fetcher);
+const c=await loadCourse(async url=>({ok:true,json:async()=>{const p=String(url).split('/content/').at(-1);if(/^(lessons|modules)\//.test(p)){try{return JSON.parse(await readFile(new URL('./fixtures/v036/content/'+p,import.meta.url),'utf8'))}catch(e){if(e.code!=='ENOENT')throw e;}}return JSON.parse(await readFile(url,'utf8'));}})),fresh=c.lessons.filter(l=>l.sectionId==='ru.syntax'),mods=c.modules.filter(m=>m.id.startsWith('ru.syntax.'));
 test('syntax has twenty-four lessons in twelve modules, distinct practice/control examples, and balanced variants',()=>{
  assert.equal(fresh.length,24);assert.equal(mods.length,12);const seen=new Set(c.lessons.filter(l=>l.sectionId!=='ru.syntax').flatMap(l=>variants(l).flatMap(v=>v.questions.map(q=>norm(q.raw)))));for(const m of c.modules.filter(m=>!mods.includes(m)))for(const q of m.variants.flatMap(v=>v.questions))seen.add(norm(q.raw));
  const unique=raw=>{assert.ok(!seen.has(norm(raw)),raw);seen.add(norm(raw))};
@@ -32,7 +34,7 @@ test('v0.21 appends six stable lesson IDs and preserves v0.20 progress, includin
  assert.equal(prior.lessons.length,19);assert.equal(prior.modules.length,5);assert.deepEqual(c.catalog.lessonOrder.slice(0,19),prior.lessons.map(l=>l.id));
  const old=normalize(null,prior);for(const l of prior.lessons){old.byLesson[l.id].note='Конспект '+l.id;old.byLesson[l.id].read=true;}
  const m=prior.modules.find(x=>x.id==='ru.syntax.main-members');const d=old.byModule[m.id];beginModule(m,d,85);d.draft.answers=m.variants[0].questions.map(q=>q.answer);finishModule(m,d);beginModule(m,d,95);d.draft.answers[0]=m.variants[1].questions[0].answer;
- const now=parseImport(JSON.stringify(old),c);for(const l of prior.lessons)assert.deepEqual(now.byLesson[l.id],old.byLesson[l.id]);for(const m of prior.modules)assert.deepEqual(now.byModule[m.id],old.byModule[m.id]);for(const id of added)assert.equal(now.byLesson[id].read,false);
+ const now=parseImport(JSON.stringify(old),live);for(const l of prior.lessons)assert.deepEqual(now.byLesson[l.id],old.byLesson[l.id]);for(const m of prior.modules)assert.deepEqual(now.byModule[m.id],old.byModule[m.id]);for(const id of added)assert.equal(now.byLesson[id].read,false);
 });
 
 test('v0.22 preserves v0.21 records and stable lesson IDs, including an in-progress module exam',()=>{
@@ -40,7 +42,7 @@ test('v0.22 preserves v0.21 records and stable lesson IDs, including an in-progr
  assert.equal(prior.lessons.length,25);assert.equal(prior.modules.length,8);assert.deepEqual(c.catalog.lessonOrder.slice(0,25),prior.lessons.map(l=>l.id));
  const old=normalize(null,prior);for(const l of prior.lessons){old.byLesson[l.id].note='Конспект '+l.id;old.byLesson[l.id].read=true;}
  const m=prior.modules.find(x=>x.id==='ru.syntax.simple-complications');const d=old.byModule[m.id];beginModule(m,d,85);d.draft.answers=m.variants[0].questions.map(q=>q.answer);finishModule(m,d);beginModule(m,d,95);d.draft.answers[0]=m.variants[1].questions[0].answer;
- const now=parseImport(JSON.stringify(old),c);for(const l of prior.lessons)assert.deepEqual(now.byLesson[l.id],old.byLesson[l.id]);for(const m of prior.modules)assert.deepEqual(now.byModule[m.id],old.byModule[m.id]);for(const l of c.lessons.filter(l=>!ids.has(l.id)))assert.equal(now.byLesson[l.id].read,false);
+ const now=parseImport(JSON.stringify(old),live);for(const l of prior.lessons)assert.deepEqual(now.byLesson[l.id],old.byLesson[l.id]);for(const m of prior.modules)assert.deepEqual(now.byModule[m.id],old.byModule[m.id]);for(const l of c.lessons.filter(l=>!ids.has(l.id)))assert.equal(now.byLesson[l.id].read,false);
 });
 
 test('v0.23 appends six IDs, keeps all v0.22 history, and covers every syntax module',()=>{
@@ -49,6 +51,6 @@ test('v0.23 appends six IDs, keeps all v0.22 history, and covers every syntax mo
  const added=c.lessons.slice(31,37);assert.equal(added.length,6);assert.equal(new Set(fresh.map(l=>l.moduleNumber)).size,12);
  const old=normalize(null,prior);for(const l of prior.lessons){old.byLesson[l.id].note='Конспект '+l.id;old.byLesson[l.id].read=true;}
  const m=prior.modules.find(x=>x.id==='ru.syntax.subordinate');const d=old.byModule[m.id];beginModule(m,d,85);d.draft.answers=m.variants[0].questions.map(q=>q.answer);finishModule(m,d);beginModule(m,d,95);d.draft.answers[0]=m.variants[1].questions[0].answer;
- const now=parseImport(JSON.stringify(old),c);for(const l of prior.lessons)assert.deepEqual(now.byLesson[l.id],old.byLesson[l.id]);for(const m of prior.modules)assert.deepEqual(now.byModule[m.id],old.byModule[m.id]);for(const l of added)assert.equal(now.byLesson[l.id].read,false);
+ const now=parseImport(JSON.stringify(old),live);for(const l of prior.lessons)assert.deepEqual(now.byLesson[l.id],old.byLesson[l.id]);for(const m of prior.modules)assert.deepEqual(now.byModule[m.id],old.byModule[m.id]);for(const l of added)assert.equal(now.byLesson[l.id].read,false);
  const info=added.find(l=>l.id.endsWith('information-structure'));for(const q of [...info.practice,...variants(info).flatMap(v=>v.questions)])assert.match(q.raw??q.prompt,/^(Кто|Что|Когда) .*\? /);
 });

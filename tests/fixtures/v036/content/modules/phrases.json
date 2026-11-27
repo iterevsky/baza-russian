@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.phrases",
+  "title": "Словосочетания: согласование, управление, примыкание",
+  "moduleNumber": "05.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.phrase-structure",
+    "ru.syntax.phrase-links"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис (электронная публикация)",
+    "url": "https://irgali.narod.ru/files/sintaksis.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.phrases.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.phrases.module-exam.a.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.phrase-structure",
+          "raw": "проверить документы",
+          "answer": "словосочетание",
+          "ex": "Одно слово зависит от другого.",
+          "instruction": "Определите тип: словосочетание, основа, однородный ряд."
+        },
+        {
+          "id": "ru.syntax.phrases.module-exam.a.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.phrase-structure",
+          "raw": "дождь прекратился",
+          "answer": "основа",
+          "ex": "Есть подлежащее и сказуемое.",
+          "instruction": "Определите тип: словосочетание, основа, однородный ряд."
+        },
+        {
+          "id": "ru.syntax.phrases.module-exam.a.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.phrase-links",
+          "raw": "белая рубашка",
+          "answer": "согласование",
+          "ex": "Зависимая форма согласуется с главным словом.",
+          "instruction": "Определите тип: согласование, управление, примыкание."
+        },
+        {
+          "id": "ru.syntax.phrases.module-exam.a.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.phrase-links",
+          "raw": "проверять расчёты",
+          "answer": "управление",
+          "ex": "Главное слово требует падежной формы зависимого имени.",
+          "instruction": "Определите тип: согласование, управление, примыкание."
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.phrases.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.phrases.module-exam.b.01",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.phrase-structure",
+          "raw": "книги и журналы",
+          "answer": "однородный ряд",
+          "ex": "Элементы соединены сочинительной связью и равноправны.",
+          "instruction": "Определите тип: словосочетание, основа, однородный ряд."
+        },
+        {
+          "id": "ru.syntax.phrases.module-exam.b.02",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.phrase-structure",
+          "raw": "бережно хранить",
+          "answer": "словосочетание",
+          "ex": "Одно слово зависит от другого.",
+          "instruction": "Определите тип: словосочетание, основа, однородный ряд."
+        },
+        {
+          "id": "ru.syntax.phrases.module-exam.b.03",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.phrase-links",
+          "raw": "плыть быстро",
+          "answer": "примыкание",
+          "ex": "Зависимое наречие неизменяемо.",
+          "instruction": "Определите тип: согласование, управление, примыкание."
+        },
+        {
+          "id": "ru.syntax.phrases.module-exam.b.04",
+          "type": "grammar-answer",
+          "lessonId": "ru.syntax.phrase-links",
+          "raw": "яркое пятно",
+          "answer": "согласование",
+          "ex": "Зависимая форма согласуется с главным словом.",
+          "instruction": "Определите тип: согласование, управление, примыкание."
+        }
+      ]
+    }
+  ]
+}

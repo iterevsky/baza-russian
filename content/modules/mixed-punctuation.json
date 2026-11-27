@@ -34,7 +34,8 @@
           "instruction": "Введите знак вместо □: запятая , или двоеточие :, либо слово нет, если знак не нужен. Остальной текст не переписывайте.",
           "lessonId": "ru.punctuation.mixed-punctuation.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.punctuation.mixed-punctuation.module-exam.b",
@@ -57,6 +58,165 @@
           "ex": "Противительный союз но требует запятой между главными частями.",
           "instruction": "Введите знак вместо □: запятая , или двоеточие :, либо слово нет, если знак не нужен. Остальной текст не переписывайте.",
           "lessonId": "ru.punctuation.mixed-punctuation.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.punctuation.mixed-punctuation.module-exam.r37-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Я надеялся□ что, когда ветер стихнет, лодку можно будет спустить. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": ",",
+          "ex": "Граница главной части и изъяснительного придаточного."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Я выяснил, что□ если будет свободная комната, нас поселят вместе. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": ",",
+          "ex": "На стыке союзов нет соотносительного то; условную часть можно убрать."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Я выяснил, что□ если будет свободная комната, то нас поселят вместе. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": "нет",
+          "ex": "Соотносительное то препятствует обособлению на стыке союзов."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Когда погас свет, дети замолчали□ и ведущий включил фонарь. Считайте придаточное общим для обеих частей; вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": "нет",
+          "ex": "Одиночный и соединяет части с общим придаточным."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Проводник сообщил, что маршрут изменился□ и что остановку отменили. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": "нет",
+          "ex": "Однородные придаточные соединены одиночным и."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Мы спросили, где находится станция□ и когда отправится автобус. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": "нет",
+          "ex": "Два однородных изъяснительных придаточных."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Я уточнил, когда откроется выставка□ и записал дату. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": ",",
+          "ex": "Запятая закрывает придаточное перед вторым сказуемым главной части."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Я увидел□ небо потемнело, и над лесом блеснула молния. Выберите именно двоеточие или запятую при пояснительном чтении.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": ":",
+          "ex": "Бессоюзный пояснительный блок раскрывает содержание увиденного."
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.mixed-punctuation.module-exam.r37-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Мы заметили, что□ когда музыка стихла, зал замер. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": ",",
+          "ex": "Внутреннее временное придаточное можно изъять без перестройки оставшейся конструкции."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Он сказал, что□ если дорогу откроют, то груз доставят сегодня. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": "нет",
+          "ex": "При второй части двойного союза то запятая на стыке не нужна."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Пока мы ждали автобус, снег усилился□ и ветер стал резче. Считайте придаточное общим; вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": "нет",
+          "ex": "Общее придаточное объединяет сочинённые части."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Я помнил, что встреча начнётся в восемь□ но перепутал адрес. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": ",",
+          "ex": "Закрывается придаточное, далее противительный союз при однородных сказуемых."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Он предупредил, что сервер выключат□ и что обновление займёт час. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": "нет",
+          "ex": "Однородные изъяснительные части с одиночным и."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Я понял, почему сотрудник задержался□ и предложил ему помощь. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": ",",
+          "ex": "Придаточное заканчивается перед и, соединяющим сказуемые главной части."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Я понял□ поезд ушёл, а следующий будет вечером. Выберите именно двоеточие или запятую при пояснительном чтении.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": ":",
+          "ex": "Бессоюзная граница перед пояснительным блоком."
+        },
+        {
+          "id": "ru.punctuation.mixed-punctuation.module-exam.r37-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.mixed-punctuation.foundation",
+          "raw": "Когда закрыли двери, мы сели□ а администратор начал собрание. Вставьте запятую или напишите нет.",
+          "instruction": "Введите только знак на месте □ или слово нет, если знак не нужен. Следуйте ограничению выбора в условии.",
+          "answer": ",",
+          "ex": "Противительный а требует запятой даже при общем обстоятельственном компоненте."
         }
       ]
     }

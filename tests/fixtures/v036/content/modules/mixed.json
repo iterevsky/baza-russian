@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.syntax.mixed",
+  "title": "Бессоюзные и смешанные сложные предложения",
+  "moduleNumber": "05.10",
+  "status": "draft",
+  "lessonIds": [
+    "ru.syntax.asyndetic-relations",
+    "ru.syntax.mixed-links"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+    "url": "https://irgali.narod.ru/files/sintaksis.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.syntax.mixed.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.mixed.module-exam.a.mixed-links.19",
+          "type": "grammar-answer",
+          "raw": "Море успокоилось, рыбаки вышли в залив.",
+          "answer": "один вид",
+          "ex": "Между предикативными частями представлен только один вид связи; однородные члены не добавляют нового вида межчастной связи.",
+          "instruction": "Укажите, сколько видов связи между предикативными частями: один вид или разные виды.",
+          "lessonId": "ru.syntax.mixed-links"
+        },
+        {
+          "id": "ru.syntax.mixed.module-exam.a.mixed-links.20",
+          "type": "grammar-answer",
+          "raw": "Я знал: встреча состоится, хотя сроки изменились.",
+          "answer": "разные виды",
+          "ex": "В предложении сочетаны разные средства связи между самостоятельными предикативными частями.",
+          "instruction": "Укажите, сколько видов связи между предикативными частями: один вид или разные виды.",
+          "lessonId": "ru.syntax.mixed-links"
+        },
+        {
+          "id": "ru.syntax.mixed.module-exam.a.asyndetic-relations.20",
+          "type": "grammar-answer",
+          "raw": "Указание было точным: документы передают лично.",
+          "answer": "пояснение",
+          "ex": "Вторая часть раскрывает содержание первой; по смыслу подходит а именно.",
+          "instruction": "Определите роль второй части: причина, пояснение или следствие.",
+          "lessonId": "ru.syntax.asyndetic-relations"
+        },
+        {
+          "id": "ru.syntax.mixed.module-exam.a.asyndetic-relations.19",
+          "type": "grammar-answer",
+          "raw": "Заседание перенесли: председатель заболел.",
+          "answer": "причина",
+          "ex": "Вторая часть объясняет причину первой; по смыслу подходит потому что.",
+          "instruction": "Определите роль второй части: причина, пояснение или следствие.",
+          "lessonId": "ru.syntax.asyndetic-relations"
+        }
+      ]
+    },
+    {
+      "id": "ru.syntax.mixed.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.syntax.mixed.module-exam.b.asyndetic-relations.21",
+          "type": "grammar-answer",
+          "raw": "Кран сорвало — вода хлынула на пол.",
+          "answer": "следствие",
+          "ex": "Вторая часть передаёт результат первой; по смыслу подходит поэтому.",
+          "instruction": "Определите роль второй части: причина, пояснение или следствие.",
+          "lessonId": "ru.syntax.asyndetic-relations"
+        },
+        {
+          "id": "ru.syntax.mixed.module-exam.b.mixed-links.22",
+          "type": "grammar-answer",
+          "raw": "Когда ветер стих, яхта вышла из порта, а катер остался у причала.",
+          "answer": "разные виды",
+          "ex": "В предложении сочетаны разные средства связи между самостоятельными предикативными частями.",
+          "instruction": "Укажите, сколько видов связи между предикативными частями: один вид или разные виды.",
+          "lessonId": "ru.syntax.mixed-links"
+        },
+        {
+          "id": "ru.syntax.mixed.module-exam.b.mixed-links.21",
+          "type": "grammar-answer",
+          "raw": "Мы прочли инструкцию и поняли, что нужны перчатки.",
+          "answer": "один вид",
+          "ex": "Между предикативными частями представлен только один вид связи; однородные члены не добавляют нового вида межчастной связи.",
+          "instruction": "Укажите, сколько видов связи между предикативными частями: один вид или разные виды.",
+          "lessonId": "ru.syntax.mixed-links"
+        },
+        {
+          "id": "ru.syntax.mixed.module-exam.b.asyndetic-relations.22",
+          "type": "grammar-answer",
+          "raw": "Садовник прикрыл рассаду: ожидались заморозки.",
+          "answer": "причина",
+          "ex": "Вторая часть объясняет причину первой; по смыслу подходит потому что.",
+          "instruction": "Определите роль второй части: причина, пояснение или следствие.",
+          "lessonId": "ru.syntax.asyndetic-relations"
+        }
+      ]
+    }
+  ]
+}
