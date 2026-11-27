@@ -1,0 +1,79 @@
+{
+  "exactPromptOverlap": [],
+  "closedWrittenSignal": 113,
+  "stressPractice": 12,
+  "release": "0.47.0",
+  "plannedModules": 107,
+  "populatedModules": 107,
+  "lessons": 139,
+  "lessonStatuses": {
+    "draft": 133,
+    "reviewed": 6
+  },
+  "moduleStatuses": {
+    "draft": 107
+  },
+  "practice": 926,
+  "practiceTypes": {
+    "classification": 4,
+    "comma-positions": 102,
+    "multi-choice": 4,
+    "single-choice": 237,
+    "text-edit": 579
+  },
+  "examQuestions": 3980,
+  "examTypes": {
+    "exact-text": 296,
+    "grammar-answer": 1584,
+    "written-answer": 2100
+  },
+  "cards": 507,
+  "editorialCases": 163,
+  "deepDiveCounts": {
+    "1": 42,
+    "2": 91,
+    "3": 6
+  },
+  "tips": 73,
+  "lessonsLinkedToTips": 70,
+  "lessonsWithPrerequisites": 62,
+  "lessonsWithRelated": 135,
+  "indexBytes": 3865762,
+  "singleChoiceSamePosition": [],
+  "canonicalIndexSkew": [
+    {
+      "id": "ru.syntax.complication-types",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.homogeneity-syntax",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.incomplete",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.one-part-types",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.phrase-links",
+      "count": 6,
+      "correctIndex": 0
+    },
+    {
+      "id": "ru.syntax.phrase-structure",
+      "count": 6,
+      "correctIndex": 0
+    }
+  ],
+  "limitations": [
+    "Counts and answer-position signals only; not linguistic, pedagogical, accessibility or real-browser certification.",
+    "A fixed position can be mitigated by verified shuffling, but authored banks should also be balanced; check UI and history compatibility before changing."
+  ]
+}

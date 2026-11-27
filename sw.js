@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.46.0";
-const DIGEST="ab553b4054a2b8aad8b9b8e8";
+const RELEASE="0.47.0";
+const DIGEST="8f23bec1eff07dfdbf50ad36";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "848e0cabef4d96d7a4be938622d0c28746754702d3e1131dbd44142b1fe3e5bf"
+    "b6b72959f93bbd552154db5f233c3845751d455d4a4c12564ce64a0fd3a2bae9"
   ],
   [
     "manifest.webmanifest",
@@ -1032,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "9bba24fad40c3737871b382803deaacf2c924799bd2c3ea3b4ca1151e6e6dd1f"
+    "f0e813ba347b5e7be0e22d848cf62188d71a8cfed201e738e2358ff96bb75243"
   ],
   [
     "src/core/assessment.js",
@@ -1045,6 +1045,10 @@ const ASSETS=[
   [
     "src/core/content.js",
     "14ce27e0dc523b771446519af1a9522830c1f6d94931d1f76558069873489bcc"
+  ],
+  [
+    "src/core/course-settings.js",
+    "9d01cfdd27991cdb22b1511d85db66277eaa6a68d2d9522109b0581956dc06af"
   ],
   [
     "src/core/database.js",
@@ -1061,6 +1065,10 @@ const ASSETS=[
   [
     "src/core/focus.js",
     "ec349255fabec44db6eeedc948bb5caa303296e533cb6e20b655bd371e022bbf"
+  ],
+  [
+    "src/core/home.js",
+    "88c2716568b8ed77f03102eeb21bc77ba201bfeadf7a3d38565d16f8e44b9121"
   ],
   [
     "src/core/lesson-view.js",
@@ -1080,7 +1088,7 @@ const ASSETS=[
   ],
   [
     "src/core/progress.js",
-    "b99247db4e72fc2660d495af757bfdb42bc82be2513e25450f943e8b64160698"
+    "a77712f8fb87dc858619069a82138b6694f13a3ce65021d0ceb10577d23a9658"
   ],
   [
     "src/core/prompt.js",
@@ -1092,7 +1100,11 @@ const ASSETS=[
   ],
   [
     "src/pwa.js",
-    "79e4f179527f952160fa7fe8b5584fb8b9784162004893b7a38c7e0d2ebe494b"
+    "80368712a670a05fdf68baea539880a5e9022d6e5f6739cb010e664936fe3476"
+  ],
+  [
+    "src/styles/home.css",
+    "20c0c0f59503b9e76893b116054802613f98d4fce79e421439454aa8f47e335b"
   ],
   [
     "src/styles/main.css",
@@ -1113,16 +1125,19 @@ async function verified(url,hash){
  if(actual!==hash)throw Error('Asset integrity mismatch: '+url);
  return response;
 }
+async function notifyProgress(done,total){try{const clients=await self.clients?.matchAll({type:"window",includeUncontrolled:true});for(const client of clients??[]){if(client.url.startsWith(SCOPE.href))client.postMessage({type:"baza-package-progress",done,total,release:RELEASE});}}catch{}}
 async function prepare(){
   // A partial deployment must never become the active version.
   const existed=(await caches.keys()).includes(CACHE);
   try{
     const cache=await caches.open(CACHE),entries=[...urls];
+    await notifyProgress(0,entries.length);
     // Limit simultaneous downloads and verified response buffers; wait for a whole batch before rollback.
     for(let i=0;i<entries.length;i+=6){
       const batch=await Promise.allSettled(entries.slice(i,i+6).map(async([url,hash])=>[url,await verified(url,hash)]));
       const failure=batch.find(x=>x.status==='rejected');if(failure)throw failure.reason;
       for(const item of batch){const [url,response]=item.value;await cache.put(url,response)}
+      await notifyProgress(Math.min(i+batch.length,entries.length),entries.length);
     }
   }catch(error){if(!existed)await caches.delete(CACHE);throw error}
 }

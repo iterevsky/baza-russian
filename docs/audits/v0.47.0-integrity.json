@@ -1,0 +1,16 @@
+{
+  "previousFiles": 765,
+  "missing": [],
+  "changed": [
+    "README.md",
+    "index.html",
+    "package.json",
+    "scripts/sw-template.js",
+    "src/app.js",
+    "src/core/progress.js",
+    "src/pwa.js",
+    "sw.js"
+  ],
+  "instructionalFiles": 246,
+  "instructionalUnchanged": 246
+}

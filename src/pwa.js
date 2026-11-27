@@ -4,12 +4,13 @@ const status=document.querySelector('#pwa-status'),detail=document.querySelector
 const install=document.querySelector('#pwa-install'),check=document.querySelector('#pwa-check');
 const sw=navigator.serviceWorker;
 let registration,installEvent,installed=window.matchMedia('(display-mode: standalone)').matches||navigator.standalone===true,installFailure=false;
-let checking=false,notice='';
+let checking=false,notice='',packageProgress=null;
 function show(){
  panel.hidden=false;
  install.hidden=installed||!installEvent;
  check.hidden=!registration;check.disabled=checking||!navigator.onLine;
  const waiting=registration?.waiting,controller=sw?.controller;
+ if(packageProgress&&registration?.installing&&!installFailure){status.textContent=controller?'Загрузка обновления':'Подготовка автономного пакета';detail.textContent=`Проверено и сохранено ${packageProgress.done} из ${packageProgress.total} ресурсов.`;return}
  if(waiting&&controller){status.textContent='Обновление готово';detail.textContent='Завершите занятие, убедитесь, что прогресс сохранён, закройте все вкладки и окна БАЗА. Затем откройте приложение снова.';return}
  if(installFailure&&controller&&!navigator.onLine){status.textContent='Автономный режим';detail.textContent='Сервер недоступен. Используется сохранённый пакет.';return}
  if(installFailure){status.textContent=controller?'Сохранена прежняя версия':'Не удалось подготовить автономный пакет';detail.textContent='Проверьте запуск сервера и полноту файлов. '+notice;return}
@@ -24,4 +25,4 @@ install.addEventListener('click',async()=>{const event=installEvent;if(!event)re
 window.addEventListener('online',()=>{show();void update()});window.addEventListener('offline',show);
 async function update(){if(!registration||checking||!navigator.onLine)return;checking=true;notice='';installFailure=false;show();try{await registration.update();notice=registration.installing?'Загружается обновление.':registration.waiting?'':'Проверка завершена.'}catch{notice='Сервер обновлений недоступен. Текущая версия не изменена.'}finally{checking=false;show()}}
 check.addEventListener('click',update);
-if(sw){sw.addEventListener('controllerchange',show);try{registration=await sw.getRegistration();if(!registration||navigator.onLine)registration=await sw.register(new URL('../sw.js',import.meta.url),{updateViaCache:'none'});registration.addEventListener('updatefound',()=>{installFailure=false;watch(registration.installing);show()});watch(registration.installing);show()}catch{installFailure=true;notice='Не удалось зарегистрировать автономный пакет.';show()}}else show();
+if(sw){sw.addEventListener('message',e=>{const d=e.data;if(d?.type==='baza-package-progress'&&Number.isInteger(d.done)&&Number.isInteger(d.total)&&d.total>0&&d.done>=0&&d.done<=d.total){packageProgress=d;show()}});sw.addEventListener('controllerchange',show);try{registration=await sw.getRegistration();if(!registration||navigator.onLine)registration=await sw.register(new URL('../sw.js',import.meta.url),{updateViaCache:'none'});registration.addEventListener('updatefound',()=>{installFailure=false;watch(registration.installing);show()});watch(registration.installing);show()}catch{installFailure=true;notice='Не удалось зарегистрировать автономный пакет.';show()}}else show();

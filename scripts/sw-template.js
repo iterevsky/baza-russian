@@ -12,16 +12,19 @@ async function verified(url,hash){
  if(actual!==hash)throw Error('Asset integrity mismatch: '+url);
  return response;
 }
+async function notifyProgress(done,total){try{const clients=await self.clients?.matchAll({type:"window",includeUncontrolled:true});for(const client of clients??[]){if(client.url.startsWith(SCOPE.href))client.postMessage({type:"baza-package-progress",done,total,release:RELEASE});}}catch{}}
 async function prepare(){
   // A partial deployment must never become the active version.
   const existed=(await caches.keys()).includes(CACHE);
   try{
     const cache=await caches.open(CACHE),entries=[...urls];
+    await notifyProgress(0,entries.length);
     // Limit simultaneous downloads and verified response buffers; wait for a whole batch before rollback.
     for(let i=0;i<entries.length;i+=6){
       const batch=await Promise.allSettled(entries.slice(i,i+6).map(async([url,hash])=>[url,await verified(url,hash)]));
       const failure=batch.find(x=>x.status==='rejected');if(failure)throw failure.reason;
       for(const item of batch){const [url,response]=item.value;await cache.put(url,response)}
+      await notifyProgress(Math.min(i+batch.length,entries.length),entries.length);
     }
   }catch(error){if(!existed)await caches.delete(CACHE);throw error}
 }
