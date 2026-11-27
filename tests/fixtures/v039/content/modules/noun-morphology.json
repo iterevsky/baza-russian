@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.morphology.noun-morphology",
+  "title": "Имя существительное: род, число, падеж, склонение (базовый контроль)",
+  "moduleNumber": "04.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.morphology.noun-morphology.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+    "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.morphology.noun-morphology.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.noun-morphology.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Укажите падеж выделенного существительного полным названием: именительный, родительный, дательный, винительный, творительный, предложный.\nПомог [соседу].",
+          "answer": "дательный",
+          "ex": "дательный. Вопрос и управляющая конструкция определяют падеж.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.noun-morphology.foundation"
+        },
+        {
+          "id": "ru.morphology.noun-morphology.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Укажите падеж выделенного существительного полным названием: именительный, родительный, дательный, винительный, творительный, предложный.\nВижу [ученика].",
+          "answer": "винительный",
+          "ex": "винительный. Вопрос и управляющая конструкция определяют падеж.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.noun-morphology.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.morphology.noun-morphology.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.noun-morphology.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Укажите падеж выделенного существительного полным названием: именительный, родительный, дательный, винительный, творительный, предложный.\nЛюбуюсь [рекой].",
+          "answer": "творительный",
+          "ex": "творительный. Вопрос и управляющая конструкция определяют падеж.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.noun-morphology.foundation"
+        },
+        {
+          "id": "ru.morphology.noun-morphology.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Укажите падеж выделенного существительного полным названием: именительный, родительный, дательный, винительный, творительный, предложный.\nРассказывает о [поездке].",
+          "answer": "предложный",
+          "ex": "предложный. Вопрос и управляющая конструкция определяют падеж.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.noun-morphology.foundation"
+        }
+      ]
+    }
+  ]
+}

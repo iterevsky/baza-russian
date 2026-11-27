@@ -34,7 +34,8 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.morphology.adjective-morphology.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.morphology.adjective-morphology.module-exam.b",
@@ -58,7 +59,174 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.morphology.adjective-morphology.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.morphology.adjective-morphology.module-exam.r40-a",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "Каков разряд [железная] в «железная дверь»?",
+          "answer": "относительное",
+          "ex": "Обозначает материал предмета.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-a.01",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Каков разряд [железная] в «железная воля»?",
+          "answer": "качественное",
+          "ex": "Переносно характеризует силу воли.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-a.02",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Образуйте простую сравнительную степень слова «хороший».",
+          "answer": "лучше",
+          "ex": "Используется другая основа.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-a.03",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Исправьте сочетание «более тише», оставив простую сравнительную форму.",
+          "answer": "тише",
+          "ex": "Более не соединяется с простой сравнительной формой.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-a.04",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Укажите падеж [новому] в «к новому мосту».",
+          "answer": "дательный",
+          "ex": "Прилагательное согласуется с существительным в дательном.",
+          "accepted": [
+            "дательный падеж"
+          ],
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-a.05",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Запишите краткую форму мужского рода от «готовый».",
+          "answer": "готов",
+          "ex": "Краткая форма не склоняется по падежам.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-a.06",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Изменяется ли простая сравнительная форма «быстрее» по родам? Да или нет.",
+          "answer": "нет",
+          "ex": "Простая сравнительная степень неизменяема.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-a.07",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Каков разряд [сестрин] в «сестрин портрет» в значении портрет, принадлежащий сестре?",
+          "answer": "притяжательное",
+          "ex": "Передаётся принадлежность конкретному лицу.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-a.08",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.morphology.adjective-morphology.module-exam.r40-b",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "Каков разряд [серебряный] в «серебряный браслет»?",
+          "answer": "относительное",
+          "ex": "Обозначает материал.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-b.01",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Каков разряд [каменное] в «каменное сердце» в значении бесчувственное?",
+          "answer": "качественное",
+          "ex": "Переносно обозначает качество.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-b.02",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Образуйте простую сравнительную степень слова «плохой».",
+          "answer": "хуже",
+          "ex": "Используется другая основа.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-b.03",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Исправьте «самый красивейший», оставив составную превосходную степень.",
+          "answer": "самый красивый",
+          "ex": "Два показателя превосходной степени здесь избыточны.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-b.04",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Укажите падеж [синей] в «любуюсь синей гладью».",
+          "answer": "творительный",
+          "ex": "Падеж определяется согласованием с существительным.",
+          "accepted": [
+            "творительный падеж"
+          ],
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-b.05",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Запишите краткую форму женского рода от «свежий».",
+          "answer": "свежа",
+          "ex": "Форма согласуется по роду.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-b.06",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Изменяется ли краткая форма «готов» по падежам? Да или нет.",
+          "answer": "нет",
+          "ex": "Краткая форма имеет род и число, но не падеж.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-b.07",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "raw": "Каков разряд [лисий] в «лисий хвост» в значении хвост лисы?",
+          "answer": "притяжательное",
+          "ex": "Признак выражает принадлежность животному.",
+          "id": "ru.morphology.adjective-morphology.module-exam.r40-b.08",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

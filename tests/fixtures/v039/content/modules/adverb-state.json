@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.morphology.adverb-state",
+  "title": "Наречие и категория состояния (базовый контроль)",
+  "moduleNumber": "04.08",
+  "status": "draft",
+  "lessonIds": [
+    "ru.morphology.adverb-state.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+    "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.morphology.adverb-state.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.adverb-state.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Укажите функцию выделенной формы: наречие, категория состояния, краткое прилагательное.\nОна пришла [рано].",
+          "answer": "наречие",
+          "ex": "наречие. Установите зависимость от глагола, отсутствие подлежащего или согласование с ним.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.adverb-state.foundation"
+        },
+        {
+          "id": "ru.morphology.adverb-state.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Укажите функцию выделенной формы: наречие, категория состояния, краткое прилагательное.\nЗдесь [можно] отдохнуть.",
+          "answer": "категория состояния",
+          "ex": "категория состояния. Установите зависимость от глагола, отсутствие подлежащего или согласование с ним.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.adverb-state.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.morphology.adverb-state.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.adverb-state.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Укажите функцию выделенной формы: наречие, категория состояния, краткое прилагательное.\nПомещение [просторно].",
+          "answer": "краткое прилагательное",
+          "ex": "краткое прилагательное. Установите зависимость от глагола, отсутствие подлежащего или согласование с ним.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.adverb-state.foundation"
+        },
+        {
+          "id": "ru.morphology.adverb-state.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Укажите функцию выделенной формы: наречие, категория состояния, краткое прилагательное.\nОни спорили [долго].",
+          "answer": "наречие",
+          "ex": "наречие. Установите зависимость от глагола, отсутствие подлежащего или согласование с ним.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.adverb-state.foundation"
+        }
+      ]
+    }
+  ]
+}

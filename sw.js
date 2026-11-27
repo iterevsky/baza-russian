@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.39.0";
-const DIGEST="4ec2ebe61ce874bf80b48540";
+const RELEASE="0.40.0";
+const DIGEST="947e4fa2e47410c150a85c50";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -16,11 +16,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/adjective-morphology.json",
-    "8a29dfcd697ffe8896fb34e14f485954d05046ef51f6b491cd48e3f8bf6ac410"
+    "120098e1bb5e1efe06fffab810061388a340fff2d6087b4a53b523f208746a6a"
   ],
   [
     "content/lessons/adverb-state.json",
-    "d96edd15e14c51caa2e41d65c339fcb6290d2cb3dc17fd4febf746c20e53a1a9"
+    "98f09efd8ef7876662f00d1de44e99c5584a414ed8dd62ba8a69bec7c7b5ba34"
   ],
   [
     "content/lessons/ambiguous-introductory.json",
@@ -168,7 +168,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/function-words.json",
-    "9ecd9bb8b830f04353f832d3c8d6066a72bc68a121c2b5aa4273f8b350ff3c33"
+    "2909a2e9d0a8f4483c2c048623fe3236fd5a30fb19247a38c1b3df919733d924"
   ],
   [
     "content/lessons/functional-styles.json",
@@ -300,7 +300,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/morphological-analysis.json",
-    "c4b52365ec43d6bede69f63a0d4adda73c5c08e27131d754a52e6e5f7dc1d649"
+    "f56eaff34cd198b90af2141b59ea2c402746b7ffd13fceb2b9d518c3dba0d60f"
   ],
   [
     "content/lessons/negation-spelling.json",
@@ -324,7 +324,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/noun-morphology.json",
-    "3e6da861ad8d696637f2a08685efa30a43084bf002ba99da9acf9303c4ce8987"
+    "6f516b05e03877e04084f72c43d5a231202b99b1a7dfc112c37c7732ec8ed6b6"
   ],
   [
     "content/lessons/noun-norms.json",
@@ -332,7 +332,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/numeral-morphology.json",
-    "ecbb111145a8f6e77f7bb6586a702cb40a2b7717646ad63402de5a53c7bc3047"
+    "312a2e0a06a6823d8e70f736849b71003bb105c1436742d994b4bc424be77b73"
   ],
   [
     "content/lessons/numeral-norms.json",
@@ -360,7 +360,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/parts-of-speech.json",
-    "0e18dd57911fefc71dfff7d73d6b3fb9f1fe24bfbd3f447ac2a254cfa3945687"
+    "8712d9bd9d2b4af46acf81e11aa600c9d08f113a413f4e9546ea148166ddc4fd"
   ],
   [
     "content/lessons/phrase-links.json",
@@ -380,7 +380,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/pronoun-morphology.json",
-    "a0fadc03905991c1dd512a66f568d7e00e435a5d3ed1c72211962e3e226b006d"
+    "795d5948b5cbeef22728d839f028aca1da1168ab711d2c3c68f7940ff80f5315"
   ],
   [
     "content/lessons/pronunciation-combinations.json",
@@ -528,7 +528,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/verb-derived-forms.json",
-    "8d1b6c585e80d2df3a31cb128a25c8e9fff3807937e7bb15f041c3fec4a35b26"
+    "547f5ae412a1a018af614c49f7b59e7fc343ceddaf5f152067b7445c1d174ee6"
   ],
   [
     "content/lessons/verb-government.json",
@@ -536,7 +536,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/verb-morphology.json",
-    "57b5ccb4dd729173fcdab667b6d9a3bde5a4f8f25d716d2abbd4c536690ab821"
+    "89cc2541e4e4fd035c1bd57be3e61aad55c7d93bb1a77276267e8b3553fbdaaa"
   ],
   [
     "content/lessons/verb-spelling.json",
@@ -568,11 +568,11 @@ const ASSETS=[
   ],
   [
     "content/modules/adjective-morphology.json",
-    "d43d4044e622cb34e8ecd597f51c4468e3d668fca8332680350c807f0173a520"
+    "d4dfbe108fb267175301d19d3b1f71f6e5f5a647aa6e2c985291e9e0398c57c6"
   ],
   [
     "content/modules/adverb-state.json",
-    "d64c1762b377ce425bbcaed48300394f2146cf7670acf9f1866119974cfdd34b"
+    "bb96660355c7fd4dd12fab97defefa5424098391aab243fc2feae9110297f403"
   ],
   [
     "content/modules/analytical-memo.json",
@@ -668,7 +668,7 @@ const ASSETS=[
   ],
   [
     "content/modules/function-words.json",
-    "965137bfc76e271c28cabc611d0460464b3e031155b908d2f1b82a50e0365b42"
+    "c4ba7385ddff6768831ff87917a42e6b9fd47d54f70bb4711b43c4eecf60263e"
   ],
   [
     "content/modules/functional-styles.json",
@@ -752,7 +752,7 @@ const ASSETS=[
   ],
   [
     "content/modules/morphological-analysis.json",
-    "415e20ceb7003b3074fbc959b3ea83ce6ee1c9380875d1a567d31da817a0cfe7"
+    "177c2e28399db582b3d48a28d1a0ca16ccf5da4961ed3c3a0f7bb6db1d2ca64d"
   ],
   [
     "content/modules/negation-spelling.json",
@@ -768,7 +768,7 @@ const ASSETS=[
   ],
   [
     "content/modules/noun-morphology.json",
-    "02fe9711cae2bca6a249e39bbe690d428d589963aab822c7e917d0979085b5ff"
+    "c97f23be8bb3c647849f3d47c7efcb52fa44548e6fd765a87042ba7d3f7ecc7c"
   ],
   [
     "content/modules/noun-norms.json",
@@ -776,7 +776,7 @@ const ASSETS=[
   ],
   [
     "content/modules/numeral-morphology.json",
-    "782c6659dba782c12d52b885a90ec45ee754b8586290f2065be881f1b43f66de"
+    "1fb90f5267a10232b5eb87f0b446fed669c328344a60b327d607fc3fffd9a4c9"
   ],
   [
     "content/modules/numeral-norms.json",
@@ -804,7 +804,7 @@ const ASSETS=[
   ],
   [
     "content/modules/parts-of-speech.json",
-    "3b684c644741040ffae911bc9eeb8d1a1f8319a070396578f834e399536f54ef"
+    "ae8c822f22a9c734fc843184b8210394ec3611591744c46c8db4d2f8188eb583"
   ],
   [
     "content/modules/phrases.json",
@@ -820,7 +820,7 @@ const ASSETS=[
   ],
   [
     "content/modules/pronoun-morphology.json",
-    "99d42181be5d4866ffa5ccead90e1f08ee2952be10e31a1bbf656087a499acf2"
+    "7a9ddf0c909d78b3cb9b84d872c5ac99fa570573d9614c995a1e10ef0497ff48"
   ],
   [
     "content/modules/pronunciation-combinations.json",
@@ -956,7 +956,7 @@ const ASSETS=[
   ],
   [
     "content/modules/verb-derived-forms.json",
-    "a47258d93924dd9c2d64d1d114ad5e72982c02f683a23ab1ae8d64613c4d26d2"
+    "259d3ba214f11d65ad779b854205662d269b374725642c4a39fe647529f9bf03"
   ],
   [
     "content/modules/verb-government.json",
@@ -964,7 +964,7 @@ const ASSETS=[
   ],
   [
     "content/modules/verb-morphology.json",
-    "7a8b9d5dc9bdb4c76a833f4587d674bf6b4f5c21ee35eb3e40df60020c238c0c"
+    "9769d4ff0ab85704314858e7b828769fa4b5ae4808f858529f0eb34ba5ba1858"
   ],
   [
     "content/modules/verb-spelling.json",
@@ -996,7 +996,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "f5a45a70f64b91ba64d3637ee8417958162d1994d041018f70c7605668d6e4c6"
+    "77c3f691533d4c27c963afb93c9b126bc6312cd5a5c2dd3a25c1c29b25da8904"
   ],
   [
     "content/tips.json",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "e8e2ea3badba0cf869e54a3223217f7fd8a83797bc4028056c0bcf3c564fccd7"
+    "aaf278f893c4852d72bc4e2402527994c4204e835509ac6940bbe2180c7c4ae7"
   ],
   [
     "manifest.webmanifest",
@@ -1032,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "de2d0702293133fb987340cee9121a69c5cc9a6843b75610948c4bc73df07d74"
+    "2ebd1414fa2e2e21d187ed57fc029fc1512f29c875e66d1524ea53fa0980f98b"
   ],
   [
     "src/core/assessment.js",

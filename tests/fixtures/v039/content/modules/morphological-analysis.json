@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.morphology.morphological-analysis",
+  "title": "Омонимия частей речи и морфологический разбор (базовый контроль)",
+  "moduleNumber": "04.10",
+  "status": "draft",
+  "lessonIds": [
+    "ru.morphology.morphological-analysis.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+    "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.morphology.morphological-analysis.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.morphological-analysis.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенного слова: имя существительное, имя прилагательное, глагол, наречие, предлог, союз, частица, местоимение.\nПовернули [направо].",
+          "answer": "наречие",
+          "ex": "наречие. Сопоставьте значение, грамматическую функцию и доступные формы.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        },
+        {
+          "id": "ru.morphology.morphological-analysis.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенного слова: имя существительное, имя прилагательное, глагол, наречие, предлог, союз, частица, местоимение.\n[Вместо] письма пришла открытка.",
+          "answer": "предлог",
+          "ex": "предлог. Сопоставьте значение, грамматическую функцию и доступные формы.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.morphology.morphological-analysis.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.morphological-analysis.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенного слова: имя существительное, имя прилагательное, глагол, наречие, предлог, союз, частица, местоимение.\n[Пила] лежала в сарае.",
+          "answer": "имя существительное",
+          "ex": "имя существительное. Сопоставьте значение, грамматическую функцию и доступные формы.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        },
+        {
+          "id": "ru.morphology.morphological-analysis.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Назовите часть речи выделенного слова: имя существительное, имя прилагательное, глагол, наречие, предлог, союз, частица, местоимение.\nОна [пила] воду.",
+          "answer": "глагол",
+          "ex": "глагол. Сопоставьте значение, грамматическую функцию и доступные формы.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        }
+      ]
+    }
+  ]
+}

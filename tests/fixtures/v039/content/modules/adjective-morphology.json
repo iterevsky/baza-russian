@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.morphology.adjective-morphology",
+  "title": "Имя прилагательное: разряды, формы и степени сравнения (базовый контроль)",
+  "moduleNumber": "04.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.morphology.adjective-morphology.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+    "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.morphology.adjective-morphology.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.adjective-morphology.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Определите разряд выделенного прилагательного: качественное, относительное, притяжательное.\n[дедушкин] портфель",
+          "answer": "притяжательное",
+          "ex": "притяжательное. Исходите из смысла данного сочетания.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "id": "ru.morphology.adjective-morphology.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Определите разряд выделенного прилагательного: качественное, относительное, притяжательное.\n[широкая] улица",
+          "answer": "качественное",
+          "ex": "качественное. Исходите из смысла данного сочетания.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.morphology.adjective-morphology.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.adjective-morphology.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Определите разряд выделенного прилагательного: качественное, относительное, притяжательное.\n[утренний] поезд",
+          "answer": "относительное",
+          "ex": "относительное. Исходите из смысла данного сочетания.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        },
+        {
+          "id": "ru.morphology.adjective-morphology.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Определите разряд выделенного прилагательного: качественное, относительное, притяжательное.\n[отцов] плащ",
+          "answer": "притяжательное",
+          "ex": "притяжательное. Исходите из смысла данного сочетания.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.adjective-morphology.foundation"
+        }
+      ]
+    }
+  ]
+}

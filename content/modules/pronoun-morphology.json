@@ -34,7 +34,8 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.morphology.pronoun-morphology.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.morphology.pronoun-morphology.module-exam.b",
@@ -58,7 +59,178 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.morphology.pronoun-morphology.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.morphology.pronoun-morphology.module-exam.r40-a",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "Определите разряд [который] в «Который час?»",
+          "answer": "вопросительное",
+          "ex": "Слово употреблено в вопросе.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-a.01",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Определите разряд [который] в «Дом, который построили, уже заселён».",
+          "answer": "относительное",
+          "ex": "Вводит придаточную часть и является её членом.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-a.02",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Определите разряд [его] в «Его рюкзак лежал на полу».",
+          "answer": "притяжательное",
+          "ex": "Указывает на принадлежность рюкзака.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-a.03",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Определите разряд [его] в «Встретили его у вокзала».",
+          "answer": "личное",
+          "ex": "Форма винительного падежа местоимения он.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-a.04",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Есть ли у «себя» именительный падеж? Да или нет.",
+          "answer": "нет",
+          "ex": "В парадигме возвратного местоимения отсутствует именительный.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-a.05",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Впишите личное местоимение «она» после предлога «у».",
+          "answer": "неё",
+          "ex": "После у употребляется форма с н.",
+          "accepted": [
+            "нее"
+          ],
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-a.06",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Запишите местоимение «никто» с предлогом «с» в творительном падеже.",
+          "answer": "ни с кем",
+          "ex": "Предлог разделяет ни и местоимение.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-a.07",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Определите разряд [некто] в «Некто оставил записку».",
+          "answer": "неопределённое",
+          "ex": "Лицо не названо и не идентифицировано.",
+          "accepted": [
+            "неопределенное"
+          ],
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-a.08",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation",
+          "answerPolicy": "semantic-v1"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.morphology.pronoun-morphology.module-exam.r40-b",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "Определите разряд [чей] в «Чей это зонт?»",
+          "answer": "вопросительное",
+          "ex": "Запрашивается принадлежность.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-b.01",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Определите разряд [чей] в «Я знаю, чей это зонт».",
+          "answer": "относительное",
+          "ex": "Местоимение связывает части сложного предложения.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-b.02",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Определите разряд [их] в «Мы изучили их проект».",
+          "answer": "притяжательное",
+          "ex": "Указывает на принадлежность проекта.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-b.03",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Определите разряд [их] в «Мы встретили их на площади».",
+          "answer": "личное",
+          "ex": "Форма личного местоимения они.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-b.04",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Есть ли у возвратного местоимения «себя» форма множественного числа? Да или нет.",
+          "answer": "нет",
+          "ex": "Число деятеля определяется контекстом, не формой себя.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-b.05",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Впишите личное местоимение «он» после предлога «около».",
+          "answer": "него",
+          "ex": "Предлог около требует родительного с начальным н.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-b.06",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        },
+        {
+          "raw": "Запишите местоимение «ничто» с предлогом «о» в предложном падеже.",
+          "answer": "ни о чём",
+          "ex": "Отрицательное местоимение с предлогом пишется раздельно.",
+          "accepted": [
+            "ни о чем"
+          ],
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-b.07",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Определите разряд [никакой] в «Никакой помощи не поступило».",
+          "answer": "отрицательное",
+          "ex": "Указывает на отсутствие признака.",
+          "id": "ru.morphology.pronoun-morphology.module-exam.r40-b.08",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.pronoun-morphology.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

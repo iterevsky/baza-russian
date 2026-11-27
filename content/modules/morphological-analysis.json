@@ -34,7 +34,8 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.morphology.morphological-analysis.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.morphology.morphological-analysis.module-exam.b",
@@ -58,7 +59,190 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.morphology.morphological-analysis.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.morphology.morphological-analysis.module-exam.r40-a",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "Какова часть речи [стекло] в «Стекло треснуло»?",
+          "answer": "имя существительное",
+          "ex": "Обозначает предмет или материал.",
+          "accepted": [
+            "существительное"
+          ],
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-a.01",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какова часть речи [стекло] в «Масло стекло в поддон»?",
+          "answer": "глагол",
+          "ex": "Форма прошедшего времени среднего рода от стечь.",
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-a.02",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        },
+        {
+          "raw": "Какова часть речи [три] в «Три окна открыты»?",
+          "answer": "имя числительное",
+          "ex": "Обозначает количество.",
+          "accepted": [
+            "числительное"
+          ],
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-a.03",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какова часть речи [три] в «Три морковь на тёрке!»?",
+          "answer": "глагол",
+          "ex": "Повелительная форма от тереть.",
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-a.04",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        },
+        {
+          "raw": "Запишите начальную форму [принёс] в «Он принёс документы».",
+          "answer": "принести",
+          "ex": "Сохраняется совершенный вид.",
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-a.05",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        },
+        {
+          "raw": "Какой падеж у [пальто] в «Не было пальто»?",
+          "answer": "родительный",
+          "ex": "Падеж определяется конструкцией с отрицанием.",
+          "accepted": [
+            "родительный падеж"
+          ],
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-a.06",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какую синтаксическую роль выполняет [утром] в «Утром мы уехали»? Впишите «обстоятельство», «подлежащее» или «дополнение».",
+          "answer": "обстоятельство",
+          "ex": "Обозначает время отъезда.",
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-a.07",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        },
+        {
+          "raw": "Какова часть речи [напротив] в «Магазин находился напротив школы»?",
+          "answer": "предлог",
+          "ex": "Управляет родительным падежом.",
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-a.08",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.morphology.morphological-analysis.module-exam.r40-b",
+      "version": 1,
+      "questions": [
+        {
+          "raw": "Какова часть речи [жгут] в «В аптечке лежит жгут»?",
+          "answer": "имя существительное",
+          "ex": "Называет предмет.",
+          "accepted": [
+            "существительное"
+          ],
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-b.01",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какова часть речи [жгут] в «Они жгут сухие ветки»?",
+          "answer": "глагол",
+          "ex": "Форма настоящего времени от жечь.",
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-b.02",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        },
+        {
+          "raw": "Какова часть речи [пила] в «Пила затупилась»?",
+          "answer": "имя существительное",
+          "ex": "Называет инструмент.",
+          "accepted": [
+            "существительное"
+          ],
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-b.03",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какова часть речи [пила] в «Она пила чай»?",
+          "answer": "глагол",
+          "ex": "Форма прошедшего времени от пить.",
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-b.04",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        },
+        {
+          "raw": "Запишите начальную форму [увидела] в «Она увидела реку».",
+          "answer": "увидеть",
+          "ex": "Сохраняется совершенный вид.",
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-b.05",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        },
+        {
+          "raw": "Какой падеж у [кенгуру] в «Подошли к кенгуру»?",
+          "answer": "дательный",
+          "ex": "Падеж определяется предлогом к.",
+          "accepted": [
+            "дательный падеж"
+          ],
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-b.06",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation",
+          "answerPolicy": "semantic-v1"
+        },
+        {
+          "raw": "Какую синтаксическую роль выполняет [медленно] в «Поезд медленно тронулся»? Впишите «обстоятельство», «подлежащее» или «дополнение».",
+          "answer": "обстоятельство",
+          "ex": "Наречие обозначает способ действия.",
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-b.07",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        },
+        {
+          "raw": "Какова часть речи [напротив] в «Он сел напротив»?",
+          "answer": "наречие",
+          "ex": "Самостоятельно указывает на место.",
+          "id": "ru.morphology.morphological-analysis.module-exam.r40-b.08",
+          "type": "grammar-answer",
+          "instruction": "Впишите ответ по условию. Для названий признаков и частей речи используйте словарную форму, если не указано иное; в письменной практике используйте строчные буквы, без кавычек и точки в конце.",
+          "lessonId": "ru.morphology.morphological-analysis.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

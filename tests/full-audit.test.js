@@ -9,11 +9,11 @@ import {normalize,parseImport} from '../src/core/progress.js';
 import {createChoiceSession} from '../src/core/choice-order.js';
 const fetcher=async url=>({ok:true,json:async()=>JSON.parse(await readFile(url,'utf8'))});
 const c=await loadCourse(fetcher);
-test('all 4039 assessment keys are executable; blank/invalid selections and contradictory records rejected',()=>{
+test('all 4209 assessment keys are executable; blank/invalid selections and contradictory records rejected',()=>{
  let count=0;
  for(const l of c.lessons){for(const q of l.practice){const sel=q.expected??[],txt=q.accepted?.[0]??'';assert.ok(gradePractice(q,sel,txt),q.id);assert.ok(validAttempt(q,{selected:sel,answerText:txt,correct:true}),q.id);assert.ok(!validAttempt(q,{selected:sel,answerText:txt,correct:false}),q.id);if(q.type!=='comma-positions')assert.ok(!ready(q,[],''),q.id);if(q.expected)assert.ok(!ready(q,[99999]),q.id);count++}}
  for(const v of [...c.lessons.flatMap(variants),...c.modules.flatMap(m=>m.variants)]){for(const q of v.questions){assert.deepEqual(gradeExam([q],[q.answer]),[true],q.id);assert.deepEqual(gradeExam([q],['']),[false],q.id);count++}}
- assert.equal(count,4039);
+ assert.equal(count,4209);
 });
 test('every full lesson equals its lazy index and all 107 planned module numbers exist',async()=>{const index=await loadCourseIndex(fetcher);for(const l of c.lessons)assert.deepEqual(await index.loadLesson(l.id),l);assert.deepEqual(c.catalog.sections.flatMap(s=>s.plan.map(p=>p.number)).sort(),c.modules.map(m=>m.moduleNumber).sort())});
 test('balanced display per full block keeps canonical answer indices and is stable within a session',()=>{let seed=42;const random=()=>((seed=(Math.imul(1664525,seed)+1013904223)>>>0)/4294967296);for(const l of c.lessons){const s=createChoiceSession(random);s.plan(l.practice);const groups=new Map();for(const q of l.practice.filter(q=>q.type==='single-choice')){const order=s.order(q);assert.deepEqual([...order].sort((a,b)=>a-b),q.options.map((_,i)=>i));assert.deepEqual(s.order(q),order);const n=order.length;if(!groups.has(n))groups.set(n,[]);groups.get(n).push(order.indexOf(q.expected[0]));assert.ok(gradePractice(q,[order[order.indexOf(q.expected[0])]]));}for(const [n,positions] of groups){const counts=Array(n).fill(0);for(const i of positions)counts[i]++;assert.ok(Math.max(...counts)-Math.min(...counts)<=1,l.id)}}});

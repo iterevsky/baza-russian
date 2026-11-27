@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.morphology.verb-morphology",
+  "title": "Глагол: вид, время, лицо, наклонение, спряжение (базовый контроль)",
+  "moduleNumber": "04.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.morphology.verb-morphology.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+    "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.morphology.verb-morphology.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.verb-morphology.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Назовите наклонение: изъявительное, условное, повелительное.\nОн [согласился бы].",
+          "answer": "условное",
+          "ex": "условное. Условное выражает предположение, повелительное побуждение, изъявительное сообщает о действии.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.verb-morphology.foundation"
+        },
+        {
+          "id": "ru.morphology.verb-morphology.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Укажите вид выделенного глагола: совершенный или несовершенный.\nОна [решила] задачу.",
+          "answer": "совершенный",
+          "ex": "совершенный. Проверьте инфинитив и представление действия как процесса либо целого.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.verb-morphology.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.morphology.verb-morphology.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.morphology.verb-morphology.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Определите время: настоящее, прошедшее, будущее.\nМы [гуляем].",
+          "answer": "настоящее",
+          "ex": "настоящее. В заданных формах изъявительного наклонения время устанавливается морфологически.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.verb-morphology.foundation"
+        },
+        {
+          "id": "ru.morphology.verb-morphology.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Назовите наклонение: изъявительное, условное, повелительное.\nОни [согласились].",
+          "answer": "изъявительное",
+          "ex": "изъявительное. Условное выражает предположение, повелительное побуждение, изъявительное сообщает о действии.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.morphology.verb-morphology.foundation"
+        }
+      ]
+    }
+  ]
+}
