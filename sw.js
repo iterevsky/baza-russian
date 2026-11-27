@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
 const RELEASE="1.0.0-rc.1";
-const DIGEST="e64f6cc28fb4f29471b60bf4";
+const DIGEST="58696d205196ff37d6765804";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -1028,7 +1028,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "71c9591606c9e2a030a5cb919677aefaedb9510a6633b2c4e4a1544ab76b70a4"
+    "198397bc5444b8c49b64ed78158383746c539dd0e5993907888277f391b29642"
   ],
   [
     "manifest.webmanifest",
@@ -1076,7 +1076,7 @@ const ASSETS=[
   ],
   [
     "src/core/home.js",
-    "8922f644cb1b25eb6fbbf6c758d8c31b1a31eb6b8e36e3439226bc50a1771772"
+    "2f8f27c8c394a45bf00d935ac6acf62ff7d063a6c71d8838cca7b4abda513cd9"
   ],
   [
     "src/core/lesson-view.js",
@@ -1107,12 +1107,16 @@ const ASSETS=[
     "7b5a4a4f268fa7f4da221082f3e572a1c3d3a1ecc9724762b11a2f6491690d21"
   ],
   [
+    "src/portrait.js",
+    "bcfa0356f7a10d6dc0da779d64945ab238b1710bfb90d7c4359a5c486daa5d33"
+  ],
+  [
     "src/pwa.js",
     "4d1364df63b44d89728139eabfc675b1341549e09d3cdf9247e38dd840908715"
   ],
   [
     "src/styles/home.css",
-    "056f8331d390cd485479fa373042b4fb46fd20b00f48db1408290114bdc7a769"
+    "0ecd5335f76119a17c55d46fec584706d52adf30651b4655d91adc2567610aa6"
   ],
   [
     "src/styles/main.css",
