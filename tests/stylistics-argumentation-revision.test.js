@@ -1,3 +1,4 @@
+import {fetch043} from './historical-content.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
@@ -10,6 +11,7 @@ import {gradePractice} from '../src/core/practice.js';
 import {variants} from '../src/core/exams.js';
 import {fetch042,content042} from './historical-content.mjs';
 const fetcher=async u=>({ok:true,json:async()=>JSON.parse(await readFile(u,'utf8'))});
+const historical43=await loadCourse(fetch043);
 const c=await loadCourse(fetcher),old=await loadCourse(fetch042),index=await loadCourseIndex(fetcher);
 const revised=c.modules.filter(m=>m.variants.some(v=>v.id.includes('.module-exam.r43-')));
 const oldL=new Map(old.lessons.map(l=>[l.id,l])),oldM=new Map(old.modules.map(m=>[m.id,m]));
@@ -25,7 +27,7 @@ test('r43: all 18 remaining modules revised, 288 new exam questions, 18 written 
 });
 test('r42 historical snapshot matches all 246 hashes; r43 preserves every old item, version and ID',async()=>{
  const manifest=JSON.parse(await readFile(new URL('../docs/audits/v0.42.0-content-sha256.json',import.meta.url),'utf8'));assert.equal(Object.keys(manifest.files).length,246);for(const [p,h] of Object.entries(manifest.files))assert.equal(createHash('sha256').update(await content042(p)).digest('hex'),h,p);assert.deepEqual(c.catalog.lessonOrder,manifest.lessonOrder);
- for(const l of c.lessons){const before=oldL.get(l.id);assert.equal(l.version,before.version);assert.deepEqual(l.practice.slice(0,before.practice.length),before.practice);for(const k of ['exam','examVariants','cards','deepDive'])assert.deepEqual(l[k],before[k],l.id+' '+k);assert.deepEqual(l.editorialCases.slice(0,before.editorialCases.length),before.editorialCases);assert.deepEqual(l.theory.slice(0,before.theory.length),before.theory)}
+ for(const l of historical43.lessons){const before=oldL.get(l.id);assert.equal(l.version,before.version);assert.deepEqual(l.practice.slice(0,before.practice.length),before.practice);for(const k of ['exam','examVariants','cards','deepDive'])assert.deepEqual(l[k],before[k],l.id+' '+k);assert.deepEqual(l.editorialCases.slice(0,before.editorialCases.length),before.editorialCases);assert.deepEqual(l.theory.slice(0,before.theory.length),before.theory)}
  for(const m of c.modules){const before=oldM.get(m.id);assert.deepEqual(m.lessonIds,before.lessonIds);assert.deepEqual(m.variants.slice(0,before.variants.length),revised.includes(m)?before.variants.map(v=>({...v,archived:true})):before.variants)}
 });
 test('all 18 revised modules: old completed exams, drafts, notes and old editorial work import; new attempts and new editorial drafts round-trip',()=>{

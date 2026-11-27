@@ -4,6 +4,8 @@ export function choiceOrder(size,random=Math.random){
  for(let i=size-1;i>0;i--){const j=Math.floor(random()*(i+1));[order[i],order[j]]=[order[j],order[i]]}
  return order;
 }
+export const authoredOrder=q=>q.displayOrder??q.options.map((_,i)=>i);
+export const validAuthoredOrder=q=>q.displayOrder===undefined||(q.type==='single-choice'&&Array.isArray(q.displayOrder)&&q.displayOrder.length===q.options.length&&new Set(q.displayOrder).size===q.options.length&&q.displayOrder.every(i=>Number.isInteger(i)&&i>=0&&i<q.options.length));
 export function createChoiceSession(random=Math.random){
  const orders=new Map();
  return {plan(questions){
@@ -12,8 +14,8 @@ export function createChoiceSession(random=Math.random){
   const groups=new Map();
   for(const q of questions)if(q.type==='single-choice'){const n=q.options.length;if(!groups.has(n))groups.set(n,[]);groups.get(n).push(q)}
   for(const [n,qs] of groups){const slots=Array.from({length:qs.length},(_,i)=>i%n);const offsetOrder=choiceOrder(n,random);const shuffled=choiceOrder(slots.length,random).map(i=>offsetOrder[slots[i]]);for(let i=0;i<qs.length;i++){
-   const q=qs[i],key=q.expected[0],order=choiceOrder(n,random),target=shuffled[i],from=order.indexOf(key);
+   const q=qs[i],key=q.expected[0],order=choiceOrder(n,random).map(i=>authoredOrder(q)[i]),target=shuffled[i],from=order.indexOf(key);
    [order[target],order[from]]=[order[from],order[target]];orders.set(q.id,order);
   }}
- },order(q){if(!orders.has(q.id))orders.set(q.id,choiceOrder(q.options.length,random));return orders.get(q.id)},reset(){orders.clear()}};
+ },order(q){if(!orders.has(q.id))orders.set(q.id,choiceOrder(q.options.length,random).map(i=>authoredOrder(q)[i]));return orders.get(q.id)},reset(){orders.clear()}};
 }

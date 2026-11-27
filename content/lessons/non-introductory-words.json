@@ -164,12 +164,19 @@
       "id": "ru.punctuation.non-introductory-words.practice.06",
       "type": "comma-positions",
       "parts": [
+        "Мы",
+        "даже",
+        "не услышали звонка."
+      ],
+      "expected": [],
+      "ex": "Даже — усилительная частица, а не вводное слово; в этом предложении запятые не нужны.",
+      "previousParts": [
         "Он",
         "даже",
         "не заметил ошибки."
       ],
-      "expected": [],
-      "ex": "Даже не является вводным словом."
+      "previousEx": "Даже не является вводным словом.",
+      "revision": 2
     },
     {
       "id": "ru.punctuation.non-introductory-words.practice.choice.01",

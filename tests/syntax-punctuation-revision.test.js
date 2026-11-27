@@ -1,3 +1,4 @@
+import {fetch043} from './historical-content.mjs';
 import {content037} from './historical-content.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
@@ -10,6 +11,7 @@ import {gradeExam,validExamQuestion} from '../src/core/assessment.js';
 import {gradePractice} from '../src/core/practice.js';
 import {moduleView} from '../src/core/module-view.js';
 const fetcher=async u=>({ok:true,json:async()=>JSON.parse(await readFile(u,'utf8'))});
+const historical43=await loadCourse(fetch043);
 const c=await loadCourse(fetcher),index=await loadCourseIndex(fetcher);
 const revised=c.modules.filter(m=>m.variants.some(v=>v.id.includes('.module-exam.r37-')));
 const oldLessons=new Map(),oldModules=new Map();
@@ -29,7 +31,7 @@ test('v0.36 source hashes retained, old lesson keys and archived module banks pr
  const manifest=JSON.parse(await readFile(new URL('../docs/audits/v0.36.0-content-sha256.json',import.meta.url),'utf8'));
  for(const [p,h] of Object.entries(manifest.files))assert.equal(createHash('sha256').update(await oldBytes(p)).digest('hex'),h,p);
  assert.deepEqual(c.catalog.lessonOrder,manifest.lessonOrder);
- for(const [id,before] of oldLessons){const now=c.lessons.find(l=>l.id===id);assert.equal(now.version,before.version);assert.deepEqual(now.practice.slice(0,before.practice.length),before.practice);for(const k of ['exam','examVariants','cards','editorialCases','deepDive'])assert.deepEqual(now[k],before[k],id+' '+k);assert.deepEqual(now.theory.slice(0,before.theory.length),before.theory)}
+ for(const [id,before] of oldLessons){const now=historical43.lessons.find(l=>l.id===id);assert.equal(now.version,before.version);assert.deepEqual(now.practice.slice(0,before.practice.length),before.practice);for(const k of ['exam','examVariants','cards','editorialCases','deepDive'])assert.deepEqual(now[k],before[k],id+' '+k);assert.deepEqual(now.theory.slice(0,before.theory.length),before.theory)}
  for(const [id,before] of oldModules){const now=c.modules.find(m=>m.id===id);assert.deepEqual(now.variants.slice(0,before.variants.length),before.variants.map(v=>({...v,archived:true})));assert.deepEqual(now.lessonIds,before.lessonIds)}
 });
 test('all 15 old completed exams and drafts import into runtime index; new attempts cover current banks and preserve old records',()=>{

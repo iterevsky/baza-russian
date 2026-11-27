@@ -1,0 +1,919 @@
+{
+  "changed": [
+    "content/lessons/asyndetic-colon-dash.json",
+    "content/lessons/asyndetic-enumeration.json",
+    "content/lessons/asyndetic-relations.json",
+    "content/lessons/clarification.json",
+    "content/lessons/comparison-free.json",
+    "content/lessons/comparison-role.json",
+    "content/lessons/complication-types.json",
+    "content/lessons/coordinate-common.json",
+    "content/lessons/coordinate-marks.json",
+    "content/lessons/coordinate-relations.json",
+    "content/lessons/coordinate-structure.json",
+    "content/lessons/dash-incomplete.json",
+    "content/lessons/dash-predicate.json",
+    "content/lessons/detached-circumstances.json",
+    "content/lessons/detached-definitions.json",
+    "content/lessons/end-basic.json",
+    "content/lessons/end-ellipsis.json",
+    "content/lessons/explanation-attachment.json",
+    "content/lessons/gerund-punctuation.json",
+    "content/lessons/homogeneity-syntax.json",
+    "content/lessons/incomplete.json",
+    "content/lessons/indirect-transformation.json",
+    "content/lessons/information-structure.json",
+    "content/lessons/isolated-members.json",
+    "content/lessons/mixed-links.json",
+    "content/lessons/non-introductory-words.json",
+    "content/lessons/nonmembers.json",
+    "content/lessons/one-part-types.json",
+    "content/lessons/participle-punctuation.json",
+    "content/lessons/phrase-links.json",
+    "content/lessons/phrase-structure.json",
+    "content/lessons/sentence-analysis.json",
+    "content/lessons/speech-forms.json",
+    "content/lessons/subordinate-junction.json",
+    "content/lessons/subordinate-links.json",
+    "content/lessons/subordinate-marks.json",
+    "content/lessons/subordinate-types.json",
+    "content/lessons/basis-core.json",
+    "content/lessons/subject.json"
+  ],
+  "cardChanges": [
+    {
+      "lesson": "ru.punctuation.asyndetic-colon-dash",
+      "id": "ru.punctuation.asyndetic-colon-dash.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "БСП: двоеточие и тире — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.asyndetic-colon-dash",
+      "id": "ru.punctuation.asyndetic-colon-dash.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "БСП: двоеточие и тире — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.asyndetic-colon-dash",
+      "id": "ru.punctuation.asyndetic-colon-dash.card.03",
+      "before": "Где границы правила?",
+      "after": "БСП: двоеточие и тире — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.asyndetic-enumeration",
+      "id": "ru.punctuation.asyndetic-enumeration.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "БСП: запятая, точка с запятой и смысловые блоки — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.asyndetic-enumeration",
+      "id": "ru.punctuation.asyndetic-enumeration.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "БСП: запятая, точка с запятой и смысловые блоки — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.asyndetic-enumeration",
+      "id": "ru.punctuation.asyndetic-enumeration.card.03",
+      "before": "Где границы правила?",
+      "after": "БСП: запятая, точка с запятой и смысловые блоки — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.asyndetic-relations",
+      "id": "ru.syntax.asyndetic-relations.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "БСП: смысловые отношения между частями — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.syntax.asyndetic-relations",
+      "id": "ru.syntax.asyndetic-relations.card.03",
+      "before": "Где границы правила?",
+      "after": "БСП: смысловые отношения между частями — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.clarification",
+      "id": "ru.punctuation.clarification.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "Уточнение: от общего к конкретному — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.clarification",
+      "id": "ru.punctuation.clarification.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "Уточнение: от общего к конкретному — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.clarification",
+      "id": "ru.punctuation.clarification.card.03",
+      "before": "Где границы правила?",
+      "after": "Уточнение: от общего к конкретному — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.comparison-free",
+      "id": "ru.punctuation.comparison-free.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "Сравнение и тесная связь со сказуемым — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.comparison-free",
+      "id": "ru.punctuation.comparison-free.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "Сравнение и тесная связь со сказуемым — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.comparison-free",
+      "id": "ru.punctuation.comparison-free.card.03",
+      "before": "Где границы правила?",
+      "after": "Сравнение и тесная связь со сказуемым — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.comparison-role",
+      "id": "ru.punctuation.comparison-role.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "Обороты с как: роль и причина — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.comparison-role",
+      "id": "ru.punctuation.comparison-role.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "Обороты с как: роль и причина — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.comparison-role",
+      "id": "ru.punctuation.comparison-role.card.03",
+      "before": "Где границы правила?",
+      "after": "Обороты с как: роль и причина — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.coordinate-common",
+      "id": "ru.punctuation.coordinate-common.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "ССП: общий компонент и отсутствие запятой — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.coordinate-common",
+      "id": "ru.punctuation.coordinate-common.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "ССП: общий компонент и отсутствие запятой — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.coordinate-common",
+      "id": "ru.punctuation.coordinate-common.card.03",
+      "before": "Где границы правила?",
+      "after": "ССП: общий компонент и отсутствие запятой — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.coordinate-marks",
+      "id": "ru.punctuation.coordinate-marks.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "ССП: границы частей и запятая — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.coordinate-marks",
+      "id": "ru.punctuation.coordinate-marks.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "ССП: границы частей и запятая — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.coordinate-marks",
+      "id": "ru.punctuation.coordinate-marks.card.03",
+      "before": "Где границы правила?",
+      "after": "ССП: границы частей и запятая — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.coordinate-relations",
+      "id": "ru.syntax.coordinate-relations.card.03",
+      "before": "Где границы правила?",
+      "after": "ССП: соединение, противопоставление и выбор — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.coordinate-structure",
+      "id": "ru.syntax.coordinate-structure.card.03",
+      "before": "Где границы правила?",
+      "after": "ССП: границы предикативных частей — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.dash-incomplete",
+      "id": "ru.punctuation.dash-incomplete.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Тире в неполных предложениях — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.punctuation.dash-incomplete",
+      "id": "ru.punctuation.dash-incomplete.card.03",
+      "before": "Где границы правила?",
+      "after": "Тире в неполных предложениях — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.dash-predicate",
+      "id": "ru.punctuation.dash-predicate.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Тире между подлежащим и сказуемым — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.punctuation.dash-predicate",
+      "id": "ru.punctuation.dash-predicate.card.03",
+      "before": "Где границы правила?",
+      "after": "Тире между подлежащим и сказуемым — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.detached-circumstances",
+      "id": "ru.punctuation.detached-circumstances.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "Обстоятельства: уступка и обычная связь — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.detached-circumstances",
+      "id": "ru.punctuation.detached-circumstances.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "Обстоятельства: уступка и обычная связь — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.detached-circumstances",
+      "id": "ru.punctuation.detached-circumstances.card.03",
+      "before": "Где границы правила?",
+      "after": "Обстоятельства: уступка и обычная связь — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.detached-definitions",
+      "id": "ru.punctuation.detached-definitions.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "Обособленные определения и приложения — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.detached-definitions",
+      "id": "ru.punctuation.detached-definitions.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "Обособленные определения и приложения — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.detached-definitions",
+      "id": "ru.punctuation.detached-definitions.card.03",
+      "before": "Где границы правила?",
+      "after": "Обособленные определения и приложения — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.end-basic",
+      "id": "ru.punctuation.end-basic.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Точка, вопросительный и восклицательный знаки — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.punctuation.end-basic",
+      "id": "ru.punctuation.end-basic.card.03",
+      "before": "Где границы правила?",
+      "after": "Точка, вопросительный и восклицательный знаки — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.end-ellipsis",
+      "id": "ru.punctuation.end-ellipsis.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Многоточие и сочетания знаков — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.punctuation.end-ellipsis",
+      "id": "ru.punctuation.end-ellipsis.card.03",
+      "before": "Где границы правила?",
+      "after": "Многоточие и сочетания знаков — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.explanation-attachment",
+      "id": "ru.punctuation.explanation-attachment.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "Пояснение и присоединение — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.explanation-attachment",
+      "id": "ru.punctuation.explanation-attachment.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "Пояснение и присоединение — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.explanation-attachment",
+      "id": "ru.punctuation.explanation-attachment.card.03",
+      "before": "Где границы правила?",
+      "after": "Пояснение и присоединение — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.gerund-punctuation",
+      "id": "ru.punctuation.gerund-punctuation.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Деепричастный оборот и границы обособления — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.punctuation.gerund-punctuation",
+      "id": "ru.punctuation.gerund-punctuation.card.03",
+      "before": "Где границы правила?",
+      "after": "Деепричастный оборот и границы обособления — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.indirect-transformation",
+      "id": "ru.syntax.indirect-transformation.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Косвенная речь: сообщение, вопрос, побуждение — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.syntax.indirect-transformation",
+      "id": "ru.syntax.indirect-transformation.card.03",
+      "before": "Где границы правила?",
+      "after": "Косвенная речь: сообщение, вопрос, побуждение — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.information-structure",
+      "id": "ru.syntax.information-structure.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Порядок слов и актуальное членение — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.syntax.information-structure",
+      "id": "ru.syntax.information-structure.card.03",
+      "before": "Где границы правила?",
+      "after": "Порядок слов и актуальное членение — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.isolated-members",
+      "id": "ru.syntax.isolated-members.card.03",
+      "before": "Где границы правила?",
+      "after": "Обособленные члены и уточнение — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.mixed-links",
+      "id": "ru.syntax.mixed-links.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Сложные предложения с разными видами связи — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.syntax.mixed-links",
+      "id": "ru.syntax.mixed-links.card.03",
+      "before": "Где границы правила?",
+      "after": "Сложные предложения с разными видами связи — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.nonmembers",
+      "id": "ru.syntax.nonmembers.card.03",
+      "before": "Где границы правила?",
+      "after": "Вводность, обращения и вставки в синтаксическом разборе — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.participle-punctuation",
+      "id": "ru.punctuation.participle-punctuation.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Причастный оборот: позиция и обособление — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.punctuation.participle-punctuation",
+      "id": "ru.punctuation.participle-punctuation.card.03",
+      "before": "Где границы правила?",
+      "after": "Причастный оборот: позиция и обособление — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.sentence-analysis",
+      "id": "ru.syntax.sentence-analysis.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Синтаксический разбор: от основ к структуре — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.syntax.sentence-analysis",
+      "id": "ru.syntax.sentence-analysis.card.03",
+      "before": "Где границы правила?",
+      "after": "Синтаксический разбор: от основ к структуре — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.speech-forms",
+      "id": "ru.syntax.speech-forms.card.02",
+      "before": "Как выполнить разбор?",
+      "after": "Прямая и косвенная речь: форма передачи — как выполнить разбор?"
+    },
+    {
+      "lesson": "ru.syntax.speech-forms",
+      "id": "ru.syntax.speech-forms.card.03",
+      "before": "Где границы правила?",
+      "after": "Прямая и косвенная речь: форма передачи — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.subordinate-junction",
+      "id": "ru.punctuation.subordinate-junction.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "СПП: стык союзов и соотносительное то — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.subordinate-junction",
+      "id": "ru.punctuation.subordinate-junction.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "СПП: стык союзов и соотносительное то — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.subordinate-junction",
+      "id": "ru.punctuation.subordinate-junction.card.03",
+      "before": "Где границы правила?",
+      "after": "СПП: стык союзов и соотносительное то — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.subordinate-links",
+      "id": "ru.syntax.subordinate-links.card.03",
+      "before": "Где границы правила?",
+      "after": "СПП: главная часть, союз и союзное слово — где границы правила?"
+    },
+    {
+      "lesson": "ru.punctuation.subordinate-marks",
+      "id": "ru.punctuation.subordinate-marks.card.01",
+      "before": "Какое правило определяет знак?",
+      "after": "СПП: границы придаточных и однородность — какое правило определяет знак?"
+    },
+    {
+      "lesson": "ru.punctuation.subordinate-marks",
+      "id": "ru.punctuation.subordinate-marks.card.02",
+      "before": "Как проверить конструкцию?",
+      "after": "СПП: границы придаточных и однородность — как проверить конструкцию?"
+    },
+    {
+      "lesson": "ru.punctuation.subordinate-marks",
+      "id": "ru.punctuation.subordinate-marks.card.03",
+      "before": "Где границы правила?",
+      "after": "СПП: границы придаточных и однородность — где границы правила?"
+    },
+    {
+      "lesson": "ru.syntax.subordinate-types",
+      "id": "ru.syntax.subordinate-types.card.03",
+      "before": "Где границы правила?",
+      "after": "СПП: определительные, изъяснительные и обстоятельственные — где границы правила?"
+    }
+  ],
+  "authoredOrders": [
+    {
+      "lesson": "ru.syntax.complication-types",
+      "id": "ru.syntax.complication-types.practice.01",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "lesson": "ru.syntax.complication-types",
+      "id": "ru.syntax.complication-types.practice.02",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "lesson": "ru.syntax.complication-types",
+      "id": "ru.syntax.complication-types.practice.03",
+      "canonicalKey": 0,
+      "displayOrder": [
+        2,
+        1,
+        0,
+        3
+      ]
+    },
+    {
+      "lesson": "ru.syntax.complication-types",
+      "id": "ru.syntax.complication-types.practice.04",
+      "canonicalKey": 0,
+      "displayOrder": [
+        3,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "lesson": "ru.syntax.complication-types",
+      "id": "ru.syntax.complication-types.practice.05",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "lesson": "ru.syntax.complication-types",
+      "id": "ru.syntax.complication-types.practice.06",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "lesson": "ru.syntax.homogeneity-syntax",
+      "id": "ru.syntax.homogeneity-syntax.practice.01",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.homogeneity-syntax",
+      "id": "ru.syntax.homogeneity-syntax.practice.02",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.homogeneity-syntax",
+      "id": "ru.syntax.homogeneity-syntax.practice.03",
+      "canonicalKey": 0,
+      "displayOrder": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "lesson": "ru.syntax.homogeneity-syntax",
+      "id": "ru.syntax.homogeneity-syntax.practice.04",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.homogeneity-syntax",
+      "id": "ru.syntax.homogeneity-syntax.practice.05",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.homogeneity-syntax",
+      "id": "ru.syntax.homogeneity-syntax.practice.06",
+      "canonicalKey": 0,
+      "displayOrder": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "lesson": "ru.syntax.incomplete",
+      "id": "ru.syntax.incomplete.practice.01",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1
+      ]
+    },
+    {
+      "lesson": "ru.syntax.incomplete",
+      "id": "ru.syntax.incomplete.practice.02",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0
+      ]
+    },
+    {
+      "lesson": "ru.syntax.incomplete",
+      "id": "ru.syntax.incomplete.practice.03",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1
+      ]
+    },
+    {
+      "lesson": "ru.syntax.incomplete",
+      "id": "ru.syntax.incomplete.practice.04",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0
+      ]
+    },
+    {
+      "lesson": "ru.syntax.incomplete",
+      "id": "ru.syntax.incomplete.practice.05",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1
+      ]
+    },
+    {
+      "lesson": "ru.syntax.incomplete",
+      "id": "ru.syntax.incomplete.practice.06",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0
+      ]
+    },
+    {
+      "lesson": "ru.syntax.one-part-types",
+      "id": "ru.syntax.one-part-types.practice.01",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "lesson": "ru.syntax.one-part-types",
+      "id": "ru.syntax.one-part-types.practice.02",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "lesson": "ru.syntax.one-part-types",
+      "id": "ru.syntax.one-part-types.practice.03",
+      "canonicalKey": 0,
+      "displayOrder": [
+        2,
+        1,
+        0,
+        3
+      ]
+    },
+    {
+      "lesson": "ru.syntax.one-part-types",
+      "id": "ru.syntax.one-part-types.practice.04",
+      "canonicalKey": 0,
+      "displayOrder": [
+        3,
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "lesson": "ru.syntax.one-part-types",
+      "id": "ru.syntax.one-part-types.practice.05",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "lesson": "ru.syntax.one-part-types",
+      "id": "ru.syntax.one-part-types.practice.06",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-links",
+      "id": "ru.syntax.phrase-links.practice.01",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-links",
+      "id": "ru.syntax.phrase-links.practice.02",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-links",
+      "id": "ru.syntax.phrase-links.practice.03",
+      "canonicalKey": 0,
+      "displayOrder": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-links",
+      "id": "ru.syntax.phrase-links.practice.04",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-links",
+      "id": "ru.syntax.phrase-links.practice.05",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-links",
+      "id": "ru.syntax.phrase-links.practice.06",
+      "canonicalKey": 0,
+      "displayOrder": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-structure",
+      "id": "ru.syntax.phrase-structure.practice.01",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-structure",
+      "id": "ru.syntax.phrase-structure.practice.02",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-structure",
+      "id": "ru.syntax.phrase-structure.practice.03",
+      "canonicalKey": 0,
+      "displayOrder": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-structure",
+      "id": "ru.syntax.phrase-structure.practice.04",
+      "canonicalKey": 0,
+      "displayOrder": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-structure",
+      "id": "ru.syntax.phrase-structure.practice.05",
+      "canonicalKey": 0,
+      "displayOrder": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "lesson": "ru.syntax.phrase-structure",
+      "id": "ru.syntax.phrase-structure.practice.06",
+      "canonicalKey": 0,
+      "displayOrder": [
+        2,
+        1,
+        0
+      ]
+    }
+  ],
+  "replacement": [
+    "ru.punctuation.non-introductory-words.practice.06"
+  ],
+  "instructionChanges": [
+    {
+      "id": "ru.syntax.basis-core.practice.01",
+      "before": "У подъезда остановилось такси. Выпишите подлежащее, затем сказуемое через один пробел, без знаков препинания.",
+      "after": "У подъезда остановилось такси. Выберите вариант, в котором сначала указано подлежащее, затем сказуемое."
+    },
+    {
+      "id": "ru.syntax.basis-core.practice.02",
+      "before": "Мастер заточил нож. Выпишите подлежащее, затем сказуемое через один пробел, без знаков препинания.",
+      "after": "Мастер заточил нож. Выберите вариант, в котором сначала указано подлежащее, затем сказуемое."
+    },
+    {
+      "id": "ru.syntax.basis-core.practice.03",
+      "before": "В саду распустились розы. Выпишите подлежащее, затем сказуемое через один пробел, без знаков препинания.",
+      "after": "В саду распустились розы. Выберите вариант, в котором сначала указано подлежащее, затем сказуемое."
+    },
+    {
+      "id": "ru.syntax.basis-core.practice.04",
+      "before": "Она прочитала объявление. Выпишите подлежащее, затем сказуемое через один пробел, без знаков препинания.",
+      "after": "Она прочитала объявление. Выберите вариант, в котором сначала указано подлежащее, затем сказуемое."
+    },
+    {
+      "id": "ru.syntax.basis-core.practice.05",
+      "before": "С утра шумит ветер. Выпишите подлежащее, затем сказуемое через один пробел, без знаков препинания.",
+      "after": "С утра шумит ветер. Выберите вариант, в котором сначала указано подлежащее, затем сказуемое."
+    },
+    {
+      "id": "ru.syntax.basis-core.practice.06",
+      "before": "На экране появилась ошибка. Выпишите подлежащее, затем сказуемое через один пробел, без знаков препинания.",
+      "after": "На экране появилась ошибка. Выберите вариант, в котором сначала указано подлежащее, затем сказуемое."
+    },
+    {
+      "id": "ru.punctuation.end-ellipsis.practice.01",
+      "before": "Незавершённая мысль без вопроса и восклицания: Я собирался вам рассказать Запишите только заданный сочетанием интонаций знак (многоточие вводите тремя точками ...).",
+      "after": "Незавершённая мысль без вопроса и восклицания: Я собирался вам рассказать. Выберите знак конца предложения, соответствующий указанной интонации."
+    },
+    {
+      "id": "ru.punctuation.end-ellipsis.practice.02",
+      "before": "Вопрос с недоговорённостью: Неужели он уже Запишите только заданный сочетанием интонаций знак (многоточие вводите тремя точками ...).",
+      "after": "Вопрос с недоговорённостью: Неужели он уже. Выберите знак конца предложения, соответствующий указанной интонации."
+    },
+    {
+      "id": "ru.punctuation.end-ellipsis.practice.06",
+      "before": "Вопрос с обрывом: А что, если поезд Запишите только заданный сочетанием интонаций знак (многоточие вводите тремя точками ...).",
+      "after": "Вопрос с обрывом: А что, если поезд. Выберите знак конца предложения, соответствующий указанной интонации."
+    },
+    {
+      "id": "ru.punctuation.end-ellipsis.practice.05",
+      "before": "Недоговорённость без вопроса: Если бы я тогда знал Запишите только заданный сочетанием интонаций знак (многоточие вводите тремя точками ...).",
+      "after": "Недоговорённость без вопроса: Если бы я тогда знал. Выберите знак конца предложения, соответствующий указанной интонации."
+    },
+    {
+      "id": "ru.punctuation.end-ellipsis.practice.03",
+      "before": "Восклицание с обрывом: Какой ужас Запишите только заданный сочетанием интонаций знак (многоточие вводите тремя точками ...).",
+      "after": "Восклицание с обрывом: Какой ужас. Выберите знак конца предложения, соответствующий указанной интонации."
+    },
+    {
+      "id": "ru.punctuation.end-ellipsis.practice.04",
+      "before": "Завершённый вопрос с сильным удивлением: Ты сам это построил Запишите только заданный сочетанием интонаций знак (многоточие вводите тремя точками ...).",
+      "after": "Завершённый вопрос с сильным удивлением: Ты сам это построил. Выберите знак конца предложения, соответствующий указанной интонации."
+    },
+    {
+      "id": "ru.punctuation.explanation-attachment.practice.06",
+      "before": "Запишите номер [или адрес]. Укажите, нужна ли запятая перед выделенным союзом или присоединительным сочетанием. Ответьте: «запятая» или «без знака».",
+      "after": "Запишите номер [или адрес]. Выберите: нужна ли запятая перед выделенным союзом или присоединительным сочетанием?"
+    },
+    {
+      "id": "ru.punctuation.explanation-attachment.practice.05",
+      "before": "Измерили периметр [то есть длину границы участка]. Укажите, нужна ли запятая перед выделенным союзом или присоединительным сочетанием. Ответьте: «запятая» или «без знака».",
+      "after": "Измерили периметр [то есть длину границы участка]. Выберите: нужна ли запятая перед выделенным союзом или присоединительным сочетанием?"
+    },
+    {
+      "id": "ru.punctuation.explanation-attachment.practice.04",
+      "before": "Подайте заявление лично [или через представителя]. Укажите, нужна ли запятая перед выделенным союзом или присоединительным сочетанием. Ответьте: «запятая» или «без знака».",
+      "after": "Подайте заявление лично [или через представителя]. Выберите: нужна ли запятая перед выделенным союзом или присоединительным сочетанием?"
+    },
+    {
+      "id": "ru.syntax.subject.practice.01",
+      "before": "Двое студентов вошли в аудиторию. Выпишите подлежащее целиком, без знаков препинания.",
+      "after": "Двое студентов вошли в аудиторию. Выберите подлежащее целиком."
+    },
+    {
+      "id": "ru.syntax.subject.practice.02",
+      "before": "Она принесла документы. Выпишите подлежащее целиком, без знаков препинания.",
+      "after": "Она принесла документы. Выберите подлежащее целиком."
+    },
+    {
+      "id": "ru.syntax.subject.practice.03",
+      "before": "Договор подписан директором. Выпишите подлежащее целиком, без знаков препинания.",
+      "after": "Договор подписан директором. Выберите подлежащее целиком."
+    },
+    {
+      "id": "ru.syntax.subject.practice.04",
+      "before": "Дежурный открыл дверь. Выпишите подлежащее целиком, без знаков препинания.",
+      "after": "Дежурный открыл дверь. Выберите подлежащее целиком."
+    },
+    {
+      "id": "ru.syntax.subject.practice.05",
+      "before": "За окном шумели деревья. Выпишите подлежащее целиком, без знаков препинания.",
+      "after": "За окном шумели деревья. Выберите подлежащее целиком."
+    },
+    {
+      "id": "ru.syntax.subject.practice.06",
+      "before": "Три окна выходят во двор. Выпишите подлежащее целиком, без знаков препинания.",
+      "after": "Три окна выходят во двор. Выберите подлежащее целиком."
+    }
+  ]
+}

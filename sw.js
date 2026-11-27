@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.43.0";
-const DIGEST="677bf76c50e7e53be3bd4a7f";
+const RELEASE="0.44.0";
+const DIGEST="9e1a99c4f47e930354320a19";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -32,15 +32,15 @@ const ASSETS=[
   ],
   [
     "content/lessons/asyndetic-colon-dash.json",
-    "13ee588e08089570209eb634c8f6e1c3ca753a9640e7134555f7fb48c364e1d3"
+    "75460d0a065d895dc40d85fcb21ba25432c73c493a057bab8c165ee7280be41a"
   ],
   [
     "content/lessons/asyndetic-enumeration.json",
-    "2c8f4f16b24fbca4ea48b24ade60f250f6061cff6cf167b57a0346a3d5feb576"
+    "7f8466f40e15812e8ae9eec876cf600f3f74e9e36b68bd3b7b31d776ec0b4635"
   ],
   [
     "content/lessons/asyndetic-relations.json",
-    "39a5e1880c0ddaeb2cf49068cff5b36e3bb2d129bac86ad22166161e8ebfe06e"
+    "c9c08900d03482d8b81bedfcb4e37b7fa57de8a5e77f3fe32f32e3ea970acf56"
   ],
   [
     "content/lessons/author-voice.json",
@@ -48,7 +48,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/basis-core.json",
-    "ac4034f003ed4ad76b0078833b9891e608024fbe260fb00af93cc82f77cd8e53"
+    "0579132ddc9ab62e9f905cfb13f22d46cee769041b6823fd8c5875ed8bcee5d9"
   ],
   [
     "content/lessons/basis-count.json",
@@ -68,7 +68,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/clarification.json",
-    "25fb0a14554c10eb95f63fbba612a2f588b5d5e4601e5f7c209d1f3675b68201"
+    "aeebd69a4d060e869715cf86063623aceb2baf500a672cf7062f1c96b3a1c552"
   ],
   [
     "content/lessons/clarity-precision.json",
@@ -76,39 +76,39 @@ const ASSETS=[
   ],
   [
     "content/lessons/comparison-free.json",
-    "6c4678b771abb2df286b64b3cfbfa5d5d1045dec22d9aabf44580ac0ed70389b"
+    "d0d67c2cb2845565d00282a31c4e1f6a46bac4c4e4604405e48ac0dda92f222c"
   ],
   [
     "content/lessons/comparison-role.json",
-    "ce16f31ef3c1314697bc67d1c1c6446d3a8f54a46133afa44df0cd980dc12154"
+    "d46277bbc499ec1a9c4088963d929eac39f2c0bd5339b766c28143a92be601c9"
   ],
   [
     "content/lessons/complication-types.json",
-    "1059cac37fe1dd9f8134941a45d8e497495f64d24a01e2900e071ebfae776f3d"
+    "eb2c63ac7b14a9e89679e8e2ee5a7455c28e9530a77bbe9feff93d95fdcde48d"
   ],
   [
     "content/lessons/coordinate-common.json",
-    "9820f9ac454d15bd7d72668f9dc8ff8acb06d0e584ddb410e894864bd868b2ea"
+    "c02885ad19dab593d086c15f7810dd2780bfedef94cea5db55f5217b95063e65"
   ],
   [
     "content/lessons/coordinate-marks.json",
-    "070be87490e7a46c2c351303bf0bd9395c3908ce1a6564a8b60793a41d16c111"
+    "e4e3b98a18102dbe22fec838841bbb5dcfbba1e3586140e843966ab6ff40adbc"
   ],
   [
     "content/lessons/coordinate-relations.json",
-    "f4040d40baf51ed80c6c865800a1dc0770d37bfb6507f72a9fc70380efab34da"
+    "8520d419ca9d85806e0b4fcddf6a3f0a1b3f2c489db0cbd684c06a7955e63277"
   ],
   [
     "content/lessons/coordinate-structure.json",
-    "17b3b28d5925542b71d67c70fafa2d425d489f6712e4cda7b0c0f47603cd6191"
+    "3a6ecfed53bdbad2d9575bd4b260a4ebd448fc6696a610a7c3902e2b05ec2f91"
   ],
   [
     "content/lessons/dash-incomplete.json",
-    "ddc65df7f547e8f3455c1fe00ffea789fb957cdd3f682771507296c8e5544437"
+    "ee7edd7e14c0d4cd4e2da53b5265a40d16e17bae1500d67171a29ec3d7a972dd"
   ],
   [
     "content/lessons/dash-predicate.json",
-    "5626e6cfa615ea3a3cf5681a9c8ed572cd19e0ac80af608e6bd1ff879c0f1635"
+    "a78223df72263bce47491f9d92a06e79294752428c70650575ca32d363394a2b"
   ],
   [
     "content/lessons/derivation-chain.json",
@@ -120,11 +120,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/detached-circumstances.json",
-    "cf70ba8aa9ad0d5e9a5e909f76e71f686e6e7abb59381664e5a1aca1382b968a"
+    "ac3508345ffcec4e6ec0dc66a3c83eb40c27e2fc3aada5b6db7f64bb40e28778"
   ],
   [
     "content/lessons/detached-definitions.json",
-    "76b98d7a3d7d768dc59bf47dd5199ea5b17d3c1810490bf292f2751864b6f0a7"
+    "499714a4ac3417106bc8a3866a73328b54b7d199666cd3fcbc5d3f6010cca05f"
   ],
   [
     "content/lessons/dictionary-method.json",
@@ -152,15 +152,15 @@ const ASSETS=[
   ],
   [
     "content/lessons/end-basic.json",
-    "3c046d1bd344c0e5f0004b7cf3a771dd3dbe3e4548d9ab6f95c6cb0326b3fc11"
+    "e484b4b4da6410eeee86bd6c7ac48f46653476febb1cbb746ebd06ed7cdd59e2"
   ],
   [
     "content/lessons/end-ellipsis.json",
-    "dd0bb1f54fb83e9c0d21abdf7dced597be6e5854ea95b09d237a6ea99f2dac15"
+    "4ed2dcf736fb7578bb99034b5a772926bb42c10538d56115820ed6c5d48869ae"
   ],
   [
     "content/lessons/explanation-attachment.json",
-    "c8cc985aa099bd00883c9d00ef964dbb1dca56e549c68215ed4fd89b4130913b"
+    "b673a08f8f8f67bc8ee780fab6b61e97128081064772dd0ad649d0f4ad2ac54d"
   ],
   [
     "content/lessons/figurative-meaning.json",
@@ -176,7 +176,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/gerund-punctuation.json",
-    "1f20c6b137667c3aaa38c5cfdfaa3a8a558dfed8bd5da5598718838a40b98302"
+    "9cf1f4a00871c2ee8c82efb5436cf1157f504433a1eb50474a652773c77a3b07"
   ],
   [
     "content/lessons/historical-changes.json",
@@ -184,7 +184,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/homogeneity-syntax.json",
-    "03b22736600f6bdb1bc6dd1359834fb890516a04a7b8d2f84dc029a9040050ad"
+    "eeaf0b52f9ab9b98cb5302e79cdd0ddb93d403e8e20171e7fa7df5232ce77317"
   ],
   [
     "content/lessons/homogeneous-basic.json",
@@ -216,7 +216,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/incomplete.json",
-    "9f6cfbc1996bd3db01c9c7af8c3a152471482e8dbb4fc4fc3ffaaf5fbacc2527"
+    "521a425b6efe490e94fb0f1545ffb20946a44cf805d8d34ed33596ef1bbb552c"
   ],
   [
     "content/lessons/independent-writing.json",
@@ -224,11 +224,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/indirect-transformation.json",
-    "9e443c86863b1e8dedd64d12163ffb0a0da17c1deea5ebd0e65efe8edd4d7dad"
+    "c94f323d9a5bf48aa361125577ef8a8da0ac48790da13419445918d4a6303ea8"
   ],
   [
     "content/lessons/information-structure.json",
-    "1c1a449a478e4a8a638594790513b6c14881ff1aa125202d6340a96c0d6f415d"
+    "2ca99f6cb28c7fdd4dd0f7b75caad7edd530cc58e2e8b8d91b79a9b0c5908749"
   ],
   [
     "content/lessons/insertions.json",
@@ -252,7 +252,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/isolated-members.json",
-    "4401639eb0dce419d60f12d4588a5c8913c48e1af348bb0051c2e7751885c3b6"
+    "7521eb0df2c1e0a5a0da3ae9415bce0f7311b1d0c972a90c225f5f42036071cf"
   ],
   [
     "content/lessons/language-levels.json",
@@ -284,7 +284,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/mixed-links.json",
-    "595900ba47b137ff97caa1f74656084e35cdc79b8f3eb7aec6bbc713ab2b2e82"
+    "4304370924eaceb2b9e31c4c05cc82c43c6bd59a537d9cc8d400f08f38fa1f17"
   ],
   [
     "content/lessons/mixed-punctuation.json",
@@ -308,11 +308,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/non-introductory-words.json",
-    "e567f3006f6e765e5cd202cabd46b74423466da3ff372864a55908327f5709c5"
+    "7510c7a927b58e3b63ccec5d89c5b9ea9d647b77d4c054360baba066e3142e3b"
   ],
   [
     "content/lessons/nonmembers.json",
-    "bab45b976f56cab4ba312379cd171ceca8b4b59858d8bcabedd7a78d1ce7870f"
+    "0589d5c6697d628e9ca8ba119f5933bf98bb480600412fabfba8f880c7f82933"
   ],
   [
     "content/lessons/norm-register.json",
@@ -340,7 +340,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/one-part-types.json",
-    "8a6a922580883c58f7cac264e45dc5ab24c7763a8d580957dc158fd139ed2615"
+    "bf6e17f579977a1a45c8cab165726015954fd084c03500b1cb98fd988f18bdb9"
   ],
   [
     "content/lessons/oral-speech-discussion.json",
@@ -356,7 +356,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/participle-punctuation.json",
-    "15b398cd6c86b87cb1448640320d78f33f1980cbc45aa567f53b90a563c94d63"
+    "94ea3056ccdefe13cbae97d9b8e3f0a19b6a8ffd6754029ac5f2220cb284e906"
   ],
   [
     "content/lessons/parts-of-speech.json",
@@ -364,11 +364,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/phrase-links.json",
-    "1d25226893c8daea2baef8c2b28135405cb6fe2c670e6d9f732ca7d0101630cb"
+    "de43102b9064d9c082f10e11c76dfc15446bba6ce3be1021a0618e4a60f7e55c"
   ],
   [
     "content/lessons/phrase-structure.json",
-    "4f7c2bd96c3e1ccbda0b1bf15cb645f91b4414fef54f4c3b298a27d7357757e2"
+    "ce423c4665df22c2e819c2f6544b1be9153d9f391e3f5503348b49b8792613aa"
   ],
   [
     "content/lessons/predicate.json",
@@ -440,7 +440,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/sentence-analysis.json",
-    "d1f5d69d6dea78b38f2482fda74be79dcb8863aaba127c2106636bc38f1c0e5d"
+    "7457f1ea7ed6f803d3cb910e358a17333d674ad018c49cad78c7935787384221"
   ],
   [
     "content/lessons/sentence-rhythm.json",
@@ -480,7 +480,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/speech-forms.json",
-    "5a59b7e8f96393581775b97f75e2831ed597758396aae3673eb197f5fa78a6cd"
+    "0ed3befa8f372fbd6989dab567a9379332930d13f11051e7230e1bd646a2f556"
   ],
   [
     "content/lessons/stress-variants.json",
@@ -492,23 +492,23 @@ const ASSETS=[
   ],
   [
     "content/lessons/subject.json",
-    "d72f9355194010bcb0d94bcb188ef7f474f6d773b0d4de377afc7480dc82618b"
+    "3d0a3c0e9e1c5a46cf8266d68ba0a46eeec06ba6063b0346c08b06f486045ab3"
   ],
   [
     "content/lessons/subordinate-junction.json",
-    "09bc7c0918f23702b2f560ae438e40974db0c35ed1aa2d289d5ad1c9acab42c8"
+    "875ef2c5c4be54177a06d0616d08ebd7aa2211715eede0f6b58f266ecf51c7f5"
   ],
   [
     "content/lessons/subordinate-links.json",
-    "b8566985040c8b563b7ef08f072c70ab1c8e1e8ffcd0493d5395467d03c84d01"
+    "c03e6d880b376170e4071a3d19b92d4bb12ea257cdfa277762c6d6def55b8faf"
   ],
   [
     "content/lessons/subordinate-marks.json",
-    "81cb8e8cf815b7bf272be56e8cc8eb8cf0077bbadf3b88117d98d2fb60cb517b"
+    "31bbdfad1e257b82dc0532048ee5125f51b0b28357563ef419645d1092897315"
   ],
   [
     "content/lessons/subordinate-types.json",
-    "1fc325a7d491bb174a7bcb6ec03f965e5e5957fc5e88b911b5b457d7551d59b0"
+    "ec336baadf7f432a17c0aeb18999c3f6664d22c892ed4563d89a66f45a99c155"
   ],
   [
     "content/lessons/syllable-stress.json",
@@ -996,7 +996,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "18a02190dc37f411c7761d36ae7a6684d4f64bd67a6cfcff7d187ffb0b5ddb7e"
+    "68a3cd09cdf475628745a350ebbd629c90c5f1c693dceec67c46ce51eb07941a"
   ],
   [
     "content/tips.json",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "e4323011f75eb17448349b3de9a15dacfddb27c49cb56577a0c021a0273952b6"
+    "8023ca48deeef72b2b6825b61f04c50e5a388513f1d689ee057a0a6d825558a6"
   ],
   [
     "manifest.webmanifest",
@@ -1032,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "c19d3943c6c2c559c5788ebc52606fadc9904c3a9d9c8d0daaca7eaac61cc894"
+    "26a0f6a40a49f989696d3bdfa63d0ad5891b83f680a3b79f37acaa01fd9b63d1"
   ],
   [
     "src/core/assessment.js",
@@ -1040,11 +1040,11 @@ const ASSETS=[
   ],
   [
     "src/core/choice-order.js",
-    "6b871767ee95592b174fd7e0b45204b64702a458960e0f65df5133e7da11bad7"
+    "39f26034c219981b309bb412d4049a745167421d4d1564625be5c239d97d34ce"
   ],
   [
     "src/core/content.js",
-    "08e968cb6b660055fd10f6f78c5630daf84cc0aec3aed6bb083e4504dedf4a6e"
+    "14ce27e0dc523b771446519af1a9522830c1f6d94931d1f76558069873489bcc"
   ],
   [
     "src/core/database.js",
@@ -1072,7 +1072,7 @@ const ASSETS=[
   ],
   [
     "src/core/practice.js",
-    "898e462f543ae88dd8bf11bad2552f9a83c849a2ebeb9449c085f559eecae762"
+    "8cc2d058f3eca79925d1b4d6061511e849f33ce9a432d12a377ffa7cf5b17e7c"
   ],
   [
     "src/core/progress.js",
@@ -1080,7 +1080,7 @@ const ASSETS=[
   ],
   [
     "src/core/prompt.js",
-    "73a8aa34b321d5dced96f5eb6847491e0f82fa1cbb58679df6e14af63202aa31"
+    "bdc9cc96eec2f3ab41715c19376c63ef69e2bb3a0d8c7078397e80327e00ee7d"
   ],
   [
     "src/core/storage.js",
