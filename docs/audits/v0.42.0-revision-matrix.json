@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "ru.speech-culture.norm-register.foundation",
+    "moduleId": "ru.speech-culture.norm-register",
+    "number": "10.01",
+    "items": [
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-a.01",
+        "type": "grammar-answer",
+        "raw": "Как называется фактически сложившаяся практика употребления языка?",
+        "answer": "узус",
+        "ex": "Узус описывает употребление, а не автоматически предписывает его.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "языковой узус"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-a.02",
+        "type": "grammar-answer",
+        "raw": "Расшифруйте словарную помету «разг.» одним словом (форма мужского рода).",
+        "answer": "разговорный",
+        "ex": "Помета указывает на разговорную сферу.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-a.03",
+        "type": "grammar-answer",
+        "raw": "В справке требуется нейтральный глагол вместо «пофиксили ошибку». Напишите «исправить» в прошедшем времени множественного числа.",
+        "answer": "исправили",
+        "ex": "Нейтральная форма сохраняет факт исправления.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-a.04",
+        "type": "grammar-answer",
+        "raw": "Как называется разновидность языка, характерная для определённой территории?",
+        "answer": "диалект",
+        "ex": "Территориальная ограниченность отличает диалект от общего литературного языка.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "территориальный диалект"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-a.05",
+        "type": "grammar-answer",
+        "raw": "В словарной статье есть помета «устар.». Расшифруйте её одним словом (мужской род).",
+        "answer": "устаревший",
+        "ex": "Помета характеризует употребление по времени.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-a.06",
+        "type": "grammar-answer",
+        "raw": "Какой словарь проверяет постановку ударения и произношение? Укажите тип прилагательным.",
+        "answer": "орфоэпический",
+        "ex": "Орфоэпия описывает произносительную норму.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-a.07",
+        "type": "grammar-answer",
+        "raw": "В письме поставщику замените «деньги пришли» на сочетание «средства» и глагол «поступить» в прошедшем времени.",
+        "answer": "средства поступили",
+        "ex": "Форма сохраняет смысл и соответствует нейтрально-деловому регистру.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-a.08",
+        "type": "grammar-answer",
+        "raw": "Обе формы в словаре даны без ограничений как равноправные. Как называется такое свойство нормы?",
+        "answer": "вариативность",
+        "ex": "Норма может включать несколько равноправных форм.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "вариантность"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-b.01",
+        "type": "grammar-answer",
+        "raw": "Какой словарь используют для проверки написания сложного слова? Назовите тип прилагательным.",
+        "answer": "орфографический",
+        "ex": "Он кодифицирует написание.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-b.02",
+        "type": "grammar-answer",
+        "raw": "Расшифруйте помету «прост.» (название разновидности речи существительным).",
+        "answer": "просторечие",
+        "ex": "Помета относится к нелитературному или сниженному употреблению в зависимости от словаря.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-b.03",
+        "type": "grammar-answer",
+        "raw": "В словаре требуется найти значение незнакомого слова. Какой тип словаря нужен (прилагательное)?",
+        "answer": "толковый",
+        "ex": "Толковый словарь разъясняет значения.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-b.04",
+        "type": "grammar-answer",
+        "raw": "Как называется собрание текстов с поиском по контекстам и метаданным?",
+        "answer": "корпус",
+        "ex": "Корпус позволяет изучать реальное употребление.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "корпус текстов",
+          "языковой корпус"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-b.05",
+        "type": "grammar-answer",
+        "raw": "В протоколе замените «разрулили конфликт» нейтральным сочетанием с глаголом «урегулировать» в прошедшем времени.",
+        "answer": "урегулировали конфликт",
+        "ex": "Сниженную метафору заменяем нейтральной формой.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-b.06",
+        "type": "grammar-answer",
+        "raw": "Расшифруйте помету «книжн.» прилагательным мужского рода.",
+        "answer": "книжный",
+        "ex": "Помета указывает на книжную сферу употребления.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation"
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-b.07",
+        "type": "grammar-answer",
+        "raw": "Как называют отличие между официальной, нейтральной и неформальной манерой речи одним термином?",
+        "answer": "регистр",
+        "ex": "Регистр зависит от коммуникативной ситуации.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "речевой регистр"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.norm-register.module-exam.r42-b.08",
+        "type": "grammar-answer",
+        "raw": "При оценке двух изданий одного словаря назовите реквизит, позволяющий установить, какое издание новее.",
+        "answer": "год издания",
+        "ex": "Дата позволяет учесть возможное изменение кодификации; новизна сама по себе не гарантирует пригодность.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.norm-register.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "дата издания"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.norm-register.foundation.practice.r42.01",
+        "type": "text-edit",
+        "scope": "written",
+        "prompt": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "raw": "Практика: в служебной записке замените «баг» нейтральным словом «ошибка» в сочетании «обнаружили баг».",
+        "accepted": [
+          "обнаружили ошибку"
+        ],
+        "ex": "В нейтральном документе выбираем общеупотребительное слово."
+      }
+    ]
+  },
+  {
+    "id": "ru.speech-culture.noun-norms.foundation",
+    "moduleId": "ru.speech-culture.noun-norms",
+    "number": "10.02",
+    "items": [
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-a.01",
+        "type": "grammar-answer",
+        "raw": "Заполните окончание прилагательного: «прозрачн... тюль». Напишите целое прилагательное.",
+        "answer": "прозрачный",
+        "ex": "Тюль мужского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-a.02",
+        "type": "grammar-answer",
+        "raw": "Родительный множественного от «чулок».",
+        "answer": "чулок",
+        "ex": "Нормативна форма с нулевым окончанием.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-a.03",
+        "type": "grammar-answer",
+        "raw": "Именительный множественного числа слова «договор».",
+        "answer": "договоры",
+        "ex": "В нейтральной речи нормативная форма «договоры».",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-a.04",
+        "type": "grammar-answer",
+        "raw": "Родительный множественного от «помидор» как название плодов.",
+        "answer": "помидоров",
+        "ex": "У существительного в этой форме окончание -ов.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-a.05",
+        "type": "grammar-answer",
+        "raw": "Вставьте прилагательное «широкий» в нужной форме: «... авеню».",
+        "answer": "широкая",
+        "ex": "Авеню женского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-a.06",
+        "type": "grammar-answer",
+        "raw": "Именительный множественного числа слова «инженер» в нейтральной речи.",
+        "answer": "инженеры",
+        "ex": "Нормативная нейтральная форма на -ы.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-a.07",
+        "type": "grammar-answer",
+        "raw": "Заполните пропуск: «из двух ...» (деревня).",
+        "answer": "деревень",
+        "ex": "Родительный множественного имеет беглую гласную.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-a.08",
+        "type": "grammar-answer",
+        "raw": "Назовите род слова «какаду» вне контекста пола птицы.",
+        "answer": "мужской",
+        "ex": "Несклоняемые названия животных обычно мужского рода вне уточнения пола.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-b.01",
+        "type": "grammar-answer",
+        "raw": "Родительный множественного от «полотенце».",
+        "answer": "полотенец",
+        "ex": "Нормативная форма без окончания -ов.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-b.02",
+        "type": "grammar-answer",
+        "raw": "Согласуйте «вкусный» со словом «рагу».",
+        "answer": "вкусное",
+        "ex": "Рагу среднего рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-b.03",
+        "type": "grammar-answer",
+        "raw": "Именительный множественного от «профессор».",
+        "answer": "профессора",
+        "ex": "Нормативная форма множественного на -а.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-b.04",
+        "type": "grammar-answer",
+        "raw": "Вставьте слово «яблоко» в родительном множественного.",
+        "answer": "яблок",
+        "ex": "Нулевое окончание.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-b.05",
+        "type": "grammar-answer",
+        "raw": "Согласуйте «болезненный» со словом «мозоль».",
+        "answer": "болезненная",
+        "ex": "Мозоль женского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-b.06",
+        "type": "grammar-answer",
+        "raw": "Родительный множественного от «место».",
+        "answer": "мест",
+        "ex": "Нулевая флексия.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-b.07",
+        "type": "grammar-answer",
+        "raw": "Именительный множественного от «лист» в значении части растения.",
+        "answer": "листья",
+        "ex": "В этом значении употребляется форма «листья».",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.module-exam.r42-b.08",
+        "type": "grammar-answer",
+        "raw": "Напишите полную форму родительного множественного от «грамм».",
+        "answer": "граммов",
+        "ex": "Это полная форма; счётная форма не запрашивается.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.noun-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.noun-norms.foundation.practice.r42.01",
+        "type": "text-edit",
+        "scope": "written",
+        "prompt": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "raw": "Практика: вставьте «туфля» в «нет пары ...».",
+        "accepted": [
+          "туфель"
+        ],
+        "ex": "Родительный множественного — туфель."
+      }
+    ]
+  },
+  {
+    "id": "ru.speech-culture.proper-name-declension.foundation",
+    "moduleId": "ru.speech-culture.proper-name-declension",
+    "number": "10.03",
+    "items": [
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.01",
+        "type": "written-answer",
+        "raw": "Вставьте фамилию «Клим» в «письмо Андрею ...».",
+        "answer": "Климу",
+        "ex": "Мужская фамилия на согласную склоняется.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.02",
+        "type": "written-answer",
+        "raw": "Фамилия женщины «Левин» (именно такая форма в документах): «письмо Анне ...».",
+        "answer": "Левин",
+        "ex": "Женская фамилия на согласную не склоняется.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.03",
+        "type": "written-answer",
+        "raw": "Творительный фамилии мужчины «Орлов».",
+        "answer": "Орловым",
+        "ex": "Русская фамилия на -ов имеет окончание -ым.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.04",
+        "type": "written-answer",
+        "raw": "Вставьте «Казань» после «в городе».",
+        "answer": "Казани",
+        "ex": "Название города склоняется при родовом слове.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.05",
+        "type": "written-answer",
+        "raw": "Вставьте фамилию «Седых»: «с Игорем ...».",
+        "answer": "Седых",
+        "ex": "Русские фамилии такого типа не склоняются.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.06",
+        "type": "written-answer",
+        "raw": "Родительный имени «Илья».",
+        "answer": "Ильи",
+        "ex": "Имя склоняется по первому склонению с особым написанием.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.07",
+        "type": "written-answer",
+        "raw": "Дательный имени «Мария».",
+        "answer": "Марии",
+        "ex": "Имена на -ия имеют -и в дательном.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.08",
+        "type": "written-answer",
+        "raw": "Вставьте город «Рязань» после «из города».",
+        "answer": "Рязани",
+        "ex": "Освоенный топоним согласуется.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.01",
+        "type": "written-answer",
+        "raw": "Фамилия мужчины «Шмидт» в творительном.",
+        "answer": "Шмидтом",
+        "ex": "Фамилия на согласную склоняется по существительному типу.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.02",
+        "type": "written-answer",
+        "raw": "Фамилия женщины «Шмидт» в дательном.",
+        "answer": "Шмидт",
+        "ex": "Фамилия на согласную у женщины неизменна.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.03",
+        "type": "written-answer",
+        "raw": "Родительный имени «Павел».",
+        "answer": "Павла",
+        "ex": "В косвенной форме выпадает е.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.04",
+        "type": "written-answer",
+        "raw": "Вставьте «Великие Луки» после «в городе».",
+        "answer": "Великие Луки",
+        "ex": "Топоним во множественном числе обычно не согласуется с родовым словом «город».",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.05",
+        "type": "written-answer",
+        "raw": "Вставьте «Сочи» после «из города».",
+        "answer": "Сочи",
+        "ex": "Несклоняемое название не меняется.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.06",
+        "type": "written-answer",
+        "raw": "Вставьте «Светлана» после «для».",
+        "answer": "Светланы",
+        "ex": "Родительный падеж имени.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.07",
+        "type": "written-answer",
+        "raw": "Дательный фамилии мужчины «Морозов».",
+        "answer": "Морозову",
+        "ex": "Русская мужская фамилия склоняется.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.08",
+        "type": "written-answer",
+        "raw": "Творительный фамилии женщины «Котова».",
+        "answer": "Котовой",
+        "ex": "Фамилия на -ова склоняется по прилагательному типу.",
+        "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+      },
+      {
+        "id": "ru.speech-culture.proper-name-declension.foundation.practice.r42.01",
+        "type": "text-edit",
+        "scope": "written",
+        "prompt": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+        "raw": "Практика: вставьте «Омск» после «в городе».",
+        "accepted": [
+          "Омске"
+        ],
+        "ex": "Название города склоняется."
+      }
+    ]
+  },
+  {
+    "id": "ru.speech-culture.numeral-norms.foundation",
+    "moduleId": "ru.speech-culture.numeral-norms",
+    "number": "10.04",
+    "items": [
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.01",
+        "type": "grammar-answer",
+        "raw": "Напишите словами 240 в дательном падеже.",
+        "answer": "двумстам сорока",
+        "ex": "Обе части количественного числительного склоняются.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.02",
+        "type": "grammar-answer",
+        "raw": "Напишите словами 90 в творительном падеже.",
+        "answer": "девяноста",
+        "ex": "В косвенных падежах форма девяноста.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.03",
+        "type": "grammar-answer",
+        "raw": "Напишите словами 600 в родительном падеже.",
+        "answer": "шестисот",
+        "ex": "Обе части числительного изменяются.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.04",
+        "type": "grammar-answer",
+        "raw": "Напишите словами 500 в дательном падеже.",
+        "answer": "пятистам",
+        "ex": "Дательный числительных на -сот.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.05",
+        "type": "grammar-answer",
+        "raw": "Вставьте «оба» в «... сестры».",
+        "answer": "обе",
+        "ex": "Форма обе относится к женскому роду.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.06",
+        "type": "grammar-answer",
+        "raw": "Вставьте «полтора» в «... недели».",
+        "answer": "полторы",
+        "ex": "В прямых падежах форма зависит от рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.07",
+        "type": "grammar-answer",
+        "raw": "Запишите числительное 100 в предложном падеже без предлога.",
+        "answer": "ста",
+        "ex": "Косвенная форма числительного сто.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.08",
+        "type": "grammar-answer",
+        "raw": "Вставьте «полтора» в «около ... часов».",
+        "answer": "полутора",
+        "ex": "Косвенная форма едина для обоих родов.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.01",
+        "type": "grammar-answer",
+        "raw": "Напишите 200 в творительном падеже словами.",
+        "answer": "двумястами",
+        "ex": "Склоняются обе части сложного числительного.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.02",
+        "type": "grammar-answer",
+        "raw": "Запишите 80 в родительном словами.",
+        "answer": "восьмидесяти",
+        "ex": "Обе части сложного числительного склоняются.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.03",
+        "type": "grammar-answer",
+        "raw": "Запишите порядковое 125-й в предложном падеже без предлога.",
+        "answer": "сто двадцать пятом",
+        "ex": "У составного порядкового меняется лишь последнее слово.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.04",
+        "type": "grammar-answer",
+        "raw": "Вставьте «оба» в «с ... братьями».",
+        "answer": "обоими",
+        "ex": "Творительный мужского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.05",
+        "type": "grammar-answer",
+        "raw": "Запишите 300 в родительном падеже словами.",
+        "answer": "трёхсот",
+        "ex": "Нормативная форма родительного.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.06",
+        "type": "grammar-answer",
+        "raw": "Вставьте «две» в «к ... подругам».",
+        "answer": "двум",
+        "ex": "Дательный числительного две.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.07",
+        "type": "grammar-answer",
+        "raw": "Вставьте количественное числительное, соответствующее числу 2: «нет ... суток».",
+        "answer": "двух",
+        "ex": "В косвенных падежах с pluralia tantum здесь употребляется количественная форма.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.08",
+        "type": "grammar-answer",
+        "raw": "Запишите 40 в дательном словами.",
+        "answer": "сорока",
+        "ex": "У сорока единая форма косвенных падежей.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.numeral-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.numeral-norms.foundation.practice.r42.01",
+        "type": "text-edit",
+        "scope": "written",
+        "prompt": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "raw": "Практика: запишите 700 в родительном падеже словами.",
+        "accepted": [
+          "семисот"
+        ],
+        "ex": "Нормативная форма родительного."
+      }
+    ]
+  },
+  {
+    "id": "ru.speech-culture.verb-government.foundation",
+    "moduleId": "ru.speech-culture.verb-government",
+    "number": "10.05",
+    "items": [
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-a.01",
+        "type": "grammar-answer",
+        "raw": "Вставьте «распоряжение» после «согласно».",
+        "answer": "распоряжению",
+        "ex": "Согласно требует дательного.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-a.02",
+        "type": "grammar-answer",
+        "raw": "Вставьте «прогноз» после «вопреки».",
+        "answer": "прогнозу",
+        "ex": "Вопреки управляет дательным.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-a.03",
+        "type": "grammar-answer",
+        "raw": "Вставьте «прибытие» после «по» в значении «после прибытия».",
+        "answer": "прибытии",
+        "ex": "В этом значении употребляется предложный.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-a.04",
+        "type": "grammar-answer",
+        "raw": "Вставьте «билет» после «оплатить».",
+        "answer": "билет",
+        "ex": "Оплатить требует прямого дополнения.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-a.05",
+        "type": "grammar-answer",
+        "raw": "Вставьте предлог: «заплатить ... доставку».",
+        "answer": "за",
+        "ex": "Заплатить за что-либо.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-a.06",
+        "type": "grammar-answer",
+        "raw": "Вставьте «успех» после «радоваться».",
+        "answer": "успеху",
+        "ex": "Радоваться чему-либо.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-a.07",
+        "type": "grammar-answer",
+        "raw": "Вставьте «отчёт» после «ознакомиться с».",
+        "answer": "отчётом",
+        "ex": "Предлог с требует творительного.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-a.08",
+        "type": "grammar-answer",
+        "raw": "Вставьте «проект» после «руководить».",
+        "answer": "проектом",
+        "ex": "Руководить чем-либо.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-b.01",
+        "type": "grammar-answer",
+        "raw": "Вставьте «решение» после «настаивать на».",
+        "answer": "решении",
+        "ex": "Конструкция настаивать на чём-либо.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-b.02",
+        "type": "grammar-answer",
+        "raw": "Вставьте «помощь» после «нуждаться в».",
+        "answer": "помощи",
+        "ex": "Нуждаться в чём-либо.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-b.03",
+        "type": "grammar-answer",
+        "raw": "Образуйте повелительную форму единственного числа от «лечь».",
+        "answer": "ляг",
+        "ex": "Нормативная форма ляг.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-b.04",
+        "type": "grammar-answer",
+        "raw": "Образуйте повелительную форму единственного числа от «класть».",
+        "answer": "клади",
+        "ex": "Нормативная форма клади.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-b.05",
+        "type": "grammar-answer",
+        "raw": "Образуйте форму 3-го лица множественного числа настоящего времени от «махать» с чередованием х/ш.",
+        "answer": "машут",
+        "ex": "Форма с чередованием, не исключающая словарные варианты.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-b.06",
+        "type": "grammar-answer",
+        "raw": "Вставьте «коллега» в «доверять ...» (единственное число).",
+        "answer": "коллеге",
+        "ex": "Доверять кому-либо.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-b.07",
+        "type": "grammar-answer",
+        "raw": "Вставьте «решение» после «препятствовать».",
+        "answer": "решению",
+        "ex": "Препятствовать чему-либо.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.module-exam.r42-b.08",
+        "type": "grammar-answer",
+        "raw": "Вставьте «окончание» после «по» в значении «после окончания».",
+        "answer": "окончании",
+        "ex": "Временная конструкция с предложным.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.verb-government.foundation"
+      },
+      {
+        "id": "ru.speech-culture.verb-government.foundation.practice.r42.01",
+        "type": "text-edit",
+        "scope": "written",
+        "prompt": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "raw": "Практика: вставьте «инструкция» после «согласно».",
+        "accepted": [
+          "инструкции"
+        ],
+        "ex": "Дательный падеж."
+      }
+    ]
+  },
+  {
+    "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+    "moduleId": "ru.speech-culture.subject-predicate-agreement",
+    "number": "10.06",
+    "items": [
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.01",
+        "type": "grammar-answer",
+        "raw": "Вставьте «поступить» в прошедшем времени: «письмо от заказчиков ... вчера».",
+        "answer": "поступило",
+        "ex": "Центр подлежащего письмо среднего рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.02",
+        "type": "grammar-answer",
+        "raw": "Вставьте «собраться» в прошедшем: «комиссия специалистов ... утром».",
+        "answer": "собралась",
+        "ex": "Комиссия женского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.03",
+        "type": "grammar-answer",
+        "raw": "Вставьте «сломаться» в прошедшем: «один из принтеров ...».",
+        "answer": "сломался",
+        "ex": "Центр подлежащего один.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.04",
+        "type": "grammar-answer",
+        "raw": "Вставьте «начаться» в прошедшем: «проверка документов ...».",
+        "answer": "началась",
+        "ex": "Подлежащее проверка.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.05",
+        "type": "grammar-answer",
+        "raw": "Вставьте «исчезнуть» в прошедшем: «несколько деталей ... без следа»; укажите форму множественного числа.",
+        "answer": "исчезли",
+        "ex": "Множественное число задано условием, иной вариант не объявляется ошибкой.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.06",
+        "type": "grammar-answer",
+        "raw": "Вставьте «выступить» в прошедшем: «ООН ... с заявлением».",
+        "answer": "выступила",
+        "ex": "ООН — организация, женский род.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.07",
+        "type": "grammar-answer",
+        "raw": "Вставьте «обновиться» в прошедшем: «расписание занятий ...».",
+        "answer": "обновилось",
+        "ex": "Центр расписание среднего рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.08",
+        "type": "grammar-answer",
+        "raw": "Вставьте «быть» в прошедшем: «все участники ... готовы».",
+        "answer": "были",
+        "ex": "Подлежащее множественного числа.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.01",
+        "type": "grammar-answer",
+        "raw": "Вставьте «приблизиться» в прошедшем: «каждый из наблюдателей ...».",
+        "answer": "приблизился",
+        "ex": "Каждый требует единственного числа мужского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.02",
+        "type": "grammar-answer",
+        "raw": "Вставьте «остаться» в прошедшем: «ни один из вопросов не ... без ответа».",
+        "answer": "остался",
+        "ex": "Грамматический центр один.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.03",
+        "type": "grammar-answer",
+        "raw": "Вставьте «подняться» в прошедшем: «уровень воды в реках ...».",
+        "answer": "поднялся",
+        "ex": "Согласование с уровнем, а не с реками.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.04",
+        "type": "grammar-answer",
+        "raw": "Вставьте «прийти» в прошедшем: «и врач, и фельдшер ... на вызов».",
+        "answer": "пришли",
+        "ex": "Повторяющийся соединительный союз объединяет два подлежащих.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.05",
+        "type": "grammar-answer",
+        "raw": "Вставьте «вырасти» в прошедшем: «число заявок ...».",
+        "answer": "выросло",
+        "ex": "Число — средний род.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.06",
+        "type": "grammar-answer",
+        "raw": "Вставьте «быть» в прошедшем: «МЧС (министерство) ... готово».",
+        "answer": "было",
+        "ex": "Род согласован с главным словом министерство.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.07",
+        "type": "grammar-answer",
+        "raw": "Вставьте «закончиться» в прошедшем: «серия встреч ...».",
+        "answer": "закончилась",
+        "ex": "Центр подлежащего серия.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.08",
+        "type": "grammar-answer",
+        "raw": "Вставьте «появиться» в прошедшем: «новости о поездке ...».",
+        "answer": "появились",
+        "ex": "Подлежащее новости множественного числа.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+      },
+      {
+        "id": "ru.speech-culture.subject-predicate-agreement.foundation.practice.r42.01",
+        "type": "text-edit",
+        "scope": "written",
+        "prompt": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "raw": "Практика: вставьте «обнаружиться» в прошедшем: «причина перебоев ...».",
+        "accepted": [
+          "обнаружилась"
+        ],
+        "ex": "Согласование с причиной."
+      }
+    ]
+  },
+  {
+    "id": "ru.speech-culture.participle-construction-norms.foundation",
+    "moduleId": "ru.speech-culture.participle-construction-norms",
+    "number": "10.07",
+    "items": [
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.01",
+        "type": "grammar-answer",
+        "raw": "Вставьте причастие «подписанный»: «копия ... договора».",
+        "answer": "подписанного",
+        "ex": "Причастие согласуется с договором в родительном.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.02",
+        "type": "grammar-answer",
+        "raw": "Вставьте «поступивший»: «о ... заявках».",
+        "answer": "поступивших",
+        "ex": "Предложный множественного.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.03",
+        "type": "grammar-answer",
+        "raw": "Вставьте «закрытый»: «к ... дверям».",
+        "answer": "закрытым",
+        "ex": "Дательный множественного.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.04",
+        "type": "grammar-answer",
+        "raw": "Назовите деятеля добавочного действия: «подойдя к окну, инженер открыл форточку».",
+        "answer": "инженер",
+        "ex": "Инженер выполняет оба действия.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.05",
+        "type": "grammar-answer",
+        "raw": "Вставьте «исправленный»: «в ... таблице».",
+        "answer": "исправленной",
+        "ex": "Предложный женского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.06",
+        "type": "grammar-answer",
+        "raw": "Вставьте «утверждённый»: «нет ... сметы».",
+        "answer": "утверждённой",
+        "ex": "Родительный женского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.07",
+        "type": "grammar-answer",
+        "raw": "Вставьте «написанный»: «с ... письмом».",
+        "answer": "написанным",
+        "ex": "Творительный среднего рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.08",
+        "type": "grammar-answer",
+        "raw": "Вставьте «завершённый»: «после ... работ».",
+        "answer": "завершённых",
+        "ex": "Родительный множественного.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.01",
+        "type": "grammar-answer",
+        "raw": "В предложении «прочитав отчёт, аналитик задал вопрос» назовите основное действие одним глаголом из предложения.",
+        "answer": "задал",
+        "ex": "Сказуемое обозначает основное действие.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.02",
+        "type": "grammar-answer",
+        "raw": "Вставьте «прибывший»: «помогли ... туристу».",
+        "answer": "прибывшему",
+        "ex": "Дательный мужского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.03",
+        "type": "grammar-answer",
+        "raw": "Вставьте «собранный»: «с ... материалами».",
+        "answer": "собранными",
+        "ex": "Творительный множественного.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.04",
+        "type": "grammar-answer",
+        "raw": "Вставьте «отправленный»: «содержание ... сообщения».",
+        "answer": "отправленного",
+        "ex": "Родительный среднего рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.05",
+        "type": "grammar-answer",
+        "raw": "Назовите деятеля в «закрыв шкаф, библиотекарь погасил свет».",
+        "answer": "библиотекарь",
+        "ex": "Оба действия выполняет библиотекарь.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.06",
+        "type": "grammar-answer",
+        "raw": "В «сверяя данные, необходимо учитывать возвраты» выпишите инфинитив, обозначающий основное действие.",
+        "answer": "учитывать",
+        "ex": "Инфинитив допускает общий подразумеваемый субъект.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.07",
+        "type": "grammar-answer",
+        "raw": "Вставьте «выбранный»: «к ... маршруту».",
+        "answer": "выбранному",
+        "ex": "Дательный мужского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.08",
+        "type": "grammar-answer",
+        "raw": "Вставьте «обновлённый»: «из ... базы».",
+        "answer": "обновлённой",
+        "ex": "Родительный женского рода.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+      },
+      {
+        "id": "ru.speech-culture.participle-construction-norms.foundation.practice.r42.01",
+        "type": "text-edit",
+        "scope": "written",
+        "prompt": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "raw": "Практика: вставьте «согласованный»: «в рамках ... плана».",
+        "accepted": [
+          "согласованного"
+        ],
+        "ex": "Причастие согласуется с планом."
+      }
+    ]
+  },
+  {
+    "id": "ru.speech-culture.speech-errors.foundation",
+    "moduleId": "ru.speech-culture.speech-errors",
+    "number": "10.08",
+    "items": [
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-a.01",
+        "type": "grammar-answer",
+        "raw": "Выберите «адресант» или «адресат», поставьте в родительном: «подпись получателя — подпись ...».",
+        "answer": "адресата",
+        "ex": "Адресат получает сообщение.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-a.02",
+        "type": "grammar-answer",
+        "raw": "Вставьте пароним «экономный» или «экономический» в «... политика государства» (одним словом).",
+        "answer": "экономическая",
+        "ex": "Речь об экономике государства.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-a.03",
+        "type": "grammar-answer",
+        "raw": "Исправьте глагол в «оказать внимание» по модели «... внимание вопросу».",
+        "answer": "уделить",
+        "ex": "Уделить внимание чему-либо.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-a.04",
+        "type": "grammar-answer",
+        "raw": "Выберите «эффектная» или «эффективная»: «... мера, давшая ожидаемый результат».",
+        "answer": "эффективная",
+        "ex": "Эффективность связана с результатом.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-a.05",
+        "type": "grammar-answer",
+        "raw": "Сократите «свободная вакансия» до одного существительного.",
+        "answer": "вакансия",
+        "ex": "В нейтральном контексте вакансия уже обозначает незанятое место.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-a.06",
+        "type": "grammar-answer",
+        "raw": "Вставьте существительное в «предъявить ... личности» (документ, подтверждающий личность).",
+        "answer": "удостоверение",
+        "ex": "Удостоверение личности — устойчивое наименование.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-a.07",
+        "type": "grammar-answer",
+        "raw": "Вставьте глагол в устойчивое сочетание «... решение» в значении окончательно определиться.",
+        "answer": "принять",
+        "ex": "Принять решение.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-a.08",
+        "type": "grammar-answer",
+        "raw": "Сократите «в мае месяце» до обозначения времени без избыточного слова.",
+        "answer": "в мае",
+        "ex": "Май уже обозначает месяц.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-b.01",
+        "type": "grammar-answer",
+        "raw": "Выберите пароним «дипломатичный» или «дипломатический»: «... ответ, не обидевший собеседника».",
+        "answer": "дипломатичный",
+        "ex": "Тактичность, а не принадлежность к дипломатии.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-b.02",
+        "type": "grammar-answer",
+        "raw": "Вставьте глагол в «... значение» в смысле быть важным.",
+        "answer": "иметь",
+        "ex": "Иметь значение — нормативная сочетаемость.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-b.03",
+        "type": "grammar-answer",
+        "raw": "Выберите «абонент» или «абонемент», поставьте в нужную форму: «купить ... в бассейн».",
+        "answer": "абонемент",
+        "ex": "Абонемент предоставляет право посещения; абонент — пользователь.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-b.04",
+        "type": "grammar-answer",
+        "raw": "Сократите «главная суть» до одного слова.",
+        "answer": "суть",
+        "ex": "Суть уже обозначает главное содержание.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-b.05",
+        "type": "grammar-answer",
+        "raw": "Вставьте глагол «поставить» или «сделать» в «... задачу перед командой».",
+        "answer": "поставить",
+        "ex": "Поставить задачу — устойчивое сочетание.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-b.06",
+        "type": "grammar-answer",
+        "raw": "Вставьте слово «представить» в прошедшем: «эксперт ... доклад слушателям».",
+        "answer": "представил",
+        "ex": "Представить означает показать, ознакомить.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-b.07",
+        "type": "grammar-answer",
+        "raw": "Вставьте слово «предоставить» в прошедшем: «архив ... исследователю доступ».",
+        "answer": "предоставил",
+        "ex": "Предоставить — дать возможность пользоваться.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.module-exam.r42-b.08",
+        "type": "grammar-answer",
+        "raw": "Сократите «вернуться обратно» до одного глагола при описании обычного возвращения.",
+        "answer": "вернуться",
+        "ex": "В нейтральном контексте направление уже выражено глаголом.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-errors.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-errors.foundation.practice.r42.01",
+        "type": "text-edit",
+        "scope": "written",
+        "prompt": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "raw": "Практика: исправьте «играть большое значение», сохранив существительное «значение» и определение.",
+        "accepted": [
+          "иметь большое значение"
+        ],
+        "ex": "Сочетание иметь значение."
+      }
+    ]
+  },
+  {
+    "id": "ru.speech-culture.speech-etiquette.foundation",
+    "moduleId": "ru.speech-culture.speech-etiquette",
+    "number": "10.09",
+    "items": [
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.01",
+        "type": "grammar-answer",
+        "raw": "Назовите речевой акт фразы «Благодарю за помощь» одним существительным.",
+        "answer": "благодарность",
+        "ex": "Фраза выражает признательность.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "выражение благодарности"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.02",
+        "type": "grammar-answer",
+        "raw": "Назовите речевой акт фразы «Прошу прощения за опоздание».",
+        "answer": "извинение",
+        "ex": "Говорящий признаёт неудобство и извиняется.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "просьба о прощении"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.03",
+        "type": "grammar-answer",
+        "raw": "Назовите реквизит, позволяющий понять содержание письма до открытия.",
+        "answer": "тема письма",
+        "ex": "Тема ориентирует адресата.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "тема"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.04",
+        "type": "grammar-answer",
+        "raw": "Как называется человек, которому направлено сообщение?",
+        "answer": "адресат",
+        "ex": "Адресат получает сообщение.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.05",
+        "type": "grammar-answer",
+        "raw": "Назовите речевой акт «Пришлите, пожалуйста, акт до пятницы».",
+        "answer": "просьба",
+        "ex": "Фраза формулирует действие и срок.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "запрос"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.06",
+        "type": "grammar-answer",
+        "raw": "Как называется реквизит письма «Анна Иванова», расположенный после слов «С уважением»?",
+        "answer": "подпись",
+        "ex": "Имя идентифицирует автора.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.07",
+        "type": "grammar-answer",
+        "raw": "Выпишите из «Пришлите смету к 14:00» точное время исполнения.",
+        "answer": "14:00",
+        "ex": "Срок делает запрос проверяемым.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.08",
+        "type": "grammar-answer",
+        "raw": "Назовите речевой акт «Подтверждаю получение документов».",
+        "answer": "подтверждение",
+        "ex": "Сообщение фиксирует получение.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "подтверждение получения"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.01",
+        "type": "grammar-answer",
+        "raw": "Назовите речевой акт «Предлагаю перенести встречу на среду».",
+        "answer": "предложение",
+        "ex": "Говорящий предлагает действие для согласования.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "предложение переноса"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.02",
+        "type": "grammar-answer",
+        "raw": "Как называется выделенное обращение «коллеги» в начале письма? Одним термином.",
+        "answer": "обращение",
+        "ex": "Оно называет адресатов речи.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "обращение к адресатам"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.03",
+        "type": "grammar-answer",
+        "raw": "Выпишите из «Прошу направить договор № 73» объект запроса с номером.",
+        "answer": "договор № 73",
+        "ex": "Идентификация объекта снижает неоднозначность.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.04",
+        "type": "grammar-answer",
+        "raw": "Назовите речевой акт «К сожалению, принять участие не смогу».",
+        "answer": "отказ",
+        "ex": "Фраза сообщает о невозможности согласиться.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "вежливый отказ"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.05",
+        "type": "grammar-answer",
+        "raw": "Как называется человек, отправляющий сообщение (термин, парный к «адресат»)?",
+        "answer": "адресант",
+        "ex": "Адресант инициирует сообщение.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.06",
+        "type": "grammar-answer",
+        "raw": "Выпишите формулу приветствия из «Добрый день, коллеги!» без обращения.",
+        "answer": "добрый день",
+        "ex": "Формула приветствия устанавливает контакт.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.07",
+        "type": "grammar-answer",
+        "raw": "Назовите речевой акт «Правильно ли я понял, что встреча в четверг?» одним существительным.",
+        "answer": "уточнение",
+        "ex": "Говорящий проверяет понимание.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+        "answerPolicy": "semantic-v1",
+        "accepted": [
+          "уточняющий вопрос"
+        ]
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.08",
+        "type": "grammar-answer",
+        "raw": "Выпишите из «Сообщите, пожалуйста, причину задержки» слово, смягчающее просьбу.",
+        "answer": "пожалуйста",
+        "ex": "Этикетная формула смягчает побуждение.",
+        "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+      },
+      {
+        "id": "ru.speech-culture.speech-etiquette.foundation.practice.r42.01",
+        "type": "text-edit",
+        "scope": "written",
+        "prompt": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+        "raw": "Практика: назовите речевой акт «Готов ли отчёт?» одним словом.",
+        "accepted": [
+          "вопрос"
+        ],
+        "ex": "Фраза запрашивает информацию."
+      }
+    ]
+  }
+]

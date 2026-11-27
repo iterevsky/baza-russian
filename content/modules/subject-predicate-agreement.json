@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.speech-culture.subject-predicate-agreement.module-exam.b",
@@ -58,7 +59,166 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.01",
+          "type": "grammar-answer",
+          "raw": "Вставьте «поступить» в прошедшем времени: «письмо от заказчиков ... вчера».",
+          "answer": "поступило",
+          "ex": "Центр подлежащего письмо среднего рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.02",
+          "type": "grammar-answer",
+          "raw": "Вставьте «собраться» в прошедшем: «комиссия специалистов ... утром».",
+          "answer": "собралась",
+          "ex": "Комиссия женского рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.03",
+          "type": "grammar-answer",
+          "raw": "Вставьте «сломаться» в прошедшем: «один из принтеров ...».",
+          "answer": "сломался",
+          "ex": "Центр подлежащего один.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.04",
+          "type": "grammar-answer",
+          "raw": "Вставьте «начаться» в прошедшем: «проверка документов ...».",
+          "answer": "началась",
+          "ex": "Подлежащее проверка.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.05",
+          "type": "grammar-answer",
+          "raw": "Вставьте «исчезнуть» в прошедшем: «несколько деталей ... без следа»; укажите форму множественного числа.",
+          "answer": "исчезли",
+          "ex": "Множественное число задано условием, иной вариант не объявляется ошибкой.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.06",
+          "type": "grammar-answer",
+          "raw": "Вставьте «выступить» в прошедшем: «ООН ... с заявлением».",
+          "answer": "выступила",
+          "ex": "ООН — организация, женский род.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.07",
+          "type": "grammar-answer",
+          "raw": "Вставьте «обновиться» в прошедшем: «расписание занятий ...».",
+          "answer": "обновилось",
+          "ex": "Центр расписание среднего рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-a.08",
+          "type": "grammar-answer",
+          "raw": "Вставьте «быть» в прошедшем: «все участники ... готовы».",
+          "answer": "были",
+          "ex": "Подлежащее множественного числа.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.01",
+          "type": "grammar-answer",
+          "raw": "Вставьте «приблизиться» в прошедшем: «каждый из наблюдателей ...».",
+          "answer": "приблизился",
+          "ex": "Каждый требует единственного числа мужского рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.02",
+          "type": "grammar-answer",
+          "raw": "Вставьте «остаться» в прошедшем: «ни один из вопросов не ... без ответа».",
+          "answer": "остался",
+          "ex": "Грамматический центр один.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.03",
+          "type": "grammar-answer",
+          "raw": "Вставьте «подняться» в прошедшем: «уровень воды в реках ...».",
+          "answer": "поднялся",
+          "ex": "Согласование с уровнем, а не с реками.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.04",
+          "type": "grammar-answer",
+          "raw": "Вставьте «прийти» в прошедшем: «и врач, и фельдшер ... на вызов».",
+          "answer": "пришли",
+          "ex": "Повторяющийся соединительный союз объединяет два подлежащих.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.05",
+          "type": "grammar-answer",
+          "raw": "Вставьте «вырасти» в прошедшем: «число заявок ...».",
+          "answer": "выросло",
+          "ex": "Число — средний род.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.06",
+          "type": "grammar-answer",
+          "raw": "Вставьте «быть» в прошедшем: «МЧС (министерство) ... готово».",
+          "answer": "было",
+          "ex": "Род согласован с главным словом министерство.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.07",
+          "type": "grammar-answer",
+          "raw": "Вставьте «закончиться» в прошедшем: «серия встреч ...».",
+          "answer": "закончилась",
+          "ex": "Центр подлежащего серия.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.module-exam.r42-b.08",
+          "type": "grammar-answer",
+          "raw": "Вставьте «появиться» в прошедшем: «новости о поездке ...».",
+          "answer": "появились",
+          "ex": "Подлежащее новости множественного числа.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.subject-predicate-agreement.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

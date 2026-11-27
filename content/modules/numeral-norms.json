@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.numeral-norms.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.speech-culture.numeral-norms.module-exam.b",
@@ -58,7 +59,166 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.numeral-norms.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.speech-culture.numeral-norms.module-exam.r42-a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.01",
+          "type": "grammar-answer",
+          "raw": "Напишите словами 240 в дательном падеже.",
+          "answer": "двумстам сорока",
+          "ex": "Обе части количественного числительного склоняются.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.02",
+          "type": "grammar-answer",
+          "raw": "Напишите словами 90 в творительном падеже.",
+          "answer": "девяноста",
+          "ex": "В косвенных падежах форма девяноста.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.03",
+          "type": "grammar-answer",
+          "raw": "Напишите словами 600 в родительном падеже.",
+          "answer": "шестисот",
+          "ex": "Обе части числительного изменяются.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.04",
+          "type": "grammar-answer",
+          "raw": "Напишите словами 500 в дательном падеже.",
+          "answer": "пятистам",
+          "ex": "Дательный числительных на -сот.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.05",
+          "type": "grammar-answer",
+          "raw": "Вставьте «оба» в «... сестры».",
+          "answer": "обе",
+          "ex": "Форма обе относится к женскому роду.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.06",
+          "type": "grammar-answer",
+          "raw": "Вставьте «полтора» в «... недели».",
+          "answer": "полторы",
+          "ex": "В прямых падежах форма зависит от рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.07",
+          "type": "grammar-answer",
+          "raw": "Запишите числительное 100 в предложном падеже без предлога.",
+          "answer": "ста",
+          "ex": "Косвенная форма числительного сто.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-a.08",
+          "type": "grammar-answer",
+          "raw": "Вставьте «полтора» в «около ... часов».",
+          "answer": "полутора",
+          "ex": "Косвенная форма едина для обоих родов.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.speech-culture.numeral-norms.module-exam.r42-b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.01",
+          "type": "grammar-answer",
+          "raw": "Напишите 200 в творительном падеже словами.",
+          "answer": "двумястами",
+          "ex": "Склоняются обе части сложного числительного.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.02",
+          "type": "grammar-answer",
+          "raw": "Запишите 80 в родительном словами.",
+          "answer": "восьмидесяти",
+          "ex": "Обе части сложного числительного склоняются.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.03",
+          "type": "grammar-answer",
+          "raw": "Запишите порядковое 125-й в предложном падеже без предлога.",
+          "answer": "сто двадцать пятом",
+          "ex": "У составного порядкового меняется лишь последнее слово.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.04",
+          "type": "grammar-answer",
+          "raw": "Вставьте «оба» в «с ... братьями».",
+          "answer": "обоими",
+          "ex": "Творительный мужского рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.05",
+          "type": "grammar-answer",
+          "raw": "Запишите 300 в родительном падеже словами.",
+          "answer": "трёхсот",
+          "ex": "Нормативная форма родительного.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.06",
+          "type": "grammar-answer",
+          "raw": "Вставьте «две» в «к ... подругам».",
+          "answer": "двум",
+          "ex": "Дательный числительного две.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.07",
+          "type": "grammar-answer",
+          "raw": "Вставьте количественное числительное, соответствующее числу 2: «нет ... суток».",
+          "answer": "двух",
+          "ex": "В косвенных падежах с pluralia tantum здесь употребляется количественная форма.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.module-exam.r42-b.08",
+          "type": "grammar-answer",
+          "raw": "Запишите 40 в дательном словами.",
+          "answer": "сорока",
+          "ex": "У сорока единая форма косвенных падежей.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.numeral-norms.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

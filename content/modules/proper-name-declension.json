@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.proper-name-declension.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.speech-culture.proper-name-declension.module-exam.b",
@@ -58,7 +59,166 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.proper-name-declension.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.01",
+          "type": "written-answer",
+          "raw": "Вставьте фамилию «Клим» в «письмо Андрею ...».",
+          "answer": "Климу",
+          "ex": "Мужская фамилия на согласную склоняется.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.02",
+          "type": "written-answer",
+          "raw": "Фамилия женщины «Левин» (именно такая форма в документах): «письмо Анне ...».",
+          "answer": "Левин",
+          "ex": "Женская фамилия на согласную не склоняется.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.03",
+          "type": "written-answer",
+          "raw": "Творительный фамилии мужчины «Орлов».",
+          "answer": "Орловым",
+          "ex": "Русская фамилия на -ов имеет окончание -ым.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.04",
+          "type": "written-answer",
+          "raw": "Вставьте «Казань» после «в городе».",
+          "answer": "Казани",
+          "ex": "Название города склоняется при родовом слове.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.05",
+          "type": "written-answer",
+          "raw": "Вставьте фамилию «Седых»: «с Игорем ...».",
+          "answer": "Седых",
+          "ex": "Русские фамилии такого типа не склоняются.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.06",
+          "type": "written-answer",
+          "raw": "Родительный имени «Илья».",
+          "answer": "Ильи",
+          "ex": "Имя склоняется по первому склонению с особым написанием.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.07",
+          "type": "written-answer",
+          "raw": "Дательный имени «Мария».",
+          "answer": "Марии",
+          "ex": "Имена на -ия имеют -и в дательном.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-a.08",
+          "type": "written-answer",
+          "raw": "Вставьте город «Рязань» после «из города».",
+          "answer": "Рязани",
+          "ex": "Освоенный топоним согласуется.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.01",
+          "type": "written-answer",
+          "raw": "Фамилия мужчины «Шмидт» в творительном.",
+          "answer": "Шмидтом",
+          "ex": "Фамилия на согласную склоняется по существительному типу.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.02",
+          "type": "written-answer",
+          "raw": "Фамилия женщины «Шмидт» в дательном.",
+          "answer": "Шмидт",
+          "ex": "Фамилия на согласную у женщины неизменна.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.03",
+          "type": "written-answer",
+          "raw": "Родительный имени «Павел».",
+          "answer": "Павла",
+          "ex": "В косвенной форме выпадает е.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.04",
+          "type": "written-answer",
+          "raw": "Вставьте «Великие Луки» после «в городе».",
+          "answer": "Великие Луки",
+          "ex": "Топоним во множественном числе обычно не согласуется с родовым словом «город».",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.05",
+          "type": "written-answer",
+          "raw": "Вставьте «Сочи» после «из города».",
+          "answer": "Сочи",
+          "ex": "Несклоняемое название не меняется.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.06",
+          "type": "written-answer",
+          "raw": "Вставьте «Светлана» после «для».",
+          "answer": "Светланы",
+          "ex": "Родительный падеж имени.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.07",
+          "type": "written-answer",
+          "raw": "Дательный фамилии мужчины «Морозов».",
+          "answer": "Морозову",
+          "ex": "Русская мужская фамилия склоняется.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.r42-b.08",
+          "type": "written-answer",
+          "raw": "Творительный фамилии женщины «Котова».",
+          "answer": "Котовой",
+          "ex": "Фамилия на -ова склоняется по прилагательному типу.",
+          "instruction": "Введите только требуемую форму имени, фамилии или названия, с прописными буквами по норме, без кавычек и конечной точки.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

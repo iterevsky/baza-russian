@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.speech-etiquette.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.speech-culture.speech-etiquette.module-exam.b",
@@ -58,7 +59,202 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.speech-etiquette.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.01",
+          "type": "grammar-answer",
+          "raw": "Назовите речевой акт фразы «Благодарю за помощь» одним существительным.",
+          "answer": "благодарность",
+          "ex": "Фраза выражает признательность.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "выражение благодарности"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.02",
+          "type": "grammar-answer",
+          "raw": "Назовите речевой акт фразы «Прошу прощения за опоздание».",
+          "answer": "извинение",
+          "ex": "Говорящий признаёт неудобство и извиняется.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "просьба о прощении"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.03",
+          "type": "grammar-answer",
+          "raw": "Назовите реквизит, позволяющий понять содержание письма до открытия.",
+          "answer": "тема письма",
+          "ex": "Тема ориентирует адресата.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "тема"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.04",
+          "type": "grammar-answer",
+          "raw": "Как называется человек, которому направлено сообщение?",
+          "answer": "адресат",
+          "ex": "Адресат получает сообщение.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.05",
+          "type": "grammar-answer",
+          "raw": "Назовите речевой акт «Пришлите, пожалуйста, акт до пятницы».",
+          "answer": "просьба",
+          "ex": "Фраза формулирует действие и срок.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "запрос"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.06",
+          "type": "grammar-answer",
+          "raw": "Как называется реквизит письма «Анна Иванова», расположенный после слов «С уважением»?",
+          "answer": "подпись",
+          "ex": "Имя идентифицирует автора.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.07",
+          "type": "grammar-answer",
+          "raw": "Выпишите из «Пришлите смету к 14:00» точное время исполнения.",
+          "answer": "14:00",
+          "ex": "Срок делает запрос проверяемым.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-a.08",
+          "type": "grammar-answer",
+          "raw": "Назовите речевой акт «Подтверждаю получение документов».",
+          "answer": "подтверждение",
+          "ex": "Сообщение фиксирует получение.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "подтверждение получения"
+          ]
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.01",
+          "type": "grammar-answer",
+          "raw": "Назовите речевой акт «Предлагаю перенести встречу на среду».",
+          "answer": "предложение",
+          "ex": "Говорящий предлагает действие для согласования.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "предложение переноса"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.02",
+          "type": "grammar-answer",
+          "raw": "Как называется выделенное обращение «коллеги» в начале письма? Одним термином.",
+          "answer": "обращение",
+          "ex": "Оно называет адресатов речи.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "обращение к адресатам"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.03",
+          "type": "grammar-answer",
+          "raw": "Выпишите из «Прошу направить договор № 73» объект запроса с номером.",
+          "answer": "договор № 73",
+          "ex": "Идентификация объекта снижает неоднозначность.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.04",
+          "type": "grammar-answer",
+          "raw": "Назовите речевой акт «К сожалению, принять участие не смогу».",
+          "answer": "отказ",
+          "ex": "Фраза сообщает о невозможности согласиться.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "вежливый отказ"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.05",
+          "type": "grammar-answer",
+          "raw": "Как называется человек, отправляющий сообщение (термин, парный к «адресат»)?",
+          "answer": "адресант",
+          "ex": "Адресант инициирует сообщение.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.06",
+          "type": "grammar-answer",
+          "raw": "Выпишите формулу приветствия из «Добрый день, коллеги!» без обращения.",
+          "answer": "добрый день",
+          "ex": "Формула приветствия устанавливает контакт.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.07",
+          "type": "grammar-answer",
+          "raw": "Назовите речевой акт «Правильно ли я понял, что встреча в четверг?» одним существительным.",
+          "answer": "уточнение",
+          "ex": "Говорящий проверяет понимание.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "уточняющий вопрос"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.module-exam.r42-b.08",
+          "type": "grammar-answer",
+          "raw": "Выпишите из «Сообщите, пожалуйста, причину задержки» слово, смягчающее просьбу.",
+          "answer": "пожалуйста",
+          "ex": "Этикетная формула смягчает побуждение.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-etiquette.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

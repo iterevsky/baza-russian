@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.norm-register.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.speech-culture.norm-register.module-exam.b",
@@ -58,7 +59,191 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.norm-register.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.speech-culture.norm-register.module-exam.r42-a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-a.01",
+          "type": "grammar-answer",
+          "raw": "Как называется фактически сложившаяся практика употребления языка?",
+          "answer": "узус",
+          "ex": "Узус описывает употребление, а не автоматически предписывает его.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "языковой узус"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-a.02",
+          "type": "grammar-answer",
+          "raw": "Расшифруйте словарную помету «разг.» одним словом (форма мужского рода).",
+          "answer": "разговорный",
+          "ex": "Помета указывает на разговорную сферу.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-a.03",
+          "type": "grammar-answer",
+          "raw": "В справке требуется нейтральный глагол вместо «пофиксили ошибку». Напишите «исправить» в прошедшем времени множественного числа.",
+          "answer": "исправили",
+          "ex": "Нейтральная форма сохраняет факт исправления.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-a.04",
+          "type": "grammar-answer",
+          "raw": "Как называется разновидность языка, характерная для определённой территории?",
+          "answer": "диалект",
+          "ex": "Территориальная ограниченность отличает диалект от общего литературного языка.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "территориальный диалект"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-a.05",
+          "type": "grammar-answer",
+          "raw": "В словарной статье есть помета «устар.». Расшифруйте её одним словом (мужской род).",
+          "answer": "устаревший",
+          "ex": "Помета характеризует употребление по времени.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-a.06",
+          "type": "grammar-answer",
+          "raw": "Какой словарь проверяет постановку ударения и произношение? Укажите тип прилагательным.",
+          "answer": "орфоэпический",
+          "ex": "Орфоэпия описывает произносительную норму.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-a.07",
+          "type": "grammar-answer",
+          "raw": "В письме поставщику замените «деньги пришли» на сочетание «средства» и глагол «поступить» в прошедшем времени.",
+          "answer": "средства поступили",
+          "ex": "Форма сохраняет смысл и соответствует нейтрально-деловому регистру.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-a.08",
+          "type": "grammar-answer",
+          "raw": "Обе формы в словаре даны без ограничений как равноправные. Как называется такое свойство нормы?",
+          "answer": "вариативность",
+          "ex": "Норма может включать несколько равноправных форм.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "вариантность"
+          ]
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.speech-culture.norm-register.module-exam.r42-b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-b.01",
+          "type": "grammar-answer",
+          "raw": "Какой словарь используют для проверки написания сложного слова? Назовите тип прилагательным.",
+          "answer": "орфографический",
+          "ex": "Он кодифицирует написание.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-b.02",
+          "type": "grammar-answer",
+          "raw": "Расшифруйте помету «прост.» (название разновидности речи существительным).",
+          "answer": "просторечие",
+          "ex": "Помета относится к нелитературному или сниженному употреблению в зависимости от словаря.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-b.03",
+          "type": "grammar-answer",
+          "raw": "В словаре требуется найти значение незнакомого слова. Какой тип словаря нужен (прилагательное)?",
+          "answer": "толковый",
+          "ex": "Толковый словарь разъясняет значения.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-b.04",
+          "type": "grammar-answer",
+          "raw": "Как называется собрание текстов с поиском по контекстам и метаданным?",
+          "answer": "корпус",
+          "ex": "Корпус позволяет изучать реальное употребление.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "корпус текстов",
+            "языковой корпус"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-b.05",
+          "type": "grammar-answer",
+          "raw": "В протоколе замените «разрулили конфликт» нейтральным сочетанием с глаголом «урегулировать» в прошедшем времени.",
+          "answer": "урегулировали конфликт",
+          "ex": "Сниженную метафору заменяем нейтральной формой.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-b.06",
+          "type": "grammar-answer",
+          "raw": "Расшифруйте помету «книжн.» прилагательным мужского рода.",
+          "answer": "книжный",
+          "ex": "Помета указывает на книжную сферу употребления.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation"
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-b.07",
+          "type": "grammar-answer",
+          "raw": "Как называют отличие между официальной, нейтральной и неформальной манерой речи одним термином?",
+          "answer": "регистр",
+          "ex": "Регистр зависит от коммуникативной ситуации.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "речевой регистр"
+          ]
+        },
+        {
+          "id": "ru.speech-culture.norm-register.module-exam.r42-b.08",
+          "type": "grammar-answer",
+          "raw": "При оценке двух изданий одного словаря назовите реквизит, позволяющий установить, какое издание новее.",
+          "answer": "год издания",
+          "ex": "Дата позволяет учесть возможное изменение кодификации; новизна сама по себе не гарантирует пригодность.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.norm-register.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "дата издания"
+          ]
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

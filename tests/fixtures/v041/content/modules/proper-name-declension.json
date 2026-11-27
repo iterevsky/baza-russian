@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.speech-culture.proper-name-declension",
+  "title": "Склонение имён, фамилий и географических названий (базовый контроль)",
+  "moduleNumber": "10.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.speech-culture.proper-name-declension.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Склонение фамилий",
+    "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/sklonenie-familiy-poshagovyy-algoritm"
+  },
+  "variants": [
+    {
+      "id": "ru.speech-culture.proper-name-declension.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Подарок Наталье (Иванова). Напишите фамилию.",
+          "answer": "ивановой",
+          "ex": "Женская фамилия на -ова склоняется как прилагательное.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Вставьте: на реке (Волга). Напишите название.",
+          "answer": "волге",
+          "ex": "Название и родовое слово согласуются.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.speech-culture.proper-name-declension.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Вставьте: до города (Смоленск). Напишите название.",
+          "answer": "смоленска",
+          "ex": "Освоенное название города склоняется.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Встреча с Виктором (Шевченко). Напишите фамилию.",
+          "answer": "шевченко",
+          "ex": "Фамилии на -ко в русском литературном языке неизменны.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.proper-name-declension.foundation"
+        }
+      ]
+    }
+  ]
+}

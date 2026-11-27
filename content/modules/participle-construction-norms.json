@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.speech-culture.participle-construction-norms.module-exam.b",
@@ -58,7 +59,166 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.01",
+          "type": "grammar-answer",
+          "raw": "Вставьте причастие «подписанный»: «копия ... договора».",
+          "answer": "подписанного",
+          "ex": "Причастие согласуется с договором в родительном.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.02",
+          "type": "grammar-answer",
+          "raw": "Вставьте «поступивший»: «о ... заявках».",
+          "answer": "поступивших",
+          "ex": "Предложный множественного.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.03",
+          "type": "grammar-answer",
+          "raw": "Вставьте «закрытый»: «к ... дверям».",
+          "answer": "закрытым",
+          "ex": "Дательный множественного.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.04",
+          "type": "grammar-answer",
+          "raw": "Назовите деятеля добавочного действия: «подойдя к окну, инженер открыл форточку».",
+          "answer": "инженер",
+          "ex": "Инженер выполняет оба действия.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.05",
+          "type": "grammar-answer",
+          "raw": "Вставьте «исправленный»: «в ... таблице».",
+          "answer": "исправленной",
+          "ex": "Предложный женского рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.06",
+          "type": "grammar-answer",
+          "raw": "Вставьте «утверждённый»: «нет ... сметы».",
+          "answer": "утверждённой",
+          "ex": "Родительный женского рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.07",
+          "type": "grammar-answer",
+          "raw": "Вставьте «написанный»: «с ... письмом».",
+          "answer": "написанным",
+          "ex": "Творительный среднего рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-a.08",
+          "type": "grammar-answer",
+          "raw": "Вставьте «завершённый»: «после ... работ».",
+          "answer": "завершённых",
+          "ex": "Родительный множественного.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.01",
+          "type": "grammar-answer",
+          "raw": "В предложении «прочитав отчёт, аналитик задал вопрос» назовите основное действие одним глаголом из предложения.",
+          "answer": "задал",
+          "ex": "Сказуемое обозначает основное действие.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.02",
+          "type": "grammar-answer",
+          "raw": "Вставьте «прибывший»: «помогли ... туристу».",
+          "answer": "прибывшему",
+          "ex": "Дательный мужского рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.03",
+          "type": "grammar-answer",
+          "raw": "Вставьте «собранный»: «с ... материалами».",
+          "answer": "собранными",
+          "ex": "Творительный множественного.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.04",
+          "type": "grammar-answer",
+          "raw": "Вставьте «отправленный»: «содержание ... сообщения».",
+          "answer": "отправленного",
+          "ex": "Родительный среднего рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.05",
+          "type": "grammar-answer",
+          "raw": "Назовите деятеля в «закрыв шкаф, библиотекарь погасил свет».",
+          "answer": "библиотекарь",
+          "ex": "Оба действия выполняет библиотекарь.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.06",
+          "type": "grammar-answer",
+          "raw": "В «сверяя данные, необходимо учитывать возвраты» выпишите инфинитив, обозначающий основное действие.",
+          "answer": "учитывать",
+          "ex": "Инфинитив допускает общий подразумеваемый субъект.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.07",
+          "type": "grammar-answer",
+          "raw": "Вставьте «выбранный»: «к ... маршруту».",
+          "answer": "выбранному",
+          "ex": "Дательный мужского рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.module-exam.r42-b.08",
+          "type": "grammar-answer",
+          "raw": "Вставьте «обновлённый»: «из ... базы».",
+          "answer": "обновлённой",
+          "ex": "Родительный женского рода.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.participle-construction-norms.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

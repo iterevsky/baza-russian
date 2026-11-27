@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.speech-culture.verb-government",
+  "title": "Глагольные формы и управление (базовый контроль)",
+  "moduleNumber": "10.05",
+  "status": "draft",
+  "lessonIds": [
+    "ru.speech-culture.verb-government.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Грамматика",
+    "url": "https://gramota.ru/biblioteka/spravochniki/grammatika"
+  },
+  "variants": [
+    {
+      "id": "ru.speech-culture.verb-government.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Вставьте форму: я (положить) папку завтра.",
+          "answer": "положу",
+          "ex": "У совершенного вида простое будущее.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Вставьте форму: препятствовать (развитие).",
+          "answer": "развитию",
+          "ex": "Препятствовать чему — дательный.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.speech-culture.verb-government.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Вставьте форму: содействовать (переход).",
+          "answer": "переходу",
+          "ex": "Содействовать чему — дательный.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Вставьте форму: характерный для (эпоха).",
+          "answer": "эпохи",
+          "ex": "Для требует родительного; модель характерный для чего.",
+          "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        }
+      ]
+    }
+  ]
+}

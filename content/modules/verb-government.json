@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.verb-government.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.speech-culture.verb-government.module-exam.b",
@@ -58,7 +59,166 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.verb-government.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.speech-culture.verb-government.module-exam.r42-a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-a.01",
+          "type": "grammar-answer",
+          "raw": "Вставьте «распоряжение» после «согласно».",
+          "answer": "распоряжению",
+          "ex": "Согласно требует дательного.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-a.02",
+          "type": "grammar-answer",
+          "raw": "Вставьте «прогноз» после «вопреки».",
+          "answer": "прогнозу",
+          "ex": "Вопреки управляет дательным.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-a.03",
+          "type": "grammar-answer",
+          "raw": "Вставьте «прибытие» после «по» в значении «после прибытия».",
+          "answer": "прибытии",
+          "ex": "В этом значении употребляется предложный.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-a.04",
+          "type": "grammar-answer",
+          "raw": "Вставьте «билет» после «оплатить».",
+          "answer": "билет",
+          "ex": "Оплатить требует прямого дополнения.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-a.05",
+          "type": "grammar-answer",
+          "raw": "Вставьте предлог: «заплатить ... доставку».",
+          "answer": "за",
+          "ex": "Заплатить за что-либо.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-a.06",
+          "type": "grammar-answer",
+          "raw": "Вставьте «успех» после «радоваться».",
+          "answer": "успеху",
+          "ex": "Радоваться чему-либо.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-a.07",
+          "type": "grammar-answer",
+          "raw": "Вставьте «отчёт» после «ознакомиться с».",
+          "answer": "отчётом",
+          "ex": "Предлог с требует творительного.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-a.08",
+          "type": "grammar-answer",
+          "raw": "Вставьте «проект» после «руководить».",
+          "answer": "проектом",
+          "ex": "Руководить чем-либо.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.speech-culture.verb-government.module-exam.r42-b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-b.01",
+          "type": "grammar-answer",
+          "raw": "Вставьте «решение» после «настаивать на».",
+          "answer": "решении",
+          "ex": "Конструкция настаивать на чём-либо.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-b.02",
+          "type": "grammar-answer",
+          "raw": "Вставьте «помощь» после «нуждаться в».",
+          "answer": "помощи",
+          "ex": "Нуждаться в чём-либо.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-b.03",
+          "type": "grammar-answer",
+          "raw": "Образуйте повелительную форму единственного числа от «лечь».",
+          "answer": "ляг",
+          "ex": "Нормативная форма ляг.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-b.04",
+          "type": "grammar-answer",
+          "raw": "Образуйте повелительную форму единственного числа от «класть».",
+          "answer": "клади",
+          "ex": "Нормативная форма клади.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-b.05",
+          "type": "grammar-answer",
+          "raw": "Образуйте форму 3-го лица множественного числа настоящего времени от «махать» с чередованием х/ш.",
+          "answer": "машут",
+          "ex": "Форма с чередованием, не исключающая словарные варианты.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-b.06",
+          "type": "grammar-answer",
+          "raw": "Вставьте «коллега» в «доверять ...» (единственное число).",
+          "answer": "коллеге",
+          "ex": "Доверять кому-либо.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-b.07",
+          "type": "grammar-answer",
+          "raw": "Вставьте «решение» после «препятствовать».",
+          "answer": "решению",
+          "ex": "Препятствовать чему-либо.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.module-exam.r42-b.08",
+          "type": "grammar-answer",
+          "raw": "Вставьте «окончание» после «по» в значении «после окончания».",
+          "answer": "окончании",
+          "ex": "Временная конструкция с предложным.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.verb-government.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }

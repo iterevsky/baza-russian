@@ -34,7 +34,8 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.speech-errors.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.speech-culture.speech-errors.module-exam.b",
@@ -58,7 +59,166 @@
           "instruction": "Введите указанный ответ строчными буквами, без кавычек и точки в конце. Если указан вариант, перепишите его в требуемой форме; сохраняйте ё.",
           "lessonId": "ru.speech-culture.speech-errors.foundation"
         }
-      ]
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.speech-culture.speech-errors.module-exam.r42-a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-a.01",
+          "type": "grammar-answer",
+          "raw": "Выберите «адресант» или «адресат», поставьте в родительном: «подпись получателя — подпись ...».",
+          "answer": "адресата",
+          "ex": "Адресат получает сообщение.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-a.02",
+          "type": "grammar-answer",
+          "raw": "Вставьте пароним «экономный» или «экономический» в «... политика государства» (одним словом).",
+          "answer": "экономическая",
+          "ex": "Речь об экономике государства.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-a.03",
+          "type": "grammar-answer",
+          "raw": "Исправьте глагол в «оказать внимание» по модели «... внимание вопросу».",
+          "answer": "уделить",
+          "ex": "Уделить внимание чему-либо.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-a.04",
+          "type": "grammar-answer",
+          "raw": "Выберите «эффектная» или «эффективная»: «... мера, давшая ожидаемый результат».",
+          "answer": "эффективная",
+          "ex": "Эффективность связана с результатом.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-a.05",
+          "type": "grammar-answer",
+          "raw": "Сократите «свободная вакансия» до одного существительного.",
+          "answer": "вакансия",
+          "ex": "В нейтральном контексте вакансия уже обозначает незанятое место.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-a.06",
+          "type": "grammar-answer",
+          "raw": "Вставьте существительное в «предъявить ... личности» (документ, подтверждающий личность).",
+          "answer": "удостоверение",
+          "ex": "Удостоверение личности — устойчивое наименование.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-a.07",
+          "type": "grammar-answer",
+          "raw": "Вставьте глагол в устойчивое сочетание «... решение» в значении окончательно определиться.",
+          "answer": "принять",
+          "ex": "Принять решение.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-a.08",
+          "type": "grammar-answer",
+          "raw": "Сократите «в мае месяце» до обозначения времени без избыточного слова.",
+          "answer": "в мае",
+          "ex": "Май уже обозначает месяц.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
+    },
+    {
+      "id": "ru.speech-culture.speech-errors.module-exam.r42-b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-b.01",
+          "type": "grammar-answer",
+          "raw": "Выберите пароним «дипломатичный» или «дипломатический»: «... ответ, не обидевший собеседника».",
+          "answer": "дипломатичный",
+          "ex": "Тактичность, а не принадлежность к дипломатии.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-b.02",
+          "type": "grammar-answer",
+          "raw": "Вставьте глагол в «... значение» в смысле быть важным.",
+          "answer": "иметь",
+          "ex": "Иметь значение — нормативная сочетаемость.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-b.03",
+          "type": "grammar-answer",
+          "raw": "Выберите «абонент» или «абонемент», поставьте в нужную форму: «купить ... в бассейн».",
+          "answer": "абонемент",
+          "ex": "Абонемент предоставляет право посещения; абонент — пользователь.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-b.04",
+          "type": "grammar-answer",
+          "raw": "Сократите «главная суть» до одного слова.",
+          "answer": "суть",
+          "ex": "Суть уже обозначает главное содержание.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-b.05",
+          "type": "grammar-answer",
+          "raw": "Вставьте глагол «поставить» или «сделать» в «... задачу перед командой».",
+          "answer": "поставить",
+          "ex": "Поставить задачу — устойчивое сочетание.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-b.06",
+          "type": "grammar-answer",
+          "raw": "Вставьте слово «представить» в прошедшем: «эксперт ... доклад слушателям».",
+          "answer": "представил",
+          "ex": "Представить означает показать, ознакомить.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-b.07",
+          "type": "grammar-answer",
+          "raw": "Вставьте слово «предоставить» в прошедшем: «архив ... исследователю доступ».",
+          "answer": "предоставил",
+          "ex": "Предоставить — дать возможность пользоваться.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.module-exam.r42-b.08",
+          "type": "grammar-answer",
+          "raw": "Сократите «вернуться обратно» до одного глагола при описании обычного возвращения.",
+          "answer": "вернуться",
+          "ex": "В нейтральном контексте направление уже выражено глаголом.",
+          "instruction": "Введите только ответ по условию, строчными буквами, без кавычек и конечной точки; сохраняйте ё.",
+          "lessonId": "ru.speech-culture.speech-errors.foundation"
+        }
+      ],
+      "questionsPerLesson": 8
     }
   ]
 }
