@@ -34,7 +34,8 @@
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
           "lessonId": "ru.phonetics.sounds-letters.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.phonetics.sounds-letters.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "3",
           "ex": "Ь не добавляет звука.",
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.phonetics.sounds-letters.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Сколько звуков в слове «яма» в школьном разборе? Число цифрами.",
+          "answer": "4",
+          "ex": "Начальная я даёт [й’] и гласный.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «моль» в школьном разборе? Число цифрами.",
+          "answer": "3",
+          "ex": "Ь не обозначает отдельного звука.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «юла» в школьном разборе? Число цифрами.",
+          "answer": "4",
+          "ex": "Начальная ю обозначает два звука.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «люк» в школьном разборе? Число цифрами.",
+          "answer": "3",
+          "ex": "Ю после л даёт один гласный.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «съём» в школьном разборе? Число цифрами.",
+          "answer": "4",
+          "ex": "Ъ без звука, ё после него даёт два.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «поют» в школьном разборе? Число цифрами.",
+          "answer": "5",
+          "ex": "Ю после о даёт два звука.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «мёд» в школьном разборе? Число цифрами.",
+          "answer": "3",
+          "ex": "Ё после м даёт один гласный, д оглушается.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «местный» в обычном произношении? Число цифрами.",
+          "answer": "6",
+          "ex": "Т в сочетании стн не произносится.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.sounds-letters.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Сколько звуков в слове «ёлка» в школьном разборе? Число цифрами.",
+          "answer": "5",
+          "ex": "Начальная ё передаёт два звука.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «день» в школьном разборе? Число цифрами.",
+          "answer": "3",
+          "ex": "Ь указывает на мягкость, звука не даёт.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «вьюга» в школьном разборе? Число цифрами.",
+          "answer": "5",
+          "ex": "Ь без звука, ю после него передаёт два.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «мяч» в школьном разборе? Число цифрами.",
+          "answer": "3",
+          "ex": "Я после м даёт один гласный.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «моя» в школьном разборе? Число цифрами.",
+          "answer": "4",
+          "ex": "Я после гласного передаёт два звука.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «уголь» в школьном разборе? Число цифрами.",
+          "answer": "4",
+          "ex": "Ь не добавляет звука.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «ясно» в школьном разборе? Число цифрами.",
+          "answer": "5",
+          "ex": "Начальная я обозначает два звука.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "raw": "Сколько звуков в слове «грустный» при обычном произношении? Число цифрами.",
+          "answer": "7",
+          "ex": "Т в сочетании стн выпадает.",
+          "id": "ru.phonetics.sounds-letters.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.phonetics.sounds-letters.foundation"
         }
       ]

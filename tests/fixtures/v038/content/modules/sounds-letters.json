@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.phonetics.sounds-letters",
+  "title": "Звуки и буквы (базовый контроль)",
+  "moduleNumber": "02.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.phonetics.sounds-letters.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Фонетика и графика, звуки и буквы",
+    "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_1/"
+  },
+  "variants": [
+    {
+      "id": "ru.phonetics.sounds-letters.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.sounds-letters.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Сколько звуков в слове «ельник» при обычном изолированном произношении? Число цифрами.",
+          "answer": "6",
+          "ex": "Е в начале даёт два, ь не даёт звука; 6 букв и 6 звуков.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "id": "ru.phonetics.sounds-letters.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Сколько звуков в слове «пюре» при обычном изолированном произношении? Число цифрами.",
+          "answer": "4",
+          "ex": "Ю после п и е после р дают по одному гласному; твёрдость р не меняет счёт.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.sounds-letters.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.sounds-letters.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Сколько звуков в слове «каюта» при обычном изолированном произношении? Число цифрами.",
+          "answer": "6",
+          "ex": "Ю после гласной даёт два звука.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        },
+        {
+          "id": "ru.phonetics.sounds-letters.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Сколько звуков в слове «тень» при обычном изолированном произношении? Число цифрами.",
+          "answer": "3",
+          "ex": "Ь не добавляет звука.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.sounds-letters.foundation"
+        }
+      ]
+    }
+  ]
+}

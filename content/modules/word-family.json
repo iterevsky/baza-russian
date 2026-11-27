@@ -34,7 +34,8 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.word-formation.word-family.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.word-formation.word-family.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "формы",
           "ex": "формы. Критерий — тождество лексемы или общий современный корень и смысл.",
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.word-formation.word-family.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "«Снег — снегом»: формы одного слова или разные слова? Впишите формы или слова.",
+          "answer": "формы",
+          "ex": "Меняется падеж.",
+          "id": "ru.word-formation.word-family.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Снег — снежный»: формы одного слова или разные слова? Впишите формы или слова.",
+          "answer": "слова",
+          "ex": "Образовано прилагательное; г/ж чередуются.",
+          "id": "ru.word-formation.word-family.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Водный — водитель»: однокоренные в современном значении? Да или нет.",
+          "answer": "нет",
+          "ex": "Вода и водить имеют разные корни по значению.",
+          "id": "ru.word-formation.word-family.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Лесной — лесник»: однокоренные? Да или нет.",
+          "answer": "да",
+          "ex": "Связаны со значением леса.",
+          "id": "ru.word-formation.word-family.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Сад — саду»: формы или слова?",
+          "answer": "формы",
+          "ex": "Изменяется падеж существительного.",
+          "id": "ru.word-formation.word-family.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Писать — писатель»: формы или слова?",
+          "answer": "слова",
+          "ex": "Суффикс образует название лица.",
+          "id": "ru.word-formation.word-family.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Гора — гореть»: однокоренные в современном значении? Да или нет.",
+          "answer": "нет",
+          "ex": "Совпадение части формы не означает родства.",
+          "id": "ru.word-formation.word-family.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Храбрый — смелый»: однокоренные? Да или нет.",
+          "answer": "нет",
+          "ex": "Это синонимы с разными корнями.",
+          "id": "ru.word-formation.word-family.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.word-family.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "«Окно — окнами»: формы или слова?",
+          "answer": "формы",
+          "ex": "Изменяется число и падеж.",
+          "id": "ru.word-formation.word-family.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Город — городской»: формы или слова?",
+          "answer": "слова",
+          "ex": "Прилагательное — отдельная лексема.",
+          "id": "ru.word-formation.word-family.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Носить — носовой»: однокоренные в современном значении? Да или нет.",
+          "answer": "нет",
+          "ex": "Носить и нос как часть лица имеют разные значения корня.",
+          "id": "ru.word-formation.word-family.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Мороз — морозный»: однокоренные? Да или нет.",
+          "answer": "да",
+          "ex": "Общее значение связано с морозом.",
+          "id": "ru.word-formation.word-family.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Дерево — деревья»: формы или слова?",
+          "answer": "формы",
+          "ex": "Меняется число.",
+          "id": "ru.word-formation.word-family.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Соль — солёный»: формы или слова?",
+          "answer": "слова",
+          "ex": "Прилагательное образовано от существительного.",
+          "id": "ru.word-formation.word-family.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Лук» (растение) и «лук» (оружие): омонимы или формы одного слова?",
+          "answer": "омонимы",
+          "ex": "Совпадает форма разных лексем.",
+          "id": "ru.word-formation.word-family.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-family.foundation"
+        },
+        {
+          "raw": "«Бежать — бег»: однокоренные? Да или нет.",
+          "answer": "да",
+          "ex": "Общее значение движения, чередование г/ж.",
+          "id": "ru.word-formation.word-family.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.word-formation.word-family.foundation"
         }
       ]

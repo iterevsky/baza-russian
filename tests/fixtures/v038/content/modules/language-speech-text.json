@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.language.language-speech-text",
+  "title": "Язык, речь и текст (базовый контроль)",
+  "moduleNumber": "01.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.language.language-speech-text.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Краткий теоретический курс, введение; учебная модель",
+    "url": "https://grammarian.school/handbook/well/index.html"
+  },
+  "variants": [
+    {
+      "id": "ru.language.language-speech-text.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.language.language-speech-text.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Общее правило образования падежных форм: язык или речь?",
+          "answer": "язык",
+          "ex": "Правило относится к системе.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "id": "ru.language.language-speech-text.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«Доставка задержалась. Машина сломалась»: причина или противопоставление выражена вторым предложением?",
+          "answer": "причина",
+          "ex": "Вторая фраза объясняет первую.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.language.language-speech-text.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.language.language-speech-text.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Индивидуальная записанная реплика: язык или речь?",
+          "answer": "речь",
+          "ex": "Это конкретное письменное употребление.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "id": "ru.language.language-speech-text.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "«Не забудьте паспорт» — побуждение или повествование?",
+          "answer": "побуждение",
+          "ex": "Фраза направлена на действие адресата.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        }
+      ]
+    }
+  ]
+}

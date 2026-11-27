@@ -34,7 +34,8 @@
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
           "lessonId": "ru.phonetics.sound-changes.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.phonetics.sound-changes.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "озвончение",
           "ex": "С перед д озвончается.",
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.phonetics.sound-changes.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Какой последний согласный слышен в слове «зуб» в изоляции? Одной буквой.",
+          "answer": "п",
+          "ex": "Конечный звонкий б оглушается.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует букве д в слове «лодка»? Одной буквой.",
+          "answer": "т",
+          "ex": "Перед глухим к происходит оглушение.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует с в слове «сбить»? Одной буквой.",
+          "answer": "з",
+          "ex": "Перед звонким б происходит озвончение.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Как называется изменение качества безударных гласных? Одним термином.",
+          "answer": "редукция",
+          "ex": "Без ударения артикуляция меняется.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Какой последний согласный произносится в слове «мороз» в изоляции? Одной буквой.",
+          "answer": "с",
+          "ex": "Конечный з оглушается.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует букве в в слове «вторник»? Одной буквой.",
+          "answer": "ф",
+          "ex": "В перед глухим т оглушается.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Как называется уподобление соседних звуков? Одним термином.",
+          "answer": "ассимиляция",
+          "ex": "Один звук меняется под влиянием другого.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Нужно ли писать «збить», если в слове «сбить» слышится [з]? Да или нет.",
+          "answer": "нет",
+          "ex": "Написание приставки не следует озвончению.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.sound-changes.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Какой конечный согласный произносится в слове «пруд» в изоляции? Одной буквой.",
+          "answer": "т",
+          "ex": "Конечный д оглушается.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует г в слове «ногти»? Одной буквой.",
+          "answer": "к",
+          "ex": "Перед т звонкий г оглушается.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует с в слове «сделка»? Одной буквой.",
+          "answer": "з",
+          "ex": "С перед д озвончается.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Как называется переход звонкого шумного в парный глухой? Одним термином.",
+          "answer": "оглушение",
+          "ex": "Это изменение по звонкости.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Какой конечный согласный слышен в слове «рукав» в изоляции? Одной буквой.",
+          "answer": "ф",
+          "ex": "Конечный в оглушается.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует б в слове «скобка»? Одной буквой.",
+          "answer": "п",
+          "ex": "Б перед к оглушается.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует с в слове «сговор»? Одной буквой.",
+          "answer": "з",
+          "ex": "Перед звонким г происходит озвончение.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.sound-changes.foundation"
+        },
+        {
+          "raw": "Нужно ли автоматически писать безударное о как а, если оно так слышится? Да или нет.",
+          "answer": "нет",
+          "ex": "Орфография и фонетика различаются.",
+          "id": "ru.phonetics.sound-changes.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.phonetics.sound-changes.foundation"
         }
       ]

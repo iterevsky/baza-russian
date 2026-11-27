@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.language.language-levels",
+  "title": "Уровни языка и их взаимосвязь (базовый контроль)",
+  "moduleNumber": "01.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.language.language-levels.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Краткий теоретический курс, оглавление и разделы",
+    "url": "https://grammarian.school/handbook/well/index.html"
+  },
+  "variants": [
+    {
+      "id": "ru.language.language-levels.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.language.language-levels.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Какой раздел описывает нормативное написание приставки в слове «бескрайний»?",
+          "answer": "орфография",
+          "ex": "Проверяется написание, а не происхождение.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "id": "ru.language.language-levels.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Какой раздел регламентирует запятую перед придаточным?",
+          "answer": "пунктуация",
+          "ex": "Речь о знаках письма.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-levels.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.language.language-levels.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.language.language-levels.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Какой раздел устанавливает род слова «пальто»?",
+          "answer": "морфология",
+          "ex": "Род — грамматическая характеристика.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "id": "ru.language.language-levels.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Какой раздел описывает многозначность слова «поле»?",
+          "answer": "лексикология",
+          "ex": "Изучается система значений.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-levels.foundation"
+        }
+      ]
+    }
+  ]
+}

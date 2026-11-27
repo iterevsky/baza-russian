@@ -34,7 +34,8 @@
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
           "lessonId": "ru.language.language-levels.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.language.language-levels.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "лексикология",
           "ex": "Изучается система значений.",
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-levels.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.language.language-levels.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Какая дисциплина исследует смысловую разницу слов «бережливый» и «скупой»?",
+          "answer": "лексикология",
+          "ex": "Различаются лексические значения и оттенки.",
+          "id": "ru.language.language-levels.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел изучает образование слова «садовник» от «сад» в современной системе?",
+          "answer": "словообразование",
+          "ex": "Устанавливается отношение производности.",
+          "id": "ru.language.language-levels.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел изучает состав слова «переход» по значимым частям?",
+          "answer": "морфемика",
+          "ex": "Предмет — морфемный состав.",
+          "id": "ru.language.language-levels.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел изучает переход от «стол» к форме «столами»?",
+          "answer": "морфология",
+          "ex": "Изменяется падеж и число, не лексема.",
+          "id": "ru.language.language-levels.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел описывает связь слов «широкая река»?",
+          "answer": "синтаксис",
+          "ex": "Согласование — вид подчинительной связи.",
+          "id": "ru.language.language-levels.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел изучает оглушение конечного согласного в слове «гриб»?",
+          "answer": "фонетика",
+          "ex": "Речь о звуковом процессе.",
+          "id": "ru.language.language-levels.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Как называется область правил написания букв в словах?",
+          "answer": "орфография",
+          "ex": "Она регулирует нормативное написание.",
+          "id": "ru.language.language-levels.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Как называется область правил расстановки запятых и других знаков?",
+          "answer": "пунктуация",
+          "ex": "Она регулирует знаки письменного текста.",
+          "id": "ru.language.language-levels.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.language.language-levels.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Какой раздел исследует разные значения слова «крыло» у птицы и у здания?",
+          "answer": "лексикология",
+          "ex": "Анализируется многозначность.",
+          "id": "ru.language.language-levels.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел описывает род существительного «окно»?",
+          "answer": "морфология",
+          "ex": "Род — грамматическая характеристика.",
+          "id": "ru.language.language-levels.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел изучает звук [ш] как твёрдый согласный?",
+          "answer": "фонетика",
+          "ex": "Это звуковой признак.",
+          "id": "ru.language.language-levels.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел изучает образование «прочитать» от «читать»?",
+          "answer": "словообразование",
+          "ex": "Анализируется производящее слово и формант.",
+          "id": "ru.language.language-levels.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел изучает суффикс -ник- как часть слова?",
+          "answer": "морфемика",
+          "ex": "Суффикс — морфема.",
+          "id": "ru.language.language-levels.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел анализирует подлежащее и сказуемое в предложении?",
+          "answer": "синтаксис",
+          "ex": "Это синтаксические функции.",
+          "id": "ru.language.language-levels.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Как называется совокупность правил литературного произношения?",
+          "answer": "орфоэпия",
+          "ex": "Орфоэпия нормирует произношение.",
+          "id": "ru.language.language-levels.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-levels.foundation"
+        },
+        {
+          "raw": "Какой раздел объясняет, почему «не был» пишется раздельно?",
+          "answer": "орфография",
+          "ex": "Речь о написании, хотя учитывается часть речи.",
+          "id": "ru.language.language-levels.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.language.language-levels.foundation"
         }
       ]

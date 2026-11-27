@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.language.dictionary-method",
+  "title": "Словари, справочники и корпус (базовый контроль)",
+  "moduleNumber": "01.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.language.dictionary-method.foundation"
+  ],
+  "source": {
+    "title": "НКРЯ. Вопросы и ответы; Грамота.ру, описание словарей",
+    "url": "https://ruscorpora.ru/page/faq"
+  },
+  "variants": [
+    {
+      "id": "ru.language.dictionary-method.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.language.dictionary-method.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Какой источник объяснит общее условие постановки запятой: справочник или этимологический словарь?",
+          "answer": "справочник",
+          "ex": "Нужно правило пунктуации.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.dictionary-method.foundation"
+        },
+        {
+          "id": "ru.language.dictionary-method.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Следует ли сохранять номер параграфа при нормативной сверке? Да или нет.",
+          "answer": "да",
+          "ex": "Это делает решение воспроизводимым.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.dictionary-method.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.language.dictionary-method.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.language.dictionary-method.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Частота в корпусе сама устанавливает норму? Да или нет.",
+          "answer": "нет",
+          "ex": "Употребление и кодификация различаются.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.dictionary-method.foundation"
+        },
+        {
+          "id": "ru.language.dictionary-method.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "При цитировании авторского корпусного примера указывают автора и название? Да или нет.",
+          "answer": "да",
+          "ex": "Нужно атрибутировать текст.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.dictionary-method.foundation"
+        }
+      ]
+    }
+  ]
+}

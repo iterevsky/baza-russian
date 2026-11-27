@@ -34,7 +34,8 @@
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
           "lessonId": "ru.language.language-speech-text.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.language.language-speech-text.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "побуждение",
           "ex": "Фраза направлена на действие адресата.",
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.language.language-speech-text.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Правила согласования прилагательных с существительными принадлежат системе языка или отдельному речевому акту?",
+          "answer": "системе языка",
+          "ex": "Правило воспроизводимо во множестве высказываний.",
+          "id": "ru.language.language-speech-text.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "Вы произнесли «Закройте окно» в комнате. Как называется конкретное использование языка?",
+          "answer": "речь",
+          "ex": "Это высказывание в ситуации общения.",
+          "id": "ru.language.language-speech-text.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "Как называется лицо, которому предназначено сообщение: адресант или адресат?",
+          "answer": "адресат",
+          "ex": "Адресат получает сообщение.",
+          "id": "ru.language.language-speech-text.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "Как называется отправитель сообщения: адресант или адресат?",
+          "answer": "адресант",
+          "ex": "Адресант создаёт сообщение.",
+          "id": "ru.language.language-speech-text.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "В объявлении «Вход закрыт до 15:00» главная цель — информировать или развлекать?",
+          "answer": "информировать",
+          "ex": "Передаётся практическая информация.",
+          "id": "ru.language.language-speech-text.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "В паре «Наступил вечер. Поэтому включили свет» какое слово явно связывает причину и следствие?",
+          "answer": "поэтому",
+          "ex": "Наречие указывает на следствие.",
+          "id": "ru.language.language-speech-text.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "«Павел принёс книгу. Он положил её на стол». Выпишите слово, отсылающее к Павлу.",
+          "answer": "он",
+          "ex": "Местоимение связывает второе предложение с первым.",
+          "id": "ru.language.language-speech-text.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "Можно ли считать короткую надпись «Не входить!» самостоятельным текстом в подходящей ситуации? Ответьте да или нет.",
+          "answer": "да",
+          "ex": "Коммуникативная завершённость не требует нескольких предложений.",
+          "id": "ru.language.language-speech-text.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.language.language-speech-text.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Какой компонент ситуации общения меняется, если письмо вместо коллеги адресовано директору?",
+          "answer": "адресат",
+          "ex": "Меняется получатель и возможная форма обращения.",
+          "id": "ru.language.language-speech-text.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "В рецепте «Смешайте муку и воду. Выпекайте 20 минут» основная цель — инструктировать или описывать внешность?",
+          "answer": "инструктировать",
+          "ex": "Текст задаёт последовательность действий.",
+          "id": "ru.language.language-speech-text.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "«В комнате холодно». В контексте разговора просьба закрыть окно выражена прямо или косвенно?",
+          "answer": "косвенно",
+          "ex": "Просьба выводится из ситуации, а не формы предложения.",
+          "id": "ru.language.language-speech-text.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "«Я уже прочитал статью. Она оказалась полезной». Что заменяет местоимение она? Впишите существительное в именительном падеже.",
+          "answer": "статья",
+          "ex": "Оно соотносится с предметом первого предложения.",
+          "id": "ru.language.language-speech-text.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "Какая характеристика нарушена в наборе «Кошка спит. Сумма равна семи. Письмо отправили», если общей ситуации нет: связность или орфография?",
+          "answer": "связность",
+          "ex": "Нет очевидной общей темы или перехода.",
+          "id": "ru.language.language-speech-text.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "«Уважаемые пассажиры, поезд отправится через пять минут». Кто адресат? Впишите слово из сообщения.",
+          "answer": "пассажиры",
+          "ex": "Обращение обозначает получателей.",
+          "id": "ru.language.language-speech-text.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "Словарная статья, описывающая значение слова, относится к описанию языковой системы или записи одного разговора?",
+          "answer": "языковой системы",
+          "ex": "Словарь обобщает употребление единицы.",
+          "id": "ru.language.language-speech-text.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.language.language-speech-text.foundation"
+        },
+        {
+          "raw": "«Сначала проверьте данные, затем отправьте отчёт». Какой союз или наречие указывает на второй этап? Выпишите его.",
+          "answer": "затем",
+          "ex": "Оно маркирует последовательность.",
+          "id": "ru.language.language-speech-text.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.language.language-speech-text.foundation"
         }
       ]

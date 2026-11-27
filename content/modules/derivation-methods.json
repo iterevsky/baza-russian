@@ -34,7 +34,8 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.word-formation.derivation-methods.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.word-formation.derivation-methods.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "суффиксальный",
           "ex": "суффиксальный. Анализируйте только указанную ступень мотивации.",
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.word-formation.derivation-methods.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Как образовано «переписать» от «писать»? Впишите способ без слова способ.",
+          "answer": "приставочный",
+          "ex": "Добавлена пере-.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «домик» от «дом»? Впишите способ без слова способ.",
+          "answer": "суффиксальный",
+          "ex": "Добавлен -ик-.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «подоконник» от «окно» в школьном сопоставлении? Впишите способ.",
+          "answer": "приставочно-суффиксальный",
+          "ex": "Одновременно добавлены под- и -ник-.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «лесостепь» от «лес» и «степь»? Впишите способ одним существительным.",
+          "answer": "сложение",
+          "ex": "Объединены две основы.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «МГУ» от «Московский государственный университет»? Одним существительным.",
+          "answer": "аббревиация",
+          "ex": "Использованы начальные буквы слов.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Появилась ли новая лексема при переходе «письмо — письмом»? Да или нет.",
+          "answer": "нет",
+          "ex": "Это падежная форма.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «учительница» от «учитель»? Впишите способ.",
+          "answer": "суффиксальный",
+          "ex": "Добавлен суффикс женского наименования.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «прочитать» от «читать»? Впишите способ.",
+          "answer": "приставочный",
+          "ex": "Добавлена про-.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.derivation-methods.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Как образовано «дописать» от «писать»? Впишите способ.",
+          "answer": "приставочный",
+          "ex": "Добавлена до-.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «грибник» от «гриб»? Впишите способ.",
+          "answer": "суффиксальный",
+          "ex": "Добавлен -ник-.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «безрукавка» от «рукав» в школьном сопоставлении? Впишите способ.",
+          "answer": "приставочно-суффиксальный",
+          "ex": "Добавлены без- и -к-.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «пароход» от основ пар- и ход-? Впишите способ одним существительным.",
+          "answer": "сложение",
+          "ex": "Соединены основы с соединительной гласной.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «ООН» от «Организация Объединённых Наций»? Одним существительным.",
+          "answer": "аббревиация",
+          "ex": "Сокращены начальные буквы.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Появилась ли новая лексема при переходе «поляна — поляны»? Да или нет.",
+          "answer": "нет",
+          "ex": "Это форма числа или падежа.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «рыбка» от «рыба»? Впишите способ.",
+          "answer": "суффиксальный",
+          "ex": "Добавлен -к-.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "raw": "Как образовано «отнести» от «нести»? Впишите способ.",
+          "answer": "приставочный",
+          "ex": "Добавлена от-.",
+          "id": "ru.word-formation.derivation-methods.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.word-formation.derivation-methods.foundation"
         }
       ]

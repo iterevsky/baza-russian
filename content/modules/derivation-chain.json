@@ -34,7 +34,8 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.word-formation.derivation-chain.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.word-formation.derivation-chain.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "чистить",
           "ex": "чистить. Промежуточное слово должно объяснять обе соседние ступени.",
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.word-formation.derivation-chain.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "В цепочке «читать → читатель → читательский» назовите ближайшую базу последнего слова.",
+          "answer": "читатель",
+          "ex": "Прилагательное относится к читателю.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "В цепочке «лес → лесник → лесников» (притяжательное прилагательное) назовите ближайшую базу последнего слова.",
+          "answer": "лесник",
+          "ex": "Притяжательное прилагательное обозначает принадлежность леснику.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "В цепочке «учить → учитель → учительский» назовите ближайшую базу прилагательного.",
+          "answer": "учитель",
+          "ex": "Последний шаг образует относительное прилагательное.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "В предполагаемой цепочке «гриб → грибник → грибница» верно ли последнее звено, если грибница означает мицелий? Да или нет.",
+          "answer": "нет",
+          "ex": "Грибница связана с грибом, не обязательно с собирателем грибов.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "Как называется группа однокоренных слов, связанных отношениями производности: гнездо или падеж?",
+          "answer": "гнездо",
+          "ex": "Она включает разные ветви производности.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "В цепочке «писать → писатель → писательница» назовите ближайшую базу последнего слова.",
+          "answer": "писатель",
+          "ex": "Женское наименование мотивировано названием лица.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "Является ли «столами» самостоятельным звеном словообразовательной цепочки от «стол»? Да или нет.",
+          "answer": "нет",
+          "ex": "Это грамматическая форма.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "В цепочке «спорт → спортсмен → спортсменка» назовите ближайшую базу последнего слова.",
+          "answer": "спортсмен",
+          "ex": "На последнем шаге образовано женское наименование.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.derivation-chain.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "В цепочке «сад → садовник → садовница» назовите ближайшую базу последнего слова.",
+          "answer": "садовник",
+          "ex": "Производное название лица соотносится с садовником.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "Заполните звено: «школа → школьник → ...» (название девочки, учащейся в школе).",
+          "answer": "школьница",
+          "ex": "Производное женское наименование.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "В цепочке «работать → работник → работница» назовите ближайшую базу последнего слова.",
+          "answer": "работник",
+          "ex": "Последняя лексема образована от названия лица.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "Всегда ли два однокоренных слова являются соседними звеньями одной цепочки? Да или нет.",
+          "answer": "нет",
+          "ex": "Гнездо может иметь независимые ветви.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "В цепочке «журнал → журналист → журналистка» назовите ближайшую базу последнего слова.",
+          "answer": "журналист",
+          "ex": "Последний шаг образует женское наименование.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "В цепочке «город → городской» число словообразовательных шагов какое? Цифрами.",
+          "answer": "1",
+          "ex": "Одно отношение производности.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "Является ли «читаешь» новой лексемой по отношению к «читать»? Да или нет.",
+          "answer": "нет",
+          "ex": "Это форма глагола.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.derivation-chain.foundation"
+        },
+        {
+          "raw": "В цепочке «музыка → музыкант → музыкантский» назовите ближайшую базу последнего слова.",
+          "answer": "музыкант",
+          "ex": "Прилагательное мотивировано существительным музыкант.",
+          "id": "ru.word-formation.derivation-chain.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.word-formation.derivation-chain.foundation"
         }
       ]

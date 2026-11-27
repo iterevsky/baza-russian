@@ -34,7 +34,8 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.word-formation.morpheme-alternations.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.word-formation.morpheme-alternations.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "г/ж",
           "ex": "г/ж. Сравните конкретный сегмент в морфеме, а не окончание.",
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.word-formation.morpheme-alternations.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Какая буква чередуется с к в корне пары «рука — ручной»? Одной буквой.",
+          "answer": "ч",
+          "ex": "Корни рук-/руч-.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Какая буква чередуется с г в корне пары «друг — дружить»?",
+          "answer": "ж",
+          "ex": "Корни друг-/друж-.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Какая буква чередуется с х в корне пары «ухо — ушной»?",
+          "answer": "ш",
+          "ex": "Корни ух-/уш-.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Какая буква чередуется с д в паре «ходить — хожу»?",
+          "answer": "ж",
+          "ex": "Корни ход-/хож-.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Какая буква чередуется с т в паре «свет — свеча» в школьном сопоставлении?",
+          "answer": "ч",
+          "ex": "Корни свет-/свеч-.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Есть ли чередование букв корня в паре «дуб — дубы»? Да или нет.",
+          "answer": "нет",
+          "ex": "Буква б сохраняется, звук меняется позиционно.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "В паре «собрать — соберу» выпишите гласную корня в слове «соберу».",
+          "answer": "е",
+          "ex": "В корне -бер- есть е; в -бр- гласной нет, о принадлежит приставке.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Может ли чередование менять облик корня без потери родства? Да или нет.",
+          "answer": "да",
+          "ex": "Например, снег — снежный.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.morpheme-alternations.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Какая буква чередуется с к в паре «пекарь — печь» (глагол)?",
+          "answer": "ч",
+          "ex": "Корень пек-/печ-.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Какая буква чередуется с г в паре «берег — бережок»?",
+          "answer": "ж",
+          "ex": "Корни берег-/береж-.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Какая буква чередуется с х в паре «смех — смешной»?",
+          "answer": "ш",
+          "ex": "Корни смех-/смеш-.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Какая буква чередуется с с в паре «носить — ношу»?",
+          "answer": "ш",
+          "ex": "Корни нос-/нош-.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Какая буква чередуется с з в паре «возить — вожу»?",
+          "answer": "ж",
+          "ex": "Корни воз-/вож-.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Есть ли смена букв корня в паре «плод — плоды»? Да или нет.",
+          "answer": "нет",
+          "ex": "Конечное оглушение не меняет запись корня.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Какой гласный появляется в корне при переходе от «сон» к «сны»? Впишите нет, если гласный исчезает.",
+          "answer": "нет",
+          "ex": "О в корне сон-/сн- выпадает.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "raw": "Можно ли проверять безударную гласную в «вырастать» словом «рос» по обычному правилу проверяемого корня? Да или нет.",
+          "answer": "нет",
+          "ex": "Для раст/ращ/рос действует особое правило.",
+          "id": "ru.word-formation.morpheme-alternations.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.word-formation.morpheme-alternations.foundation"
         }
       ]

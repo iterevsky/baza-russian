@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.38.0";
-const DIGEST="6e20340740f6cda2995e3d38";
+const RELEASE="0.39.0";
+const DIGEST="4ec2ebe61ce874bf80b48540";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -112,11 +112,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/derivation-chain.json",
-    "8163a509ed176164485d693beda778467a6d963c53b3ae9a730a056b536005c4"
+    "aaebe1677c28b9108f0065f15b48d5d20f790397f14467b4361265905f3b9f2c"
   ],
   [
     "content/lessons/derivation-methods.json",
-    "2cba1c55e2e7bf2c6a966a0281c9e2646d11cd664103c81e1161e36ed90b957d"
+    "b138b695278f3633f51c85adea24a9e62a6688e438e63d4f631ba75b18cca0e0"
   ],
   [
     "content/lessons/detached-circumstances.json",
@@ -128,7 +128,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/dictionary-method.json",
-    "6f8dfd9036eb34084f41e339abb04bf23a3657976e5eef697745ce6eb329d3f1"
+    "0e9856cf617a08e0e0180861c7fd383c058354569c284dbeb41c93330132032a"
   ],
   [
     "content/lessons/dictionary-vocabulary.json",
@@ -256,15 +256,15 @@ const ASSETS=[
   ],
   [
     "content/lessons/language-levels.json",
-    "fa9d212732c910bd0f5773d038d97b0f415cbd72b724dad5a98a089e06d19896"
+    "e3d11d7af45f5bbdc7852b397b69cdbde54da876f9f79df76d5eff1fded81dbf"
   ],
   [
     "content/lessons/language-norm.json",
-    "acd9842ade86786688f74b17dfd069cb7f75d7ac03de8d4152f8f95102a3c3ad"
+    "6e43f0118d6e4c69a1eea1b9866ea33be563afcaea3921462a2345240371b04a"
   ],
   [
     "content/lessons/language-speech-text.json",
-    "1e0465a2c9e02e768cad00cb62ac461cc41c64b0d2a83eec3e861eabfcae1fd9"
+    "aee729cfa2f503540e69b81de03f24e348872a731adc1734361b44d10cbb7a73"
   ],
   [
     "content/lessons/lexical-layers.json",
@@ -292,11 +292,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/morpheme-alternations.json",
-    "2f5e126df30910e25c004a2f5d90279a65e4234af67d725b68c2f1b3987280b4"
+    "ff2fc8d8787a82a747e83d07cd9772bf5eebc7397de1f9f9179da8caec356289"
   ],
   [
     "content/lessons/morpheme-types.json",
-    "b67157cce8533451233b6b5686db2d0a4cd1d46426690c5f76244977926e406e"
+    "c7b9fb0cb2bd0d12941de33639516f4843ef0c82ffffb77b9c5ca8669eae4534"
   ],
   [
     "content/lessons/morphological-analysis.json",
@@ -384,7 +384,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/pronunciation-combinations.json",
-    "7f730a7f8a291210cd9560ba7e9c49da48d51e0b032a08c9e1f4d949aa8dc2d8"
+    "a29fba2f81b5385b836075f9e804c0b688a32d0d46b173bc8629c2a41e0968f6"
   ],
   [
     "content/lessons/proofreading-typography.json",
@@ -464,11 +464,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/sound-changes.json",
-    "1d3dbae0366454e1a4ca1427f4066784dfa3333ad2f4036b2a9d28df7370dfb8"
+    "d5f0d7a1d34ece79c096843b0902bf2f5e74e72472313bc2279b32c68e8e475d"
   ],
   [
     "content/lessons/sounds-letters.json",
-    "9074d624a3430bd7f48462ac6c7eb2cab99a767201c23841c53a3c5cf0dc4fe8"
+    "70e169b14ab26edcf7f569c5d95f2590121cd1dd609c04c55f47f33aa70f061f"
   ],
   [
     "content/lessons/speech-errors.json",
@@ -484,7 +484,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/stress-variants.json",
-    "bae20c19772c8b621f134d57036be95618b68c2a84e6abab44c215deffc6f67d"
+    "2642f4bbf65c75cc6dd0ff59da3c36cd42632ddb3048a0d2f29e0c33ee458e60"
   ],
   [
     "content/lessons/subject-predicate-agreement.json",
@@ -512,7 +512,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/syllable-stress.json",
-    "874c12c96312f0f7bb48b43b785e2994f456fb4b390a050aa04595deeb7710ff"
+    "0606e98163fb7f79d4ea60cfe4823beb6ce1db2caea19c1a08b5a2b8e83648df"
   ],
   [
     "content/lessons/text-cohesion.json",
@@ -548,7 +548,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/vowels-consonants.json",
-    "62ee8dabcc87bd8708df91d9d3d61f10075273de55afa4fbe94c2a0e6749a4b9"
+    "a9022bbd7695d4304826e89490b76c8c00db40a570f18d220fe4d56f793047cf"
   ],
   [
     "content/lessons/word-boundaries.json",
@@ -556,11 +556,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/word-family.json",
-    "ec8b69a9488ddd07c74acfd84eea3bd839e673c0152c74b7cb1f411404e5af90"
+    "4cbe869269e89f057c689ffe52cb3227d44c6bba8e947edb9e8e5d76e2593571"
   ],
   [
     "content/lessons/word-stem.json",
-    "e618899a4a34dbaa560321e88a988967e2b3a40b41e06768136092b509c5cced"
+    "a0aa18f3473630de4fac6ee60683905d3bb420c23fcbb61f44ba2ddfcacddae5"
   ],
   [
     "content/lessons/writing-reforms.json",
@@ -624,11 +624,11 @@ const ASSETS=[
   ],
   [
     "content/modules/derivation-chain.json",
-    "a562deffcc710e3ab09bc72bf39150e624b1a5047a57a82bfef5c926c9b8ee47"
+    "88bb0c6b543a57b55c5e813430109716792e5cc37931cf984443d2b81d205d69"
   ],
   [
     "content/modules/derivation-methods.json",
-    "c29924a6c8fc325158be3d318b60ae055201059df2797edb70bc1fcddb34093d"
+    "5816c3c13388b457f87b9162f4e770ba1c71c9d3a93901ddc8cdd1e99d6ab89c"
   ],
   [
     "content/modules/detached-punctuation.json",
@@ -636,7 +636,7 @@ const ASSETS=[
   ],
   [
     "content/modules/dictionary-method.json",
-    "a06c8966a432b14a17772dc408e15230805e875e02f90265922d7d7f3b3b7b50"
+    "1530f5a0420606bacdf4fd9b260f508c4a989017fd1c5613ebe7eca46130ab87"
   ],
   [
     "content/modules/dictionary-vocabulary.json",
@@ -704,15 +704,15 @@ const ASSETS=[
   ],
   [
     "content/modules/language-levels.json",
-    "d9d09ba97c6dc934dbb3bf7ec7764338e980a2ac382cb1237a0b4a899f8d9d32"
+    "51d272c6611cadd59557df0339be87870873d5ea18a6d497f7add121da645fd8"
   ],
   [
     "content/modules/language-norm.json",
-    "ae510eccabadadc9f3700a833e4789e3a13438452656988de05a44a6927ecf15"
+    "0757e0a6aee322f07e22b5d06db665b70f60404f582c97543c97701f2cc53157"
   ],
   [
     "content/modules/language-speech-text.json",
-    "d523b4844da8e715607e437af3e077793c41228e9fbf8d0b074bf1f4794235db"
+    "87a17f9d3ea516ab143b82ca5f346a4ccce786eae08634294d548bdc16c1faf8"
   ],
   [
     "content/modules/lexical-layers.json",
@@ -744,11 +744,11 @@ const ASSETS=[
   ],
   [
     "content/modules/morpheme-alternations.json",
-    "63c2ce68d0b5509bc52718bd423eb52b6b044d8b8a98baad81d2e83756d519c3"
+    "e5b403c2cce41135d9cc1ade0ef6e41b4899d806999995664928c3e25f0e0f73"
   ],
   [
     "content/modules/morpheme-types.json",
-    "69f0a85b124ed40e986b850d18f2d04642c1230029747ca2edfd39f7b2ab86bc"
+    "5ec7ea9a985a57b94c14245da937fb61009522b9e6fd9af3cdd6b8bc0343c9e0"
   ],
   [
     "content/modules/morphological-analysis.json",
@@ -824,7 +824,7 @@ const ASSETS=[
   ],
   [
     "content/modules/pronunciation-combinations.json",
-    "50627580df1b302084b1d34cd04bbfe165c53ae09f72b57eb3f9fdf346319f52"
+    "df56a05193a0d046f433fc91a93702867728b8b5165eeb16eaf96b006045b278"
   ],
   [
     "content/modules/proofreading-typography.json",
@@ -908,11 +908,11 @@ const ASSETS=[
   ],
   [
     "content/modules/sound-changes.json",
-    "63e4b10be4baff986908682a6bf23de5da39a24a8b0313aafa173aab64315dd1"
+    "79082cd63b7d7826dbe7d94f359fbabe5601c385e07ae9e62cb263fedbea09db"
   ],
   [
     "content/modules/sounds-letters.json",
-    "8b3babf6798e5354c6d37e3904b9eb89ae9ce7525d915bf2bd0270e94a6e4d19"
+    "56fac1f435f32bdaf2ee8c0f011fbc95bd922c7b2707267058d00cf4e1fface7"
   ],
   [
     "content/modules/speech-errors.json",
@@ -924,7 +924,7 @@ const ASSETS=[
   ],
   [
     "content/modules/stress-variants.json",
-    "570b8ea957b4ebae49ac3b382968b0f6eb8323e58aeb805c23216d1d9841629e"
+    "08b5f24afdb748d6bac662207b35c4a31ada464457bc42589d5d3ba89a764c5c"
   ],
   [
     "content/modules/subject-predicate-agreement.json",
@@ -940,7 +940,7 @@ const ASSETS=[
   ],
   [
     "content/modules/syllable-stress.json",
-    "bde6eb44a5451a7a56ee91cb0d1ae9eb9c0edf9ec0823f554bbf6f11bf1751bb"
+    "361ce744ede039d5fd408adf8ba77e86bd143a922eebb68d922093d05488e1fb"
   ],
   [
     "content/modules/text-cohesion.json",
@@ -976,7 +976,7 @@ const ASSETS=[
   ],
   [
     "content/modules/vowels-consonants.json",
-    "9daa9ece7a02e804c003ae8839930ffea1fd5e6c3ab150bbee13954955d20ee6"
+    "a475733296f35c27bb804fa16dd052448cf4cc07e21b70ce676bb616b8076c40"
   ],
   [
     "content/modules/word-boundaries.json",
@@ -984,11 +984,11 @@ const ASSETS=[
   ],
   [
     "content/modules/word-family.json",
-    "05651437587048ea6f8e9184dfb185eedcb8e6f5a7f87e9a25c2b1239dd2d721"
+    "2c68c1badcf85da3f1318bf05a2dfc39bf477d32688705afcf70452d0efc6b7c"
   ],
   [
     "content/modules/word-stem.json",
-    "36a2d4deebde497adddd4d4f34a5eeef1ddef2170e4595fb3b3db300d248429f"
+    "948976e88d139b9809053058272ad0adcf29c3cd5b8820a749a7e6edc520633a"
   ],
   [
     "content/modules/writing-reforms.json",
@@ -996,7 +996,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "872af07bafb8467500ff1ad5effd4c611f26040acefcaecd68d4b8569dddec09"
+    "f5a45a70f64b91ba64d3637ee8417958162d1994d041018f70c7605668d6e4c6"
   ],
   [
     "content/tips.json",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "4ac974f8b4ba372e6a43cb36064c35891eeab077137ade9c58065fd6929d722e"
+    "e8e2ea3badba0cf869e54a3223217f7fd8a83797bc4028056c0bcf3c564fccd7"
   ],
   [
     "manifest.webmanifest",
@@ -1032,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "27913bc7988865fa6a2db21b1252f6e4221477ff512f4ae63f532fb4fa851ac8"
+    "de2d0702293133fb987340cee9121a69c5cc9a6843b75610948c4bc73df07d74"
   ],
   [
     "src/core/assessment.js",

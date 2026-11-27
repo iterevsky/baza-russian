@@ -34,7 +34,8 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.word-formation.word-stem.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.word-formation.word-stem.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "отсутствует",
           "ex": "отсутствует. Сопоставление с другими формами позволяет установить наличие и выраженность окончания.",
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.word-formation.word-stem.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Выпишите окончание формы «берёзами» без дефиса.",
+          "answer": "ами",
+          "ex": "Сравните берёза, берёзы, берёзами.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "Выпишите основу формы «липы» (им. п. мн. ч.).",
+          "answer": "лип",
+          "ex": "Окончание -ы.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "В форме «шкаф» (им. п. ед. ч.) окончание нулевое или отсутствует?",
+          "answer": "нулевое",
+          "ex": "Сравните шкафа, шкафу.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "В слове «метро» окончание нулевое или отсутствует?",
+          "answer": "отсутствует",
+          "ex": "Несклоняемое существительное.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "Выпишите окончание в форме «сестре». Без дефиса.",
+          "answer": "е",
+          "ex": "Сравните сестра, сестру, сестре.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "Выпишите основу формы «морской» (им. п. ед. ч. м. р.).",
+          "answer": "морск",
+          "ex": "Окончание -ой.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "В форме «ночь» (им. п. ед. ч.) окончание нулевое или отсутствует?",
+          "answer": "нулевое",
+          "ex": "Сравните ночи, ночью; ь относится к записи основы.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "В слове «завтра» окончание нулевое или отсутствует?",
+          "answer": "отсутствует",
+          "ex": "Наречие неизменяемо.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.word-stem.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Выпишите окончание формы «озером» без дефиса.",
+          "answer": "ом",
+          "ex": "Сравните озеро, озера, озером.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "Выпишите основу формы «дубы».",
+          "answer": "дуб",
+          "ex": "Окончание -ы.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "В форме «мост» (им. п. ед. ч.) окончание нулевое или отсутствует?",
+          "answer": "нулевое",
+          "ex": "В других формах оно выражено звуками.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "В слове «такси» окончание нулевое или отсутствует?",
+          "answer": "отсутствует",
+          "ex": "Слово несклоняемое.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "Выпишите окончание формы «землю». Без дефиса.",
+          "answer": "ю",
+          "ex": "Показатель винительного падежа.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "Выпишите основу формы «сосновый».",
+          "answer": "соснов",
+          "ex": "Окончание -ый.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "В форме «степь» (им. п. ед. ч.) окончание нулевое или отсутствует?",
+          "answer": "нулевое",
+          "ex": "Сравните степи, степью.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.word-stem.foundation"
+        },
+        {
+          "raw": "В слове «слева» окончание нулевое или отсутствует?",
+          "answer": "отсутствует",
+          "ex": "Наречие не изменяется.",
+          "id": "ru.word-formation.word-stem.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.word-formation.word-stem.foundation"
         }
       ]

@@ -34,7 +34,8 @@
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
           "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.phonetics.pronunciation-combinations.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "твёрдость",
           "ex": "Мягкость была бы обозначена специальным знаком.",
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Какое сочетание слышится в начале слова «что»? Запишите двумя буквами.",
+          "answer": "шт",
+          "ex": "Традиционное произношение не совпадает с буквами чт.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует г в окончании слова «синего»? Одной буквой.",
+          "answer": "в",
+          "ex": "В окончании -его прилагательного произносится [в].",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "В слове «точный» сочетание чн обычно произносится как чн или шн?",
+          "answer": "чн",
+          "ex": "Особое произношение некоторых слов не является общим правилом.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует г в слове «моего»? Одной буквой.",
+          "answer": "в",
+          "ex": "В родительном падеже местоимения -его произносится с [в].",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Какой согласный не произносится в слове «солнце»? Одной буквой.",
+          "answer": "л",
+          "ex": "Сочетание лнц упрощается.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Какой согласный не произносится в слове «сердце»? Одной буквой.",
+          "answer": "д",
+          "ex": "Группа рдц упрощается.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Можно ли выводить твёрдость перед е во всех заимствованиях только из написания? Да или нет.",
+          "answer": "нет",
+          "ex": "Нужна проверка конкретного слова.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Какой словарь нужен для проверки твёрдости согласного перед е в заимствованном слове? Впишите название типа без слова словарь.",
+          "answer": "орфоэпический",
+          "ex": "Произношение регулируется орфоэпией.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Какой звук соответствует г в окончании слова «нового»? Одной буквой.",
+          "answer": "в",
+          "ex": "Это традиционное произношение окончания -ого.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует букве ч в слове «конечно» в обычном литературном произношении? Одной буквой.",
+          "answer": "ш",
+          "ex": "Традиционное сочетание [шн].",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Какой согласный не произносится в слове «поздний»? Одной буквой.",
+          "answer": "д",
+          "ex": "В группе здн происходит выпадение.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Какой согласный не произносится в слове «честный»? Одной буквой.",
+          "answer": "т",
+          "ex": "Группа стн упрощается.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "В слове «вечный» сочетание чн произносится как чн или шн?",
+          "answer": "чн",
+          "ex": "Сохраняется обычное произношение чн.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Какой звук соответствует г в окончании слова «белого»? Одной буквой.",
+          "answer": "в",
+          "ex": "В -ого прилагательного г передаёт [в].",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Следует ли заменять г на в на письме в окончании слова «доброго»? Да или нет.",
+          "answer": "нет",
+          "ex": "Орфографическая норма сохраняет г.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "raw": "Какой согласный не произносится в слове «праздник»? Одной буквой.",
+          "answer": "д",
+          "ex": "В группе здн происходит упрощение.",
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
         }
       ]

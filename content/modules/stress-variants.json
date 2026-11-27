@@ -34,7 +34,8 @@
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
           "lessonId": "ru.phonetics.stress-variants.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.phonetics.stress-variants.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "нет",
           "ex": "Она помогает помнить конкретные слова.",
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.phonetics.stress-variants.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Номер ударного слога в слове «каталог». Цифрами.",
+          "answer": "3",
+          "ex": "Катало́г.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «договор» (им. п. ед. ч.). Цифрами.",
+          "answer": "3",
+          "ex": "Догово́р.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «жалюзи». Цифрами.",
+          "answer": "3",
+          "ex": "Жалюзи́.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «квартал». Цифрами.",
+          "answer": "2",
+          "ex": "Кварта́л.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «шарфы». Цифрами.",
+          "answer": "1",
+          "ex": "Ша́рфы.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «банты». Цифрами.",
+          "answer": "1",
+          "ex": "Ба́нты.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «торты». Цифрами.",
+          "answer": "1",
+          "ex": "То́рты.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «звонит». Цифрами.",
+          "answer": "2",
+          "ex": "Звони́т.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.stress-variants.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Номер ударного слога в слове «красивее». Цифрами.",
+          "answer": "2",
+          "ex": "Краси́вее.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «досуг». Цифрами.",
+          "answer": "2",
+          "ex": "Досу́г.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «свёкла». Цифрами.",
+          "answer": "1",
+          "ex": "Свёкла.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «цемент». Цифрами.",
+          "answer": "2",
+          "ex": "Цеме́нт.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «ремень». Цифрами.",
+          "answer": "2",
+          "ex": "Реме́нь.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «кухонный». Цифрами.",
+          "answer": "1",
+          "ex": "Ку́хонный.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «облегчить». Цифрами.",
+          "answer": "3",
+          "ex": "Облегчи́ть.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.stress-variants.foundation"
+        },
+        {
+          "raw": "Номер ударного слога в слове «начала» (она начала работу). Цифрами.",
+          "answer": "3",
+          "ex": "Начала́.",
+          "id": "ru.phonetics.stress-variants.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.phonetics.stress-variants.foundation"
         }
       ]

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.word-formation.morpheme-types",
+  "title": "Корень, приставка, суффикс, окончание и постфикс (базовый контроль)",
+  "moduleNumber": "03.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.word-formation.morpheme-types.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+    "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+  },
+  "variants": [
+    {
+      "id": "ru.word-formation.morpheme-types.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.morpheme-types.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Назовите указанную морфему (термин: корень, приставка, суффикс, окончание, постфикс).\n-ом в окном",
+          "answer": "окончание",
+          "ex": "окончание. Положение и функция выделенного элемента определяют тип морфемы.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "id": "ru.word-formation.morpheme-types.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Назовите указанную морфему (термин: корень, приставка, суффикс, окончание, постфикс).\nот- в отлететь",
+          "answer": "приставка",
+          "ex": "приставка. Положение и функция выделенного элемента определяют тип морфемы.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.morpheme-types.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.morpheme-types.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Назовите указанную морфему (термин: корень, приставка, суффикс, окончание, постфикс).\n-сь в улыбнулась",
+          "answer": "постфикс",
+          "ex": "постфикс. Положение и функция выделенного элемента определяют тип морфемы.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "id": "ru.word-formation.morpheme-types.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Назовите указанную морфему (термин: корень, приставка, суффикс, окончание, постфикс).\n-ость- в смелость",
+          "answer": "суффикс",
+          "ex": "суффикс. Положение и функция выделенного элемента определяют тип морфемы.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        }
+      ]
+    }
+  ]
+}

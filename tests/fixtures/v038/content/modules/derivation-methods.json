@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.word-formation.derivation-methods",
+  "title": "Способы словообразования (базовый контроль)",
+  "moduleNumber": "03.05",
+  "status": "draft",
+  "lessonIds": [
+    "ru.word-formation.derivation-methods.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+    "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+  },
+  "variants": [
+    {
+      "id": "ru.word-formation.derivation-methods.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.derivation-methods.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Укажите способ в заданной паре: приставочный, суффиксальный, приставочно-суффиксальный, сложение, переход.\nптица + фабрика → птицефабрика",
+          "answer": "сложение",
+          "ex": "сложение. Анализируйте только указанную ступень мотивации.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "id": "ru.word-formation.derivation-methods.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Укажите способ в заданной паре: приставочный, суффиксальный, приставочно-суффиксальный, сложение, переход.\nгостиная комната → гостиная (помещение)",
+          "answer": "переход",
+          "ex": "переход. Анализируйте только указанную ступень мотивации.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.derivation-methods.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.derivation-methods.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Укажите способ в заданной паре: приставочный, суффиксальный, приставочно-суффиксальный, сложение, переход.\nехать → выехать",
+          "answer": "приставочный",
+          "ex": "приставочный. Анализируйте только указанную ступень мотивации.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        },
+        {
+          "id": "ru.word-formation.derivation-methods.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Укажите способ в заданной паре: приставочный, суффиксальный, приставочно-суффиксальный, сложение, переход.\nтрактор → тракторист",
+          "answer": "суффиксальный",
+          "ex": "суффиксальный. Анализируйте только указанную ступень мотивации.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.derivation-methods.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -34,7 +34,8 @@
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
           "lessonId": "ru.word-formation.morpheme-types.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.word-formation.morpheme-types.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "суффикс",
           "ex": "суффикс. Положение и функция выделенного элемента определяют тип морфемы.",
           "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.word-formation.morpheme-types.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Как называется часть пере- в слове «перечитать»?",
+          "answer": "приставка",
+          "ex": "Она предшествует корню и меняет значение действия.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется часть -ость в слове «смелость»?",
+          "answer": "суффикс",
+          "ex": "Она образует существительное от прилагательного.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется часть -ами в форме «столами»?",
+          "answer": "окончание",
+          "ex": "Она выражает творительный падеж множественного числа.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется часть -ся в форме «умывается»?",
+          "answer": "постфикс",
+          "ex": "Она располагается после окончания.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Выпишите корень в ряду «сад, садик, садовый». Без дефисов.",
+          "answer": "сад",
+          "ex": "Общий элемент значения и формы.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется -л- в форме «читал» по школьной модели?",
+          "answer": "суффикс",
+          "ex": "Это формообразующий показатель прошедшего времени.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется часть без- в слове «безвредный»?",
+          "answer": "приставка",
+          "ex": "Она располагается перед корнем.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Может ли суффикс выполнять формообразующую функцию? Да или нет.",
+          "answer": "да",
+          "ex": "Например, -л- прошедшего времени.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.morpheme-types.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Как называется часть под- в слове «подписать»?",
+          "answer": "приставка",
+          "ex": "Предшествует корню.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется часть -ик- в слове «домик»?",
+          "answer": "суффикс",
+          "ex": "Образует уменьшительное существительное.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется часть -ой в форме «сосной»?",
+          "answer": "окончание",
+          "ex": "Показатель творительного падежа единственного числа.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется часть -сь в форме «вернулась»?",
+          "answer": "постфикс",
+          "ex": "Стоит после окончания.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Выпишите корень в ряду «лес, лесник, лесной». Без дефисов.",
+          "answer": "лес",
+          "ex": "Он объединяет родственные слова.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется часть -ник в слове «школьник»?",
+          "answer": "суффикс",
+          "ex": "Образует название лица.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется часть от- в слове «отплыть»?",
+          "answer": "приставка",
+          "ex": "Располагается перед корнем.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.word-formation.morpheme-types.foundation"
+        },
+        {
+          "raw": "Как называется часть -у в форме «книгу»?",
+          "answer": "окончание",
+          "ex": "Выражает винительный падеж единственного числа.",
+          "id": "ru.word-formation.morpheme-types.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.word-formation.morpheme-types.foundation"
         }
       ]

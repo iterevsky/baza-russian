@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.phonetics.pronunciation-combinations",
+  "title": "Произношение сочетаний и заимствований (базовый контроль)",
+  "moduleNumber": "02.05",
+  "status": "draft",
+  "lessonIds": [
+    "ru.phonetics.pronunciation-combinations.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Фонетика и графика: е в заимствованиях; словарь произношения",
+    "url": "https://irgali.narod.ru/files/litnevskaia_fonetika.htm"
+  },
+  "variants": [
+    {
+      "id": "ru.phonetics.pronunciation-combinations.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«Вечный»: сочетание чн или шн? Введите чн или шн.",
+          "answer": "чн",
+          "ex": "Обычное произношение [ч’н].",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«Почтальон»: сочетание чт или шт? Введите чт или шт.",
+          "answer": "чт",
+          "ex": "Произносится с ч.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.pronunciation-combinations.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "«Уличный»: сочетание чн или шн? Введите чн или шн.",
+          "answer": "чн",
+          "ex": "Произносится с ч.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        },
+        {
+          "id": "ru.phonetics.pronunciation-combinations.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "В словарной статье [рэ] указывает твёрдость или мягкость р?",
+          "answer": "твёрдость",
+          "ex": "Мягкость была бы обозначена специальным знаком.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.pronunciation-combinations.foundation"
+        }
+      ]
+    }
+  ]
+}

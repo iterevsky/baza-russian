@@ -34,7 +34,8 @@
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
           "lessonId": "ru.phonetics.vowels-consonants.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.phonetics.vowels-consonants.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "нет",
           "ex": "Ч мягкий непарный.",
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.phonetics.vowels-consonants.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Звук [ф] звонкий или глухой?",
+          "answer": "глухой",
+          "ex": "Шумный согласный без участия голоса.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Назовите парный звонкий к [т] (одной буквой без скобок).",
+          "answer": "д",
+          "ex": "Пара различается участием голоса.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Звук [ч’] твёрдый или мягкий?",
+          "answer": "мягкий",
+          "ex": "В школьной модели он непарный мягкий.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Звук [ц] твёрдый или мягкий?",
+          "answer": "твёрдый",
+          "ex": "Обычно непарный твёрдый.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Звук [м] сонорный или шумный?",
+          "answer": "сонорный",
+          "ex": "В его образовании голос преобладает над шумом.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Сколько гласных звуков в слове «картина» при обычном произношении? Цифрами.",
+          "answer": "3",
+          "ex": "Три слоговые вершины.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Какой согласный парный глухой к [з] (одной буквой)?",
+          "answer": "с",
+          "ex": "Разница в звонкости.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Есть ли у [й’] парный твёрдый согласный? Да или нет.",
+          "answer": "нет",
+          "ex": "Он непарный мягкий.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.vowels-consonants.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Звук [в] звонкий или глухой вне оглушающей позиции?",
+          "answer": "звонкий",
+          "ex": "В основной реализации он звонкий шумный.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Какой согласный парный глухой к [г] (одной буквой)?",
+          "answer": "к",
+          "ex": "Звуки различаются звонкостью.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Звук [ш] твёрдый или мягкий в обычном русском произношении?",
+          "answer": "твёрдый",
+          "ex": "В школьной классификации непарный твёрдый.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Звук [щ’] твёрдый или мягкий?",
+          "answer": "мягкий",
+          "ex": "Непарный мягкий.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Звук [р] сонорный или шумный?",
+          "answer": "сонорный",
+          "ex": "Голос преобладает над шумом.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Сколько гласных звуков в слове «парусник»? Цифрами.",
+          "answer": "3",
+          "ex": "А, у, и соответствуют трём слогам.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Какой согласный парный звонкий к [п] (одной буквой)?",
+          "answer": "б",
+          "ex": "Это пара по звонкости.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "raw": "Может ли звонкий согласный одновременно быть мягким? Да или нет.",
+          "answer": "да",
+          "ex": "Признаки независимы.",
+          "id": "ru.phonetics.vowels-consonants.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.phonetics.vowels-consonants.foundation"
         }
       ]

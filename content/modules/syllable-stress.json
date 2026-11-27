@@ -34,7 +34,8 @@
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
           "lessonId": "ru.phonetics.syllable-stress.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.phonetics.syllable-stress.module-exam.b",
@@ -56,6 +57,165 @@
           "answer": "3",
           "ex": "города́: ударение на слоге № 3.",
           "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.phonetics.syllable-stress.module-exam.r39-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Сколько слогов в слове «облако»? Цифрами.",
+          "answer": "3",
+          "ex": "Три гласные вершины.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-a.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Сколько слогов в слове «взгляд»? Цифрами.",
+          "answer": "1",
+          "ex": "Один гласный звук.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-a.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Какой по счёту слог ударный в слове «молоко»? Цифрами.",
+          "answer": "3",
+          "ex": "Молоко́.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-a.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Какой по счёту слог ударный в слове «берег» (суша у воды)? Цифрами.",
+          "answer": "1",
+          "ex": "Бе́рег.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-a.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Какой по счёту слог ударный в слове «письмо»? Цифрами.",
+          "answer": "2",
+          "ex": "Письмо́.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-a.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Какой по счёту слог ударный в слове «руки» (им. п. мн. ч.)? Цифрами.",
+          "answer": "1",
+          "ex": "Ру́ки.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-a.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Какой по счёту слог ударный в слове «рука»? Цифрами.",
+          "answer": "2",
+          "ex": "Рука́.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-a.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Совпадает ли всегда граница слога с допустимым переносом на письме? Да или нет.",
+          "answer": "нет",
+          "ex": "Перенос регулируется отдельными правилами.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-a.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.syllable-stress.module-exam.r39-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "raw": "Сколько слогов в слове «острова»? Цифрами.",
+          "answer": "3",
+          "ex": "Три гласных звука.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-b.01",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Сколько слогов в слове «шмель»? Цифрами.",
+          "answer": "1",
+          "ex": "Ь не добавляет гласный.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-b.02",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Какой по счёту слог ударный в слове «карандаш»? Цифрами.",
+          "answer": "3",
+          "ex": "Каранда́ш.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-b.03",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Какой по счёту слог ударный в слове «яблоко»? Цифрами.",
+          "answer": "1",
+          "ex": "Я́блоко.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-b.04",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Какой по счёту слог ударный в слове «моря» (им. п. мн. ч.)? Цифрами.",
+          "answer": "2",
+          "ex": "Моря́.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-b.05",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Какой по счёту слог ударный в слове «море»? Цифрами.",
+          "answer": "1",
+          "ex": "Мо́ре.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-b.06",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Может ли изменение ударения различать значения одинаково записанных слов? Да или нет.",
+          "answer": "да",
+          "ex": "Например, а́тлас и атла́с.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-b.07",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "raw": "Сколько слогов в слове «подъём»? Цифрами.",
+          "answer": "2",
+          "ex": "Ъ не является слоговой вершиной.",
+          "id": "ru.phonetics.syllable-stress.module-exam.r39-b.08",
+          "type": "written-answer",
+          "instruction": "Дайте краткий ответ по условию: слово, термин или число цифрами. Если предложены варианты, впишите выбранный вариант без кавычек.",
           "lessonId": "ru.phonetics.syllable-stress.foundation"
         }
       ]

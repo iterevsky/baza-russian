@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.word-formation.morpheme-alternations",
+  "title": "Чередования и изменения морфем (базовый контроль)",
+  "moduleNumber": "03.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.word-formation.morpheme-alternations.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+    "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+  },
+  "variants": [
+    {
+      "id": "ru.word-formation.morpheme-alternations.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.morpheme-alternations.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Назовите изменяющиеся элементы через косую черту без пробелов; отсутствие гласной обозначьте 0. Порядок как в паре.\nогонь / огня (вторая гласная)",
+          "answer": "о/0",
+          "ex": "о/0. Сравните конкретный сегмент в морфеме, а не окончание.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "id": "ru.word-formation.morpheme-alternations.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Назовите изменяющиеся элементы через косую черту без пробелов; отсутствие гласной обозначьте 0. Порядок как в паре.\nблестеть / блистать (гласная корня)",
+          "answer": "е/и",
+          "ex": "е/и. Сравните конкретный сегмент в морфеме, а не окончание.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.word-formation.morpheme-alternations.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.word-formation.morpheme-alternations.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Назовите изменяющиеся элементы через косую черту без пробелов; отсутствие гласной обозначьте 0. Порядок как в паре.\nсухой / сушить (согласные)",
+          "answer": "х/ш",
+          "ex": "х/ш. Сравните конкретный сегмент в морфеме, а не окончание.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        },
+        {
+          "id": "ru.word-formation.morpheme-alternations.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Назовите изменяющиеся элементы через косую черту без пробелов; отсутствие гласной обозначьте 0. Порядок как в паре.\nбегу / бежишь (согласные)",
+          "answer": "г/ж",
+          "ex": "г/ж. Сравните конкретный сегмент в морфеме, а не окончание.",
+          "instruction": "Введите ответ в указанном формате, строчными буквами; цифры и знаки используйте там, где это прямо требуется.",
+          "lessonId": "ru.word-formation.morpheme-alternations.foundation"
+        }
+      ]
+    }
+  ]
+}

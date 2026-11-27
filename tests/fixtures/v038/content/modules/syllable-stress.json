@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.phonetics.syllable-stress",
+  "title": "Слог и ударение (базовый контроль)",
+  "moduleNumber": "02.03",
+  "status": "draft",
+  "lessonIds": [
+    "ru.phonetics.syllable-stress.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру. Особенности русского словесного ударения",
+    "url": "https://gramota.ru/biblioteka/slovari/russkoe-slovesnoe-udarenie/osobennosti-russkogo-udareniya"
+  },
+  "variants": [
+    {
+      "id": "ru.phonetics.syllable-stress.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.syllable-stress.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«стекла» (жидкость стекла, глагол): укажите номер ударного слога от начала слова.",
+          "answer": "2",
+          "ex": "стекла́: ударение на слоге № 2.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "id": "ru.phonetics.syllable-stress.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«стёкла» (оконные, существительное): укажите номер ударного слога от начала слова.",
+          "answer": "1",
+          "ex": "стёкла: ударение на слоге № 1.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.syllable-stress.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.syllable-stress.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "«города» (нет города, родительный падеж): укажите номер ударного слога от начала слова.",
+          "answer": "1",
+          "ex": "го́рода: ударение на слоге № 1.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        },
+        {
+          "id": "ru.phonetics.syllable-stress.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "«города» (множественное число): укажите номер ударного слога от начала слова.",
+          "answer": "3",
+          "ex": "города́: ударение на слоге № 3.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.syllable-stress.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.phonetics.vowels-consonants",
+  "title": "Гласные и согласные (базовый контроль)",
+  "moduleNumber": "02.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.phonetics.vowels-consonants.foundation"
+  ],
+  "source": {
+    "title": "Е. И. Литневская. Фонетика и графика, звуки и буквы",
+    "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_1/"
+  },
+  "variants": [
+    {
+      "id": "ru.phonetics.vowels-consonants.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.vowels-consonants.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "[щ’] — твёрдый или мягкий?",
+          "answer": "мягкий",
+          "ex": "Мягкий непарный.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "id": "ru.phonetics.vowels-consonants.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Парный звонкий для [к]. Введите букву без скобок.",
+          "answer": "г",
+          "ex": "Пара [к]—[г].",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.phonetics.vowels-consonants.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.phonetics.vowels-consonants.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "[м] — звонкий или глухой?",
+          "answer": "звонкий",
+          "ex": "Сонорный звонкий непарный.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        },
+        {
+          "id": "ru.phonetics.vowels-consonants.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Есть ли твёрдая пара у [ч’]? Да или нет.",
+          "answer": "нет",
+          "ex": "Ч мягкий непарный.",
+          "instruction": "Впишите краткий ответ в формате, указанном в вопросе. Термины пишите строчными буквами; числа — цифрами.",
+          "lessonId": "ru.phonetics.vowels-consonants.foundation"
+        }
+      ]
+    }
+  ]
+}
