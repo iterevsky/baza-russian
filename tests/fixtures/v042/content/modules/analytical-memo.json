@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.argumentation.analytical-memo",
+  "title": "Аналитическая записка и объяснение сложного (базовый контроль)",
+  "moduleNumber": "12.05",
+  "status": "draft",
+  "lessonIds": [
+    "ru.argumentation.analytical-memo.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, научный стиль и точность",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+  },
+  "variants": [
+    {
+      "id": "ru.argumentation.analytical-memo.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.analytical-memo.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Что позволит воспроизвести рассчитанный показатель: формула и исходные данные или только итоговый цвет диаграммы?",
+          "answer": "формула и исходные данные",
+          "ex": "Для проверки нужны метод расчёта и его входные значения.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.analytical-memo.foundation"
+        },
+        {
+          "id": "ru.argumentation.analytical-memo.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Рекомендация «увеличить запас» дана без информации о сроках поставки. Что ещё надо проверить: сроки поставки или ударение в названии?",
+          "answer": "сроки поставки",
+          "ex": "Срок пополнения влияет на необходимый запас.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.analytical-memo.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.argumentation.analytical-memo.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.analytical-memo.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Объясняя термин через метафору, нужно ли уточнять, где аналогия перестаёт работать? Да или нет.",
+          "answer": "да",
+          "ex": "Сходство отдельных свойств не означает полного совпадения объектов.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.analytical-memo.foundation"
+        },
+        {
+          "id": "ru.argumentation.analytical-memo.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "В записке предлагается проверка на двух магазинах перед запуском во всей сети. Назовите тип действия: пилот или итоговый запуск.",
+          "answer": "пилот",
+          "ex": "Ограниченное испытание позволяет оценить решение до масштабирования.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.analytical-memo.foundation"
+        }
+      ]
+    }
+  ]
+}

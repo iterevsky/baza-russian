@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.stylistics.functional-styles",
+  "title": "Функциональные стили и жанры (базовый контроль)",
+  "moduleNumber": "11.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.stylistics.functional-styles.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, функциональные стили",
+    "url": "https://gramota.ru/spravka/vopros/250549"
+  },
+  "variants": [
+    {
+      "id": "ru.stylistics.functional-styles.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.functional-styles.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Если в романе цитируют приказ, весь роман становится документом? Ответьте да или нет.",
+          "answer": "нет",
+          "ex": "Встроенный жанр не определяет функцию целого текста.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.functional-styles.foundation"
+        },
+        {
+          "id": "ru.stylistics.functional-styles.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "В инструкции важнее последовательность действий или рифма? Ответ: последовательность / рифма.",
+          "answer": "последовательность",
+          "ex": "Пользователь должен выполнить действия в нужном порядке.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.functional-styles.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.stylistics.functional-styles.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.functional-styles.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Какой жанр фиксирует ход заседания: протокол / лирическое стихотворение?",
+          "answer": "протокол",
+          "ex": "Протокол документирует обсуждение и решения.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.functional-styles.foundation"
+        },
+        {
+          "id": "ru.stylistics.functional-styles.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Выберите основание для выбора регистра: ситуация общения / длина слова.",
+          "answer": "ситуация общения",
+          "ex": "Уместность зависит от коммуникативных условий.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.functional-styles.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.stylistics.tropes-figures",
+  "title": "Выразительные средства: тропы и фигуры речи (базовый контроль)",
+  "moduleNumber": "11.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.stylistics.tropes-figures.foundation"
+  ],
+  "source": {
+    "title": "Большая российская энциклопедия, Тропы и фигуры речи",
+    "url": "https://old.bigenc.ru/literature/text/4205291"
+  },
+  "variants": [
+    {
+      "id": "ru.stylistics.tropes-figures.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.tropes-figures.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "«Мальчик был с ноготок» в сказочном описании. Назовите намеренное преуменьшение: литота / анафора.",
+          "answer": "литота",
+          "ex": "Размер намеренно преуменьшен.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.tropes-figures.foundation"
+        },
+        {
+          "id": "ru.stylistics.tropes-figures.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "«Всё для победы. Жизнь для победы». Как называется повтор концов соседних отрезков?",
+          "answer": "эпифора",
+          "ex": "Повторяется заключительная группа слов.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.tropes-figures.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.stylistics.tropes-figures.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.tropes-figures.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "В выражении «тяжёлый характер» физическое свойство переносится на личность. Назовите троп.",
+          "answer": "метафора",
+          "ex": "Трудность общения осмысляется через физическую тяжесть.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.tropes-figures.foundation"
+        },
+        {
+          "id": "ru.stylistics.tropes-figures.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Достаточно ли назвать троп, чтобы объяснить его художественный эффект? Ответьте да или нет.",
+          "answer": "нет",
+          "ex": "Нужно объяснить его функцию в контексте.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.tropes-figures.foundation"
+        }
+      ]
+    }
+  ]
+}

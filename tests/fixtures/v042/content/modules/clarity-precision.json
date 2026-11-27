@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.stylistics.clarity-precision",
+  "title": "Точность, ясность и логичность (базовый контроль)",
+  "moduleNumber": "11.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.stylistics.clarity-precision.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, научный стиль и понятность",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+  },
+  "variants": [
+    {
+      "id": "ru.stylistics.clarity-precision.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.clarity-precision.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Если неизвестно, кто подписал акт, нужно уточнение или выдумка?",
+          "answer": "уточнение",
+          "ex": "Нельзя вносить неподтверждённое лицо в текст.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.clarity-precision.foundation"
+        },
+        {
+          "id": "ru.stylistics.clarity-precision.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Какой союз вводит противопоставление в «мал, но прочен»? Напишите союз.",
+          "answer": "но",
+          "ex": "Он связывает противопоставленные признаки.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.clarity-precision.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.stylistics.clarity-precision.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.clarity-precision.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "«Доставка не позднее 15 мая». Входит ли 15 мая в допустимый срок? Ответьте да или нет.",
+          "answer": "да",
+          "ex": "Не позднее включает граничную дату.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.clarity-precision.foundation"
+        },
+        {
+          "id": "ru.stylistics.clarity-precision.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "«Расходы снизились, поэтому прибыль точно выросла» при неизвестной выручке. Что требует проверки: вывод / падеж?",
+          "answer": "вывод",
+          "ex": "Динамика прибыли зависит не только от расходов.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.clarity-precision.foundation"
+        }
+      ]
+    }
+  ]
+}

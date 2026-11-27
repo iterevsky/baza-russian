@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.stylistics.verbal-economy",
+  "title": "Канцелярит, штампы, повторы и многословие (базовый контроль)",
+  "moduleNumber": "11.05",
+  "status": "draft",
+  "lessonIds": [
+    "ru.stylistics.verbal-economy.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, инструменты редактора",
+    "url": "https://gramota.ru/journal/stati/tekhnologii/tsifrovye-instrumenty-v-pomoshch-redaktoru"
+  },
+  "variants": [
+    {
+      "id": "ru.stylistics.verbal-economy.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.verbal-economy.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Замените «провести обсуждение» одним глаголом.",
+          "answer": "обсудить",
+          "ex": "Глагольная форма проще при том же действии.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.verbal-economy.foundation"
+        },
+        {
+          "id": "ru.stylistics.verbal-economy.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "В инструкции повторили название детали, чтобы исключить двусмысленность. Что важнее: однозначность / разнообразие любой ценой?",
+          "answer": "однозначность",
+          "ex": "Технический повтор может быть функциональным.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.verbal-economy.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.stylistics.verbal-economy.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.verbal-economy.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "«Улучшить качество работы в целях повышения качества работы». Что повторено без нового содержания: цель / дата?",
+          "answer": "цель",
+          "ex": "Второй фрагмент дублирует заявленную цель.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.verbal-economy.foundation"
+        },
+        {
+          "id": "ru.stylistics.verbal-economy.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Если фраза «предоставление доступа» обозначает официально определённую процедуру, что проверяют перед заменой: терминологию / рифму?",
+          "answer": "терминологию",
+          "ex": "Замена не должна разрушить установленное значение.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.verbal-economy.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.argumentation.independent-writing",
+  "title": "Самостоятельный текст и его редактура (базовый контроль)",
+  "moduleNumber": "12.08",
+  "status": "draft",
+  "lessonIds": [
+    "ru.argumentation.independent-writing.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Как составить реферат",
+    "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sostavit-referat"
+  },
+  "variants": [
+    {
+      "id": "ru.argumentation.independent-writing.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.independent-writing.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "При подготовке текста для разных аудиторий нужно ли адаптировать объём объяснений? Да или нет.",
+          "answer": "да",
+          "ex": "Аудитории различаются знаниями и коммуникативными потребностями.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.independent-writing.foundation"
+        },
+        {
+          "id": "ru.argumentation.independent-writing.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Если проверка факта невозможна, полезнее обозначить неопределённость или заявить его достоверным?",
+          "answer": "обозначить неопределённость",
+          "ex": "Неустановленный факт нельзя представлять подтверждённым.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.independent-writing.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.argumentation.independent-writing.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.independent-writing.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "После правки текста добавили новые сведения. Нужно ли повторно проверить их достоверность? Да или нет.",
+          "answer": "да",
+          "ex": "Любые новые существенные утверждения требуют проверки.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.independent-writing.foundation"
+        },
+        {
+          "id": "ru.argumentation.independent-writing.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "При самооценке инструкции важнее, может ли адресат выполнить действие, или количество использованных эпитетов? Ответ: выполнение действия / количество эпитетов.",
+          "answer": "выполнение действия",
+          "ex": "Критерий определяется коммуникативной задачей инструкции.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.independent-writing.foundation"
+        }
+      ]
+    }
+  ]
+}

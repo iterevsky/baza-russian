@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.stylistics.author-voice",
+  "title": "Авторский голос и мотивированные отступления (базовый контроль)",
+  "moduleNumber": "11.07",
+  "status": "draft",
+  "lessonIds": [
+    "ru.stylistics.author-voice.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, Tone of Voice",
+    "url": "https://gramota.ru/journal/stati/obuchenie/tone-of-voice-pravila-obrashcheniya-s-chitatelyami"
+  },
+  "variants": [
+    {
+      "id": "ru.stylistics.author-voice.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.author-voice.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Случайная опечатка в авторском повествовании: «дервео». Напишите исправленное слово.",
+          "answer": "дерево",
+          "ex": "Перестановка букв не выражает дополнительного смысла в данном условии.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.author-voice.foundation"
+        },
+        {
+          "id": "ru.stylistics.author-voice.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Что делать при сомнении в намеренности необычной формы: уточнить / унифицировать автоматически?",
+          "answer": "уточнить",
+          "ex": "Решение зависит от замысла автора.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.author-voice.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.stylistics.author-voice.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.author-voice.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Может ли повтор «никогда» служить эмоциональным акцентом? Ответьте да или нет.",
+          "answer": "да",
+          "ex": "Повтор способен организовать выразительность.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.author-voice.foundation"
+        },
+        {
+          "id": "ru.stylistics.author-voice.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Кто определяет окончательный художественный замысел при согласовании авторской редакции: автор / корректор единолично?",
+          "answer": "автор",
+          "ex": "Редактор предлагает решения, не подменяя замысел.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.author-voice.foundation"
+        }
+      ]
+    }
+  ]
+}

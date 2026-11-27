@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.stylistics.proofreading-typography",
+  "title": "Корректура, типографика, кавычки, дефис и тире (базовый контроль)",
+  "moduleNumber": "11.09",
+  "status": "draft",
+  "lessonIds": [
+    "ru.stylistics.proofreading-typography.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, тире и дефис",
+    "url": "https://gramota.ru/spravka/vopros/308395"
+  },
+  "variants": [
+    {
+      "id": "ru.stylistics.proofreading-typography.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.proofreading-typography.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Исправьте «еле еле» на нормативное написание.",
+          "answer": "еле-еле",
+          "ex": "Повтор слова с единым значением оформляется дефисом.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.proofreading-typography.foundation"
+        },
+        {
+          "id": "ru.stylistics.proofreading-typography.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "В русском наборе вложенные кавычки при внешних ёлочках обычно называют лапками или скобками?",
+          "answer": "лапками",
+          "ex": "Второй рисунок кавычек различает уровни цитирования.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.proofreading-typography.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.stylistics.proofreading-typography.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.proofreading-typography.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Исправьте «во первых» на нормативное вводное слово без запятой.",
+          "answer": "во-первых",
+          "ex": "Вводное слово пишется через дефис.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.proofreading-typography.foundation"
+        },
+        {
+          "id": "ru.stylistics.proofreading-typography.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "При наличии издательского стандарта проверяют ли единообразие длины тире в одинаковых конструкциях? Ответьте да или нет.",
+          "answer": "да",
+          "ex": "Единообразие оформления помогает чтению, хотя не все варианты нарушают языковую норму.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.proofreading-typography.foundation"
+        }
+      ]
+    }
+  ]
+}

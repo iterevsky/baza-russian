@@ -34,7 +34,8 @@
           "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
           "lessonId": "ru.argumentation.business-correspondence.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.argumentation.business-correspondence.module-exam.b",
@@ -56,6 +57,169 @@
           "answer": "просьба",
           "ex": "Дата пока запрашивается, а не подтверждается.",
           "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.argumentation.business-correspondence.module-exam.r43-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-a.01",
+          "type": "grammar-answer",
+          "raw": "Выпишите идентификатор документа цифрами. «По счёту № 301 прошу уточнить банковские реквизиты».",
+          "answer": "301",
+          "ex": "Номер позволяет адресату найти нужный документ.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-a.02",
+          "type": "grammar-answer",
+          "raw": "Выпишите срок полностью. «Пришлите ответ до 15:30 среды».",
+          "answer": "до 15:30 среды",
+          "ex": "Срок должен оставаться неизменным при правке.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-a.03",
+          "type": "grammar-answer",
+          "raw": "Выпишите глагол, выражающий запрашиваемое действие. «Проверьте, пожалуйста, номер заказа».",
+          "answer": "проверьте",
+          "ex": "Глагол делает просьбу конкретной.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-a.04",
+          "type": "grammar-answer",
+          "raw": "Выпишите слово, приписывающее мотив без доказательства. «Вы намеренно не ответили на письмо».",
+          "answer": "намеренно",
+          "ex": "Неизвестный мотив не следует выдавать за факт.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-a.05",
+          "type": "grammar-answer",
+          "raw": "Назовите недостающий реквизит. «Направьте подписанный договор». Требуется срок, но он не указан.",
+          "answer": "срок",
+          "ex": "Адресату нужны идентификатор и срок при их значимости.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "срок исполнения"
+          ]
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-a.06",
+          "type": "grammar-answer",
+          "raw": "Выберите тему по задаче, А или Б. Запрашивается копия накладной № 55. А: «Вопрос». Б: «Накладная № 55: копия».",
+          "answer": "Б",
+          "ex": "Конкретная тема отражает содержание и облегчает поиск.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-a.07",
+          "type": "grammar-answer",
+          "raw": "Назовите речевой акт. «Спасибо за оперативную проверку».",
+          "answer": "благодарность",
+          "ex": "Фраза выражает признательность или признание неудобства.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-a.08",
+          "type": "grammar-answer",
+          "raw": "Назовите недостающий элемент письма одним словом. В письме сказано «смета во вложении», но файл не прикреплён.",
+          "answer": "вложение",
+          "ex": "Вложение и подпись проверяются перед отправкой.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.argumentation.business-correspondence.module-exam.r43-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-b.01",
+          "type": "grammar-answer",
+          "raw": "Выпишите идентификатор документа цифрами. «По акту № 48 прошу направить подписанную копию».",
+          "answer": "48",
+          "ex": "Номер позволяет адресату найти нужный документ.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-b.02",
+          "type": "grammar-answer",
+          "raw": "Выпишите срок полностью. «Подтвердите участие не позднее 12 июня».",
+          "answer": "не позднее 12 июня",
+          "ex": "Срок должен оставаться неизменным при правке.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-b.03",
+          "type": "grammar-answer",
+          "raw": "Выпишите глагол, выражающий запрашиваемое действие. «Подтвердите, пожалуйста, дату встречи».",
+          "answer": "подтвердите",
+          "ex": "Глагол делает просьбу конкретной.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-b.04",
+          "type": "grammar-answer",
+          "raw": "Выпишите слово, приписывающее мотив без доказательства. «Вы специально задержали согласование».",
+          "answer": "специально",
+          "ex": "Неизвестный мотив не следует выдавать за факт.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-b.05",
+          "type": "grammar-answer",
+          "raw": "Назовите недостающий реквизит. «Оплатите счёт к пятнице». В работе три счёта, номер не назван.",
+          "answer": "номер счёта",
+          "ex": "Адресату нужны идентификатор и срок при их значимости.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-b.06",
+          "type": "grammar-answer",
+          "raw": "Выберите тему по задаче, А или Б. Согласуется встреча 9 мая. А: «Встреча 9 мая: согласование времени». Б: «Привет».",
+          "answer": "А",
+          "ex": "Конкретная тема отражает содержание и облегчает поиск.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-b.07",
+          "type": "grammar-answer",
+          "raw": "Назовите речевой акт. «Прошу прощения за неверный файл».",
+          "answer": "извинение",
+          "ex": "Фраза выражает признательность или признание неудобства.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
+          "lessonId": "ru.argumentation.business-correspondence.foundation"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.module-exam.r43-b.08",
+          "type": "grammar-answer",
+          "raw": "Назовите недостающий элемент письма одним словом. Письмо начинается с «Здравствуйте», но заканчивается без имени, а адрес отправителя общий.",
+          "answer": "подпись",
+          "ex": "Вложение и подпись проверяются перед отправкой.",
+          "instruction": "Введите только ответ по условию, без конечной точки. Если требуется назвать термин, используйте обозначение из урока. Для буквенного варианта введите одну букву.",
           "lessonId": "ru.argumentation.business-correspondence.foundation"
         }
       ]

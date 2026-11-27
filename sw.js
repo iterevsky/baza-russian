@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.42.0";
-const DIGEST="f4e3f1e73083f56e0e158af9";
+const RELEASE="0.43.0";
+const DIGEST="677bf76c50e7e53be3bd4a7f";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -28,7 +28,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/analytical-memo.json",
-    "e43122d634928f4794857c83467931f6d149134257bee00e392da0e7b9fc15b2"
+    "d945be94495fdfcae55a21d0f25f0adf045ab3ef059819f87ed1416b6aa10159"
   ],
   [
     "content/lessons/asyndetic-colon-dash.json",
@@ -44,7 +44,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/author-voice.json",
-    "311a809c3defe06e5d6c56ac9ffbb3e02ff9e2bb24b3ff97cbad0994ff06362d"
+    "e56bf7eaf25ac6635e425e758b7fe5330543c0a52066ccaaaf00148730fa8a74"
   ],
   [
     "content/lessons/basis-core.json",
@@ -60,7 +60,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/business-correspondence.json",
-    "1371f4170e93221db20c82656ab21ff67b0da154bf1e40d6ee90b4e264a568bc"
+    "87a6f90cf9ac36ff5cea75b13eb8dcc7251c37012a1f0aa75d7bfb996fe91fc8"
   ],
   [
     "content/lessons/capital-letters.json",
@@ -72,7 +72,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/clarity-precision.json",
-    "da2d661363afd707b2282a2b2febde0b9bc7e503b4d695f354d010c4e91c5c73"
+    "cf6cd598fa7b1a94db4c0ea5d3e16cb82a81f99200c2f398a9623c8479928190"
   ],
   [
     "content/lessons/comparison-free.json",
@@ -148,7 +148,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/editorial-diagnosis.json",
-    "ac5730828b78c93a12863a519c4e68aeb4e7f46712d1681998651fd06dd58ab5"
+    "6dee26d222cfdf1f8def24a5b926a6a8dc9151bbcb97ee148085030829a3ea10"
   ],
   [
     "content/lessons/end-basic.json",
@@ -172,7 +172,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/functional-styles.json",
-    "b6430a9c04246ef7af51ac0326ed1858ffa9b3da7ee7490ccb6d50536f7319fe"
+    "45610b58b6551657595cc0cfb558183f39ae3ab394d46a0923f48678a90ae462"
   ],
   [
     "content/lessons/gerund-punctuation.json",
@@ -220,7 +220,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/independent-writing.json",
-    "9b14d202c17e8975bd422785e305f616082494be9df7057188aaeaa73403c210"
+    "dfaf95b9ad7f9631a9f28e2e5f1b057fa9f44d9f7e84d0c90a4459b2704cbce6"
   ],
   [
     "content/lessons/indirect-transformation.json",
@@ -280,7 +280,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/logic-fallacies.json",
-    "4dfa91ecb8150f64200b1a5c5d54a6ebb2ff76d0a2919844ef1995e5ffb8b972"
+    "9925cd3c7a90b409fef3f843e5c58863f57512afd73f72b27ab3c51373c04b47"
   ],
   [
     "content/lessons/mixed-links.json",
@@ -344,7 +344,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/oral-speech-discussion.json",
-    "6c9aa0f522522efcdca4dc8abf95ec85b5cf3eeac249e27ae6f78766ddcc2c59"
+    "090db967f6481932faa0a3898628e42e0ddbd77f1db8af7db79efd5faf228491"
   ],
   [
     "content/lessons/paronyms-collocation.json",
@@ -388,7 +388,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/proofreading-typography.json",
-    "a164a18292d66e6d3363e833425f8a41b8ec410e2f9ee92e446be62ba4fc16df"
+    "276067a3c1dd9d370f2ed1dee21d3fadc55272b99a9c0eca1f866ad6c34ff209"
   ],
   [
     "content/lessons/proper-name-declension.json",
@@ -396,7 +396,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/public-science-writing.json",
-    "1b0de2e87b8f897a74363b5443e8c2d3c037889a334f5fbc91d9c8df49278d66"
+    "550a5c1237bb36c8dadee2a128825ccddbf2104f086c66ed470e4ab49e1b2863"
   ],
   [
     "content/lessons/punctuation-variation.json",
@@ -404,7 +404,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/reasoning-counterarguments.json",
-    "66b529f896cf081e428042ef89a41201cbb47e9c0df9c347c4a62b50235c98c0"
+    "87d5b6f0cf22d2344bc22afc8185bae3e93e050f13f312f0b7d3401e677c8c16"
   ],
   [
     "content/lessons/register-connotation.json",
@@ -412,7 +412,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/revision-comparison.json",
-    "96dd735075f5d8795e2bbf03eb576aab90a34b4fa5a97bc1e3d7d28949b0b89e"
+    "8052b00ee4d20c2edce33af60ff7121f78846bc0a1c467d38b4f26130bdd1a1a"
   ],
   [
     "content/lessons/root-consonants.json",
@@ -444,7 +444,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/sentence-rhythm.json",
-    "ac827dcc411c167e9aaced1b25763a1b70ea9e273f6b093cadc7ada5739107fb"
+    "0b31636a7aa688aa6b97e72a6f911e5b8559391a56d9b954bf2e566810b12296"
   ],
   [
     "content/lessons/separators.json",
@@ -516,15 +516,15 @@ const ASSETS=[
   ],
   [
     "content/lessons/text-cohesion.json",
-    "5509a5840716e0b5d798deffd19e2b34a35382b157f04d14e273401a62452cd8"
+    "3eb821dba43adf09c1046f771c851997013d1e2934d8b8914acc23e30009487c"
   ],
   [
     "content/lessons/thesis-evidence.json",
-    "a34798df2c9618bc607297c37c0a2ebc2914b3a21a8afc3b479ca0d9ac028713"
+    "40f3e13cf94277a54b23a330ac6db1b27e68fbce5fd92b5e4f643b68842b1efd"
   ],
   [
     "content/lessons/tropes-figures.json",
-    "ca4c77f4d116d2b558fa34da2c4eac55791b0e3ae36247a984f9a44f0f431eee"
+    "1808ee488dcd832cd5d39663b0e5b966d8601cfb531e46a7621b7e689c903081"
   ],
   [
     "content/lessons/verb-derived-forms.json",
@@ -544,7 +544,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/verbal-economy.json",
-    "f7965c9015037b0f8902880d726cc33865c326aaf66c5febc67d755df17182ba"
+    "f32b7825bb4a44d70fcdd4fdbf3a2aed94513f0e4491fc7b6caabaf5ac4559e8"
   ],
   [
     "content/lessons/vowels-consonants.json",
@@ -576,7 +576,7 @@ const ASSETS=[
   ],
   [
     "content/modules/analytical-memo.json",
-    "c6afb9f018cf112e598c3a089a5d2c0e1b37c2c801f57532b688d727e32f365b"
+    "125190a5c9618c35c3270d4c87e05e055a898254e2f21b49461a1da182053948"
   ],
   [
     "content/modules/asyndetic-punctuation.json",
@@ -584,7 +584,7 @@ const ASSETS=[
   ],
   [
     "content/modules/author-voice.json",
-    "28e4245c01f8fdcd8df21420e2c0b348617cefca63f5255b3c9e611ac6a448e7"
+    "773ea8edceffbaaa2d1c4df2b2f70f7cade504cce68bf5a072e3354cef012b85"
   ],
   [
     "content/modules/basis.json",
@@ -596,7 +596,7 @@ const ASSETS=[
   ],
   [
     "content/modules/business-correspondence.json",
-    "52753e5122bceaa666c42ed223177ee92859554d98c5378caccb2fa7d669123c"
+    "768c0a745692f3dd59339917865249a2407e5d892efba6f4a63d9268d43e4f29"
   ],
   [
     "content/modules/capital-letters.json",
@@ -608,7 +608,7 @@ const ASSETS=[
   ],
   [
     "content/modules/clarity-precision.json",
-    "1100a3809874ccf41af17fb9e0846a0a939d28ad3d04d9fa86396b30461990c1"
+    "5a253e4fcdecb7afb538f72280b6494e43fdbfb5bef2416203377228ba9cfcd1"
   ],
   [
     "content/modules/comparison-punctuation.json",
@@ -656,7 +656,7 @@ const ASSETS=[
   ],
   [
     "content/modules/editorial-diagnosis.json",
-    "8ea9a6647a5c9314f0a9783cdca44ff47ab6908f74bc55991f2b4dbc9c6ffdc6"
+    "344d828c728db4f9af83c33f8c7fed45d98b7c6bcc060e31e0ab599994b16abd"
   ],
   [
     "content/modules/end-marks.json",
@@ -672,7 +672,7 @@ const ASSETS=[
   ],
   [
     "content/modules/functional-styles.json",
-    "4aa5b61984fd03cc762a2aac90c87a9e3b95a02d87dc5a1739cfc9d16ad806d0"
+    "4a52eeaa07649cacf4fcc680ae4ef6bc8235da343930bec0e65b7096a7779329"
   ],
   [
     "content/modules/historical-changes.json",
@@ -692,7 +692,7 @@ const ASSETS=[
   ],
   [
     "content/modules/independent-writing.json",
-    "ce135e866444ad83e047abd869d41226dd55ab5b0ac6fbe861b9cad143e9892b"
+    "d54dbc1c3866b75195c7c0554942df22aa97117b47a3b73d628632f962a49e3b"
   ],
   [
     "content/modules/introductory.json",
@@ -728,7 +728,7 @@ const ASSETS=[
   ],
   [
     "content/modules/logic-fallacies.json",
-    "2ddf4487ce09d5f41a8c41b0710a18d4b6d3fda57e0e38014acc2737089848fb"
+    "e2dee2eb62be1dbcd2512a4649e74795f196627392c39507040a9cf9bb9f3eaf"
   ],
   [
     "content/modules/main-members.json",
@@ -788,7 +788,7 @@ const ASSETS=[
   ],
   [
     "content/modules/oral-speech-discussion.json",
-    "22c955a7452c634ef44e3a1e617b0d77a4c040b0e13f74c1adc41e235d008e95"
+    "264e3de334f09a233e0a736da742c198e3fcb3af1d5cb021ac56eb69cf7b4986"
   ],
   [
     "content/modules/paronyms-collocation.json",
@@ -828,7 +828,7 @@ const ASSETS=[
   ],
   [
     "content/modules/proofreading-typography.json",
-    "9154d9f069f97b03d169b0b1bd14f08344a520ece6306bb4259d97490b61c1ac"
+    "56f81dbf3adf299063e728d6d34aeaf539a8e0fc550e419f1aac108a36d9e6d0"
   ],
   [
     "content/modules/proper-name-declension.json",
@@ -836,7 +836,7 @@ const ASSETS=[
   ],
   [
     "content/modules/public-science-writing.json",
-    "7855e406204e29360e1577b44e9992b5156e7d253b6190a5a6a74e89488fd656"
+    "e06eb1341323e6d210d40d52a8b22778ac68b568018048d0d21d810153763038"
   ],
   [
     "content/modules/punctuation-variation.json",
@@ -844,7 +844,7 @@ const ASSETS=[
   ],
   [
     "content/modules/reasoning-counterarguments.json",
-    "7de268f696ef0b987a4a9b957d612deeb18820844ee92a7559129f2c23422cc1"
+    "9e12f3bf03b43d3a90fc4cd693936266fdd9e696fc4ccffd53218ca9fd31dd3d"
   ],
   [
     "content/modules/register-connotation.json",
@@ -856,7 +856,7 @@ const ASSETS=[
   ],
   [
     "content/modules/revision-comparison.json",
-    "d79f88ca7b9861e7c992488c9a5f1ab32f65dd6794b15d1d249e6f19d267c93e"
+    "915cde2bb0e4df4496b6fcf56c259523dd2a625f891170fe92e728f52a1b678d"
   ],
   [
     "content/modules/root-consonants.json",
@@ -880,7 +880,7 @@ const ASSETS=[
   ],
   [
     "content/modules/sentence-rhythm.json",
-    "d61a9da366d2957cf1d86040b343b100f407a3dbae32e19f2f1803497d41de65"
+    "117e86b80af4b728d1b1033d6453da8808b25ad15937f3740fa188893807e7ef"
   ],
   [
     "content/modules/sentence-structure.json",
@@ -944,15 +944,15 @@ const ASSETS=[
   ],
   [
     "content/modules/text-cohesion.json",
-    "14c3bebbd7fa44a1ffa249cdede73e941dd1260f32f5289684d12eb84942a7d2"
+    "ea772b841eb188bd14819502dc86b31a51930853afe42711d2e041545957b58e"
   ],
   [
     "content/modules/thesis-evidence.json",
-    "6e36502f0eebb17ff02e4b1ff0bba4b71914b6edba6dd9d4e848b80849c81eec"
+    "9ecad22978cb54a2cb9f17d1fb25ce98e5760c20423c8bea20cabc1d02bb2ea3"
   ],
   [
     "content/modules/tropes-figures.json",
-    "63116ae48ef81b5c068684c774eeb002f865bc853727d7ff2bbbf3177c9ffbb4"
+    "403a78998e16446d03497c5892922271d10b05867930bf15a712f09d7bb82069"
   ],
   [
     "content/modules/verb-derived-forms.json",
@@ -972,7 +972,7 @@ const ASSETS=[
   ],
   [
     "content/modules/verbal-economy.json",
-    "411180078844256caa4b37ec7b261ade296f66e3af1355e52929be0747d7dc62"
+    "34ee76273cc4dd0007a3118e4a9c1eae449a3964a5783fdcec7cc69d6889c173"
   ],
   [
     "content/modules/vowels-consonants.json",
@@ -996,7 +996,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "483ae451db21cc9895d2bb23fbe00ec2b85bb98121c946f83fd67d7aca028270"
+    "18a02190dc37f411c7761d36ae7a6684d4f64bd67a6cfcff7d187ffb0b5ddb7e"
   ],
   [
     "content/tips.json",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "e5030c1e7aea373990796596735ec375d15f5af18be09f58e406dd204b47cc46"
+    "e4323011f75eb17448349b3de9a15dacfddb27c49cb56577a0c021a0273952b6"
   ],
   [
     "manifest.webmanifest",
@@ -1032,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "d1dd77f465097ada15ca8a176da74e926a73fdf76618214a0d5cfb5b23be7580"
+    "c19d3943c6c2c559c5788ebc52606fadc9904c3a9d9c8d0daaca7eaac61cc894"
   ],
   [
     "src/core/assessment.js",

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.argumentation.public-science-writing",
+  "title": "Публицистический и научно-популярный текст (базовый контроль)",
+  "moduleNumber": "12.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.argumentation.public-science-writing.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, научный стиль",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+  },
+  "variants": [
+    {
+      "id": "ru.argumentation.public-science-writing.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.public-science-writing.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Термин без точного общеупотребительного аналога нужен для объяснения. Предпочтительнее оставить и пояснить его или заменить неверным аналогом?",
+          "answer": "оставить и пояснить",
+          "ex": "Так сохраняется точность и обеспечивается понимание.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.public-science-writing.foundation"
+        },
+        {
+          "id": "ru.argumentation.public-science-writing.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Автор общественной колонки аргументирует свою позицию. Может ли наличие позиции само по себе означать фактическую ошибку? Да или нет.",
+          "answer": "нет",
+          "ex": "Авторская оценка совместима с корректным изложением фактов.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.public-science-writing.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.argumentation.public-science-writing.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.argumentation.public-science-writing.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Число в заголовке отличается от числа в первичном отчёте. Что проверить до публикации: исходное число или популярность заголовка?",
+          "answer": "исходное число",
+          "ex": "Заголовок должен соответствовать достоверным сведениям.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.public-science-writing.foundation"
+        },
+        {
+          "id": "ru.argumentation.public-science-writing.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Один участник интервью высказывает предположение о будущем. Как обозначить его слова: прогноз или установленное событие?",
+          "answer": "прогноз",
+          "ex": "Будущее предположение не является состоявшимся фактом.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.argumentation.public-science-writing.foundation"
+        }
+      ]
+    }
+  ]
+}

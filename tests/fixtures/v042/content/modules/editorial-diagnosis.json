@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.stylistics.editorial-diagnosis",
+  "title": "Редакторская диагностика: смысл, структура, язык (базовый контроль)",
+  "moduleNumber": "11.08",
+  "status": "draft",
+  "lessonIds": [
+    "ru.stylistics.editorial-diagnosis.foundation"
+  ],
+  "source": {
+    "title": "Грамота.ру, редакционная политика",
+    "url": "https://gramota.ru/journal/stati/pravila-i-normy/kak-redaktsionnaya-politika-povyshaet-kachestvo-tekstov"
+  },
+  "variants": [
+    {
+      "id": "ru.stylistics.editorial-diagnosis.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.editorial-diagnosis.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Если заголовок не соответствует содержанию, уровень диагностики: композиция / орфоэпия.",
+          "answer": "композиция",
+          "ex": "Заголовок определяет ожидание от текста.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.editorial-diagnosis.foundation"
+        },
+        {
+          "id": "ru.stylistics.editorial-diagnosis.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "В перечне одинаковых терминов один напечатан с опечаткой. Уровень: корректура / исследование причинности.",
+          "answer": "корректура",
+          "ex": "Это локальный дефект написания.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.editorial-diagnosis.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.stylistics.editorial-diagnosis.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.stylistics.editorial-diagnosis.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "Нужно ли повторно проверить числа после объединения двух отчётов? Ответьте да или нет.",
+          "answer": "да",
+          "ex": "Изменение структуры может внести новые расхождения.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.editorial-diagnosis.foundation"
+        },
+        {
+          "id": "ru.stylistics.editorial-diagnosis.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "Какую характеристику исправляют первой при конфликте красивой фразы с подтверждённым фактом: достоверность / звучность?",
+          "answer": "достоверность",
+          "ex": "Правка должна соответствовать установленным фактам.",
+          "instruction": "Введите только ответ по условию. Соблюдайте указанные регистр, знаки и ё; если специальных требований нет, термины пишите со строчной буквы без точки.",
+          "lessonId": "ru.stylistics.editorial-diagnosis.foundation"
+        }
+      ]
+    }
+  ]
+}
