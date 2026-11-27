@@ -47,3 +47,16 @@ self.addEventListener('fetch',event=>{
   return new Response('Автономный пакет повреждён. Не очищайте данные сайта: сохраните прогресс и восстановите пакет.',{status:503,headers:{'Content-Type':'text/plain; charset=utf-8'}});
  })());
 });
+
+// Readiness means that every required cache entry is present, not just that a worker exists.
+async function packageStatus(){
+ const cache=await caches.open(CACHE);let present=0;const keys=[...urls.keys()];
+ for(let i=0;i<keys.length;i+=12){const batch=await Promise.all(keys.slice(i,i+12).map(key=>cache.match(key)));present+=batch.filter(r=>r?.ok).length}
+ return {type:'baza-package-status',release:RELEASE,present,total:keys.length};
+}
+async function repairPackage(){
+ const cache=await caches.open(CACHE);let failed=0;
+ for(const [key,hash] of urls){const existing=await cache.match(key);if(existing?.ok)continue;try{await cache.put(key,await verified(key,hash))}catch{failed++}}
+ return {...await packageStatus(),failed};
+}
+self.addEventListener('message',event=>{const type=event.data?.type;if(!['baza-package-status','baza-package-repair'].includes(type)||!event.ports?.[0])return;const port=event.ports[0];event.waitUntil((type==='baza-package-repair'?repairPackage():packageStatus()).then(result=>port.postMessage(result)).catch(()=>port.postMessage({type:'baza-package-status',release:RELEASE,error:true})));});

@@ -1,0 +1,1416 @@
+{
+  "states": 176,
+  "errors": [],
+  "overflow": [],
+  "results": [
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "home",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "catalog",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "practice",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "memory",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "tips",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "profile",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "progress",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "settings",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "diagnosis",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "lesson",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "light",
+      "screen": "preface",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "home",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "catalog",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "practice",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "memory",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "tips",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "profile",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "progress",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "settings",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "diagnosis",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "lesson",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "theme": "dark",
+      "screen": "preface",
+      "scroll": 320,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "home",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "catalog",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "practice",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "memory",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "tips",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "profile",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "progress",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "settings",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "diagnosis",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "lesson",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "light",
+      "screen": "preface",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "home",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "catalog",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "practice",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "memory",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "tips",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "profile",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "progress",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "settings",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "diagnosis",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "lesson",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "theme": "dark",
+      "screen": "preface",
+      "scroll": 360,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "home",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "catalog",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "practice",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "memory",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "tips",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "profile",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "progress",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "settings",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "diagnosis",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "lesson",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "light",
+      "screen": "preface",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "home",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "catalog",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "practice",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "memory",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "tips",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "profile",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "progress",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "settings",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "diagnosis",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "lesson",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 375,
+      "height": 667,
+      "theme": "dark",
+      "screen": "preface",
+      "scroll": 375,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "home",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "catalog",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "practice",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "memory",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "tips",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "profile",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "progress",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "settings",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "diagnosis",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "lesson",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "light",
+      "screen": "preface",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "home",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "catalog",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "practice",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "memory",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "tips",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "profile",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "progress",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "settings",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "diagnosis",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "lesson",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "theme": "dark",
+      "screen": "preface",
+      "scroll": 390,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "home",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "catalog",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "practice",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "memory",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "tips",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "profile",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "progress",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "settings",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "diagnosis",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "lesson",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "light",
+      "screen": "preface",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "home",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "catalog",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "practice",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "memory",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "tips",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "profile",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "progress",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "settings",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "diagnosis",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "lesson",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 414,
+      "height": 736,
+      "theme": "dark",
+      "screen": "preface",
+      "scroll": 414,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "home",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "catalog",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "practice",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "memory",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "tips",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "profile",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "progress",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "settings",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "diagnosis",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "lesson",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "light",
+      "screen": "preface",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "home",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "catalog",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "practice",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "memory",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "tips",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "profile",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "progress",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "settings",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "diagnosis",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "lesson",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "theme": "dark",
+      "screen": "preface",
+      "scroll": 768,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "home",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "catalog",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "practice",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "memory",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "tips",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "profile",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "progress",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "settings",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "diagnosis",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "lesson",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "light",
+      "screen": "preface",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "home",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "catalog",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "practice",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "memory",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "tips",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "profile",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "progress",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "settings",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "diagnosis",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "lesson",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "theme": "dark",
+      "screen": "preface",
+      "scroll": 1024,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "home",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "catalog",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "practice",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "memory",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "tips",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "profile",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "progress",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "settings",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "diagnosis",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "lesson",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "light",
+      "screen": "preface",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "home",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "catalog",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "practice",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "memory",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "tips",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "profile",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "progress",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "settings",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "diagnosis",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "lesson",
+      "scroll": 1440,
+      "offenders": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "theme": "dark",
+      "screen": "preface",
+      "scroll": 1440,
+      "offenders": []
+    }
+  ],
+  "method": "Chromium set_content with memory store and mocked asset fetch; real controller, HTML/CSS; no service worker or persistent storage"
+}

@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.48.0";
-const DIGEST="198231d68c342be58041cb49";
+const RELEASE="0.49.0";
+const DIGEST="5e48421001f451511c11fd8b";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "b6b72959f93bbd552154db5f233c3845751d455d4a4c12564ce64a0fd3a2bae9"
+    "dd82110adc5dd45f88f32fe6b4ae27952a63a7b548f37978a743de4a610bd077"
   ],
   [
     "manifest.webmanifest",
@@ -1032,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "f0e813ba347b5e7be0e22d848cf62188d71a8cfed201e738e2358ff96bb75243"
+    "d1afbb36ed93e74d264cb2d4bb11515d2857227e75afc578debb5d94a1212016"
   ],
   [
     "src/core/assessment.js",
@@ -1048,7 +1048,7 @@ const ASSETS=[
   ],
   [
     "src/core/course-settings.js",
-    "9d01cfdd27991cdb22b1511d85db66277eaa6a68d2d9522109b0581956dc06af"
+    "9e45f07adb783ae7d5d054d7b051378a285c4a65efb629873ab4c9a7effb24b9"
   ],
   [
     "src/core/database.js",
@@ -1068,7 +1068,7 @@ const ASSETS=[
   ],
   [
     "src/core/home.js",
-    "88c2716568b8ed77f03102eeb21bc77ba201bfeadf7a3d38565d16f8e44b9121"
+    "4a717ff0100f097f7a7d67f50a636fc62566544fb1bac9e06cbbf978a0916602"
   ],
   [
     "src/core/lesson-view.js",
@@ -1100,11 +1100,11 @@ const ASSETS=[
   ],
   [
     "src/pwa.js",
-    "80368712a670a05fdf68baea539880a5e9022d6e5f6739cb010e664936fe3476"
+    "4d1364df63b44d89728139eabfc675b1341549e09d3cdf9247e38dd840908715"
   ],
   [
     "src/styles/home.css",
-    "20c0c0f59503b9e76893b116054802613f98d4fce79e421439454aa8f47e335b"
+    "056f8331d390cd485479fa373042b4fb46fd20b00f48db1408290114bdc7a769"
   ],
   [
     "src/styles/main.css",
@@ -1160,3 +1160,16 @@ self.addEventListener('fetch',event=>{
   return new Response('Автономный пакет повреждён. Не очищайте данные сайта: сохраните прогресс и восстановите пакет.',{status:503,headers:{'Content-Type':'text/plain; charset=utf-8'}});
  })());
 });
+
+// Readiness means that every required cache entry is present, not just that a worker exists.
+async function packageStatus(){
+ const cache=await caches.open(CACHE);let present=0;const keys=[...urls.keys()];
+ for(let i=0;i<keys.length;i+=12){const batch=await Promise.all(keys.slice(i,i+12).map(key=>cache.match(key)));present+=batch.filter(r=>r?.ok).length}
+ return {type:'baza-package-status',release:RELEASE,present,total:keys.length};
+}
+async function repairPackage(){
+ const cache=await caches.open(CACHE);let failed=0;
+ for(const [key,hash] of urls){const existing=await cache.match(key);if(existing?.ok)continue;try{await cache.put(key,await verified(key,hash))}catch{failed++}}
+ return {...await packageStatus(),failed};
+}
+self.addEventListener('message',event=>{const type=event.data?.type;if(!['baza-package-status','baza-package-repair'].includes(type)||!event.ports?.[0])return;const port=event.ports[0];event.waitUntil((type==='baza-package-repair'?repairPackage():packageStatus()).then(result=>port.postMessage(result)).catch(()=>port.postMessage({type:'baza-package-status',release:RELEASE,error:true})));});
