@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.noun-adjective-endings",
+  "title": "Суффиксы и окончания существительных и прилагательных (базовый контроль)",
+  "moduleNumber": "06.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.noun-adjective-endings.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Суффиксы и окончания существительных и прилагательных",
+    "url": "https://orthographia.ru/orfografia.php?sid=30"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.noun-adjective-endings.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "без помощ[…] (родительный).",
+          "answer": "помощи",
+          "ex": "Третье склонение: -и.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation"
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "к лекци[…] (дательный).",
+          "answer": "лекции",
+          "ex": "На -ия в дательном: -ии.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.noun-adjective-endings.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "с зимн[…] пальто (творительный).",
+          "answer": "зимним",
+          "ex": "Средний род, мягкая основа: -им.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation"
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "кусоч[…]к (родительный: кусочка).",
+          "answer": "кусочек",
+          "ex": "Е выпадает: -ек-.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation"
+        }
+      ]
+    }
+  ]
+}

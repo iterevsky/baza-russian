@@ -34,7 +34,8 @@
           "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
           "lessonId": "ru.orthography.negation-spelling.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.orthography.negation-spelling.module-exam.b",
@@ -57,6 +58,165 @@
           "ex": "Не с деепричастной формой раздельно.",
           "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
           "lessonId": "ru.orthography.negation-spelling.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.orthography.negation-spelling.module-exam.r36-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Он [не/досыпает] каждую ночь (спит меньше нормы).",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "недосыпает",
+          "ex": "Недо- обозначает недостаточность действия."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Курьер [не/доставил] пакет.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "не доставил",
+          "ex": "Не с глаголом раздельно."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Это [не/друг], а враг.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "не друг",
+          "ex": "Явное противопоставление."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Он выбрал [не/дорогой], то есть дешёвый, билет.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "недорогой",
+          "ex": "Утверждается качество: дешёвый."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "На столе лежал [не/прочитанный] мной журнал.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "не прочитанный",
+          "ex": "Полное причастие с зависимым словом, обозначающим деятеля."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Ему [не/чего] возразить.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "нечего",
+          "ex": "Отрицательное местоимение без предлога, не под ударением."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Он [ни/с/кем] не спорил.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "ни с кем",
+          "ex": "Предлог разделяет части местоимения; ни усиливает отрицание."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Куда [не/ни] посмотри, всюду снег.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "ни",
+          "ex": "Обобщительная уступительная конструкция."
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.negation-spelling.module-exam.r36-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Он [не/доел] суп, оставив половину.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "не доел",
+          "ex": "Действие не завершено, не раздельно."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Она [не/годовала] из-за обмана.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "негодовала",
+          "ex": "Слово без не не употребляется в данном значении."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Это отнюдь [не/удачный] пример.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "не удачный",
+          "ex": "Отнюдь не усиливает отрицание."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Его ответ оказался [не/точным], то есть приблизительным.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "неточным",
+          "ex": "Утверждение нового признака."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Условия договора [не/согласованы].",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "не согласованы",
+          "ex": "Краткое страдательное причастие: не раздельно."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Мне [не/с/кем] поговорить.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "не с кем",
+          "ex": "Под ударением не; предлог разделяет."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "Он [ни/чего] не обещал.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "ничего",
+          "ex": "Безударное ни, предлога нет."
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.r36-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.negation-spelling.foundation",
+          "raw": "В комнате [не/ни] звука.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "ни",
+          "ex": "Ни выражает отсутствие при подразумеваемом нет."
         }
       ]
     }

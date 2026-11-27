@@ -34,7 +34,8 @@
           "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
           "lessonId": "ru.orthography.sibilant-vowels.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.orthography.sibilant-vowels.module-exam.b",
@@ -57,6 +58,165 @@
           "ex": "Ударное окончание — о.",
           "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
           "lessonId": "ru.orthography.sibilant-vowels.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.orthography.sibilant-vowels.module-exam.r36-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "[крыж…вник] в саду",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "крыжовник",
+          "ex": "О после ж закреплено словарём."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "[ж…лтый] шарф",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "жёлтый",
+          "ex": "Сравните желтеть: ё чередуется с е."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "под [плащ…м] рыбака",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "плащом",
+          "ex": "Ударное окончание существительного: о."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "с [товарищ…м] по команде",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "товарищем",
+          "ex": "Безударное окончание после щ: е."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "ты [береж…шь] письмо",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "бережёшь",
+          "ex": "Ударное глагольное окончание с ё."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "[ц…ганский] романс",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "цыганский",
+          "ex": "Цыган и производные — исключение."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "[станц…я] метро",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "станция",
+          "ex": "В сочетании -ция пишется и после ц."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "[параш…т] раскрылся",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "парашют",
+          "ex": "Заимствование с ю после ш."
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.sibilant-vowels.module-exam.r36-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "[ш…в] на пальто",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "шов",
+          "ex": "Словарное о в корне."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "[ч…рный] карандаш",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "чёрный",
+          "ex": "Чернеть: чередование ё/е."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "с [багаж…м] в поезде",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "багажом",
+          "ex": "Ударное именное окончание после ж: о."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "с [клещ…м] на коже",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "клещом",
+          "ex": "Ударное окончание существительного: о."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "ты [стереж…шь] двор",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "стережёшь",
+          "ex": "Ударное личное окончание глагола: ё."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "[огурц…] созрели",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "огурцы",
+          "ex": "Ы после ц в окончании множественного числа."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "[ц…линдр] на чертеже",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "цилиндр",
+          "ex": "Корень, не исключение: и."
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.r36-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation",
+          "raw": "[брош…ра] о музее",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "брошюра",
+          "ex": "Заимствованное слово с ю после ш."
         }
       ]
     }

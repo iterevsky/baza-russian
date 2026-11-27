@@ -34,7 +34,8 @@
           "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
           "lessonId": "ru.orthography.verb-spelling.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.orthography.verb-spelling.module-exam.b",
@@ -57,6 +58,165 @@
           "ex": "Они слышат: -ащ-.",
           "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
           "lessonId": "ru.orthography.verb-spelling.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.orthography.verb-spelling.module-exam.r36-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "мы [завис…м] от погоды",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "зависим",
+          "ex": "Зависеть — исключение II спряжения."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "она [стел…т] постель (от стелить)",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "стелет",
+          "ex": "Стелить — исключение I спряжения."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "они [терп…т] неудобства",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "терпят",
+          "ex": "Терпеть — II спряжение."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "[бор…щийся] за победу спортсмен",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "борющийся",
+          "ex": "Борются — суффикс -ющ-."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "[завис…щий] от условий результат",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "зависящий",
+          "ex": "Зависят — суффикс -ящ-."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "хочется [улыба…ся]",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "улыбаться",
+          "ex": "Инфинитив: что делать? -ться."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "он [улыба…ся] при встрече",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "улыбается",
+          "ex": "Личная форма: что делает? -тся, без ь."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "[совет…вать] коллегам (советую)",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "советовать",
+          "ex": "В первом лице -ую, значит -ова-."
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.verb-spelling.module-exam.r36-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "ты [ненавид…шь] ложь",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "ненавидишь",
+          "ex": "Ненавидеть — исключение II спряжения."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "они [бре…т] бороды",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "бреют",
+          "ex": "Брить — I спряжение."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "он [верт…т] ручку",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "вертит",
+          "ex": "Вертеть — исключение II спряжения."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "[та…щий] на крыше снег",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "тающий",
+          "ex": "Тают — -ющ-."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "[гон…щий] стадо пастух",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "гонящий",
+          "ex": "Гонят — -ящ-."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "нужно [верну…ся] вовремя",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "вернуться",
+          "ex": "Инфинитив: что сделать? -ться."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "поезд [вернё…ся] ночью",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "вернётся",
+          "ex": "Личная форма: что сделает? -тся."
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.r36-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.verb-spelling.foundation",
+          "raw": "[опазд…вать] на поезд (опаздываю)",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "опаздывать",
+          "ex": "В первом лице -ываю, сохраняется -ыва-."
         }
       ]
     }

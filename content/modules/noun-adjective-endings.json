@@ -34,7 +34,8 @@
           "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
           "lessonId": "ru.orthography.noun-adjective-endings.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.orthography.noun-adjective-endings.module-exam.b",
@@ -57,6 +58,165 @@
           "ex": "Е выпадает: -ек-.",
           "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
           "lessonId": "ru.orthography.noun-adjective-endings.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.orthography.noun-adjective-endings.module-exam.r36-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "письмо к [бабушк…]",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "бабушке",
+          "ex": "Первое склонение, дательный падеж: е."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "стоять у [печ…]",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "печи",
+          "ex": "Третье склонение, родительный падеж: и."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "рассказ о [лекци…]",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "лекции",
+          "ex": "На -ия, предложный падеж: и."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "жить в [общежити…]",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "общежитии",
+          "ex": "На -ие, предложный падеж: и."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "маленький [кусоч…к] (кусочка)",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "кусочек",
+          "ex": "Гласная выпадает: -ек-."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "новый [кирпич…к] (кирпичика)",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "кирпичик",
+          "ex": "Гласная сохраняется: -ик-."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "с [зимн…м] пальто",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "зимним",
+          "ex": "Творительный падеж, мягкая основа: -им."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "о [летн…м] лагере",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "летнем",
+          "ex": "Предложный падеж, мягкая основа: -ем."
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.noun-adjective-endings.module-exam.r36-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "подойти к [площадк…]",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "площадке",
+          "ex": "Первое склонение, дательный падеж: е."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "запись в [повест…] (от повесть)",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "повести",
+          "ex": "Третье склонение, предложный падеж: и."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "подготовка к [экскурси…]",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "экскурсии",
+          "ex": "На -ия, дательный падеж: и."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "лист в [гербари…]",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "гербарии",
+          "ex": "На -ий, предложный падеж: и."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "дверной [звоноч…к] (звоночка)",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "звоночек",
+          "ex": "Гласная выпадает: -ек-."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "маленький [шалаш…к] (шалашика)",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "шалашик",
+          "ex": "Гласная сохраняется: -ик-."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "по [весенн…му] полю",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "весеннему",
+          "ex": "Дательный падеж, мягкая основа: -ему."
+        },
+        {
+          "id": "ru.orthography.noun-adjective-endings.module-exam.r36-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.noun-adjective-endings.foundation",
+          "raw": "с [дубов…м] столом",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "дубовым",
+          "ex": "Творительный падеж, твёрдая основа: -ым."
         }
       ]
     }

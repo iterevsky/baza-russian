@@ -1,0 +1,508 @@
+[
+  {
+    "number": "05.01",
+    "title": "Словосочетания: согласование, управление, примыкание",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить цельные словосочетания, неизменяемые притяжательные его/её/их, отличие примыкания от управления."
+  },
+  {
+    "number": "05.02",
+    "title": "Грамматическая основа",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Развести границы предикативной части и составное сказуемое; проверить примеры с инфинитивом и безличностью."
+  },
+  {
+    "number": "05.03",
+    "title": "Подлежащее и сказуемое, виды сказуемых",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить нулевую связку, фразеологическое сказуемое, инфинитив цели и количественные подлежащие."
+  },
+  {
+    "number": "05.04",
+    "title": "Второстепенные члены предложения",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Разобрать несогласованные определения, приложения, синкретичные предложно-падежные формы."
+  },
+  {
+    "number": "05.05",
+    "title": "Односоставные и неполные предложения",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить инфинитивные конструкции, обобщённо-личное значение, различение назывных и неполных двусоставных."
+  },
+  {
+    "number": "05.06",
+    "title": "Однородность и осложнение простого предложения",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Расширить разбор рядов с несколькими группами, разной степенью распространённости, неоднородностью."
+  },
+  {
+    "number": "05.07",
+    "title": "Обособление, уточнение, вводность и обращение",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Развести уточнение, пояснение, присоединение, предикативность вставок и функцию обращения."
+  },
+  {
+    "number": "05.08",
+    "title": "Сложносочинённые предложения",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить разделительные и противительные отношения с общим компонентом; разграничить однородные сказуемые и ССП."
+  },
+  {
+    "number": "05.09",
+    "title": "Сложноподчинённые предложения и виды придаточных",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить подтипы обстоятельственных придаточных, последовательное, параллельное, однородное подчинение; проверить союзное слово."
+  },
+  {
+    "number": "05.10",
+    "title": "Бессоюзные и смешанные сложные предложения",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Включить иерархический разбор блоков с разными видами связи и сопоставление возможных прочтений."
+  },
+  {
+    "number": "05.11",
+    "title": "Прямая и косвенная речь",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить перестройку указательных слов, время и лицо, косвенные вопросы и неоднозначные преобразования."
+  },
+  {
+    "number": "05.12",
+    "title": "Синтаксический разбор, порядок слов и актуальное членение",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить многошаговый разбор реального абзаца; проверять тему и рему только с заданным коммуникативным контекстом."
+  },
+  {
+    "number": "06.01",
+    "title": "Проверяемые, непроверяемые и чередующиеся гласные корня (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.02",
+    "title": "Согласные в корне и удвоенные согласные (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.03",
+    "title": "Приставки, включая пре-/при- и з-/с- (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.04",
+    "title": "Ъ, Ь, И/Ы после приставок (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.05",
+    "title": "ЖИ/ШИ, ЧА/ЩА, ЧУ/ЩУ, О/Ё после шипящих и Ц (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.06",
+    "title": "Суффиксы и окончания существительных и прилагательных (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.07",
+    "title": "Личные окончания глаголов и суффиксы глагольных форм (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.08",
+    "title": "Н и НН в разных частях речи (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.09",
+    "title": "НЕ и НИ: значение и правописание (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.10",
+    "title": "Слитное, раздельное и дефисное написание (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.11",
+    "title": "Правописание наречий, предлогов, союзов и частиц (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.12",
+    "title": "Прописные и строчные буквы, имена собственные (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.13",
+    "title": "Перенос, сокращения, аббревиатуры и графические обозначения (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "06.14",
+    "title": "Словарные и трудные написания, варианты, Ё/Е (базовый контроль)",
+    "lessons": 1,
+    "practice": 8,
+    "currentVariantSizes": [
+      8,
+      8
+    ],
+    "status": "orthography first revision",
+    "next": "Independent blind review; expand practice and lesson exams"
+  },
+  {
+    "number": "07.01",
+    "title": "Знаки конца предложения",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить косвенный вопрос, риторический вопрос, сочетания знаков, реплики и заголовки."
+  },
+  {
+    "number": "07.02",
+    "title": "Тире между подлежащим и сказуемым, неполные предложения",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить исключения при отрицании, сравнении, личном местоимении, обстоятельственной паузе и словах это/вот."
+  },
+  {
+    "number": "07.03",
+    "title": "Однородные члены и обобщающие слова",
+    "lessons": 5,
+    "practice": 30,
+    "currentVariantSizes": [
+      10,
+      10
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить запятую при присоединительном и, устойчивые сочетания, сложные ряды и пограничные определения."
+  },
+  {
+    "number": "07.04",
+    "title": "Причастные и деепричастные обороты",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить причинное значение определения перед существительным, тесную связь со сказуемым и одиночные деепричастия."
+  },
+  {
+    "number": "07.05",
+    "title": "Обособленные определения, приложения и обстоятельства",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Сверить случаи необособления оборота с несмотря на при тесной связи со сказуемым, приложения и несогласованные определения."
+  },
+  {
+    "number": "07.06",
+    "title": "Уточняющие, пояснительные и присоединительные конструкции",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить случаи факультативного уточнения, пояснительное или, присоединительные конструкции без типичных маркеров."
+  },
+  {
+    "number": "07.07",
+    "title": "Сравнительные обороты",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить обороты с как в значении образа действия, устойчивые сочетания и смысловые минимальные пары."
+  },
+  {
+    "number": "07.08",
+    "title": "Вводные слова, вставные конструкции и обращения",
+    "lessons": 8,
+    "practice": 69,
+    "currentVariantSizes": [
+      16,
+      16
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Проверить границы при стыке союза, вставки, обращения и вводного; устранить один точный дубль с миграцией истории."
+  },
+  {
+    "number": "07.09",
+    "title": "Знаки в сложносочинённых предложениях",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить общую вопросительную/восклицательную интонацию, однотипные безличные части и точку с запятой."
+  },
+  {
+    "number": "07.10",
+    "title": "Знаки в сложноподчинённых предложениях, стык союзов",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить составные союзы, неполные придаточные, однородное и последовательное подчинение, стыки разных типов."
+  },
+  {
+    "number": "07.11",
+    "title": "Знаки в бессоюзных предложениях",
+    "lessons": 2,
+    "practice": 12,
+    "currentVariantSizes": [
+      4,
+      4
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Расширить разрешённые знаки и смысловые варианты; не штрафовать за нормативную альтернативу без явного условия."
+  },
+  {
+    "number": "07.12",
+    "title": "Сложные предложения с разными видами связи (базовый контроль)",
+    "lessons": 1,
+    "practice": 6,
+    "currentVariantSizes": [
+      2,
+      2
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить схемы нескольких уровней, знаки при внутренних и внешних границах, проверку структуры перед пунктуацией."
+  },
+  {
+    "number": "07.13",
+    "title": "Прямая речь, цитаты, диалог (базовый контроль)",
+    "lessons": 1,
+    "practice": 6,
+    "currentVariantSizes": [
+      2,
+      2
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить разрыв прямой речи словами автора, диалог в абзацах, цитату в синтаксической позиции, вложенные кавычки."
+  },
+  {
+    "number": "07.14",
+    "title": "Факультативные и авторские знаки, смысловые варианты (базовый контроль)",
+    "lessons": 1,
+    "practice": 6,
+    "currentVariantSizes": [
+      2,
+      2
+    ],
+    "status": "structural inventory only, substantive revision pending",
+    "next": "Verify rules and exception coverage; build new independent variants with balanced coverage of lessons; preserve old answer keys",
+    "reviewFocus": "Добавить корпус редакторских пар с разными допустимыми прочтениями и критерии для открытой аргументации."
+  }
+]

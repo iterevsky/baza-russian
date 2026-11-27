@@ -117,7 +117,38 @@
       "title": "Морфемика и словообразование",
       "moduleCount": 6,
       "description": "Строение и происхождение слов",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.word-formation.morpheme-types.foundation",
+          "file": "lessons/morpheme-types.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.word-formation.word-stem.foundation",
+          "file": "lessons/word-stem.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.word-formation.word-family.foundation",
+          "file": "lessons/word-family.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.word-formation.morpheme-alternations.foundation",
+          "file": "lessons/morpheme-alternations.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.word-formation.derivation-methods.foundation",
+          "file": "lessons/derivation-methods.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.word-formation.derivation-chain.foundation",
+          "file": "lessons/derivation-chain.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "03.01",
@@ -150,7 +181,58 @@
       "title": "Морфология",
       "moduleCount": 10,
       "description": "Части речи и формы слов",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.morphology.parts-of-speech.foundation",
+          "file": "lessons/parts-of-speech.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.morphology.noun-morphology.foundation",
+          "file": "lessons/noun-morphology.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.morphology.adjective-morphology.foundation",
+          "file": "lessons/adjective-morphology.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.morphology.numeral-morphology.foundation",
+          "file": "lessons/numeral-morphology.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.morphology.pronoun-morphology.foundation",
+          "file": "lessons/pronoun-morphology.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.morphology.verb-morphology.foundation",
+          "file": "lessons/verb-morphology.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.morphology.verb-derived-forms.foundation",
+          "file": "lessons/verb-derived-forms.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.morphology.adverb-state.foundation",
+          "file": "lessons/adverb-state.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.morphology.function-words.foundation",
+          "file": "lessons/function-words.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.morphology.morphological-analysis.foundation",
+          "file": "lessons/morphological-analysis.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "04.01",
@@ -749,7 +831,48 @@
       "title": "Лексика, семантика и фразеология",
       "moduleCount": 8,
       "description": "Значение и сочетаемость",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.lexicon.lexical-meaning.foundation",
+          "file": "lessons/lexical-meaning.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.lexicon.figurative-meaning.foundation",
+          "file": "lessons/figurative-meaning.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.lexicon.lexical-relations.foundation",
+          "file": "lessons/lexical-relations.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.lexicon.paronyms-collocation.foundation",
+          "file": "lessons/paronyms-collocation.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.lexicon.lexical-layers.foundation",
+          "file": "lessons/lexical-layers.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.lexicon.idioms.foundation",
+          "file": "lessons/idioms.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.lexicon.register-connotation.foundation",
+          "file": "lessons/register-connotation.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.lexicon.dictionary-vocabulary.foundation",
+          "file": "lessons/dictionary-vocabulary.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "08.01",
@@ -790,7 +913,38 @@
       "title": "История языка и этимология",
       "moduleCount": 6,
       "description": "Развитие языка",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.history.russian-language-history.foundation",
+          "file": "lessons/russian-language-history.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.history.slavonic-layers.foundation",
+          "file": "lessons/slavonic-layers.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.history.writing-reforms.foundation",
+          "file": "lessons/writing-reforms.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.history.historical-changes.foundation",
+          "file": "lessons/historical-changes.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.history.borrowing-etymology.foundation",
+          "file": "lessons/borrowing-etymology.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.history.scientific-etymology.foundation",
+          "file": "lessons/scientific-etymology.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "09.01",
@@ -823,7 +977,53 @@
       "title": "Культура речи",
       "moduleCount": 9,
       "description": "Нормы и уместность",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.speech-culture.norm-register.foundation",
+          "file": "lessons/norm-register.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.noun-norms.foundation",
+          "file": "lessons/noun-norms.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.proper-name-declension.foundation",
+          "file": "lessons/proper-name-declension.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.numeral-norms.foundation",
+          "file": "lessons/numeral-norms.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.verb-government.foundation",
+          "file": "lessons/verb-government.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+          "file": "lessons/subject-predicate-agreement.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.participle-construction-norms.foundation",
+          "file": "lessons/participle-construction-norms.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.speech-errors.foundation",
+          "file": "lessons/speech-errors.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.speech-culture.speech-etiquette.foundation",
+          "file": "lessons/speech-etiquette.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "10.01",
@@ -868,7 +1068,58 @@
       "title": "Стилистика и редактирование",
       "moduleCount": 10,
       "description": "Точность и выразительность",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.stylistics.functional-styles.foundation",
+          "file": "lessons/functional-styles.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.clarity-precision.foundation",
+          "file": "lessons/clarity-precision.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.text-cohesion.foundation",
+          "file": "lessons/text-cohesion.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.sentence-rhythm.foundation",
+          "file": "lessons/sentence-rhythm.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.verbal-economy.foundation",
+          "file": "lessons/verbal-economy.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.tropes-figures.foundation",
+          "file": "lessons/tropes-figures.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.author-voice.foundation",
+          "file": "lessons/author-voice.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.editorial-diagnosis.foundation",
+          "file": "lessons/editorial-diagnosis.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.proofreading-typography.foundation",
+          "file": "lessons/proofreading-typography.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.stylistics.revision-comparison.foundation",
+          "file": "lessons/revision-comparison.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "11.01",
@@ -917,7 +1168,48 @@
       "title": "Речь, аргументация и жанры",
       "moduleCount": 8,
       "description": "Мысль, текст, высказывание",
-      "lessons": [],
+      "lessons": [
+        {
+          "id": "ru.argumentation.thesis-evidence.foundation",
+          "file": "lessons/thesis-evidence.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.logic-fallacies.foundation",
+          "file": "lessons/logic-fallacies.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.reasoning-counterarguments.foundation",
+          "file": "lessons/reasoning-counterarguments.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.business-correspondence.foundation",
+          "file": "lessons/business-correspondence.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.analytical-memo.foundation",
+          "file": "lessons/analytical-memo.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.public-science-writing.foundation",
+          "file": "lessons/public-science-writing.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.oral-speech-discussion.foundation",
+          "file": "lessons/oral-speech-discussion.json",
+          "status": "draft"
+        },
+        {
+          "id": "ru.argumentation.independent-writing.foundation",
+          "file": "lessons/independent-writing.json",
+          "status": "draft"
+        }
+      ],
       "plan": [
         {
           "number": "12.01",
@@ -1154,6 +1446,234 @@
     {
       "id": "ru.phonetics.stress-variants",
       "file": "modules/stress-variants.json"
+    },
+    {
+      "id": "ru.word-formation.morpheme-types",
+      "file": "modules/morpheme-types.json"
+    },
+    {
+      "id": "ru.word-formation.word-stem",
+      "file": "modules/word-stem.json"
+    },
+    {
+      "id": "ru.word-formation.word-family",
+      "file": "modules/word-family.json"
+    },
+    {
+      "id": "ru.word-formation.morpheme-alternations",
+      "file": "modules/morpheme-alternations.json"
+    },
+    {
+      "id": "ru.word-formation.derivation-methods",
+      "file": "modules/derivation-methods.json"
+    },
+    {
+      "id": "ru.word-formation.derivation-chain",
+      "file": "modules/derivation-chain.json"
+    },
+    {
+      "id": "ru.morphology.parts-of-speech",
+      "file": "modules/parts-of-speech.json"
+    },
+    {
+      "id": "ru.morphology.noun-morphology",
+      "file": "modules/noun-morphology.json"
+    },
+    {
+      "id": "ru.morphology.adjective-morphology",
+      "file": "modules/adjective-morphology.json"
+    },
+    {
+      "id": "ru.morphology.numeral-morphology",
+      "file": "modules/numeral-morphology.json"
+    },
+    {
+      "id": "ru.morphology.pronoun-morphology",
+      "file": "modules/pronoun-morphology.json"
+    },
+    {
+      "id": "ru.morphology.verb-morphology",
+      "file": "modules/verb-morphology.json"
+    },
+    {
+      "id": "ru.morphology.verb-derived-forms",
+      "file": "modules/verb-derived-forms.json"
+    },
+    {
+      "id": "ru.morphology.adverb-state",
+      "file": "modules/adverb-state.json"
+    },
+    {
+      "id": "ru.morphology.function-words",
+      "file": "modules/function-words.json"
+    },
+    {
+      "id": "ru.morphology.morphological-analysis",
+      "file": "modules/morphological-analysis.json"
+    },
+    {
+      "id": "ru.lexicon.lexical-meaning",
+      "file": "modules/lexical-meaning.json"
+    },
+    {
+      "id": "ru.lexicon.figurative-meaning",
+      "file": "modules/figurative-meaning.json"
+    },
+    {
+      "id": "ru.lexicon.lexical-relations",
+      "file": "modules/lexical-relations.json"
+    },
+    {
+      "id": "ru.lexicon.paronyms-collocation",
+      "file": "modules/paronyms-collocation.json"
+    },
+    {
+      "id": "ru.lexicon.lexical-layers",
+      "file": "modules/lexical-layers.json"
+    },
+    {
+      "id": "ru.lexicon.idioms",
+      "file": "modules/idioms.json"
+    },
+    {
+      "id": "ru.lexicon.register-connotation",
+      "file": "modules/register-connotation.json"
+    },
+    {
+      "id": "ru.lexicon.dictionary-vocabulary",
+      "file": "modules/dictionary-vocabulary.json"
+    },
+    {
+      "id": "ru.history.russian-language-history",
+      "file": "modules/russian-language-history.json"
+    },
+    {
+      "id": "ru.history.slavonic-layers",
+      "file": "modules/slavonic-layers.json"
+    },
+    {
+      "id": "ru.history.writing-reforms",
+      "file": "modules/writing-reforms.json"
+    },
+    {
+      "id": "ru.history.historical-changes",
+      "file": "modules/historical-changes.json"
+    },
+    {
+      "id": "ru.history.borrowing-etymology",
+      "file": "modules/borrowing-etymology.json"
+    },
+    {
+      "id": "ru.history.scientific-etymology",
+      "file": "modules/scientific-etymology.json"
+    },
+    {
+      "id": "ru.speech-culture.norm-register",
+      "file": "modules/norm-register.json"
+    },
+    {
+      "id": "ru.speech-culture.noun-norms",
+      "file": "modules/noun-norms.json"
+    },
+    {
+      "id": "ru.speech-culture.proper-name-declension",
+      "file": "modules/proper-name-declension.json"
+    },
+    {
+      "id": "ru.speech-culture.numeral-norms",
+      "file": "modules/numeral-norms.json"
+    },
+    {
+      "id": "ru.speech-culture.verb-government",
+      "file": "modules/verb-government.json"
+    },
+    {
+      "id": "ru.speech-culture.subject-predicate-agreement",
+      "file": "modules/subject-predicate-agreement.json"
+    },
+    {
+      "id": "ru.speech-culture.participle-construction-norms",
+      "file": "modules/participle-construction-norms.json"
+    },
+    {
+      "id": "ru.speech-culture.speech-errors",
+      "file": "modules/speech-errors.json"
+    },
+    {
+      "id": "ru.speech-culture.speech-etiquette",
+      "file": "modules/speech-etiquette.json"
+    },
+    {
+      "id": "ru.stylistics.functional-styles",
+      "file": "modules/functional-styles.json"
+    },
+    {
+      "id": "ru.stylistics.clarity-precision",
+      "file": "modules/clarity-precision.json"
+    },
+    {
+      "id": "ru.stylistics.text-cohesion",
+      "file": "modules/text-cohesion.json"
+    },
+    {
+      "id": "ru.stylistics.sentence-rhythm",
+      "file": "modules/sentence-rhythm.json"
+    },
+    {
+      "id": "ru.stylistics.verbal-economy",
+      "file": "modules/verbal-economy.json"
+    },
+    {
+      "id": "ru.stylistics.tropes-figures",
+      "file": "modules/tropes-figures.json"
+    },
+    {
+      "id": "ru.stylistics.author-voice",
+      "file": "modules/author-voice.json"
+    },
+    {
+      "id": "ru.stylistics.editorial-diagnosis",
+      "file": "modules/editorial-diagnosis.json"
+    },
+    {
+      "id": "ru.stylistics.proofreading-typography",
+      "file": "modules/proofreading-typography.json"
+    },
+    {
+      "id": "ru.stylistics.revision-comparison",
+      "file": "modules/revision-comparison.json"
+    },
+    {
+      "id": "ru.argumentation.thesis-evidence",
+      "file": "modules/thesis-evidence.json"
+    },
+    {
+      "id": "ru.argumentation.logic-fallacies",
+      "file": "modules/logic-fallacies.json"
+    },
+    {
+      "id": "ru.argumentation.reasoning-counterarguments",
+      "file": "modules/reasoning-counterarguments.json"
+    },
+    {
+      "id": "ru.argumentation.business-correspondence",
+      "file": "modules/business-correspondence.json"
+    },
+    {
+      "id": "ru.argumentation.analytical-memo",
+      "file": "modules/analytical-memo.json"
+    },
+    {
+      "id": "ru.argumentation.public-science-writing",
+      "file": "modules/public-science-writing.json"
+    },
+    {
+      "id": "ru.argumentation.oral-speech-discussion",
+      "file": "modules/oral-speech-discussion.json"
+    },
+    {
+      "id": "ru.argumentation.independent-writing",
+      "file": "modules/independent-writing.json"
     }
   ],
   "lessonOrder": [
@@ -1238,6 +1758,63 @@
     "ru.phonetics.syllable-stress.foundation",
     "ru.phonetics.sound-changes.foundation",
     "ru.phonetics.pronunciation-combinations.foundation",
-    "ru.phonetics.stress-variants.foundation"
+    "ru.phonetics.stress-variants.foundation",
+    "ru.word-formation.morpheme-types.foundation",
+    "ru.word-formation.word-stem.foundation",
+    "ru.word-formation.word-family.foundation",
+    "ru.word-formation.morpheme-alternations.foundation",
+    "ru.word-formation.derivation-methods.foundation",
+    "ru.word-formation.derivation-chain.foundation",
+    "ru.morphology.parts-of-speech.foundation",
+    "ru.morphology.noun-morphology.foundation",
+    "ru.morphology.adjective-morphology.foundation",
+    "ru.morphology.numeral-morphology.foundation",
+    "ru.morphology.pronoun-morphology.foundation",
+    "ru.morphology.verb-morphology.foundation",
+    "ru.morphology.verb-derived-forms.foundation",
+    "ru.morphology.adverb-state.foundation",
+    "ru.morphology.function-words.foundation",
+    "ru.morphology.morphological-analysis.foundation",
+    "ru.lexicon.lexical-meaning.foundation",
+    "ru.lexicon.figurative-meaning.foundation",
+    "ru.lexicon.lexical-relations.foundation",
+    "ru.lexicon.paronyms-collocation.foundation",
+    "ru.lexicon.lexical-layers.foundation",
+    "ru.lexicon.idioms.foundation",
+    "ru.lexicon.register-connotation.foundation",
+    "ru.lexicon.dictionary-vocabulary.foundation",
+    "ru.history.russian-language-history.foundation",
+    "ru.history.slavonic-layers.foundation",
+    "ru.history.writing-reforms.foundation",
+    "ru.history.historical-changes.foundation",
+    "ru.history.borrowing-etymology.foundation",
+    "ru.history.scientific-etymology.foundation",
+    "ru.speech-culture.norm-register.foundation",
+    "ru.speech-culture.noun-norms.foundation",
+    "ru.speech-culture.proper-name-declension.foundation",
+    "ru.speech-culture.numeral-norms.foundation",
+    "ru.speech-culture.verb-government.foundation",
+    "ru.speech-culture.subject-predicate-agreement.foundation",
+    "ru.speech-culture.participle-construction-norms.foundation",
+    "ru.speech-culture.speech-errors.foundation",
+    "ru.speech-culture.speech-etiquette.foundation",
+    "ru.stylistics.functional-styles.foundation",
+    "ru.stylistics.clarity-precision.foundation",
+    "ru.stylistics.text-cohesion.foundation",
+    "ru.stylistics.sentence-rhythm.foundation",
+    "ru.stylistics.verbal-economy.foundation",
+    "ru.stylistics.tropes-figures.foundation",
+    "ru.stylistics.author-voice.foundation",
+    "ru.stylistics.editorial-diagnosis.foundation",
+    "ru.stylistics.proofreading-typography.foundation",
+    "ru.stylistics.revision-comparison.foundation",
+    "ru.argumentation.thesis-evidence.foundation",
+    "ru.argumentation.logic-fallacies.foundation",
+    "ru.argumentation.reasoning-counterarguments.foundation",
+    "ru.argumentation.business-correspondence.foundation",
+    "ru.argumentation.analytical-memo.foundation",
+    "ru.argumentation.public-science-writing.foundation",
+    "ru.argumentation.oral-speech-discussion.foundation",
+    "ru.argumentation.independent-writing.foundation"
   ]
 }

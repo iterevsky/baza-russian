@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.negation-spelling",
+  "title": "НЕ и НИ: значение и правописание (базовый контроль)",
+  "moduleNumber": "06.09",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.negation-spelling.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: НЕ и НИ: значение и правописание",
+    "url": "https://orthographia.ru/orfografia.php?sid=79"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.negation-spelling.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "Он (недо/солил) суп (положил мало соли).",
+          "answer": "недосолил",
+          "ex": "Недо- обозначает недостаточность.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.negation-spelling.foundation"
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "Он (не/доел) порцию (не закончил есть).",
+          "answer": "не доел",
+          "ex": "Не + глагол доесть: действие не завершено.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.negation-spelling.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.negation-spelling.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "(ни/где) не нашёл папку.",
+          "answer": "нигде",
+          "ex": "Отрицательное наречие слитно.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.negation-spelling.foundation"
+        },
+        {
+          "id": "ru.orthography.negation-spelling.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "(не/спеша) вошёл в зал.",
+          "answer": "не спеша",
+          "ex": "Не с деепричастной формой раздельно.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.negation-spelling.foundation"
+        }
+      ]
+    }
+  ]
+}

@@ -34,7 +34,8 @@
           "instruction": "Ответьте строго в формате, указанном в задании: да/нет либо сокращение или обозначение с нужным знаком. Не добавляйте точку к ответу да или нет.",
           "lessonId": "ru.orthography.hyphenation-abbreviations.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.orthography.hyphenation-abbreviations.module-exam.b",
@@ -57,6 +58,165 @@
           "ex": "Обозначение единицы без точки.",
           "instruction": "Ответьте строго в формате, указанном в задании: да/нет либо сокращение или обозначение с нужным знаком. Не добавляйте точку к ответу да или нет.",
           "lessonId": "ru.orthography.hyphenation-abbreviations.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Впишите допустимый перенос из «па-льто», «паль-то».",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "паль-то",
+          "ex": "Мягкий знак не отрывается от л."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Впишите допустимый перенос из «ра-йон», «рай-он».",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "рай-он",
+          "ex": "Й не отрывается от а."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Впишите допустимый перенос из «у-дача», «уда-ча».",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "уда-ча",
+          "ex": "Одну букву оставлять нельзя."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Впишите буквенную аббревиатуру «Р Ф» без лишнего пробела и без точек.",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "РФ",
+          "ex": "Буквенная аббревиатура пишется слитно без точек."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Обозначьте километр после числа (без конечного знака предложения).",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "км",
+          "ex": "Условное обозначение единицы без точки."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Обозначьте секунду после числа (без конечного знака предложения).",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "с",
+          "ex": "Обозначение единицы без точки."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Сократите «рубль» как «руб» с необходимым знаком.",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "руб.",
+          "ex": "Графическое сокращение с точкой."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Сократите «глава» как «гл» с необходимым знаком.",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "гл.",
+          "ex": "Графическое сокращение с точкой."
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Впишите допустимый перенос из «се-мья», «сем-ья».",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "се-мья",
+          "ex": "Ь нельзя отрывать от м."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Впишите допустимый перенос из «от-ъезд», «отъ-езд».",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "отъ-езд",
+          "ex": "Ъ нельзя отрывать от т."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Впишите допустимый перенос из «и-гра», «иг-ра».",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "иг-ра",
+          "ex": "Одну букву нельзя оставлять на строке; иг-ра допустимо."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Впишите буквенную аббревиатуру «С Н Г» без пробелов и точек.",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "СНГ",
+          "ex": "Аббревиатура пишется слитно без точек."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Обозначьте миллиметр после числа (без конечного знака предложения).",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "мм",
+          "ex": "Условное обозначение единицы без точки."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Обозначьте грамм после числа (без конечного знака предложения).",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "г",
+          "ex": "Условное обозначение единицы без точки."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Сократите «копейка» как «коп» с необходимым знаком.",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "коп.",
+          "ex": "Графическое сокращение с точкой."
+        },
+        {
+          "id": "ru.orthography.hyphenation-abbreviations.module-exam.r36-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.hyphenation-abbreviations.foundation",
+          "raw": "Сократите «область» как «обл» с необходимым знаком.",
+          "instruction": "Выполните указание в тексте. Введите только запрошенный ответ, сохраняя знаки и регистр.",
+          "answer": "обл.",
+          "ex": "Графическое сокращение с точкой."
         }
       ]
     }

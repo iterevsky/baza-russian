@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.word-boundaries",
+  "title": "Слитное, раздельное и дефисное написание (базовый контроль)",
+  "moduleNumber": "06.10",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.word-boundaries.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Слитное, раздельное и дефисное написание",
+    "url": "https://orthographia.ru/orfografia.php?sid=63"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.word-boundaries.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.word-boundaries.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "(пол/ведра) воды.",
+          "answer": "полведра",
+          "ex": "Перед в слитно.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.word-boundaries.foundation"
+        },
+        {
+          "id": "ru.orthography.word-boundaries.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "(пол/огурца) нарезали.",
+          "answer": "пол-огурца",
+          "ex": "Перед гласной дефис.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.word-boundaries.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.word-boundaries.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.word-boundaries.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "(микро/район) города.",
+          "answer": "микрорайон",
+          "ex": "Микро- слитно.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.word-boundaries.foundation"
+        },
+        {
+          "id": "ru.orthography.word-boundaries.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "(тёмно/синий) пиджак.",
+          "answer": "тёмно-синий",
+          "ex": "Оттенок цвета через дефис.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.word-boundaries.foundation"
+        }
+      ]
+    }
+  ]
+}

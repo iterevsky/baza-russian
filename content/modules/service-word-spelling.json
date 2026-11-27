@@ -34,7 +34,8 @@
           "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
           "lessonId": "ru.orthography.service-word-spelling.foundation"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.orthography.service-word-spelling.module-exam.b",
@@ -57,6 +58,165 @@
           "ex": "При предлоге компоненты разделены пробелами.",
           "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
           "lessonId": "ru.orthography.service-word-spelling.foundation"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.orthography.service-word-spelling.module-exam.r36-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Мы остались дома [в/виду] непогоды (из-за).",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "ввиду",
+          "ex": "Производный предлог причины, слитно."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Имейте [в/виду] расписание.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "в виду",
+          "ex": "Устойчивое сочетание иметь в виду раздельно."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Мы ждали [в/течени…] часа.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "в течение",
+          "ex": "Производный предлог времени, окончание е."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Водоворот возник [в/течени…] реки.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "в течении",
+          "ex": "Существительное течение, предложный падеж."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Он ушёл, [что/бы] не мешать.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "чтобы",
+          "ex": "Союз цели."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Долго думали, [что/бы] заказать на ужин.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "что бы",
+          "ex": "Что — вопросительное местоимение, бы — отдельная частица."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Говорил [по/дружески].",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "по-дружески",
+          "ex": "Наречие на -ски с по- пишется через дефис."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Мы уже [кое/с/кем] договорились.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "кое с кем",
+          "ex": "При наличии предлога части пишутся раздельно."
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.service-word-spelling.module-exam.r36-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Они продолжили путь, [не/смотря/на] дождь.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "несмотря на",
+          "ex": "Производный предлог уступки."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Он шёл, [не/смотря/на] прохожих (не глядя).",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "не смотря на",
+          "ex": "Не с деепричастием раздельно."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Мы отдыхали [в/продолжени…] недели.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "в продолжение",
+          "ex": "Предлог времени с конечным е."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "В этом месте [в/продолжени…] романа автор меняет героя.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "в продолжении",
+          "ex": "Существительное продолжение, предложный падеж."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Он устал, [за/то] закончил работу.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "зато",
+          "ex": "Противительный союз, близок к но."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Его поблагодарили [за/то], что помог.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "за то",
+          "ex": "Предлог с указательным местоимением."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Идти [по/зимнему] лесу.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "по зимнему",
+          "ex": "Предлог и согласованное определение."
+        },
+        {
+          "id": "ru.orthography.service-word-spelling.module-exam.r36-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.orthography.service-word-spelling.foundation",
+          "raw": "Он спросил [кого/нибудь] о дороге.",
+          "instruction": "Впишите только слово или сочетание в квадратных скобках целиком, без скобок и остального текста. Сохраняйте нужные прописные, дефисы, пробелы; в этом задании употребляйте ё последовательно.",
+          "answer": "кого-нибудь",
+          "ex": "Частица -нибудь через дефис."
         }
       ]
     }

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.verb-spelling",
+  "title": "Личные окончания глаголов и суффиксы глагольных форм (базовый контроль)",
+  "moduleNumber": "06.07",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.verb-spelling.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Личные окончания глаголов и суффиксы глагольных форм",
+    "url": "https://orthographia.ru/orfografia.php?sid=29"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.verb-spelling.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "она завис[…]т от расписания.",
+          "answer": "зависит",
+          "ex": "Зависеть — исключение II.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.verb-spelling.foundation"
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "мы терп[…]м неудобства.",
+          "answer": "терпим",
+          "ex": "Терпеть — исключение II.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.verb-spelling.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.verb-spelling.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "мо[…]щий окна сотрудник.",
+          "answer": "моющий",
+          "ex": "Они моют: -ющ-.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.verb-spelling.foundation"
+        },
+        {
+          "id": "ru.orthography.verb-spelling.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "слыш[…]щий музыку слушатель.",
+          "answer": "слышащий",
+          "ex": "Они слышат: -ащ-.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.verb-spelling.foundation"
+        }
+      ]
+    }
+  ]
+}

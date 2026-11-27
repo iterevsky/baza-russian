@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.separators",
+  "title": "Ъ, Ь, И/Ы после приставок (базовый контроль)",
+  "moduleNumber": "06.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.separators.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: Ъ, Ь, И/Ы после приставок",
+    "url": "https://orthographia.ru/orfografia.php?sid=0"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.separators.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.separators.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "под[…]скать вариант.",
+          "answer": "подыскать",
+          "ex": "После под- начальное и передаётся ы.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.separators.foundation"
+        },
+        {
+          "id": "ru.orthography.separators.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "павил[…]он выставки.",
+          "answer": "павильон",
+          "ex": "В заимствовании разделительный ь перед о.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.separators.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.separators.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.separators.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "из[…]ян в изделии.",
+          "answer": "изъян",
+          "ex": "Закреплённое написание с ъ.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.separators.foundation"
+        },
+        {
+          "id": "ru.orthography.separators.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "меж[…]гровой перерыв.",
+          "answer": "межигровой",
+          "ex": "После меж- сохраняется и.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.separators.foundation"
+        }
+      ]
+    }
+  ]
+}

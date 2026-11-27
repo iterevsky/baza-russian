@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.orthography.sibilant-vowels",
+  "title": "ЖИ/ШИ, ЧА/ЩА, ЧУ/ЩУ, О/Ё после шипящих и Ц (базовый контроль)",
+  "moduleNumber": "06.05",
+  "status": "draft",
+  "lessonIds": [
+    "ru.orthography.sibilant-vowels.foundation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина: ЖИ/ШИ, ЧА/ЩА, ЧУ/ЩУ, О/Ё после шипящих и Ц",
+    "url": "https://orthographia.ru/orfografia.php?sid=14"
+  },
+  "variants": [
+    {
+      "id": "ru.orthography.sibilant-vowels.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.a.02",
+          "type": "written-answer",
+          "raw": "нож[…]м разрезали.",
+          "answer": "ножом",
+          "ex": "Ударное окончание после ж — о.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation"
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.a.01",
+          "type": "written-answer",
+          "raw": "ш[…]в на ткани.",
+          "answer": "шов",
+          "ex": "Словарное о в корне, сравните шва.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.orthography.sibilant-vowels.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.b.02",
+          "type": "written-answer",
+          "raw": "брош[…]ра о выставке.",
+          "answer": "брошюра",
+          "ex": "Заимствование с ю после ш.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation"
+        },
+        {
+          "id": "ru.orthography.sibilant-vowels.module-exam.b.01",
+          "type": "written-answer",
+          "raw": "свеч[…]й осветили стол.",
+          "answer": "свечой",
+          "ex": "Ударное окончание — о.",
+          "instruction": "Впишите только отмеченное слово или сочетание полностью, без остальной фразы. Это фрагменты: начинайте со строчной, кроме собственных имён и специальных указаний. Пишите Ё последовательно; сохраняйте внутренние прописные, дефисы и пробелы.",
+          "lessonId": "ru.orthography.sibilant-vowels.foundation"
+        }
+      ]
+    }
+  ]
+}
