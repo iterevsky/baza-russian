@@ -1,0 +1,4537 @@
+{
+  "scope": "139 lessons and 107 modules; structural triage only, flags are not verified defects",
+  "lessons": 139,
+  "modules": 107,
+  "activeModuleVariants": 214,
+  "minimumModuleVariant": 8,
+  "binaryActiveItems": 238,
+  "absenceOfMarkItems": 77,
+  "otherYesNoKeyItems": 161,
+  "cardsWithAlternatives": 20,
+  "shortRubrics": 0,
+  "lessonsWithLimitedPractice": 0,
+  "lessonsWithCoverageGap": 43,
+  "rows": [
+    {
+      "id": "ru.punctuation.introductory-words",
+      "module": "07.08",
+      "status": "reviewed",
+      "practice": 10,
+      "cardCount": 3,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: §§ 91, 96",
+          "url": "https://orthographia.ru/punctuatio.php?sid=127"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh"
+        }
+      ],
+      "flags": [
+        "no prerequisites; assess if intentional"
+      ]
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words",
+      "module": "07.08",
+      "status": "reviewed",
+      "practice": 13,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [
+        "ru.punctuation.introductory.module-exam.r38-a.03",
+        "ru.punctuation.introductory.module-exam.r38-b.03"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.introductory.module-exam.r38-a.03",
+        "ru.punctuation.introductory.module-exam.r38-b.03"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: § 91, примечание 2",
+          "url": "https://orthographia.ru/punctuatio.php?sid=127"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh"
+        }
+      ],
+      "flags": [
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.ambiguous-introductory",
+      "module": "07.08",
+      "status": "reviewed",
+      "practice": 13,
+      "cardCount": 5,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [
+        "ru.punctuation.introductory.module-exam.r38-a.06",
+        "ru.punctuation.introductory.module-exam.r38-b.05"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.introductory.module-exam.r38-a.06",
+        "ru.punctuation.introductory.module-exam.r38-b.05"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: §§ 91–92, 96",
+          "url": "https://orthographia.ru/punctuatio.php?sid=127"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh"
+        }
+      ],
+      "flags": [
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.introductory-conjunctions",
+      "module": "07.08",
+      "status": "reviewed",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: § 95",
+          "url": "https://orthographia.ru/punctuatio.php?sid=127"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh"
+        }
+      ],
+      "flags": [
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.punctuation.introductory-boundaries",
+      "module": "07.08",
+      "status": "reviewed",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [
+        "ru.punctuation.introductory.module-exam.r38-a.09",
+        "ru.punctuation.introductory.module-exam.r38-b.09",
+        "ru.punctuation.introductory.module-exam.r38-b.10"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.introductory.module-exam.r38-a.09",
+        "ru.punctuation.introductory.module-exam.r38-b.09",
+        "ru.punctuation.introductory.module-exam.r38-b.10"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: §§ 93–94",
+          "url": "https://orthographia.ru/punctuatio.php?sid=127"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh"
+        }
+      ],
+      "flags": [
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.introductory-editing",
+      "module": "07.08",
+      "status": "reviewed",
+      "practice": 12,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [
+        "ru.punctuation.introductory.module-exam.r38-b.11"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.introductory.module-exam.r38-b.11"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: §§ 91–96",
+          "url": "https://orthographia.ru/punctuatio.php?sid=127"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh"
+        }
+      ],
+      "flags": [
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.homogeneous-basic",
+      "module": "07.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [
+        "ru.punctuation.homogeneous.module-exam.r38-b.01",
+        "ru.punctuation.homogeneous.module-exam.r38-b.02"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.homogeneous.module-exam.r38-b.01",
+        "ru.punctuation.homogeneous.module-exam.r38-b.02"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина, §§ 25–28",
+          "url": "https://orthographia.ru/punctuatio.php?sid=111"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-odnorodnykh-chlenakh-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.homogeneous-repeated",
+      "module": "07.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [
+        "ru.punctuation.homogeneous.module-exam.r38-b.03"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.homogeneous.module-exam.r38-b.03"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина, §§ 25–28",
+          "url": "https://orthographia.ru/punctuatio.php?sid=111"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-odnorodnykh-chlenakh-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.homogeneous-double",
+      "module": "07.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [
+        "ru.punctuation.homogeneous.module-exam.r38-a.06"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.homogeneous.module-exam.r38-a.06"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: знаки при однородных членах и обобщающих словах",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-odnorodnykh-chlenakh-predlozheniya"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-odnorodnykh-chlenakh-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.homogeneous-definitions",
+      "module": "07.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [
+        "ru.punctuation.homogeneous.module-exam.r38-a.07",
+        "ru.punctuation.homogeneous.module-exam.r38-b.07"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.homogeneous.module-exam.r38-a.07",
+        "ru.punctuation.homogeneous.module-exam.r38-b.07"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: знаки при однородных членах и обобщающих словах",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-odnorodnykh-chlenakh-predlozheniya"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-odnorodnykh-chlenakh-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.homogeneous-generalizing",
+      "module": "07.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: знаки при однородных членах и обобщающих словах",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-odnorodnykh-chlenakh-predlozheniya"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-odnorodnykh-chlenakh-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.punctuation.addresses",
+      "module": "07.08",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [
+        "ru.punctuation.introductory.module-exam.r38-a.14"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.introductory.module-exam.r38-a.14"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Академический справочник под ред. В. В. Лопатина: Знаки препинания при обращениях",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-obrashcheniyakh"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.insertions",
+      "module": "07.08",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 4,
+      "binaryActiveExamIds": [
+        "ru.punctuation.introductory.module-exam.r38-a.15"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.introductory.module-exam.r38-a.15"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Академический справочник под ред. В. В. Лопатина, §§ 97–100: знаки при вставках",
+          "url": "https://orthographia.ru/punctuatio.php?sid=128"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.syntax.basis-core",
+      "module": "05.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)",
+          "url": "https://gramota.ru/biblioteka/spravochniki/prostoe-predlozhenie"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/chleny-predlozheniya-grammaticheskaya-osnova-klassifikatsiya-predlozheniy-po-kolichestvu-grammaticheskikh-osnov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.syntax.basis-count",
+      "module": "05.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)",
+          "url": "https://gramota.ru/biblioteka/spravochniki/prostoe-predlozhenie"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/chleny-predlozheniya-grammaticheskaya-osnova-klassifikatsiya-predlozheniy-po-kolichestvu-grammaticheskikh-osnov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.syntax.subject",
+      "module": "05.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.syntax.main-members.module-exam.r37-a.04",
+        "ru.syntax.main-members.module-exam.r37-b.04"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)",
+          "url": "https://gramota.ru/biblioteka/spravochniki/prostoe-predlozhenie"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/chleny-predlozheniya-grammaticheskaya-osnova-klassifikatsiya-predlozheniy-po-kolichestvu-grammaticheskikh-osnov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.syntax.predicate",
+      "module": "05.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)",
+          "url": "https://gramota.ru/biblioteka/spravochniki/prostoe-predlozhenie"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/chleny-predlozheniya-grammaticheskaya-osnova-klassifikatsiya-predlozheniy-po-kolichestvu-grammaticheskikh-osnov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.syntax.secondary-attribute",
+      "module": "05.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)",
+          "url": "https://gramota.ru/biblioteka/spravochniki/prostoe-predlozhenie"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.syntax.secondary-adverbial",
+      "module": "05.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)",
+          "url": "https://gramota.ru/biblioteka/spravochniki/prostoe-predlozhenie"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.syntax.phrase-structure",
+      "module": "05.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.phrase-structure.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис (электронная публикация)",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength"
+      ]
+    },
+    {
+      "id": "ru.syntax.phrase-links",
+      "module": "05.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.syntax.phrases.module-exam.r37-b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.phrase-links.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис (электронная публикация)",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.syntax.one-part-types",
+      "module": "05.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.one-part-types.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Синтаксический разбор простого предложения (Грамота.ру)",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/sintaksicheskiy-razbor-prostogo-predlozheniya"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength"
+      ]
+    },
+    {
+      "id": "ru.syntax.incomplete",
+      "module": "05.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.incomplete.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Синтаксический разбор простого предложения (Грамота.ру)",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/sintaksicheskiy-razbor-prostogo-predlozheniya"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength"
+      ]
+    },
+    {
+      "id": "ru.syntax.homogeneity-syntax",
+      "module": "05.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.syntax.simple-complications.module-exam.r37-a.04",
+        "ru.syntax.simple-complications.module-exam.r37-b.04"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.homogeneity-syntax.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Синтаксический разбор простого предложения (Грамота.ру)",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/sintaksicheskiy-razbor-prostogo-predlozheniya"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/oslozhnennye-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.syntax.complication-types",
+      "module": "05.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.complication-types.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Синтаксический разбор простого предложения (Грамота.ру)",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/sintaksicheskiy-razbor-prostogo-predlozheniya"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/oslozhnennye-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength"
+      ]
+    },
+    {
+      "id": "ru.syntax.isolated-members",
+      "module": "05.07",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.isolated-members.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/oslozhnennye-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength"
+      ]
+    },
+    {
+      "id": "ru.syntax.nonmembers",
+      "module": "05.07",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.nonmembers.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/oslozhnennye-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength"
+      ]
+    },
+    {
+      "id": "ru.syntax.coordinate-structure",
+      "module": "05.08",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.coordinate-structure.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength"
+      ]
+    },
+    {
+      "id": "ru.syntax.coordinate-relations",
+      "module": "05.08",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.coordinate-relations.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength"
+      ]
+    },
+    {
+      "id": "ru.syntax.subordinate-links",
+      "module": "05.09",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.subordinate-links.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength"
+      ]
+    },
+    {
+      "id": "ru.syntax.subordinate-types",
+      "module": "05.09",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.syntax.subordinate-types.card.02"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "card with explicit alternatives; inspect recall strength"
+      ]
+    },
+    {
+      "id": "ru.syntax.asyndetic-relations",
+      "module": "05.10",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.syntax.mixed-links",
+      "module": "05.10",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.syntax.speech-forms",
+      "module": "05.11",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.syntax.indirect-transformation",
+      "module": "05.11",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.syntax.sentence-analysis",
+      "module": "05.12",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис",
+          "url": "https://irgali.narod.ru/files/sintaksis.htm"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/chleny-predlozheniya-grammaticheskaya-osnova-klassifikatsiya-predlozheniy-po-kolichestvu-grammaticheskikh-osnov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.syntax.information-structure",
+      "module": "05.12",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Русская грамматика (1980), т. II. Порядок слов, §§ 2128–2151",
+          "url": "https://rusgram.narod.ru/2128-2151.html"
+        },
+        {
+          "title": "Грамота.ру: краткий теоретический курс для школьников",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.punctuation.end-basic",
+      "module": "07.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки конца предложения",
+          "url": "https://www.orthographia.ru/punctuatio.php?sid=101"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-v-kontse-i-v-nachale-predlozheniya-konechnye-znaki-v-seredine-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.punctuation.end-ellipsis",
+      "module": "07.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки конца предложения",
+          "url": "https://www.orthographia.ru/punctuatio.php?sid=101"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-v-kontse-i-v-nachale-predlozheniya-konechnye-znaki-v-seredine-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.punctuation.dash-predicate",
+      "module": "07.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.predicate-dash.module-exam.r38-a.03",
+        "ru.punctuation.predicate-dash.module-exam.r38-b.01",
+        "ru.punctuation.predicate-dash.module-exam.r38-b.02",
+        "ru.punctuation.predicate-dash.module-exam.r38-b.04"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.predicate-dash.module-exam.r38-a.03",
+        "ru.punctuation.predicate-dash.module-exam.r38-b.01",
+        "ru.punctuation.predicate-dash.module-exam.r38-b.02",
+        "ru.punctuation.predicate-dash.module-exam.r38-b.04"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Тире между членами предложения",
+          "url": "https://orthographia.ru/punctuatio.php?sid=105"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.dash-incomplete",
+      "module": "07.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.predicate-dash.module-exam.r38-a.08",
+        "ru.punctuation.predicate-dash.module-exam.r38-b.06"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.predicate-dash.module-exam.r38-a.08",
+        "ru.punctuation.predicate-dash.module-exam.r38-b.06"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Тире между членами предложения",
+          "url": "https://orthographia.ru/punctuatio.php?sid=105"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/tire-v-nepolnom-predlozhenii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.participle-punctuation",
+      "module": "07.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.participial.module-exam.r38-a.02",
+        "ru.punctuation.participial.module-exam.r38-b.01"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.participial.module-exam.r38-a.02",
+        "ru.punctuation.participial.module-exam.r38-b.01"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Обособленные определения",
+          "url": "https://www.orthographia.ru/punctuatio.php?sid=117"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-obosoblennykh-soglasovannykh-opredeleniyakh"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.gerund-punctuation",
+      "module": "07.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.participial.module-exam.r38-a.06",
+        "ru.punctuation.participial.module-exam.r38-b.05",
+        "ru.punctuation.participial.module-exam.r38-b.06"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.participial.module-exam.r38-a.06",
+        "ru.punctuation.participial.module-exam.r38-b.05",
+        "ru.punctuation.participial.module-exam.r38-b.06"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Обособленные обстоятельства",
+          "url": "https://www.orthographia.ru/punctuatio.php?sid=121"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.detached-definitions",
+      "module": "07.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.detached-punctuation.module-exam.r38-a.02",
+        "ru.punctuation.detached-punctuation.module-exam.r38-b.01",
+        "ru.punctuation.detached-punctuation.module-exam.r38-b.04"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.detached-punctuation.module-exam.r38-a.02",
+        "ru.punctuation.detached-punctuation.module-exam.r38-b.01",
+        "ru.punctuation.detached-punctuation.module-exam.r38-b.04"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Обособленные члены предложения",
+          "url": "https://www.orthographia.ru/punctuatio.php?sid=117"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-obosoblennykh-chlenakh-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.detached-circumstances",
+      "module": "07.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.detached-punctuation.module-exam.r38-a.06",
+        "ru.punctuation.detached-punctuation.module-exam.r38-a.07",
+        "ru.punctuation.detached-punctuation.module-exam.r38-b.05",
+        "ru.punctuation.detached-punctuation.module-exam.r38-b.07",
+        "ru.punctuation.detached-punctuation.module-exam.r38-b.08"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.detached-punctuation.module-exam.r38-a.06",
+        "ru.punctuation.detached-punctuation.module-exam.r38-a.07",
+        "ru.punctuation.detached-punctuation.module-exam.r38-b.05",
+        "ru.punctuation.detached-punctuation.module-exam.r38-b.07",
+        "ru.punctuation.detached-punctuation.module-exam.r38-b.08"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Обособленные обстоятельства",
+          "url": "https://www.orthographia.ru/punctuatio.php?sid=117"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-obosoblennykh-chlenakh-predlozheniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.clarification",
+      "module": "07.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.clarifying-punctuation.module-exam.r38-a.03",
+        "ru.punctuation.clarifying-punctuation.module-exam.r38-b.01"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.clarifying-punctuation.module-exam.r38-a.03",
+        "ru.punctuation.clarifying-punctuation.module-exam.r38-b.01"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Уточняющие члены",
+          "url": "https://orthographia.ru/punctuatio.php?sid=123"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.explanation-attachment",
+      "module": "07.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.clarifying-punctuation.module-exam.r38-a.06",
+        "ru.punctuation.clarifying-punctuation.module-exam.r38-b.06"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.clarifying-punctuation.module-exam.r38-a.06",
+        "ru.punctuation.clarifying-punctuation.module-exam.r38-b.06"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Пояснительные и присоединительные члены",
+          "url": "https://orthographia.ru/punctuatio.php?sid=123"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.comparison-free",
+      "module": "07.07",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.comparison-punctuation.module-exam.r38-a.02",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-a.04",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-b.02",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-b.04"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.comparison-punctuation.module-exam.r38-a.02",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-a.04",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-b.02",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-b.04"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Сравнительные обороты, §§ 88–90",
+          "url": "https://orthographia.ru/punctum_uk.php?pid=257"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.comparison-role",
+      "module": "07.07",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.comparison-punctuation.module-exam.r38-a.05",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-a.07",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-b.05",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-b.07"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.comparison-punctuation.module-exam.r38-a.05",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-a.07",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-b.05",
+        "ru.punctuation.comparison-punctuation.module-exam.r38-b.07"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Приложения с как; §§ 64, 90",
+          "url": "https://orthographia.ru/punctum_uk.php?pid=252"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.coordinate-marks",
+      "module": "07.09",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-a.02",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-b.01",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-b.03"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-a.02",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-b.01",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-b.03"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в сложносочинённых предложениях, §§ 112–114",
+          "url": "https://orthographia.ru/punctuatio.php?sid=133"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.coordinate-common",
+      "module": "07.09",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-a.05",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-a.06",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-a.08",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-b.05",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-b.07",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-b.08"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-a.05",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-a.06",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-a.08",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-b.05",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-b.07",
+        "ru.punctuation.coordinate-punctuation.module-exam.r38-b.08"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в сложносочинённых предложениях, §§ 112–114",
+          "url": "https://orthographia.ru/punctuatio.php?sid=133"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.subordinate-marks",
+      "module": "07.10",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-a.03",
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-b.01",
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-b.04"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-a.03",
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-b.01",
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-b.04"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в сложноподчинённых предложениях, стык союзов, §§ 115–126",
+          "url": "https://orthographia.ru/punctuatio.php?sid=134"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-v-slozhnopodchinennom-predlozhenii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.subordinate-junction",
+      "module": "07.10",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-a.06",
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-a.08",
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-b.06",
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-b.08"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-a.06",
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-a.08",
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-b.06",
+        "ru.punctuation.subordinate-punctuation.module-exam.r38-b.08"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в сложноподчинённых предложениях, стык союзов, §§ 115–126",
+          "url": "https://orthographia.ru/punctuatio.php?sid=134"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-v-slozhnopodchinennom-predlozhenii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.punctuation.asyndetic-colon-dash",
+      "module": "07.11",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в бессоюзных предложениях, §§ 127–130",
+          "url": "https://orthographia.ru/punctuatio.php?sid=135"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.punctuation.asyndetic-enumeration",
+      "module": "07.11",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 3,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 8,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в бессоюзных предложениях, §§ 127–130",
+          "url": "https://orthographia.ru/punctuatio.php?sid=135"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful"
+      ]
+    },
+    {
+      "id": "ru.punctuation.mixed-punctuation.foundation",
+      "module": "07.12",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.punctuation.mixed-punctuation.foundation.exam.a.02",
+        "ru.punctuation.mixed-punctuation.foundation.exam.a.06",
+        "ru.punctuation.mixed-punctuation.foundation.exam.b.03",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-a.03",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-a.04",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-a.05",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-a.06",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-b.02",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-b.03",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-b.05"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.mixed-punctuation.foundation.exam.a.02",
+        "ru.punctuation.mixed-punctuation.foundation.exam.a.06",
+        "ru.punctuation.mixed-punctuation.foundation.exam.b.03",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-a.03",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-a.04",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-a.05",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-a.06",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-b.02",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-b.03",
+        "ru.punctuation.mixed-punctuation.module-exam.r37-b.05"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Сложные предложения с разными видами связи",
+          "url": "https://orthographia.ru/punctuatio.php?sid=132"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.punctuation.direct-speech-marks.foundation",
+      "module": "07.13",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.punctuation.direct-speech-marks.foundation.exam.a.06",
+        "ru.punctuation.direct-speech-marks.foundation.exam.b.04",
+        "ru.punctuation.direct-speech-marks.module-exam.r37-a.07",
+        "ru.punctuation.direct-speech-marks.module-exam.r37-b.07"
+      ],
+      "absentMarkItems": [
+        "ru.punctuation.direct-speech-marks.foundation.exam.a.06",
+        "ru.punctuation.direct-speech-marks.foundation.exam.b.04",
+        "ru.punctuation.direct-speech-marks.module-exam.r37-a.07",
+        "ru.punctuation.direct-speech-marks.module-exam.r37-b.07"
+      ],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Прямая речь, цитаты, диалог",
+          "url": "https://orthographia.ru/punctuatio.php?sid=137"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Правила русской орфографии и пунктуации: знаки при прямой речи",
+          "url": "https://www.consultant.ru/document/cons_doc_LAW_113901/0ff8203715e182f1f3efd92e7ed7827b3ed21189/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.punctuation.punctuation-variation.foundation",
+      "module": "07.14",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Факультативные и авторские знаки, смысловые варианты",
+          "url": "https://orthographia.ru/punctuatio.php?sid=132"
+        },
+        {
+          "title": "Грамота.ру: полный академический справочник по пунктуации",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/o-naznachenii-i-printsipakh-punktuatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.root-vowels.foundation",
+      "module": "06.01",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Проверяемые, непроверяемые и чередующиеся гласные корня",
+          "url": "https://orthographia.ru/orfografia.php?sid=31"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        },
+        {
+          "title": "Академический справочник: безударные гласные в корнях",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/bezudarnye-glasnye-v-kornyakh"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.root-consonants.foundation",
+      "module": "06.02",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Согласные в корне и удвоенные согласные",
+          "url": "https://orthographia.ru/orfografia.php?sid=49"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.prefix-spelling.foundation",
+      "module": "06.03",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Приставки, включая пре-/при- и з-/с-",
+          "url": "https://orthographia.ru/orfografia.php?sid=33"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        },
+        {
+          "title": "Дополнительная нормативная сверка v0.46",
+          "url": "https://oross.ruslang.ru/paragraph/25"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.separators.foundation",
+      "module": "06.04",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Ъ, Ь, И/Ы после приставок",
+          "url": "https://orthographia.ru/orfografia.php?sid=0"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        },
+        {
+          "title": "Е. И. Литневская: функции Ъ и Ь",
+          "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/funkcii-i-pravopisanie-myagkogo-i-tverdogo-znakov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.sibilant-vowels.foundation",
+      "module": "06.05",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: ЖИ/ШИ, ЧА/ЩА, ЧУ/ЩУ, О/Ё после шипящих и Ц",
+          "url": "https://orthographia.ru/orfografia.php?sid=14"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.noun-adjective-endings.foundation",
+      "module": "06.06",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Суффиксы и окончания существительных и прилагательных",
+          "url": "https://orthographia.ru/orfografia.php?sid=30"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.verb-spelling.foundation",
+      "module": "06.07",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Личные окончания глаголов и суффиксы глагольных форм",
+          "url": "https://orthographia.ru/orfografia.php?sid=29"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.double-n.foundation",
+      "module": "06.08",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Н и НН в разных частях речи",
+          "url": "https://orthographia.ru/orfografia.php?sid=0"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.negation-spelling.foundation",
+      "module": "06.09",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: НЕ и НИ: значение и правописание",
+          "url": "https://orthographia.ru/orfografia.php?sid=79"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        },
+        {
+          "title": "Дополнительная нормативная сверка v0.46",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/razdelnoe-napisanie-ne"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.word-boundaries.foundation",
+      "module": "06.10",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Слитное, раздельное и дефисное написание",
+          "url": "https://orthographia.ru/orfografia.php?sid=63"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.service-word-spelling.foundation",
+      "module": "06.11",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Правописание наречий, предлогов, союзов и частиц",
+          "url": "https://orthographia.ru/orfografia.php?sid=63"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.capital-letters.foundation",
+      "module": "06.12",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Прописные и строчные буквы, имена собственные",
+          "url": "https://orthographia.ru/orfografia.php?sid=81"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.hyphenation-abbreviations.foundation",
+      "module": "06.13",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.orthography.hyphenation-abbreviations.foundation.exam.a.01",
+        "ru.orthography.hyphenation-abbreviations.foundation.exam.a.02",
+        "ru.orthography.hyphenation-abbreviations.foundation.exam.a.05",
+        "ru.orthography.hyphenation-abbreviations.foundation.exam.a.06",
+        "ru.orthography.hyphenation-abbreviations.foundation.exam.b.05",
+        "ru.orthography.hyphenation-abbreviations.foundation.exam.b.01",
+        "ru.orthography.hyphenation-abbreviations.foundation.exam.b.02",
+        "ru.orthography.hyphenation-abbreviations.foundation.exam.b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Перенос, сокращения, аббревиатуры и графические обозначения",
+          "url": "https://orthographia.ru/orfografia.php?sid=97"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.orthography.dictionary-yo.foundation",
+      "module": "06.14",
+      "status": "draft",
+      "practice": 8,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Академос ИРЯ РАН: словарная проверка, требуется поэлементная сверка",
+          "url": "https://orfo.ruslang.ru/"
+        },
+        {
+          "title": "Полный академический справочник под ред. В. В. Лопатина",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii"
+        },
+        {
+          "title": "Академос: орфографический ресурс ИРЯ РАН",
+          "url": "https://orfo.ruslang.ru/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "no tip; assess if useful",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.language.language-speech-text.foundation",
+      "module": "01.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.language.language-speech-text.foundation.exam.a.05",
+        "ru.language.language-speech-text.foundation.exam.b.05",
+        "ru.language.language-speech-text.module-exam.r39-a.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Краткий теоретический курс, введение; учебная модель",
+          "url": "https://grammarian.school/handbook/well/index.html"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.language.language-levels.foundation",
+      "module": "01.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Краткий теоретический курс, оглавление и разделы",
+          "url": "https://grammarian.school/handbook/well/index.html"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.language.language-norm.foundation",
+      "module": "01.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.language.language-norm.foundation.exam.a.01",
+        "ru.language.language-norm.foundation.exam.a.02",
+        "ru.language.language-norm.foundation.exam.a.04",
+        "ru.language.language-norm.foundation.exam.a.06",
+        "ru.language.language-norm.foundation.exam.b.01",
+        "ru.language.language-norm.foundation.exam.b.02",
+        "ru.language.language-norm.foundation.exam.b.03",
+        "ru.language.language-norm.foundation.exam.b.04",
+        "ru.language.language-norm.foundation.exam.b.05",
+        "ru.language.language-norm.foundation.exam.b.06",
+        "ru.language.language-norm.module-exam.r39-a.01",
+        "ru.language.language-norm.module-exam.r39-a.06",
+        "ru.language.language-norm.module-exam.r39-a.07",
+        "ru.language.language-norm.module-exam.r39-b.03",
+        "ru.language.language-norm.module-exam.r39-b.05",
+        "ru.language.language-norm.module-exam.r39-b.07",
+        "ru.language.language-norm.module-exam.r39-b.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру. Кодификация языковой нормы",
+          "url": "https://gramota.ru/biblioteka/slovari/slovar-trudnostej-russkogo-yazyka/kodifikatsiya-yazykovoy-normy-trudnye-poiski-zolotoy-serediny"
+        },
+        {
+          "title": "Варианты ударения: Русский орфографический словарь",
+          "url": "https://gramota.ru/biblioteka/slovari/russkij-orfograficheskij-slovar/udarenie-proiznoshenie"
+        },
+        {
+          "title": "Нормативные словари для государственного языка",
+          "url": "https://ruslang.ru/normativnyje_slovari"
+        },
+        {
+          "title": "Грамота.ру — система помет Большого орфоэпического словаря",
+          "url": "https://gramota.ru/biblioteka/slovari/bolshoj-orfoepicheskij-slovar-russkogo-yazyka/normativnaya-kharakteristika-proiznosheniya-i-udareniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.language.dictionary-method.foundation",
+      "module": "01.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.language.dictionary-method.foundation.exam.b.05",
+        "ru.language.dictionary-method.foundation.exam.b.06",
+        "ru.language.dictionary-method.module-exam.r39-a.08",
+        "ru.language.dictionary-method.module-exam.r39-b.07",
+        "ru.language.dictionary-method.module-exam.r39-b.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "НКРЯ. Вопросы и ответы; Грамота.ру, описание словарей",
+          "url": "https://ruscorpora.ru/page/faq"
+        },
+        {
+          "title": "Поиск НКРЯ",
+          "url": "https://ruscorpora.ru/search"
+        },
+        {
+          "title": "Орфоэпический словарь ИРЯ РАН",
+          "url": "https://ruslang.ru/book/orfoepicheskiy-slovar-russkogo-yazyka-proiznoshenie-udarenie-grammaticheskie-formy-svyshe"
+        },
+        {
+          "title": "Грамота.ру — система помет Большого орфоэпического словаря",
+          "url": "https://gramota.ru/biblioteka/slovari/bolshoj-orfoepicheskij-slovar-russkogo-yazyka/normativnaya-kharakteristika-proiznosheniya-i-udareniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.phonetics.sounds-letters.foundation",
+      "module": "02.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Фонетика и графика, звуки и буквы",
+          "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_1/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.phonetics.vowels-consonants.foundation",
+      "module": "02.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.phonetics.vowels-consonants.foundation.exam.a.05",
+        "ru.phonetics.vowels-consonants.foundation.exam.a.06",
+        "ru.phonetics.vowels-consonants.foundation.exam.b.05",
+        "ru.phonetics.vowels-consonants.foundation.exam.b.06",
+        "ru.phonetics.vowels-consonants.module-exam.r39-a.08",
+        "ru.phonetics.vowels-consonants.module-exam.r39-b.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Фонетика и графика, звуки и буквы",
+          "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_1/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.phonetics.syllable-stress.foundation",
+      "module": "02.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.phonetics.syllable-stress.module-exam.r39-a.08",
+        "ru.phonetics.syllable-stress.module-exam.r39-b.07"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру. Особенности русского словесного ударения",
+          "url": "https://gramota.ru/biblioteka/slovari/russkoe-slovesnoe-udarenie/osobennosti-russkogo-udareniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.phonetics.sound-changes.foundation",
+      "module": "02.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.phonetics.sound-changes.foundation.exam.a.05",
+        "ru.phonetics.sound-changes.foundation.exam.b.05",
+        "ru.phonetics.sound-changes.module-exam.r39-a.08",
+        "ru.phonetics.sound-changes.module-exam.r39-b.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Фонетика: позиционные изменения",
+          "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_2/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.phonetics.pronunciation-combinations.foundation",
+      "module": "02.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.phonetics.pronunciation-combinations.foundation.exam.a.04",
+        "ru.phonetics.pronunciation-combinations.foundation.exam.a.05",
+        "ru.phonetics.pronunciation-combinations.foundation.exam.b.04",
+        "ru.phonetics.pronunciation-combinations.foundation.exam.b.05",
+        "ru.phonetics.pronunciation-combinations.foundation.exam.b.06",
+        "ru.phonetics.pronunciation-combinations.module-exam.r39-a.07",
+        "ru.phonetics.pronunciation-combinations.module-exam.r39-b.07"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Фонетика и графика: е в заимствованиях; словарь произношения",
+          "url": "https://irgali.narod.ru/files/litnevskaia_fonetika.htm"
+        },
+        {
+          "title": "Термин: словарная статья",
+          "url": "https://gramota.ru/poisk?mode=slovari&query=%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD"
+        },
+        {
+          "title": "Орфоэпический словарь ИРЯ РАН (описание)",
+          "url": "https://ruslang.ru/book/orfoepicheskiy-slovar-russkogo-yazyka-proiznoshenie-udarenie-grammaticheskie-formy-svyshe"
+        },
+        {
+          "title": "Грамота.ру — система помет Большого орфоэпического словаря",
+          "url": "https://gramota.ru/biblioteka/slovari/bolshoj-orfoepicheskij-slovar-russkogo-yazyka/normativnaya-kharakteristika-proiznosheniya-i-udareniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.phonetics.stress-variants.foundation",
+      "module": "02.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.phonetics.stress-variants.foundation.exam.a.05",
+        "ru.phonetics.stress-variants.foundation.exam.b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру. Особенности русского словесного ударения; Русский орфографический словарь: ударение",
+          "url": "https://gramota.ru/biblioteka/slovari/russkoe-slovesnoe-udarenie/osobennosti-russkogo-udareniya"
+        },
+        {
+          "title": "Русский орфографический словарь: ударение и произношение",
+          "url": "https://gramota.ru/biblioteka/slovari/russkij-orfograficheskij-slovar/udarenie-proiznoshenie"
+        },
+        {
+          "title": "Красивый: словарная статья",
+          "url": "https://gramota.ru/meta/krasivyy"
+        },
+        {
+          "title": "Звонить: справочная служба, формы звонишь и звонит",
+          "url": "https://gramota.ru/poisk?mode=spravka&query=%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%88%D1%8C&simple=0"
+        },
+        {
+          "title": "Кодификация нормы: каталог",
+          "url": "https://gramota.ru/biblioteka/slovari/slovar-trudnostej-russkogo-yazyka/kodifikatsiya-yazykovoy-normy-trudnye-poiski-zolotoy-serediny"
+        },
+        {
+          "title": "Грамота.ру — система помет Большого орфоэпического словаря",
+          "url": "https://gramota.ru/biblioteka/slovari/bolshoj-orfoepicheskij-slovar-russkogo-yazyka/normativnaya-kharakteristika-proiznosheniya-i-udareniya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "no prerequisites; assess if intentional",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.word-formation.morpheme-types.foundation",
+      "module": "03.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.word-formation.morpheme-types.module-exam.r39-a.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+          "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.word-formation.word-stem.foundation",
+      "module": "03.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+          "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.word-formation.word-family.foundation",
+      "module": "03.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.word-formation.word-family.module-exam.r39-a.03",
+        "ru.word-formation.word-family.module-exam.r39-a.04",
+        "ru.word-formation.word-family.module-exam.r39-a.07",
+        "ru.word-formation.word-family.module-exam.r39-a.08",
+        "ru.word-formation.word-family.module-exam.r39-b.03",
+        "ru.word-formation.word-family.module-exam.r39-b.04",
+        "ru.word-formation.word-family.module-exam.r39-b.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.word-formation.word-family.foundation.card.01",
+        "ru.word-formation.word-family.foundation.card.02",
+        "ru.word-formation.word-family.foundation.card.03",
+        "ru.word-formation.word-family.foundation.card.04"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+          "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "card with explicit alternatives; inspect recall strength",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.word-formation.morpheme-alternations.foundation",
+      "module": "03.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.word-formation.morpheme-alternations.module-exam.r39-a.06",
+        "ru.word-formation.morpheme-alternations.module-exam.r39-a.08",
+        "ru.word-formation.morpheme-alternations.module-exam.r39-b.06",
+        "ru.word-formation.morpheme-alternations.module-exam.r39-b.07",
+        "ru.word-formation.morpheme-alternations.module-exam.r39-b.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [
+        "ru.word-formation.morpheme-alternations.foundation.card.01",
+        "ru.word-formation.morpheme-alternations.foundation.card.02",
+        "ru.word-formation.morpheme-alternations.foundation.card.03",
+        "ru.word-formation.morpheme-alternations.foundation.card.04"
+      ],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+          "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "card with explicit alternatives; inspect recall strength",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.word-formation.derivation-methods.foundation",
+      "module": "03.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.word-formation.derivation-methods.module-exam.r39-a.06",
+        "ru.word-formation.derivation-methods.module-exam.r39-b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+          "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.word-formation.derivation-chain.foundation",
+      "module": "03.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.word-formation.derivation-chain.module-exam.r39-a.04",
+        "ru.word-formation.derivation-chain.module-exam.r39-a.07",
+        "ru.word-formation.derivation-chain.module-exam.r39-b.04",
+        "ru.word-formation.derivation-chain.module-exam.r39-b.07"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование",
+          "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.morphology.parts-of-speech.foundation",
+      "module": "04.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+          "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.morphology.noun-morphology.foundation",
+      "module": "04.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.morphology.noun-morphology.module-exam.r40-a.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+          "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.morphology.adjective-morphology.foundation",
+      "module": "04.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.morphology.adjective-morphology.module-exam.r40-a.07",
+        "ru.morphology.adjective-morphology.module-exam.r40-b.07"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+          "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.morphology.numeral-morphology.foundation",
+      "module": "04.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+          "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.morphology.pronoun-morphology.foundation",
+      "module": "04.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.morphology.pronoun-morphology.module-exam.r40-a.05",
+        "ru.morphology.pronoun-morphology.module-exam.r40-b.05"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+          "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.morphology.verb-morphology.foundation",
+      "module": "04.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.morphology.verb-morphology.module-exam.r40-a.04",
+        "ru.morphology.verb-morphology.module-exam.r40-b.04"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+          "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.morphology.verb-derived-forms.foundation",
+      "module": "04.07",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.morphology.verb-derived-forms.module-exam.r40-a.05",
+        "ru.morphology.verb-derived-forms.module-exam.r40-a.08",
+        "ru.morphology.verb-derived-forms.module-exam.r40-b.05",
+        "ru.morphology.verb-derived-forms.module-exam.r40-b.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+          "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.morphology.adverb-state.foundation",
+      "module": "04.08",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.morphology.adverb-state.module-exam.r40-a.06",
+        "ru.morphology.adverb-state.module-exam.r40-b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+          "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.morphology.function-words.foundation",
+      "module": "04.09",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+          "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.morphology.morphological-analysis.foundation",
+      "module": "04.10",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология",
+          "url": "https://www.irgali.narod.ru/files/morfologia.htm"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "stated coverage gap in theory"
+      ]
+    },
+    {
+      "id": "ru.lexicon.lexical-meaning.foundation",
+      "module": "08.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Лексикология и лексикография",
+          "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/spravka/vopros/292752"
+        },
+        {
+          "title": "Дополнительный источник 2",
+          "url": "https://gramota.ru/spravka/vopros/310604"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.lexicon.figurative-meaning.foundation",
+      "module": "08.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Лексикология и лексикография",
+          "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.lexicon.lexical-relations.foundation",
+      "module": "08.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.lexicon.lexical-relations.module-exam.r41-a.03"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Лексикология и лексикография",
+          "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/spravka/vopros/292752"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.lexicon.paronyms-collocation.foundation",
+      "module": "08.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, критерии хорошей речи и точность словоупотребления",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/spravka/vopros/291110"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.lexicon.lexical-layers.foundation",
+      "module": "08.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.lexicon.lexical-layers.foundation.exam.b.05",
+        "ru.lexicon.lexical-layers.module-exam.r41-a.08",
+        "ru.lexicon.lexical-layers.module-exam.r41-b.04",
+        "ru.lexicon.lexical-layers.module-exam.r41-b.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Лексикология и лексикография",
+          "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.lexicon.idioms.foundation",
+      "module": "08.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Лексикология и лексикография",
+          "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.lexicon.register-connotation.foundation",
+      "module": "08.07",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.lexicon.register-connotation.foundation.exam.b.06",
+        "ru.lexicon.register-connotation.module-exam.r41-b.03"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Лексикология и лексикография",
+          "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.lexicon.dictionary-vocabulary.foundation",
+      "module": "08.08",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Лексикология и лексикография",
+          "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.history.russian-language-history.foundation",
+      "module": "09.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.history.russian-language-history.foundation.exam.b.01",
+        "ru.history.russian-language-history.foundation.exam.b.05",
+        "ru.history.russian-language-history.module-exam.r41-a.04",
+        "ru.history.russian-language-history.module-exam.r41-a.07",
+        "ru.history.russian-language-history.module-exam.r41-a.08",
+        "ru.history.russian-language-history.module-exam.r41-b.04",
+        "ru.history.russian-language-history.module-exam.r41-b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Институт Пушкина, лингвострановедческий словарь: Русский язык",
+          "url": "https://ls.pushkininstitute.ru/lsslovar/?title=Русский_язык/C1-C2"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.history.slavonic-layers.foundation",
+      "module": "09.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.history.slavonic-layers.foundation.exam.b.06",
+        "ru.history.slavonic-layers.module-exam.r41-a.06",
+        "ru.history.slavonic-layers.module-exam.r41-a.07",
+        "ru.history.slavonic-layers.module-exam.r41-b.05",
+        "ru.history.slavonic-layers.module-exam.r41-b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Большая российская энциклопедия, Неполногласие",
+          "url": "https://old.bigenc.ru/linguistics/text/2261599"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.history.writing-reforms.foundation",
+      "module": "09.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.history.writing-reforms.module-exam.r41-a.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, документы о реформе русской орфографии 1917–1918 гг.",
+          "url": "https://gramota.ru/biblioteka/spravochniki/ofitsialno-o-russkom-yazyke/dokumenty-o-reforme-russkoj-orfografii-19171918"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://old.bigenc.ru/linguistics/text/2066943"
+        },
+        {
+          "title": "Дополнительный источник 2",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoj-orfografii-i-punktuacii/predislovie"
+        },
+        {
+          "title": "Президентская библиотека: введение новой орфографии",
+          "url": "https://www.prlib.ru/history/618920"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.history.historical-changes.foundation",
+      "module": "09.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.history.historical-changes.foundation.exam.b.03",
+        "ru.history.historical-changes.module-exam.r41-a.06",
+        "ru.history.historical-changes.module-exam.r41-b.03",
+        "ru.history.historical-changes.module-exam.r41-b.04",
+        "ru.history.historical-changes.module-exam.r41-b.06",
+        "ru.history.historical-changes.module-exam.r41-b.07",
+        "ru.history.historical-changes.module-exam.r41-b.08"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, правописание беглых гласных; исторический комментарий",
+          "url": "https://gramota.ru/uchebnik/pravila/pravopisanie-bezudarnykh-beglykh-glasnykh"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://rus-yaz.niv.ru/doc/dictionary/linguistic-encyclopedic/articles/413/drevnerusskij-yazyk.htm"
+        },
+        {
+          "title": "БРЭ: Редуцированные гласные",
+          "url": "https://old.bigenc.ru/linguistics/text/3503183"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.history.borrowing-etymology.foundation",
+      "module": "09.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.history.borrowing-etymology.foundation.exam.a.01",
+        "ru.history.borrowing-etymology.foundation.exam.b.03",
+        "ru.history.borrowing-etymology.module-exam.r41-a.05",
+        "ru.history.borrowing-etymology.module-exam.r41-a.06",
+        "ru.history.borrowing-etymology.module-exam.r41-a.08",
+        "ru.history.borrowing-etymology.module-exam.r41-b.06",
+        "ru.history.borrowing-etymology.module-exam.r41-b.07"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "ИРЯ РАН, Этимология и история слов русского языка",
+          "url": "https://etymolog.ruslang.ru/"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://lexicography.online/etymology/shansky/к/картофель"
+        },
+        {
+          "title": "Дополнительный источник 2",
+          "url": "https://lexicography.online/etymology/т/тетрадь"
+        },
+        {
+          "title": "ИРЯ РАН: Русский этимологический словарь А. Е. Аникина",
+          "url": "https://ruslang.ru/book/e-anikin-russkiy-etimologicheskiy-slovar"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.history.scientific-etymology.foundation",
+      "module": "09.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.history.scientific-etymology.foundation.exam.a.03",
+        "ru.history.scientific-etymology.foundation.exam.a.06",
+        "ru.history.scientific-etymology.foundation.exam.b.01",
+        "ru.history.scientific-etymology.foundation.exam.b.02",
+        "ru.history.scientific-etymology.foundation.exam.b.05"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "ИРЯ РАН, Этимология и история слов русского языка",
+          "url": "https://etymolog.ruslang.ru/"
+        },
+        {
+          "title": "ИРЯ РАН: Русский этимологический словарь А. Е. Аникина",
+          "url": "https://ruslang.ru/book/e-anikin-russkiy-etimologicheskiy-slovar"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.speech-culture.norm-register.foundation",
+      "module": "10.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, О разнице в трактовках одного слова в разных словарях",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/slovari-ne-soglasny-drug-s-drugom"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/spravka/vopros/282821"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.speech-culture.noun-norms.foundation",
+      "module": "10.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Грамматика",
+          "url": "https://gramota.ru/biblioteka/spravochniki/grammatika"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/meta/tyul"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.speech-culture.proper-name-declension.foundation",
+      "module": "10.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Склонение фамилий",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/sklonenie-familiy-poshagovyy-algoritm"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sklonyat-geograficheskie-nazvaniya"
+        },
+        {
+          "title": "Дополнительный источник 2",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sklonyat-familii-obshchie-rekomendatsii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.speech-culture.numeral-norms.foundation",
+      "module": "10.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Как правильно употреблять числительные",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-pravilno-upotreblyat-chislitelnye"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/biblioteka/spravochniki/imya-chislitelnoe"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.speech-culture.verb-government.foundation",
+      "module": "10.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Грамматика",
+          "url": "https://gramota.ru/biblioteka/spravochniki/grammatika"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+      "module": "10.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, пример согласования количественного подлежащего",
+          "url": "https://gramota.ru/spravka/vopros/333502"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/spravka/vopros/324489"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.speech-culture.participle-construction-norms.foundation",
+      "module": "10.07",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.speech-culture.participle-construction-norms.foundation.exam.b.03",
+        "ru.speech-culture.participle-construction-norms.foundation.exam.b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, справочная служба о деепричастном обороте",
+          "url": "https://gramota.ru/spravka/vopros/318710"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/spravka/vopros/318212"
+        },
+        {
+          "title": "Грамота.ру: деепричастие и общий субъект",
+          "url": "https://gramota.ru/spravka/vopros/328468"
+        },
+        {
+          "title": "Грамота.ру: неопределённо-личная конструкция",
+          "url": "https://gramota.ru/spravka/vopros/317699"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.speech-culture.speech-errors.foundation",
+      "module": "10.08",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.speech-culture.speech-etiquette.foundation",
+      "module": "10.09",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 1,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.stylistics.functional-styles.foundation",
+      "module": "11.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, функциональные стили",
+          "url": "https://gramota.ru/spravka/vopros/250549"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+        },
+        {
+          "title": "Дополнительный источник 2",
+          "url": "https://gramota.ru/journal/stati/obuchenie/tone-of-voice-pravila-obrashcheniya-s-chitatelyami"
+        },
+        {
+          "title": "Грамота.ру: основные критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/osnovnye-kriterii-khoroshey-rechi"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.stylistics.clarity-precision.foundation",
+      "module": "11.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.stylistics.clarity-precision.foundation.exam.a.03",
+        "ru.stylistics.clarity-precision.foundation.exam.a.04",
+        "ru.stylistics.clarity-precision.foundation.exam.b.02"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, научный стиль и понятность",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+        },
+        {
+          "title": "Грамота.ру: основные критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/osnovnye-kriterii-khoroshey-rechi"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.stylistics.text-cohesion.foundation",
+      "module": "11.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.stylistics.text-cohesion.foundation.exam.a.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, научный стиль и связность",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.stylistics.sentence-rhythm.foundation",
+      "module": "11.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.stylistics.sentence-rhythm.foundation.exam.a.05"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, научный стиль и понятность",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.stylistics.verbal-economy.foundation",
+      "module": "11.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.stylistics.verbal-economy.foundation.exam.b.02",
+        "ru.stylistics.verbal-economy.foundation.exam.b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, инструменты редактора",
+          "url": "https://gramota.ru/journal/stati/tekhnologii/tsifrovye-instrumenty-v-pomoshch-redaktoru"
+        },
+        {
+          "title": "Грамота.ру: основные критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/osnovnye-kriterii-khoroshey-rechi"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.stylistics.tropes-figures.foundation",
+      "module": "11.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Большая российская энциклопедия, Тропы и фигуры речи",
+          "url": "https://old.bigenc.ru/literature/text/4205291"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.stylistics.author-voice.foundation",
+      "module": "11.07",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.stylistics.author-voice.foundation.exam.a.01"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Tone of Voice",
+          "url": "https://gramota.ru/journal/stati/obuchenie/tone-of-voice-pravila-obrashcheniya-s-chitatelyami"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/kak-redaktsionnaya-politika-povyshaet-kachestvo-tekstov"
+        },
+        {
+          "title": "Грамота.ру: основные критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/osnovnye-kriterii-khoroshey-rechi"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.stylistics.editorial-diagnosis.foundation",
+      "module": "11.08",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, редакционная политика",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/kak-redaktsionnaya-politika-povyshaet-kachestvo-tekstov"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/journal/stati/tekhnologii/tsifrovye-instrumenty-v-pomoshch-redaktoru"
+        },
+        {
+          "title": "Грамота.ру: основные критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/osnovnye-kriterii-khoroshey-rechi"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending"
+      ]
+    },
+    {
+      "id": "ru.stylistics.proofreading-typography.foundation",
+      "module": "11.09",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.stylistics.proofreading-typography.foundation.exam.a.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, тире и дефис",
+          "url": "https://gramota.ru/spravka/vopros/308395"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/spravka/vopros/313904"
+        },
+        {
+          "title": "Дополнительный источник 2",
+          "url": "https://gramota.ru/spravka/vopros/312554"
+        },
+        {
+          "title": "Дополнительный источник 3",
+          "url": "https://gramota.ru/spravka/vopros/309442"
+        },
+        {
+          "title": "Дополнительный источник 4",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/kak-redaktsionnaya-politika-povyshaet-kachestvo-tekstov"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.stylistics.revision-comparison.foundation",
+      "module": "11.10",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.stylistics.revision-comparison.foundation.exam.b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, инструменты редактора",
+          "url": "https://gramota.ru/journal/stati/tekhnologii/tsifrovye-instrumenty-v-pomoshch-redaktoru"
+        },
+        {
+          "title": "Грамота.ру: основные критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/osnovnye-kriterii-khoroshey-rechi"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.argumentation.thesis-evidence.foundation",
+      "module": "12.01",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.argumentation.thesis-evidence.foundation.exam.b.01",
+        "ru.argumentation.thesis-evidence.foundation.exam.b.03"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Тезис",
+          "url": "https://gramota.ru/meta/tezis"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://old.bigenc.ru/philosophy/text/2181515"
+        },
+        {
+          "title": "Дополнительный источник 2",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.argumentation.logic-fallacies.foundation",
+      "module": "12.02",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.argumentation.logic-fallacies.foundation.exam.a.02",
+        "ru.argumentation.logic-fallacies.foundation.exam.b.01",
+        "ru.argumentation.logic-fallacies.foundation.exam.b.02",
+        "ru.argumentation.logic-fallacies.foundation.exam.b.05"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Большая российская энциклопедия, Логические ошибки",
+          "url": "https://old.bigenc.ru/philosophy/text/2181515"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.argumentation.reasoning-counterarguments.foundation",
+      "module": "12.03",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.argumentation.reasoning-counterarguments.foundation.exam.a.06",
+        "ru.argumentation.reasoning-counterarguments.foundation.exam.b.01"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, научный стиль и аргументация",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.argumentation.business-correspondence.foundation",
+      "module": "12.04",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.argumentation.business-correspondence.foundation.exam.a.06",
+        "ru.argumentation.business-correspondence.foundation.exam.b.04"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Как составить деловое письмо",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sostavit-pismo"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kakie-vyrazheniya-ispolzuyutsya-v-delovoy-perepiske"
+        },
+        {
+          "title": "Грамота.ру: основные критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/osnovnye-kriterii-khoroshey-rechi"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.argumentation.analytical-memo.foundation",
+      "module": "12.05",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.argumentation.analytical-memo.foundation.exam.b.01",
+        "ru.argumentation.analytical-memo.foundation.exam.b.05"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, научный стиль и точность",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sostavit-referat"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.argumentation.public-science-writing.foundation",
+      "module": "12.06",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.argumentation.public-science-writing.foundation.exam.a.06",
+        "ru.argumentation.public-science-writing.foundation.exam.b.01"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, научный стиль",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.argumentation.oral-speech-discussion.foundation",
+      "module": "12.07",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.argumentation.oral-speech-discussion.foundation.exam.b.01",
+        "ru.argumentation.oral-speech-discussion.foundation.exam.b.02",
+        "ru.argumentation.oral-speech-discussion.foundation.exam.b.06"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii"
+        },
+        {
+          "title": "Грамота.ру: основные критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/osnovnye-kriterii-khoroshey-rechi"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    },
+    {
+      "id": "ru.argumentation.independent-writing.foundation",
+      "module": "12.08",
+      "status": "draft",
+      "practice": 7,
+      "cardCount": 4,
+      "cases": 2,
+      "activeLessonExamItems": 12,
+      "activeModuleItems": 16,
+      "binaryActiveExamIds": [
+        "ru.argumentation.independent-writing.foundation.exam.b.02",
+        "ru.argumentation.independent-writing.foundation.exam.b.03"
+      ],
+      "absentMarkItems": [],
+      "cardsWithAlternatives": [],
+      "shortRubrics": [],
+      "sources": [
+        {
+          "title": "Грамота.ру, Как составить реферат",
+          "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sostavit-referat"
+        },
+        {
+          "title": "Дополнительный источник 1",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti"
+        },
+        {
+          "title": "Дополнительный источник 2",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii"
+        },
+        {
+          "title": "Грамота.ру: основные критерии хорошей речи",
+          "url": "https://gramota.ru/journal/stati/pravila-i-normy/osnovnye-kriterii-khoroshey-rechi"
+        }
+      ],
+      "flags": [
+        "claim-by-claim review and blind solving pending",
+        "binary active exam answer; inspect difficulty"
+      ]
+    }
+  ]
+}

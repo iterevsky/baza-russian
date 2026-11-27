@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.47.0";
-const DIGEST="8f23bec1eff07dfdbf50ad36";
+const RELEASE="0.48.0";
+const DIGEST="198231d68c342be58041cb49";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -16,11 +16,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/adjective-morphology.json",
-    "ee72d2ba4ab44c2bf0e7d684788e7d0039df551019b98374849074f7a5d29efa"
+    "5123e634cfef4a52a64a4a28afbd26a0998833323a1ce657fca525a97abc305d"
   ],
   [
     "content/lessons/adverb-state.json",
-    "3f7ac11e3810173528eecf912f5180be018cebcbb4d5ab0e50ed53e4877a022c"
+    "32ced281c27d7b56cebb8d0457bc183eb05971942cd989b9cde336610cbd4ddd"
   ],
   [
     "content/lessons/ambiguous-introductory.json",
@@ -28,15 +28,15 @@ const ASSETS=[
   ],
   [
     "content/lessons/analytical-memo.json",
-    "d945be94495fdfcae55a21d0f25f0adf045ab3ef059819f87ed1416b6aa10159"
+    "f0026f0469060267d4efaf26d516ee481cab6c4c3c032802b152a9f88947f237"
   ],
   [
     "content/lessons/asyndetic-colon-dash.json",
-    "75460d0a065d895dc40d85fcb21ba25432c73c493a057bab8c165ee7280be41a"
+    "1de74cd8676b1a4c535927bb76620e4337fa69557ae7c77b45b672152f3ede12"
   ],
   [
     "content/lessons/asyndetic-enumeration.json",
-    "7f8466f40e15812e8ae9eec876cf600f3f74e9e36b68bd3b7b31d776ec0b4635"
+    "11a847d9b064b16cb3ba0919dc86afb73c66807539fa763368e5fc7254f74c08"
   ],
   [
     "content/lessons/asyndetic-relations.json",
@@ -44,7 +44,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/author-voice.json",
-    "1aec7303d18aa0543a4903122317df683db4bb337a87890709d7a7d0d9028f1e"
+    "6915a21474dc73601a49d22011c9e6504b53d8f867fd05b8dc2d1cc69f3f338c"
   ],
   [
     "content/lessons/basis-core.json",
@@ -56,11 +56,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/borrowing-etymology.json",
-    "9192f44a08bbd27568b08d5a800dc914030f822dd991a9369c9dbf517919dedb"
+    "398446278a56888ba3311048f0b428398d70f9e016a028f25dfa0ae375d4f3de"
   ],
   [
     "content/lessons/business-correspondence.json",
-    "87a6f90cf9ac36ff5cea75b13eb8dcc7251c37012a1f0aa75d7bfb996fe91fc8"
+    "de32b7d3d2083c30facf85971896a4598e939e9cd35ca0c339e8b9196b6a66fc"
   ],
   [
     "content/lessons/capital-letters.json",
@@ -68,19 +68,19 @@ const ASSETS=[
   ],
   [
     "content/lessons/clarification.json",
-    "aeebd69a4d060e869715cf86063623aceb2baf500a672cf7062f1c96b3a1c552"
+    "976c3f475ae3a6908ac960fffefbadbc34f0b9ca483a870d1781282c97ad027b"
   ],
   [
     "content/lessons/clarity-precision.json",
-    "a33626b40c0f1af44d44f84a42f2d89d65524f1e8e17f2eabcb57eb0a68cd5a3"
+    "d7d0cc1937614aab57ca8ec6c4679e846e5a60511de626c17e0c7cb4b688726d"
   ],
   [
     "content/lessons/comparison-free.json",
-    "d0d67c2cb2845565d00282a31c4e1f6a46bac4c4e4604405e48ac0dda92f222c"
+    "ddd0b7d89b7637954c554933788a3abca606a1f9e84c604b4ebe1bfc9ce6ac04"
   ],
   [
     "content/lessons/comparison-role.json",
-    "d46277bbc499ec1a9c4088963d929eac39f2c0bd5339b766c28143a92be601c9"
+    "0a6ee58404a7e43b845cdfb6395b35f2a565276495c88b1f1701daba9e997d8d"
   ],
   [
     "content/lessons/complication-types.json",
@@ -96,11 +96,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/coordinate-relations.json",
-    "8520d419ca9d85806e0b4fcddf6a3f0a1b3f2c489db0cbd684c06a7955e63277"
+    "b2b98e46c28beeae88d92be70e46209b7491324f6b85491585f89fe4365ceaf3"
   ],
   [
     "content/lessons/coordinate-structure.json",
-    "3a6ecfed53bdbad2d9575bd4b260a4ebd448fc6696a610a7c3902e2b05ec2f91"
+    "a8613747af2f9431e444b72c1ea9e818ad50b3119c712263d90be2156f043439"
   ],
   [
     "content/lessons/dash-incomplete.json",
@@ -116,15 +116,15 @@ const ASSETS=[
   ],
   [
     "content/lessons/derivation-methods.json",
-    "b138b695278f3633f51c85adea24a9e62a6688e438e63d4f631ba75b18cca0e0"
+    "e9deebbf1878c2028d58d151b6b94b2684e50b8e0d287dd8fefec7e61b98d2b3"
   ],
   [
     "content/lessons/detached-circumstances.json",
-    "ac3508345ffcec4e6ec0dc66a3c83eb40c27e2fc3aada5b6db7f64bb40e28778"
+    "69c0f3b60678cccb38710766e544f2f1a291cf1c8c48daa3be3fda66736532af"
   ],
   [
     "content/lessons/detached-definitions.json",
-    "499714a4ac3417106bc8a3866a73328b54b7d199666cd3fcbc5d3f6010cca05f"
+    "82b637404ef1b0d526b1e183b0cd5014005c953c7026f52e1bbc987509febcc1"
   ],
   [
     "content/lessons/dictionary-method.json",
@@ -132,23 +132,23 @@ const ASSETS=[
   ],
   [
     "content/lessons/dictionary-vocabulary.json",
-    "fcd1cabb4e531fa5a01b04032ce342520749ee15edac522b8910850ad2d8d771"
+    "d1f99657c34d58778a135ed997cc63d2e2c68ced76e3b522413c493907beeb09"
   ],
   [
     "content/lessons/dictionary-yo.json",
-    "d11ae0d644ebee63844ca9ee5d2c40fba660db93aaea4f7a5b26bc0ed3145f83"
+    "56367da440df7a720fe3d9fdaec47b141baace6ad6df7dca7627e78520c547e0"
   ],
   [
     "content/lessons/direct-speech-marks.json",
-    "f8ba5e0b222a74e63f98a5d562f4d39c6a15779d3bc8401ef04889d9bdbfe943"
+    "88fcc07167f01b00b0cd2e53630394d991f9cb0c14b3780cc4b724b1cbbf3cbb"
   ],
   [
     "content/lessons/double-n.json",
-    "d954851e31c9aba663a3f07aecc43fcbbbc92b68c26048847a4d596eb4464c48"
+    "4f064d3404cb610f022c3cbe8565c6ef632c4f593ee1eff0fb6dc19947cf7d8e"
   ],
   [
     "content/lessons/editorial-diagnosis.json",
-    "9b2126c67b43f65bca38eaa7799d623c42fef5c6639c4639541f105894cf498b"
+    "29187c751b47f9d5fdc381bc01cc9d27523c66cb7ddfdeaefb91148fa554773a"
   ],
   [
     "content/lessons/end-basic.json",
@@ -160,11 +160,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/explanation-attachment.json",
-    "b673a08f8f8f67bc8ee780fab6b61e97128081064772dd0ad649d0f4ad2ac54d"
+    "6f8020b3c61a25bf31d192f90fdfd98db49468ff0deca35f98b3812401949b75"
   ],
   [
     "content/lessons/figurative-meaning.json",
-    "b43294edd056c7e15638a7db4393a54a1bb07ac1864f27294644dfff8395e5a3"
+    "193cfcb0095e28ec12b9d48dd07b99cd0eb556960e6cda59cd2efd2ce0d26d7c"
   ],
   [
     "content/lessons/function-words.json",
@@ -172,7 +172,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/functional-styles.json",
-    "fba5f01872f31e464783807bd47db736ee560d12c36fa8fee1d9011289b61e14"
+    "417153ac9ebcc5d92e14b1ff29de45c688568d15e1c0a1ee25c16172ed549275"
   ],
   [
     "content/lessons/gerund-punctuation.json",
@@ -180,7 +180,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/historical-changes.json",
-    "ffea79fca88e1a76eb85a3578f3269e918d147574de8ad7a46576771ae16919e"
+    "23b2ecae8b12bd151e42740598f1d1c50292a1c1f18f39fd9e4e3e50bf635b9a"
   ],
   [
     "content/lessons/homogeneity-syntax.json",
@@ -192,7 +192,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/homogeneous-definitions.json",
-    "75b58ded64967eb6889e556dc7e4a4c74d82992ab4430381188badbbd691eca4"
+    "c267bcab0583687b60cea74effe4d960bd6bd65646b25fb76432d7db9f97ee43"
   ],
   [
     "content/lessons/homogeneous-double.json",
@@ -208,27 +208,27 @@ const ASSETS=[
   ],
   [
     "content/lessons/hyphenation-abbreviations.json",
-    "70d78976fd8fc41a25b85cd34ae284c2efce00c61b85cb2a222e36476ad777d2"
+    "129879ef8b5836998fe2997d19b7ea0056b2c4421e907a0d0e0510be1b073791"
   ],
   [
     "content/lessons/idioms.json",
-    "651942ba5cf41c839128c01cce544040af67954097ec83044917d2dfe635afa3"
+    "6aafead626737e0ccae416de94ebe2db6e131ffcd03ab02536d09d627b371b8a"
   ],
   [
     "content/lessons/incomplete.json",
-    "521a425b6efe490e94fb0f1545ffb20946a44cf805d8d34ed33596ef1bbb552c"
+    "c3b83b0aaa0fd15777dec375313d095c54751fcdb41aa3605656562aad38931c"
   ],
   [
     "content/lessons/independent-writing.json",
-    "dfaf95b9ad7f9631a9f28e2e5f1b057fa9f44d9f7e84d0c90a4459b2704cbce6"
+    "3bd12e396bf1830e850c665e01c3283f79321549b5e7208742c90baf06c1a8b8"
   ],
   [
     "content/lessons/indirect-transformation.json",
-    "c94f323d9a5bf48aa361125577ef8a8da0ac48790da13419445918d4a6303ea8"
+    "218c57db1924432fc7c82224a2f7b68d8f81abfad1c887131672391444d790db"
   ],
   [
     "content/lessons/information-structure.json",
-    "2ca99f6cb28c7fdd4dd0f7b75caad7edd530cc58e2e8b8d91b79a9b0c5908749"
+    "65b3c6cbb169f9df888f48853db4fcaa40f9170ff9e363098d1df83e2d13cf0b"
   ],
   [
     "content/lessons/insertions.json",
@@ -252,59 +252,59 @@ const ASSETS=[
   ],
   [
     "content/lessons/isolated-members.json",
-    "7521eb0df2c1e0a5a0da3ae9415bce0f7311b1d0c972a90c225f5f42036071cf"
+    "b7d2cf3c59801d7e3799c245da4bbaa2103c4762aaad198f810841186b175415"
   ],
   [
     "content/lessons/language-levels.json",
-    "e3d11d7af45f5bbdc7852b397b69cdbde54da876f9f79df76d5eff1fded81dbf"
+    "c304a81af9ac50e1abeeb840529f50e5306e48274d58dbef13a6484795202da4"
   ],
   [
     "content/lessons/language-norm.json",
-    "6e43f0118d6e4c69a1eea1b9866ea33be563afcaea3921462a2345240371b04a"
+    "8a6a6fc2d2be40e652ad83bc172e204461342974da7d59fd092930d8ab7d1c78"
   ],
   [
     "content/lessons/language-speech-text.json",
-    "aee729cfa2f503540e69b81de03f24e348872a731adc1734361b44d10cbb7a73"
+    "5e42e3e5b7ff91a4c54cdc3b2f1f147e40d1ada4636ac633599f15c23bc5d839"
   ],
   [
     "content/lessons/lexical-layers.json",
-    "27db907ec1c8325b3a3aa9d79bd961b72f2be160326aa3c15e40578bb7186872"
+    "eb24ea9e4c55bac6afa2b9849c9eb6abb3846380cce4b284ee122306b1bcaf96"
   ],
   [
     "content/lessons/lexical-meaning.json",
-    "2105eff0abe945879615d4806a09eec60480547613fcbfade00dcd534cde4522"
+    "49dab03d5870a3a83b02244e97142b6ff96633112d6e2a804cdb3be73d96563c"
   ],
   [
     "content/lessons/lexical-relations.json",
-    "3042c23f15176dc15ff5fefe058d38f9f716ead07ef9d668dd22d47bb3886c3d"
+    "95869568cd3a9aa6856a781b300da93831aac8ba0a416a807659b81f71ebc043"
   ],
   [
     "content/lessons/logic-fallacies.json",
-    "9925cd3c7a90b409fef3f843e5c58863f57512afd73f72b27ab3c51373c04b47"
+    "5d4c9f58b1604b84b5b446ba0e08bcbcc29eb100895f84d3c2506cd2a1912d9a"
   ],
   [
     "content/lessons/mixed-links.json",
-    "4304370924eaceb2b9e31c4c05cc82c43c6bd59a537d9cc8d400f08f38fa1f17"
+    "efacaf4802187153f0f07d7989b0f203f6ed2030fc0d00b8df73d7217e9f8f8e"
   ],
   [
     "content/lessons/mixed-punctuation.json",
-    "5f94398711e2ec2bf49396657dd0a646ef5bc6c86102607120ea78763ee06f19"
+    "e53e119713cc6ea57397532dd6cc65b8780cf3bccb5a8ef6a5637049ef10f580"
   ],
   [
     "content/lessons/morpheme-alternations.json",
-    "ff2fc8d8787a82a747e83d07cd9772bf5eebc7397de1f9f9179da8caec356289"
+    "fc28e38d680503aaf431760a77a3887447bb2580ee3612cb8c64b82f84f61922"
   ],
   [
     "content/lessons/morpheme-types.json",
-    "c7b9fb0cb2bd0d12941de33639516f4843ef0c82ffffb77b9c5ca8669eae4534"
+    "80b95935466aabbd38e2078c08f05dea4a125fef8ffe241e7f890b9ab7959c48"
   ],
   [
     "content/lessons/morphological-analysis.json",
-    "f56eaff34cd198b90af2141b59ea2c402746b7ffd13fceb2b9d518c3dba0d60f"
+    "2ee93f340a10d45a5c5cc383dfa3d897cf2156c9afb06548295ef787f05e1dbe"
   ],
   [
     "content/lessons/negation-spelling.json",
-    "58837e323f0658e887b69817b17ba96bf58890d1d44da622dbd2c55d569e4657"
+    "616359f61957392f9631aaab4f776ad1b7017eef6c2d55d958fc81d29b13db73"
   ],
   [
     "content/lessons/non-introductory-words.json",
@@ -312,51 +312,51 @@ const ASSETS=[
   ],
   [
     "content/lessons/nonmembers.json",
-    "0589d5c6697d628e9ca8ba119f5933bf98bb480600412fabfba8f880c7f82933"
+    "bc02cf8e3d916cc067880d6f8c355aeacbe2e619a7d26a63499f7bba32510126"
   ],
   [
     "content/lessons/norm-register.json",
-    "28c3adefce7324948333db59811596f9be3f292bd48787c32c9613a2ac2b0d93"
+    "62deac6359e46554347efd66a77ca40e3870096cfd654b020412013ec571039e"
   ],
   [
     "content/lessons/noun-adjective-endings.json",
-    "c4d60cb6b1ab5ba2ff4fddba07c2aa04286a5068efcc5b395d3e4af6a5a3282f"
+    "ff39318838c2292b9ab4fbf30d05e6c341d3d761b276519dac0706caf962c52e"
   ],
   [
     "content/lessons/noun-morphology.json",
-    "6f516b05e03877e04084f72c43d5a231202b99b1a7dfc112c37c7732ec8ed6b6"
+    "5c75fd8059f764ccc52b15d0f894fa853f655ee06d170a0d0439cef6a12f704a"
   ],
   [
     "content/lessons/noun-norms.json",
-    "1153eb36e6c0fe55643ac0b094134f46d90bf181a3c8a91f520ab4608ebbaf54"
+    "3e26a33b9b525198e1ff5a202a0878630f7af3c6b168848674c4699fd71fc4c9"
   ],
   [
     "content/lessons/numeral-morphology.json",
-    "312a2e0a06a6823d8e70f736849b71003bb105c1436742d994b4bc424be77b73"
+    "da45404d74c63e0b91f9fccbf2dd90f34a4a9e0d2349038505cfcea5e13e2113"
   ],
   [
     "content/lessons/numeral-norms.json",
-    "edbe2c2c8e07ba12b66360b836346951868025ae1f1c27f85bc16224eb113fdc"
+    "2531507295b2379b23eaf1a873912e6c38f183c34127ca45d18a919eee67004e"
   ],
   [
     "content/lessons/one-part-types.json",
-    "bf6e17f579977a1a45c8cab165726015954fd084c03500b1cb98fd988f18bdb9"
+    "05aef06d61eb73b4b60f661162748a02d41df22bc62d91217afbaaee3a455e7c"
   ],
   [
     "content/lessons/oral-speech-discussion.json",
-    "090db967f6481932faa0a3898628e42e0ddbd77f1db8af7db79efd5faf228491"
+    "9f7e0a6fde58e3b9c55cb397afea6afa5b88bb354b8c5ca5742bc2242d398fd8"
   ],
   [
     "content/lessons/paronyms-collocation.json",
-    "27f18c168e657a4bfebef727f5448cae9c7bbde97bf54fe426d811b86cca421a"
+    "046aacebbde1ce79c9cc6be88fda524c25649c6899f4aec25abbb2173a4c562c"
   ],
   [
     "content/lessons/participle-construction-norms.json",
-    "91ca5cbca24e87c00954e513ee7ab38d65392b543860e17cdd7005a317dc69ea"
+    "9d3fb19ab641d8353642d94ccda0959350d1347d66258acd5286833a4620f7c4"
   ],
   [
     "content/lessons/participle-punctuation.json",
-    "94ea3056ccdefe13cbae97d9b8e3f0a19b6a8ffd6754029ac5f2220cb284e906"
+    "7214350e324f7e1b2f3461ecf0cdb9c2f710d9d8cb0fcd183df31914d978246e"
   ],
   [
     "content/lessons/parts-of-speech.json",
@@ -364,7 +364,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/phrase-links.json",
-    "de43102b9064d9c082f10e11c76dfc15446bba6ce3be1021a0618e4a60f7e55c"
+    "7bb1268797119094051fe9f6d07397318e3fb2c6f2b4f2ca0ce64d626ec8d5c7"
   ],
   [
     "content/lessons/phrase-structure.json",
@@ -372,95 +372,95 @@ const ASSETS=[
   ],
   [
     "content/lessons/predicate.json",
-    "75c130b381c93615a634d82ca5752efa85d3950e7250ac352ffd3041c3a21f07"
+    "0cfe1e18ab3733fb75aa924bbf3f90b06f696b7f006ea4bddfbdd3ed5054260f"
   ],
   [
     "content/lessons/prefix-spelling.json",
-    "78b8fc01549ea52cbd89887594150f5c5561701926d9a0217897e07315befec7"
+    "628e8d1ff6945e5d5505e6464cf171f9fc2020438c118717d1ba472d4cc91a68"
   ],
   [
     "content/lessons/pronoun-morphology.json",
-    "42f11ad21ce23addfcc70317f307a01c7994eb864095a3f15427e68fe4bccf2d"
+    "b1ff85d8ed8a5d0d3bed1b870e6491f48e51a07c9b1743f61405eaa80ae511e9"
   ],
   [
     "content/lessons/pronunciation-combinations.json",
-    "a29fba2f81b5385b836075f9e804c0b688a32d0d46b173bc8629c2a41e0968f6"
+    "5c8aee3a332b1041f5d3e48f430d12ad3774ac23e20ba6177323f5daa89434cf"
   ],
   [
     "content/lessons/proofreading-typography.json",
-    "276067a3c1dd9d370f2ed1dee21d3fadc55272b99a9c0eca1f866ad6c34ff209"
+    "565d934b1eae01b58d9aeb45f47eee9687f740c280382dd43c3e20082b3022fe"
   ],
   [
     "content/lessons/proper-name-declension.json",
-    "af0d16de6ed8b27e6a581b04176ed6d72d88e9d98a5020bc1bd91e84d7d1a457"
+    "5f9aecd1d153ed34c68edc7c542cbe4aca406cb68cbd3a66c3e9c8b60e705b3f"
   ],
   [
     "content/lessons/public-science-writing.json",
-    "550a5c1237bb36c8dadee2a128825ccddbf2104f086c66ed470e4ab49e1b2863"
+    "b438957ecf7b868db22012966e404d91695b8888f85ef08227a5c18536bc0961"
   ],
   [
     "content/lessons/punctuation-variation.json",
-    "0e15c0bf560c27252be69438f00cfdf969d5c8ac255f72c46a4058821dc54254"
+    "67bf7f7ef7c4b440871249b8b620f90c0f1aeca797387cbca2cf0862ed52b8b9"
   ],
   [
     "content/lessons/reasoning-counterarguments.json",
-    "87d5b6f0cf22d2344bc22afc8185bae3e93e050f13f312f0b7d3401e677c8c16"
+    "03e6aa12a1875a94da2507dd9e86191b5f6ad2bc7005a6ffc13d50ae82568819"
   ],
   [
     "content/lessons/register-connotation.json",
-    "f59d6477b37edef4f7ae23bdf32ace20b2379ad982f017ed3a8747b7fe97d777"
+    "00448b94bdfa3a2462cadc13b035e8677d014a0d8127f781ae0fa9dd7540833b"
   ],
   [
     "content/lessons/revision-comparison.json",
-    "73f03671e296d21f28e1225614433c92998f077df7654ec2f8d897ecd33b7f84"
+    "5ac0593220e4da341e1ae2fdcf29f25e4ab4c3829fd7f59bb8d618e5e070fb97"
   ],
   [
     "content/lessons/root-consonants.json",
-    "5f8cafe813a6401700ad4e1f3be571347f001d15573d1413aefce33c0822363b"
+    "1b324b5e124cedfa4d7d4f0b878816127095c1fee8582e1842c8d9c1e032dea0"
   ],
   [
     "content/lessons/root-vowels.json",
-    "3383ad88d25e7e0574db5c528f17ebf27ef062091b7ea879f25398c2425871ad"
+    "457a4a51b00bc263f7a96a428dc941b7aee9427785708d417e58f1a761c91ddc"
   ],
   [
     "content/lessons/russian-language-history.json",
-    "82458535c409b5b1067e14f67a09f4d2e8e8ec06c1f7e3ce3f79ca1b0598a415"
+    "ed088a26f0ed629e9581155c5e316f20a85455b8fe7a1710f5567c44f2d815d4"
   ],
   [
     "content/lessons/scientific-etymology.json",
-    "4ff3a35b62a472d0575e3e3e701876f899fac7a95831b375c92ee2973d7ce132"
+    "c0274c7c9d84161e229d1003226290c8b24df957575e7dbddd659b5e4d6b3472"
   ],
   [
     "content/lessons/secondary-adverbial.json",
-    "3b6708ac3aeef5441c2cab9070d32dfac58194c9191c291323515178080884e1"
+    "a9cfd35fa0a563abcfb90ff46ffd2b9ca60584ed00d596783b9f4d22d5bbf336"
   ],
   [
     "content/lessons/secondary-attribute.json",
-    "e971e1663c8c759cfa30c1ae9bba7678cdb6c2b28864a88992ddcb90a883321d"
+    "2457bc589262d2b19700a0b94a4f6227a59c77a7b19702649bbfd8d7f64424fb"
   ],
   [
     "content/lessons/sentence-analysis.json",
-    "7457f1ea7ed6f803d3cb910e358a17333d674ad018c49cad78c7935787384221"
+    "d8ecbcecca9b21469eaaa54a58822817bd7575011e34ee0f7530ccbb6a95ddeb"
   ],
   [
     "content/lessons/sentence-rhythm.json",
-    "785cc7fbb83d63a0daf4c90581ec95ac31408f974a444f64b2690ce7c256843e"
+    "894687003dbaa3562b8c5ff145c38e67ecd335231d693d087c57b7690a9e2176"
   ],
   [
     "content/lessons/separators.json",
-    "7375238b319a13f3b36a44731b3fef7b10e45d18ac4c52bb91d7be6cfbb295e3"
+    "06a67acc48fba558bad8bbf362afb544d2083862b44dfc758328af793f82696c"
   ],
   [
     "content/lessons/service-word-spelling.json",
-    "1370b614080ec133a8c0724197d1c1a8f444ec18f039098f144409d830458e8f"
+    "3dff91dfaf795a7580ce1214956d551eb32bd5af59a1367a3509d0c45b695cca"
   ],
   [
     "content/lessons/sibilant-vowels.json",
-    "3c2555d84229f246d75540403422e94a6ef06c5d6637453ad6149aae4bd7b07f"
+    "7b2a3ff28f180c09ca339e79dfcb4fb8e6e777f3fa9cf6dccf4b9ca9e1389a75"
   ],
   [
     "content/lessons/slavonic-layers.json",
-    "54ce95515ee0956a80f8d87016ffbb882c11eb91b64d6320e8fb0bfa91d96f37"
+    "27103d09d551cc49b2016a839e67f5a9dfe2d016f721a57720562e2058ebda3a"
   ],
   [
     "content/lessons/sound-changes.json",
@@ -472,23 +472,23 @@ const ASSETS=[
   ],
   [
     "content/lessons/speech-errors.json",
-    "11d7c28d6ed8af04648d7eb4a4dda43fd5456de29217f66a3e8f1d3d16b4f343"
+    "b42ce78675c4e84609d8b0848c680b29e6f5be92ed3316d17a11a83d67f08fb1"
   ],
   [
     "content/lessons/speech-etiquette.json",
-    "52711a3ac8ea3e176fc9bf2e46d7f350faaef85ad9c5ee4f1315575c73ca652b"
+    "98b4ca254faa06bfd43e819d552e8e34d02e94f16bd0d9edeebe7b4419788658"
   ],
   [
     "content/lessons/speech-forms.json",
-    "0ed3befa8f372fbd6989dab567a9379332930d13f11051e7230e1bd646a2f556"
+    "5d789bbf9b217bf8923abedc76f10e8854906fad11a9726513daf1c10cf06e71"
   ],
   [
     "content/lessons/stress-variants.json",
-    "2642f4bbf65c75cc6dd0ff59da3c36cd42632ddb3048a0d2f29e0c33ee458e60"
+    "215285c467d4289b3f8709507f7c3bb60fe2ebba1a4087deeb45772e63f82527"
   ],
   [
     "content/lessons/subject-predicate-agreement.json",
-    "cccb996f974236b622e9b325a53f3bc076c8bb848a798569058e91386240c385"
+    "6a3a22744ac016b98cb8cb18a39478fa325e60e512b79eba1951ac793105a828"
   ],
   [
     "content/lessons/subject.json",
@@ -500,7 +500,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/subordinate-links.json",
-    "c03e6d880b376170e4071a3d19b92d4bb12ea257cdfa277762c6d6def55b8faf"
+    "3a6cd120193c871afb4ab3eb67a06df8c9053873ad6ecf475d61b3cbebb015b3"
   ],
   [
     "content/lessons/subordinate-marks.json",
@@ -508,7 +508,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/subordinate-types.json",
-    "ec336baadf7f432a17c0aeb18999c3f6664d22c892ed4563d89a66f45a99c155"
+    "7d5fff4fb952b79de8ba91cebd1175425273bed3534a7887558ce8517062c3c3"
   ],
   [
     "content/lessons/syllable-stress.json",
@@ -516,43 +516,43 @@ const ASSETS=[
   ],
   [
     "content/lessons/text-cohesion.json",
-    "0d295b8201e84464dad9bda615ac4bd278bdf2f41768a48b7fc82c5f6c7e28b9"
+    "38a5b38d289e6badaea76806b1717d53a411ecd8f13737a22a219afbb38d627d"
   ],
   [
     "content/lessons/thesis-evidence.json",
-    "40f3e13cf94277a54b23a330ac6db1b27e68fbce5fd92b5e4f643b68842b1efd"
+    "235ed4276c960412e5d445dd4fce830d755b2c1449dae1e9eae055e37c618a3c"
   ],
   [
     "content/lessons/tropes-figures.json",
-    "1808ee488dcd832cd5d39663b0e5b966d8601cfb531e46a7621b7e689c903081"
+    "fc68ee29b9110b93e59e0379d1748de0e424324b657ca7cef4b996b7503f4cc0"
   ],
   [
     "content/lessons/verb-derived-forms.json",
-    "bf0efc251f084b9ea1f054f84ea6b77c7bdee41f05c92c6f090fa9cef918f25d"
+    "31ec379b818429a7aac652633f2e574896c52c1094243c027569f111956d8e2b"
   ],
   [
     "content/lessons/verb-government.json",
-    "db176ca71dfbd7641bf77a1686eed716a0bce0f7eac57d90fe94ed3c4a3a8e01"
+    "784dcd7151c9615bb248f771936c5cf47cad62ff56597f76d8a7e8a4fa541340"
   ],
   [
     "content/lessons/verb-morphology.json",
-    "89cc2541e4e4fd035c1bd57be3e61aad55c7d93bb1a77276267e8b3553fbdaaa"
+    "38e72bec4b18f1cb1774fead2dc76fc9b9f8d57992d97f22b33d84a545cc6ca7"
   ],
   [
     "content/lessons/verb-spelling.json",
-    "aeca15a6a26b66d09f49c51911ce2a8662a203fa0e327f82b5e18c65c2e3015e"
+    "f2a75056ac4e62beb59a1ebb309fb62b0722562e849e2487f80512d85465f914"
   ],
   [
     "content/lessons/verbal-economy.json",
-    "304a44ea1eeed9eab8c6ad8d2868eb410105a0779406fbcc0051ba84eae2abbe"
+    "e2e86f2c17e6c53529d2d92209a135e388aea5db26e1e05072f6c36d0432b902"
   ],
   [
     "content/lessons/vowels-consonants.json",
-    "a9022bbd7695d4304826e89490b76c8c00db40a570f18d220fe4d56f793047cf"
+    "d4ee76fd2c3db7d9ae10e1504f2fd39d8f0eef1b2f95afa24d5fec194cac0430"
   ],
   [
     "content/lessons/word-boundaries.json",
-    "e94d130cad7c992edd1914d8c7dfa0349bbfc3031dd5ae5d2c11b254ae1e5943"
+    "6f05205f76af4e34063c4632d7026af258dd8396315c1d2bbd2403d703ff3392"
   ],
   [
     "content/lessons/word-family.json",
@@ -564,7 +564,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/writing-reforms.json",
-    "6096a97f825a60e19733c7c8dc9925e05758309bf71967f0052f016393f5e361"
+    "289a3c28f6b7e893493ef7c478f900daae7e13bf59c7bd7095ef082503d9cb64"
   ],
   [
     "content/modules/adjective-morphology.json",
@@ -872,7 +872,7 @@ const ASSETS=[
   ],
   [
     "content/modules/scientific-etymology.json",
-    "4b0fe7b31cdc9dd2e10cdf8f70d592fbcd7d7dfb1ee35bad6e6d51298b0fe159"
+    "81dace5e50406736b171d0c2aafbdadcef227fdea948f542708deab3f6561a5c"
   ],
   [
     "content/modules/secondary-members.json",
@@ -996,7 +996,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "6db8b8d5be03122bc0026d5ed04ddbfdc3fde17fa760a6e92dba76a8d4213c0f"
+    "047d15d679465654a592944784eff8095f658fd24781025122912ab757487042"
   ],
   [
     "content/tips.json",

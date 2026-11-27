@@ -151,7 +151,8 @@
           "lessonId": "ru.history.scientific-etymology.foundation"
         }
       ],
-      "questionsPerLesson": 8
+      "questionsPerLesson": 8,
+      "archived": true
     },
     {
       "id": "ru.history.scientific-etymology.module-exam.r41-b",
@@ -234,7 +235,175 @@
           "answerPolicy": "semantic-v1"
         }
       ],
-      "questionsPerLesson": 8
+      "questionsPerLesson": 8,
+      "archived": true
+    },
+    {
+      "id": "ru.history.scientific-etymology.module-exam.r48-a",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-a.01",
+          "type": "grammar-answer",
+          "raw": "Предполагаемое слово-источник зафиксировано в 1910 году, русское слово — в 1740 году. Назовите нарушенный при таком объяснении критерий одним существительным.",
+          "answer": "хронология",
+          "ex": "Заявленный источник появляется позже русского слова; версия требует других исторических свидетельств.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "хронологический критерий"
+          ]
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-a.02",
+          "type": "grammar-answer",
+          "raw": "Лингвист сравнил десятки родственных слов и обнаружил повторяющуюся замену одного звука другим. Назовите тип доказательства двумя словами.",
+          "answer": "регулярные соответствия",
+          "ex": "Система повторяющихся звуковых переходов убедительнее одиночного созвучия.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation",
+          "answerPolicy": "semantic-v1",
+          "accepted": [
+            "регулярные звуковые соответствия",
+            "звуковые соответствия"
+          ]
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-a.03",
+          "type": "grammar-answer",
+          "raw": "В словаре указано «*forma», причём письменных памятников с такой формой нет. Назовите статус формы одним существительным.",
+          "answer": "реконструкция",
+          "ex": "Звёздочка маркирует восстановленную исследователем форму, а не документальную запись.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-a.04",
+          "type": "grammar-answer",
+          "raw": "В памятнике 1620 года зафиксировано слово. Назовите год, к которому оно уже существовало, цифрами.",
+          "answer": "1620",
+          "ex": "Датированное свидетельство задаёт верхнюю границу времени появления, а не точную дату возникновения.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-a.05",
+          "type": "grammar-answer",
+          "raw": "В условной схеме «язык X → язык Y → язык Z» слово пришло в Z из Y. Назовите роль Y одним словом через дефис.",
+          "answer": "язык-посредник",
+          "ex": "Y передаёт слово непосредственно, хотя более ранний источник X.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-a.06",
+          "type": "grammar-answer",
+          "raw": "Исследователь сопоставляет значения слова в текстах трёх эпох, чтобы проверить переход от предмета к действию. Какой аспект этимологии он проверяет? Ответьте «семантика» или «фонетика».",
+          "answer": "семантика",
+          "ex": "Проверяется историческое изменение значения, а не звукового облика.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-a.07",
+          "type": "grammar-answer",
+          "raw": "Один словарь приводит гипотезу происхождения с пометой «возможно». Выпишите слово, которое нельзя опускать при пересказе вывода.",
+          "answer": "возможно",
+          "ex": "Помета выражает степень уверенности; удаление превращает гипотезу в утверждение.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-a.08",
+          "type": "grammar-answer",
+          "raw": "Для проверки этимологической версии доступны толковый словарь современного языка и историко-этимологическое издание с датами и вариантами. Назовите тип словаря, к которому следует обратиться, двумя словами.",
+          "answer": "этимологический словарь",
+          "ex": "Для исторического происхождения нужен источник, исследующий историю формы и значения.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        }
+      ]
+    },
+    {
+      "id": "ru.history.scientific-etymology.module-exam.r48-b",
+      "version": 1,
+      "questionsPerLesson": 8,
+      "questions": [
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-b.01",
+          "type": "grammar-answer",
+          "raw": "Предполагаемый источник известен лишь по современной форме, но этимолог сравнивает записи XII и XIV веков. Назовите тип исторических источников, представленных рукописями: письменные памятники или устные предания.",
+          "answer": "письменные памятники",
+          "ex": "Датированные тексты позволяют проверить более ранние формы, а не ограничиваться современным звучанием.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-b.02",
+          "type": "grammar-answer",
+          "raw": "В двух языках слово сходно звучит, но установлено происхождение от разных древних корней. Назовите характер сходства: случайное или родственное.",
+          "answer": "случайное",
+          "ex": "Совпадение звучания без общей исторической основы не доказывает родства.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-b.03",
+          "type": "grammar-answer",
+          "raw": "Рассказчик объясняет слово через современный каламбур и игнорирует древние написания. Назовите тип объяснения двумя словами.",
+          "answer": "народная этимология",
+          "ex": "Современное созвучие подменяет исторические доказательства.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-b.04",
+          "type": "grammar-answer",
+          "raw": "Слово засвидетельствовано в рукописи 1450 года. Исследователь объявляет его придуманным именно в 1450 году. Завершите фразу: «Это дата ...», двумя словами (фиксации слова или создания слова).",
+          "answer": "фиксации слова",
+          "ex": "Рукопись подтверждает употребление к указанному сроку, но не момент возникновения.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-b.05",
+          "type": "grammar-answer",
+          "raw": "В этимологической статье приведены две равноправные гипотезы, ни одна не доказана. Как обозначить происхождение одним словом: «неясно» или «установлено»?",
+          "answer": "неясно",
+          "ex": "Сохранение неопределённости соответствует состоянию доказательств.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-b.06",
+          "type": "grammar-answer",
+          "raw": "В условной цепочке «А → Б → В» язык А назван древнейшим источником, Б — передающим языком. Выпишите обозначение наиболее раннего из указанных источников.",
+          "answer": "А",
+          "ex": "А — начало именно этой цепочки, а не обязательно первоисточник в абсолютном смысле.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-b.07",
+          "type": "grammar-answer",
+          "raw": "Исследователь утверждает, что два сходных слова заимствованы при торговых контактах. Какую внешнюю предпосылку он должен подтвердить: контакт языков или одинаковое ударение? Напишите два слова.",
+          "answer": "контакт языков",
+          "ex": "Прямое заимствование предполагает исторически возможный путь передачи.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        },
+        {
+          "id": "ru.history.scientific-etymology.module-exam.r48-b.08",
+          "type": "grammar-answer",
+          "raw": "В рукописи зафиксировано одно значение, в более позднем тексте — другое. Как называется историческое изменение значения двумя словами: семантический переход или звуковое чередование?",
+          "answer": "семантический переход",
+          "ex": "Изменение смысла отличается от чередования звуков в формах.",
+          "instruction": "Ответьте в указанном формате, без пояснений.",
+          "lessonId": "ru.history.scientific-etymology.foundation"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,950 @@
+[
+  {
+    "id": "ru.morphology.adjective-morphology.foundation",
+    "practice": [],
+    "rubrics": [],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.morphology.adverb-state.foundation",
+    "practice": [],
+    "rubrics": [],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.argumentation.analytical-memo.foundation",
+    "practice": [
+      "ru.argumentation.analytical-memo.foundation.practice.r48.01",
+      "ru.argumentation.analytical-memo.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.asyndetic-colon-dash",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.asyndetic-colon-dash.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.asyndetic-enumeration",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.asyndetic-enumeration.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.stylistics.author-voice.foundation",
+    "practice": [
+      "ru.stylistics.author-voice.foundation.practice.r48.01",
+      "ru.stylistics.author-voice.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.history.borrowing-etymology.foundation",
+    "practice": [
+      "ru.history.borrowing-etymology.foundation.practice.r48.01",
+      "ru.history.borrowing-etymology.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.argumentation.business-correspondence.foundation",
+    "practice": [
+      "ru.argumentation.business-correspondence.foundation.practice.r48.01",
+      "ru.argumentation.business-correspondence.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.clarification",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.clarification.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.stylistics.clarity-precision.foundation",
+    "practice": [
+      "ru.stylistics.clarity-precision.foundation.practice.r48.01",
+      "ru.stylistics.clarity-precision.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.comparison-free",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.comparison-free.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.comparison-role",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.comparison-role.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.coordinate-relations",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.coordinate-relations.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.coordinate-structure",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.coordinate-structure.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.word-formation.derivation-methods.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.word-formation.derivation-methods.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.detached-circumstances",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.detached-circumstances.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.detached-definitions",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.detached-definitions.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.lexicon.dictionary-vocabulary.foundation",
+    "practice": [
+      "ru.lexicon.dictionary-vocabulary.foundation.practice.r48.01",
+      "ru.lexicon.dictionary-vocabulary.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.dictionary-yo.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.orthography.dictionary-yo.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.direct-speech-marks.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.direct-speech-marks.foundation.editorial.01"
+    ],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.double-n.foundation",
+    "practice": [],
+    "rubrics": [],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.stylistics.editorial-diagnosis.foundation",
+    "practice": [
+      "ru.stylistics.editorial-diagnosis.foundation.practice.r48.01",
+      "ru.stylistics.editorial-diagnosis.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.explanation-attachment",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.explanation-attachment.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.lexicon.figurative-meaning.foundation",
+    "practice": [
+      "ru.lexicon.figurative-meaning.foundation.practice.r48.01",
+      "ru.lexicon.figurative-meaning.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.stylistics.functional-styles.foundation",
+    "practice": [
+      "ru.stylistics.functional-styles.foundation.practice.r48.01",
+      "ru.stylistics.functional-styles.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.history.historical-changes.foundation",
+    "practice": [
+      "ru.history.historical-changes.foundation.practice.r48.01",
+      "ru.history.historical-changes.foundation.practice.r48.02"
+    ],
+    "rubrics": [
+      "ru.history.historical-changes.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.homogeneous-definitions",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.homogeneous-definitions.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.hyphenation-abbreviations.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.orthography.hyphenation-abbreviations.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.lexicon.idioms.foundation",
+    "practice": [
+      "ru.lexicon.idioms.foundation.practice.r48.01",
+      "ru.lexicon.idioms.foundation.practice.r48.02"
+    ],
+    "rubrics": [
+      "ru.lexicon.idioms.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.incomplete",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.incomplete.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.argumentation.independent-writing.foundation",
+    "practice": [
+      "ru.argumentation.independent-writing.foundation.practice.r48.01",
+      "ru.argumentation.independent-writing.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.indirect-transformation",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.indirect-transformation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.information-structure",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.information-structure.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.isolated-members",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.isolated-members.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.language.language-levels.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.language.language-levels.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.language.language-norm.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.language.language-norm.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.language.language-speech-text.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.language.language-speech-text.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.lexicon.lexical-layers.foundation",
+    "practice": [
+      "ru.lexicon.lexical-layers.foundation.practice.r48.01",
+      "ru.lexicon.lexical-layers.foundation.practice.r48.02"
+    ],
+    "rubrics": [
+      "ru.lexicon.lexical-layers.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.lexicon.lexical-meaning.foundation",
+    "practice": [
+      "ru.lexicon.lexical-meaning.foundation.practice.r48.01",
+      "ru.lexicon.lexical-meaning.foundation.practice.r48.02"
+    ],
+    "rubrics": [
+      "ru.lexicon.lexical-meaning.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": true
+  },
+  {
+    "id": "ru.lexicon.lexical-relations.foundation",
+    "practice": [
+      "ru.lexicon.lexical-relations.foundation.practice.r48.01",
+      "ru.lexicon.lexical-relations.foundation.practice.r48.02"
+    ],
+    "rubrics": [
+      "ru.lexicon.lexical-relations.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.argumentation.logic-fallacies.foundation",
+    "practice": [
+      "ru.argumentation.logic-fallacies.foundation.practice.r48.01",
+      "ru.argumentation.logic-fallacies.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.mixed-links",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.mixed-links.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.mixed-punctuation.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.mixed-punctuation.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.word-formation.morpheme-alternations.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.word-formation.morpheme-alternations.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.word-formation.morpheme-types.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.word-formation.morpheme-types.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.morphology.morphological-analysis.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.morphology.morphological-analysis.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.negation-spelling.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.orthography.negation-spelling.foundation.editorial.01"
+    ],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.nonmembers",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.nonmembers.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.speech-culture.norm-register.foundation",
+    "practice": [
+      "ru.speech-culture.norm-register.foundation.practice.r48.01",
+      "ru.speech-culture.norm-register.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.noun-adjective-endings.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.orthography.noun-adjective-endings.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.morphology.noun-morphology.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.morphology.noun-morphology.foundation.editorial.01"
+    ],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.speech-culture.noun-norms.foundation",
+    "practice": [
+      "ru.speech-culture.noun-norms.foundation.practice.r48.01",
+      "ru.speech-culture.noun-norms.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.morphology.numeral-morphology.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.morphology.numeral-morphology.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.speech-culture.numeral-norms.foundation",
+    "practice": [
+      "ru.speech-culture.numeral-norms.foundation.practice.r48.01",
+      "ru.speech-culture.numeral-norms.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.one-part-types",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.one-part-types.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.argumentation.oral-speech-discussion.foundation",
+    "practice": [
+      "ru.argumentation.oral-speech-discussion.foundation.practice.r48.01",
+      "ru.argumentation.oral-speech-discussion.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.lexicon.paronyms-collocation.foundation",
+    "practice": [
+      "ru.lexicon.paronyms-collocation.foundation.practice.r48.01",
+      "ru.lexicon.paronyms-collocation.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.speech-culture.participle-construction-norms.foundation",
+    "practice": [
+      "ru.speech-culture.participle-construction-norms.foundation.practice.r48.01",
+      "ru.speech-culture.participle-construction-norms.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.participle-punctuation",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.participle-punctuation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.phrase-links",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.phrase-links.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.predicate",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.predicate.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.prefix-spelling.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.orthography.prefix-spelling.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.morphology.pronoun-morphology.foundation",
+    "practice": [],
+    "rubrics": [],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.phonetics.pronunciation-combinations.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.phonetics.pronunciation-combinations.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.stylistics.proofreading-typography.foundation",
+    "practice": [
+      "ru.stylistics.proofreading-typography.foundation.practice.r48.01",
+      "ru.stylistics.proofreading-typography.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.speech-culture.proper-name-declension.foundation",
+    "practice": [
+      "ru.speech-culture.proper-name-declension.foundation.practice.r48.01",
+      "ru.speech-culture.proper-name-declension.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.argumentation.public-science-writing.foundation",
+    "practice": [
+      "ru.argumentation.public-science-writing.foundation.practice.r48.01",
+      "ru.argumentation.public-science-writing.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.punctuation.punctuation-variation.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.punctuation.punctuation-variation.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.argumentation.reasoning-counterarguments.foundation",
+    "practice": [
+      "ru.argumentation.reasoning-counterarguments.foundation.practice.r48.01",
+      "ru.argumentation.reasoning-counterarguments.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.lexicon.register-connotation.foundation",
+    "practice": [
+      "ru.lexicon.register-connotation.foundation.practice.r48.01",
+      "ru.lexicon.register-connotation.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.stylistics.revision-comparison.foundation",
+    "practice": [
+      "ru.stylistics.revision-comparison.foundation.practice.r48.01",
+      "ru.stylistics.revision-comparison.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.root-consonants.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.orthography.root-consonants.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.root-vowels.foundation",
+    "practice": [],
+    "rubrics": [],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.history.russian-language-history.foundation",
+    "practice": [
+      "ru.history.russian-language-history.foundation.practice.r48.01",
+      "ru.history.russian-language-history.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.history.scientific-etymology.foundation",
+    "practice": [
+      "ru.history.scientific-etymology.foundation.practice.r48.01",
+      "ru.history.scientific-etymology.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.secondary-adverbial",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.secondary-adverbial.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.secondary-attribute",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.secondary-attribute.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.sentence-analysis",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.sentence-analysis.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.stylistics.sentence-rhythm.foundation",
+    "practice": [
+      "ru.stylistics.sentence-rhythm.foundation.practice.r48.01",
+      "ru.stylistics.sentence-rhythm.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.separators.foundation",
+    "practice": [],
+    "rubrics": [],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.service-word-spelling.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.orthography.service-word-spelling.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.sibilant-vowels.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.orthography.sibilant-vowels.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.history.slavonic-layers.foundation",
+    "practice": [
+      "ru.history.slavonic-layers.foundation.practice.r48.01",
+      "ru.history.slavonic-layers.foundation.practice.r48.02"
+    ],
+    "rubrics": [
+      "ru.history.slavonic-layers.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.speech-culture.speech-errors.foundation",
+    "practice": [
+      "ru.speech-culture.speech-errors.foundation.practice.r48.01",
+      "ru.speech-culture.speech-errors.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.speech-culture.speech-etiquette.foundation",
+    "practice": [
+      "ru.speech-culture.speech-etiquette.foundation.practice.r48.01",
+      "ru.speech-culture.speech-etiquette.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.speech-forms",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.speech-forms.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.phonetics.stress-variants.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.phonetics.stress-variants.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+    "practice": [
+      "ru.speech-culture.subject-predicate-agreement.foundation.practice.r48.01",
+      "ru.speech-culture.subject-predicate-agreement.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.subordinate-links",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.subordinate-links.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.syntax.subordinate-types",
+    "practice": [],
+    "rubrics": [
+      "ru.syntax.subordinate-types.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.stylistics.text-cohesion.foundation",
+    "practice": [
+      "ru.stylistics.text-cohesion.foundation.practice.r48.01",
+      "ru.stylistics.text-cohesion.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.argumentation.thesis-evidence.foundation",
+    "practice": [
+      "ru.argumentation.thesis-evidence.foundation.practice.r48.01",
+      "ru.argumentation.thesis-evidence.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.stylistics.tropes-figures.foundation",
+    "practice": [
+      "ru.stylistics.tropes-figures.foundation.practice.r48.01",
+      "ru.stylistics.tropes-figures.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.morphology.verb-derived-forms.foundation",
+    "practice": [],
+    "rubrics": [],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.speech-culture.verb-government.foundation",
+    "practice": [
+      "ru.speech-culture.verb-government.foundation.practice.r48.01",
+      "ru.speech-culture.verb-government.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.morphology.verb-morphology.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.morphology.verb-morphology.foundation.editorial.01"
+    ],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.verb-spelling.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.orthography.verb-spelling.foundation.editorial.01"
+    ],
+    "theory": true,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.stylistics.verbal-economy.foundation",
+    "practice": [
+      "ru.stylistics.verbal-economy.foundation.practice.r48.01",
+      "ru.stylistics.verbal-economy.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.phonetics.vowels-consonants.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.phonetics.vowels-consonants.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.orthography.word-boundaries.foundation",
+    "practice": [],
+    "rubrics": [
+      "ru.orthography.word-boundaries.foundation.editorial.01"
+    ],
+    "theory": false,
+    "modelCorrection": false
+  },
+  {
+    "id": "ru.history.writing-reforms.foundation",
+    "practice": [
+      "ru.history.writing-reforms.foundation.practice.r48.01",
+      "ru.history.writing-reforms.foundation.practice.r48.02"
+    ],
+    "rubrics": [],
+    "theory": false,
+    "modelCorrection": false
+  }
+]
