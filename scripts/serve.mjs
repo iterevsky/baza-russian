@@ -6,14 +6,14 @@ import {gzip} from 'node:zlib';
 import {promisify} from 'node:util';
 const gzipAsync=promisify(gzip);
 const rootDefault=fileURLToPath(new URL('../',import.meta.url));
-const MIME={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.webmanifest':'application/manifest+json; charset=utf-8','.png':'image/png','.ico':'image/x-icon'};
+const MIME={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.webmanifest':'application/manifest+json; charset=utf-8','.png':'image/png','.jpg':'image/jpeg','.ico':'image/x-icon'};
 export function assetPath(raw){
  const pathname=raw.split('?')[0];let path;
  try{path=decodeURIComponent(pathname)}catch{return null}
  if(path==='/'||path==='/index.html')return 'index.html';
  if(!path.startsWith('/')||path.includes('\\')||path.includes('\0')||path.split('/').some(x=>x==='.'||x==='..'))return null;
  const file=path.slice(1);
- return /^(?:sw\.js|manifest\.webmanifest|src\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\.(?:js|css)|content\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\.(?:json|js)|icons\/[a-z0-9-]+\.(?:png|ico))$/.test(file)?file:null;
+ return /^(?:sw\.js|manifest\.webmanifest|src\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\.(?:js|css)|content\/(?:[a-z0-9-]+\/)*[a-z0-9-]+\.(?:json|js)|icons\/[a-z0-9-]+\.(?:png|ico)|icons\/pushkin-1827\.jpg)$/.test(file)?file:null;
 }
 export function acceptsGzip(value=''){
  return value.split(',').some(part=>{const [coding,...params]=part.trim().split(';');if(coding.toLowerCase()!=='gzip')return false;const q=params.find(x=>/^\s*q\s*=/i.test(x));return !q||Number(q.split('=')[1])>0});

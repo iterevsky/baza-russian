@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
 const RELEASE="1.0.0-rc.1";
-const DIGEST="8d54f91105709ad419c8e4f7";
+const DIGEST="e64f6cc28fb4f29471b60bf4";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -1023,6 +1023,10 @@ const ASSETS=[
     "107b82f63c07d9d8862dcf45cc298ddba10ef92d0613b747a52fe59c4995be33"
   ],
   [
+    "icons/pushkin-1827.jpg",
+    "64bf55943501fa23b658dd05acb34dd5fad8813d3ece5958895e39ef80b44699"
+  ],
+  [
     "index.html",
     "71c9591606c9e2a030a5cb919677aefaedb9510a6633b2c4e4a1544ab76b70a4"
   ],
@@ -1072,7 +1076,7 @@ const ASSETS=[
   ],
   [
     "src/core/home.js",
-    "4a717ff0100f097f7a7d67f50a636fc62566544fb1bac9e06cbbf978a0916602"
+    "8922f644cb1b25eb6fbbf6c758d8c31b1a31eb6b8e36e3439226bc50a1771772"
   ],
   [
     "src/core/lesson-view.js",
