@@ -1,3 +1,4 @@
+import {relaxedInput,relaxedNorm,inputAliases} from './answer-input.js';
 export const norm=s=>String(s??'').normalize('NFC').trim().replace(/\s+/g,' ').replace(/\s*,\s*/g,', ').trim();
 export const checkPositions=(selected,expected)=>Array.isArray(selected)&&Array.isArray(expected)&&selected.length===expected.length&&new Set(selected).size===selected.length&&expected.every(i=>selected.includes(i));
 export const extendedMarks=q=>q?.marks==='comma-colon-dash';
@@ -13,7 +14,9 @@ export const examSkeleton=(q,s)=>norm(parenthesesMarks(q)?examNorm(q,s).replace(
 export const validExamMarks=q=>q.marks===undefined||parenthesesMarks(q)&&examSkeleton(q,q.answer)===examSkeleton(q,q.raw)&&!/[(),]/.test(q.raw)&&q.answer.includes('(')&&/^([^()]|\([^()]+\))*$/.test(q.answer)||extendedMarks(q)&&examSkeleton(q,q.answer)===examSkeleton(q,q.raw)&&!/[,:]| [–—-] /.test(q.raw);
 export const validAnswerPolicy=q=>q.answerPolicy===undefined&&q.accepted===undefined||q.answerPolicy==='semantic-v1'&&q.type==='grammar-answer'&&Array.isArray(q.accepted)&&q.accepted.length>0&&q.accepted.every(x=>typeof x==='string'&&x.trim())&&new Set([q.answer,...q.accepted].map(semanticNorm)).size===q.accepted.length+1;
 export const validExamQuestion=q=>!!q&&validAnswerPolicy(q)&&[q.raw,q.answer,q.ex].every(x=>typeof x==='string'&&x.trim())&&((grammarAnswer(q)||writtenAnswer(q))?q.marks===undefined&&typeof q.instruction==='string'&&!!q.instruction.trim():q.type==='exact-text'&&validExamMarks(q));
-export function gradeExam(questions,answers){return questions.map((q,i)=>[q.answer,...(q.answerPolicy==='semantic-v1'?q.accepted:[])].some(a=>examNorm(q,answers[i])===examNorm(q,a)))}
+export function gradeExamLegacy(questions,answers){return questions.map((q,i)=>[q.answer,...(q.answerPolicy==='semantic-v1'?q.accepted:[])].some(a=>examNorm(q,answers[i])===examNorm(q,a)))}
+export function gradeExam(questions,answers){const legacy=gradeExamLegacy(questions,answers);return questions.map((q,i)=>legacy[i]||relaxedInput(q)&&[q.answer,...(q.accepted??[]),...inputAliases(q)].some(a=>relaxedNorm(answers[i])===relaxedNorm(a)))}
+export function compatibleExamScore(qs,answers,score){return Number.isInteger(score)&&(score===gradeExamLegacy(qs,answers).filter(Boolean).length||score===gradeExam(qs,answers).filter(Boolean).length)}
 
 // Revisit only questions whose latest recorded response is incorrect.
 export function errorIndices(questions,attempts){const latest=new Map();for(const a of attempts){const i=a.questionId?questions.findIndex(q=>q.id===a.questionId):a.q;if(Number.isInteger(i)&&questions[i])latest.set(i,a.correct)}return questions.map((_,i)=>i).filter(i=>latest.get(i)===false)}

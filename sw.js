@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
 const RELEASE="1.0.0-rc.1";
-const DIGEST="58696d205196ff37d6765804";
+const DIGEST="843171ce291c9f0d2f6efca6";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -1036,11 +1036,15 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "64145cacd3d0392bf419e7f17a0533d6c5c37caaeacebd74bb9abcffbf6d2aa6"
+    "e68f66fc091c6a354a28ae5413e4f176f5525def6d71da9a5625a7a6e4149438"
+  ],
+  [
+    "src/core/answer-input.js",
+    "063fc5bbcb4f51b54afb41b9b0f643b106ded6d99a080fa909a24a0dfd25948a"
   ],
   [
     "src/core/assessment.js",
-    "c1fcc2e128a3b45b19570022f30ba2cd3bc6f81fda2b63a9424a7170fda46997"
+    "f7461338afd0d253592d3b0aa5675abe067363e259c8e98051a0ff60d88cbea8"
   ],
   [
     "src/core/choice-order.js",
@@ -1084,19 +1088,19 @@ const ASSETS=[
   ],
   [
     "src/core/module-view.js",
-    "0f0176c7178ca7b95cdd319c6255a0756d5e5efcd2d3e9b5fa3ac11682767b36"
+    "ccc7b5481c34d760efcdb69cf72ef40b6cdacfd8cd9cf8e9fc152d84a1bc8c51"
   ],
   [
     "src/core/modules.js",
-    "be423305173407e12902f44f1c26daa33683930c2fba9646000fe19501c2ca6f"
+    "cee72c27d5d97ae05b27b9e86dbecaf02870800e1933ce99dd61866b8c89864e"
   ],
   [
     "src/core/practice.js",
-    "8cc2d058f3eca79925d1b4d6061511e849f33ce9a432d12a377ffa7cf5b17e7c"
+    "ab24976e243856066e0b0b2926e63f2f16ef2f14503843fc88b056570f2d1ea4"
   ],
   [
     "src/core/progress.js",
-    "a77712f8fb87dc858619069a82138b6694f13a3ce65021d0ceb10577d23a9658"
+    "1deff35ab1dd1e68d5d42b92340dc18a26208485cc02212731461b8388915430"
   ],
   [
     "src/core/prompt.js",
