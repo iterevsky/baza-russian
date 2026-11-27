@@ -1,0 +1,531 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.introductory",
+  "title": "Вводные слова, вставные конструкции и обращения",
+  "moduleNumber": "07.08",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.introductory-words",
+    "ru.punctuation.non-introductory-words",
+    "ru.punctuation.ambiguous-introductory",
+    "ru.punctuation.introductory-conjunctions",
+    "ru.punctuation.introductory-boundaries",
+    "ru.punctuation.introductory-editing",
+    "ru.punctuation.addresses",
+    "ru.punctuation.insertions"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина, §§ 91–96",
+    "url": "https://orthographia.ru/punctuatio.php?sid=127"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.introductory.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.01",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-words",
+          "raw": "К счастью фонарь ещё горел.",
+          "answer": "К счастью, фонарь ещё горел.",
+          "ex": "Оценка события, вводное сочетание в начале предложения."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.02",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.non-introductory-words",
+          "raw": "Мы едва ли успеем к открытию.",
+          "answer": "Мы едва ли успеем к открытию.",
+          "ex": "Едва ли — частица, а не вводная конструкция."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.03",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.ambiguous-introductory",
+          "raw": "Эта задача кажется простой.",
+          "answer": "Эта задача кажется простой.",
+          "ex": "Кажется входит в состав сказуемого: кажется простой."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.04",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-conjunctions",
+          "raw": "Путь был долгим но к счастью безопасным.",
+          "answer": "Путь был долгим, но, к счастью, безопасным.",
+          "ex": "Но соединяет однородные члены; вводное сочетание выделяется отдельно."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.05",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "raw": "На полке стояла ваза вероятно привезённая из Казани и лежал альбом.",
+          "answer": "На полке стояла ваза, вероятно привезённая из Казани, и лежал альбом.",
+          "ex": "Вводное слово в начале обособленного определения относится к этому обороту.",
+          "instruction": "Вероятность относится именно к происхождению вазы."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.06",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-editing",
+          "raw": "Она ведь по-моему уже подписала договор.",
+          "answer": "Она ведь, по-моему, уже подписала договор.",
+          "ex": "Ведь — частица; по-моему — указание на мнение.",
+          "instruction": "«По-моему» означает мнение говорящего."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.07",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-words",
+          "raw": "Срок бесспорно истёк.",
+          "answer": "Срок, бесспорно, истёк.",
+          "ex": "Бесспорно выражает оценку достоверности высказывания.",
+          "instruction": "«Бесспорно» выражает отдельную оценку достоверности говорящим."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.08",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.non-introductory-words",
+          "raw": "Вряд ли мастер закончил работу.",
+          "answer": "Вряд ли мастер закончил работу.",
+          "ex": "Вряд ли не является вводным сочетанием."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.09",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.ambiguous-introductory",
+          "raw": "Видно мастер задержится.",
+          "answer": "Видно, мастер задержится.",
+          "ex": "Видно в значении «по-видимому» — вводное слово.",
+          "instruction": "Видно означает предположение, а не возможность видеть."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.10",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-conjunctions",
+          "raw": "Вечер тихий и без сомнения тёплый.",
+          "answer": "Вечер тихий и, без сомнения, тёплый.",
+          "ex": "И соединяет однородные члены; без сомнения обособляется."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.11",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "raw": "Мы увидели письмо давно видимо забытое адресатом и вернули его.",
+          "answer": "Мы увидели письмо, давно, видимо, забытое адресатом, и вернули его.",
+          "ex": "Внутри обособленного оборота вводное слово выделяется с двух сторон."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.a.12",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-editing",
+          "raw": "Однако поезд вероятно задержится.",
+          "answer": "Однако поезд, вероятно, задержится.",
+          "ex": "Однако в начале предложения — противительный союз; вероятно — вводное слово."
+        }
+      ],
+      "lessonIds": [
+        "ru.punctuation.introductory-words",
+        "ru.punctuation.non-introductory-words",
+        "ru.punctuation.ambiguous-introductory",
+        "ru.punctuation.introductory-conjunctions",
+        "ru.punctuation.introductory-boundaries",
+        "ru.punctuation.introductory-editing"
+      ]
+    },
+    {
+      "id": "ru.punctuation.introductory.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.01",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-words",
+          "raw": "К нашему удивлению посылка пришла раньше срока.",
+          "answer": "К нашему удивлению, посылка пришла раньше срока.",
+          "ex": "К нашему удивлению выражает эмоциональную оценку события."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.02",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.non-introductory-words",
+          "raw": "Он якобы нашёл старую карту.",
+          "answer": "Он якобы нашёл старую карту.",
+          "ex": "Якобы — частица, не вводное слово."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.03",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.ambiguous-introductory",
+          "raw": "Отсюда видно море.",
+          "answer": "Отсюда видно море.",
+          "ex": "Видно — сказуемое, обозначает возможность видеть."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.04",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-conjunctions",
+          "raw": "Зал пуст но вероятно скоро наполнится.",
+          "answer": "Зал пуст, но, вероятно, скоро наполнится.",
+          "ex": "Но соединяет части сообщения; вероятно выделяется отдельно."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.05",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "raw": "На стене висела карта по-видимому составленная школьниками и тикали часы.",
+          "answer": "На стене висела карта, по-видимому составленная школьниками, и тикали часы.",
+          "ex": "Вводное сочетание стоит в начале оборота и относится к нему.",
+          "instruction": "Предположение относится только к авторству карты."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.06",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-editing",
+          "raw": "Мы всё-таки кажется нашли выход.",
+          "answer": "Мы всё-таки, кажется, нашли выход.",
+          "ex": "Всё-таки — частица; кажется выражает предположение."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.07",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-words",
+          "raw": "По словам врача обследование закончено.",
+          "answer": "По словам врача, обследование закончено.",
+          "ex": "Вводное сочетание указывает на источник сообщения."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.08",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.non-introductory-words",
+          "raw": "Даже сторож удивился результату.",
+          "answer": "Даже сторож удивился результату.",
+          "ex": "Даже — частица, обособление не требуется."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.09",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.ambiguous-introductory",
+          "raw": "Этот голос кажется знаком всем.",
+          "answer": "Этот голос, кажется, знаком всем.",
+          "ex": "Кажется выражает предположение, не входит в сказуемое «знаком».",
+          "instruction": "Кажется употреблено в значении «по-видимому»."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.10",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-conjunctions",
+          "raw": "Он спешил но к удивлению не ошибся.",
+          "answer": "Он спешил, но, к удивлению, не ошибся.",
+          "ex": "Но соединяет однородные сказуемые; вводное сочетание выделяется отдельно."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.11",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "raw": "В шкафу лежала папка вчера очевидно оставленная курьером и стояла коробка.",
+          "answer": "В шкафу лежала папка, вчера, очевидно, оставленная курьером, и стояла коробка.",
+          "ex": "Внутри обособленного определения вводное слово выделяется с обеих сторон."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.b.12",
+          "type": "exact-text",
+          "lessonId": "ru.punctuation.introductory-editing",
+          "raw": "Он будто бы по словам коллеги согласился на обмен.",
+          "answer": "Он будто бы, по словам коллеги, согласился на обмен.",
+          "ex": "Будто бы — частица; по словам коллеги — указание на источник."
+        }
+      ],
+      "lessonIds": [
+        "ru.punctuation.introductory-words",
+        "ru.punctuation.non-introductory-words",
+        "ru.punctuation.ambiguous-introductory",
+        "ru.punctuation.introductory-conjunctions",
+        "ru.punctuation.introductory-boundaries",
+        "ru.punctuation.introductory-editing"
+      ]
+    },
+    {
+      "id": "ru.punctuation.introductory.module-exam.c",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.01",
+          "type": "exact-text",
+          "raw": "Разумеется касса откроется утром.",
+          "answer": "Разумеется, касса откроется утром.",
+          "ex": "Уверенность говорящего.",
+          "lessonId": "ru.punctuation.introductory-words"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.02",
+          "type": "exact-text",
+          "raw": "К сожалению автобус ушёл.",
+          "answer": "К сожалению, автобус ушёл.",
+          "ex": "Оценка события.",
+          "lessonId": "ru.punctuation.introductory-words"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.03",
+          "type": "exact-text",
+          "raw": "Мы почти закончили ремонт.",
+          "answer": "Мы почти закончили ремонт.",
+          "ex": "Почти не вводное.",
+          "lessonId": "ru.punctuation.non-introductory-words"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.04",
+          "type": "exact-text",
+          "raw": "Он всё-таки вернул ключи.",
+          "answer": "Он всё-таки вернул ключи.",
+          "ex": "Всё-таки — частица.",
+          "lessonId": "ru.punctuation.non-introductory-words"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.05",
+          "type": "exact-text",
+          "raw": "Сосед кажется уехал.",
+          "answer": "Сосед, кажется, уехал.",
+          "ex": "Кажется — оценка достоверности.",
+          "lessonId": "ru.punctuation.ambiguous-introductory"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.06",
+          "type": "exact-text",
+          "raw": "Комната кажется светлой.",
+          "answer": "Комната кажется светлой.",
+          "ex": "Кажется входит в сказуемое.",
+          "lessonId": "ru.punctuation.ambiguous-introductory"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.07",
+          "type": "exact-text",
+          "raw": "Я открыл дверь но к удивлению никого не увидел.",
+          "answer": "Я открыл дверь, но, к удивлению, никого не увидел.",
+          "ex": "Союз соединяет сказуемые; вводное сочетание самостоятельно.",
+          "lessonId": "ru.punctuation.introductory-conjunctions"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.08",
+          "type": "exact-text",
+          "raw": "Мы остались и вероятно он тоже остался.",
+          "answer": "Мы остались, и, вероятно, он тоже остался.",
+          "ex": "Союз соединяет части; вероятно выделяется отдельно.",
+          "lessonId": "ru.punctuation.introductory-conjunctions"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.09",
+          "type": "exact-text",
+          "raw": "На полке лежал альбом вероятно подаренный гостями и стояла ваза.",
+          "answer": "На полке лежал альбом, вероятно подаренный гостями, и стояла ваза.",
+          "ex": "Вероятно относится только к происхождению альбома.",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "instruction": "Предположение относится только к происхождению или изготовлению предмета, не ко всему сообщению."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.10",
+          "type": "exact-text",
+          "raw": "На полу лежал ковёр очевидно привезённый из деревни и стоял сундук.",
+          "answer": "На полу лежал ковёр, очевидно привезённый из деревни, и стоял сундук.",
+          "ex": "Очевидно относится только к происхождению ковра.",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "instruction": "Предположение относится только к происхождению или изготовлению предмета, не ко всему сообщению."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.11",
+          "type": "exact-text",
+          "raw": "По словам мастера деталь уже готова.",
+          "answer": "По словам мастера, деталь уже готова.",
+          "ex": "Указан источник сообщения.",
+          "lessonId": "ru.punctuation.introductory-editing"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.12",
+          "type": "exact-text",
+          "raw": "Мы к счастью почти добрались до дома.",
+          "answer": "Мы, к счастью, почти добрались до дома.",
+          "ex": "Вводное сочетание; почти не обособляется.",
+          "lessonId": "ru.punctuation.introductory-editing"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.13",
+          "type": "exact-text",
+          "raw": "Виктор выключите свет.",
+          "answer": "Виктор, выключите свет.",
+          "ex": "Имя адресата.",
+          "lessonId": "ru.punctuation.addresses"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.14",
+          "type": "exact-text",
+          "raw": "Как дела друзья?",
+          "answer": "Как дела, друзья?",
+          "ex": "Обращение в конце.",
+          "lessonId": "ru.punctuation.addresses"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.15",
+          "type": "exact-text",
+          "raw": "Склад его открыли весной работает ежедневно.",
+          "answer": "Склад (его открыли весной) работает ежедневно.",
+          "ex": "Попутное сообщение.",
+          "marks": "comma-parentheses",
+          "instruction": "Выделите попутное сообщение круглыми скобками; сохраните остальные необходимые знаки.",
+          "lessonId": "ru.punctuation.insertions"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.c.16",
+          "type": "exact-text",
+          "raw": "Каталог печатная версия лежит в зале.",
+          "answer": "Каталог (печатная версия) лежит в зале.",
+          "ex": "Вставное пояснение.",
+          "marks": "comma-parentheses",
+          "instruction": "Выделите попутное сообщение круглыми скобками; сохраните остальные необходимые знаки.",
+          "lessonId": "ru.punctuation.insertions"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.introductory.module-exam.d",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.01",
+          "type": "exact-text",
+          "raw": "Безусловно встреча состоится.",
+          "answer": "Безусловно, встреча состоится.",
+          "ex": "Уверенность.",
+          "lessonId": "ru.punctuation.introductory-words"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.02",
+          "type": "exact-text",
+          "raw": "К нашему удивлению дверь открылась.",
+          "answer": "К нашему удивлению, дверь открылась.",
+          "ex": "Эмоциональная оценка.",
+          "lessonId": "ru.punctuation.introductory-words"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.03",
+          "type": "exact-text",
+          "raw": "Вдруг погас фонарь.",
+          "answer": "Вдруг погас фонарь.",
+          "ex": "Вдруг не вводное.",
+          "lessonId": "ru.punctuation.non-introductory-words"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.04",
+          "type": "exact-text",
+          "raw": "Мы именно этого и ждали.",
+          "answer": "Мы именно этого и ждали.",
+          "ex": "Именно — частица.",
+          "lessonId": "ru.punctuation.non-introductory-words"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.05",
+          "type": "exact-text",
+          "raw": "Этот маршрут по-моему удобнее.",
+          "answer": "Этот маршрут, по-моему, удобнее.",
+          "ex": "Мнение.",
+          "lessonId": "ru.punctuation.ambiguous-introductory",
+          "instruction": "Говорящий выражает своё мнение."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.06",
+          "type": "exact-text",
+          "raw": "Они поступили по-моему.",
+          "answer": "Они поступили по-моему.",
+          "ex": "Наречие, способ действия.",
+          "lessonId": "ru.punctuation.ambiguous-introductory",
+          "instruction": "Смысл: поступили так, как я предложил."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.07",
+          "type": "exact-text",
+          "raw": "Мы ускорили шаг но к сожалению не успели.",
+          "answer": "Мы ускорили шаг, но, к сожалению, не успели.",
+          "ex": "Союз соединяет сказуемые, вводное сочетание обособляется отдельно.",
+          "lessonId": "ru.punctuation.introductory-conjunctions"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.08",
+          "type": "exact-text",
+          "raw": "Он ушёл и кажется никто этого не заметил.",
+          "answer": "Он ушёл, и, кажется, никто этого не заметил.",
+          "ex": "Кажется выделяется отдельно.",
+          "lessonId": "ru.punctuation.introductory-conjunctions"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.09",
+          "type": "exact-text",
+          "raw": "В витрине стояла чашка по-видимому изготовленная вручную и лежала ложка.",
+          "answer": "В витрине стояла чашка, по-видимому изготовленная вручную, и лежала ложка.",
+          "ex": "Предположение относится к изготовлению чашки.",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "instruction": "Предположение относится только к происхождению или изготовлению предмета, не ко всему сообщению."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.10",
+          "type": "exact-text",
+          "raw": "На столе лежал лист вероятно вырванный из тетради и стояла лампа.",
+          "answer": "На столе лежал лист, вероятно вырванный из тетради, и стояла лампа.",
+          "ex": "Предположение относится к происхождению листа.",
+          "lessonId": "ru.punctuation.introductory-boundaries",
+          "instruction": "Предположение относится только к происхождению или изготовлению предмета, не ко всему сообщению."
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.11",
+          "type": "exact-text",
+          "raw": "По сообщению диспетчера рейс задержан.",
+          "answer": "По сообщению диспетчера, рейс задержан.",
+          "ex": "Источник сообщения.",
+          "lessonId": "ru.punctuation.introductory-editing"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.12",
+          "type": "exact-text",
+          "raw": "К счастью мы всё-таки нашли адрес.",
+          "answer": "К счастью, мы всё-таки нашли адрес.",
+          "ex": "Вводное сочетание; частица не выделяется.",
+          "lessonId": "ru.punctuation.introductory-editing"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.13",
+          "type": "exact-text",
+          "raw": "Простите Павел за задержку.",
+          "answer": "Простите, Павел, за задержку.",
+          "ex": "Обращение внутри.",
+          "lessonId": "ru.punctuation.addresses"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.14",
+          "type": "exact-text",
+          "raw": "Гости заняли места.",
+          "answer": "Гости заняли места.",
+          "ex": "Гости — подлежащее.",
+          "lessonId": "ru.punctuation.addresses"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.15",
+          "type": "exact-text",
+          "raw": "Станция её построили недавно уже принимает поезда.",
+          "answer": "Станция (её построили недавно) уже принимает поезда.",
+          "ex": "Попутный факт.",
+          "marks": "comma-parentheses",
+          "instruction": "Выделите попутное сообщение круглыми скобками; сохраните остальные необходимые знаки.",
+          "lessonId": "ru.punctuation.insertions"
+        },
+        {
+          "id": "ru.punctuation.introductory.module-exam.d.16",
+          "type": "exact-text",
+          "raw": "Акт подлинник хранится в архиве.",
+          "answer": "Акт (подлинник) хранится в архиве.",
+          "ex": "Дополнительное пояснение.",
+          "marks": "comma-parentheses",
+          "instruction": "Выделите попутное сообщение круглыми скобками; сохраните остальные необходимые знаки.",
+          "lessonId": "ru.punctuation.insertions"
+        }
+      ]
+    }
+  ]
+}

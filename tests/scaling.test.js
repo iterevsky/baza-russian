@@ -1,3 +1,4 @@
+import {fetch037} from './historical-content.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
@@ -6,7 +7,7 @@ import {normalize,parseImport,courseReview} from '../src/core/progress.js';
 import {gradeExam,norm,examSkeleton} from '../src/core/assessment.js';
 import {variants} from '../src/core/exams.js';
 import {gradePractice} from '../src/core/practice.js';
-const c=await loadCourse(async url=>({ok:true,json:async()=>JSON.parse(await readFile(url,'utf8'))}));
+const c=await loadCourse(fetch037);
 const fresh=c.lessons.filter(l=>l.moduleNumber==='07.03'),old=c.lessons.filter(l=>l.moduleNumber==='07.08');
 test('approved plan contains all 107 individually numbered modules, including planned modules',()=>{const plan=c.catalog.sections.flatMap(s=>s.plan);assert.equal(plan.length,107);assert.equal(new Set(plan.map(p=>p.number)).size,107);assert.equal(plan.find(p=>p.number==='07.08').title,'Вводные слова, вставные конструкции и обращения');for(const change of [x=>x.sections[0].plan.pop(),x=>x.sections[0].plan[1].number='01.01',x=>x.sections[0].plan[1].title='']){const x=structuredClone(c.catalog);change(x);assert.throws(()=>validateCatalog(x))}const l=structuredClone(fresh[0]);l.moduleNumber='07.99';assert.throws(()=>validateLesson(l,c.catalog,c.tips))});
 test('second module contains five separate draft lessons; all control texts are distinct from existing exercises and exams',()=>{assert.equal(fresh.length,5);assert.equal(old.length,8);assert.equal(c.modules.length,107);const used=new Set(c.lessons.flatMap(l=>l.practice.filter(q=>q.parts).map(q=>norm(q.parts.join(' ')))));for(const l of old)for(const v of variants(l))for(const q of v.questions)used.add(norm(q.raw));for(const m of c.modules)for(const v of m.variants)for(const q of v.questions)used.add(norm(q.raw));for(const l of fresh){assert.equal(l.status,'draft');assert.equal(l.practice.length,6);assert.equal(l.cards.length,3);assert.equal(variants(l).length,2);for(const q of l.practice)assert.ok(gradePractice(q,q.expected));for(const v of variants(l)){assert.ok(gradeExam(v.questions,v.questions.map(q=>q.answer)).every(Boolean));for(const q of v.questions){assert.ok(!used.has(norm(q.raw)),q.raw);assert.equal(examSkeleton(q,q.answer),norm(q.raw));used.add(norm(q.raw))}}}});

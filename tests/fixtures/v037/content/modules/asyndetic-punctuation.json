@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.asyndetic-punctuation",
+  "title": "Знаки в бессоюзных предложениях",
+  "moduleNumber": "07.11",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.asyndetic-colon-dash",
+    "ru.punctuation.asyndetic-enumeration"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в бессоюзных предложениях, §§ 127–130",
+    "url": "https://orthographia.ru/punctuatio.php?sid=135"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.asyndetic-punctuation.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.asyndetic-punctuation.module-exam.a.asyndetic-colon-dash.19",
+          "type": "grammar-answer",
+          "raw": "Он не стал спорить [знак] фактов было недостаточно.",
+          "answer": "двоеточие",
+          "ex": "При пояснении или причине традиционен знак двоеточие; тире также может быть нормативным в иных интонационных условиях.",
+          "instruction": "Назовите традиционный нейтральный знак на месте пропуска: двоеточие или тире. Вторая часть объясняет первую (причина или пояснение); не рассматриваем экспрессивную замену тире.",
+          "lessonId": "ru.punctuation.asyndetic-colon-dash"
+        },
+        {
+          "id": "ru.punctuation.asyndetic-punctuation.module-exam.a.asyndetic-colon-dash.20",
+          "type": "grammar-answer",
+          "raw": "Сохранишь копию [знак] сможешь восстановить файл.",
+          "answer": "тире",
+          "ex": "Условие и его результат в БСП обычно разделяются тире.",
+          "instruction": "Назовите традиционный нейтральный знак на месте пропуска: двоеточие или тире. Первая часть задаёт условие, вторая — результат.",
+          "lessonId": "ru.punctuation.asyndetic-colon-dash"
+        },
+        {
+          "id": "ru.punctuation.asyndetic-punctuation.module-exam.a.asyndetic-enumeration.20",
+          "type": "grammar-answer",
+          "raw": "В лаборатории, у вытяжного шкафа, шёл опыт [знак] в соседнем корпусе, в аудитории, начиналась лекция.",
+          "answer": "точка с запятой",
+          "ex": "Точка с запятой сильнее разделяет самостоятельные блоки, в частности содержащие внутренние запятые.",
+          "instruction": "Назовите знак согласно редакторской задаче: запятая или точка с запятой. Подчеркните сильную границу самостоятельных смысловых блоков.",
+          "lessonId": "ru.punctuation.asyndetic-enumeration"
+        },
+        {
+          "id": "ru.punctuation.asyndetic-punctuation.module-exam.a.asyndetic-enumeration.19",
+          "type": "grammar-answer",
+          "raw": "Роса высыхала [знак] цветы раскрывались.",
+          "answer": "запятая",
+          "ex": "Запятая передаёт тесную перечислительную связь.",
+          "instruction": "Назовите знак согласно редакторской задаче: запятая или точка с запятой. Оформите тесное перечисление без усиленной границы.",
+          "lessonId": "ru.punctuation.asyndetic-enumeration"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.asyndetic-punctuation.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.asyndetic-punctuation.module-exam.b.asyndetic-colon-dash.21",
+          "type": "grammar-answer",
+          "raw": "Я оглянулся [знак] за спиной послышались шаги.",
+          "answer": "двоеточие",
+          "ex": "При пояснении или причине традиционен знак двоеточие; тире также может быть нормативным в иных интонационных условиях.",
+          "instruction": "Назовите традиционный нейтральный знак на месте пропуска: двоеточие или тире. Вторая часть объясняет первую (причина или пояснение); не рассматриваем экспрессивную замену тире.",
+          "lessonId": "ru.punctuation.asyndetic-colon-dash"
+        },
+        {
+          "id": "ru.punctuation.asyndetic-punctuation.module-exam.b.asyndetic-enumeration.22",
+          "type": "grammar-answer",
+          "raw": "В типографии, в новом цехе, печатали каталог [знак] в редакции, за перегородкой, обсуждали следующую книгу.",
+          "answer": "точка с запятой",
+          "ex": "Точка с запятой сильнее разделяет самостоятельные блоки, в частности содержащие внутренние запятые.",
+          "instruction": "Назовите знак согласно редакторской задаче: запятая или точка с запятой. Подчеркните сильную границу самостоятельных смысловых блоков.",
+          "lessonId": "ru.punctuation.asyndetic-enumeration"
+        },
+        {
+          "id": "ru.punctuation.asyndetic-punctuation.module-exam.b.asyndetic-enumeration.21",
+          "type": "grammar-answer",
+          "raw": "Снег падал [знак] дорожки белели.",
+          "answer": "запятая",
+          "ex": "Запятая передаёт тесную перечислительную связь.",
+          "instruction": "Назовите знак согласно редакторской задаче: запятая или точка с запятой. Оформите тесное перечисление без усиленной границы.",
+          "lessonId": "ru.punctuation.asyndetic-enumeration"
+        },
+        {
+          "id": "ru.punctuation.asyndetic-punctuation.module-exam.b.asyndetic-colon-dash.22",
+          "type": "grammar-answer",
+          "raw": "Потеряешь пропуск [знак] придётся обращаться к охране.",
+          "answer": "тире",
+          "ex": "Условие и его результат в БСП обычно разделяются тире.",
+          "instruction": "Назовите традиционный нейтральный знак на месте пропуска: двоеточие или тире. Первая часть задаёт условие, вторая — результат.",
+          "lessonId": "ru.punctuation.asyndetic-colon-dash"
+        }
+      ]
+    }
+  ]
+}

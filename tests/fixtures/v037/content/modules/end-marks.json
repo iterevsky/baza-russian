@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.end-marks",
+  "title": "Знаки конца предложения",
+  "moduleNumber": "07.01",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.end-basic",
+    "ru.punctuation.end-ellipsis"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки конца предложения",
+    "url": "https://www.orthographia.ru/punctuatio.php?sid=101"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.end-marks.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.end-marks.module-exam.a.end-ellipsis.19",
+          "type": "grammar-answer",
+          "raw": "Восклицание с обрывом: Какая досада",
+          "answer": "!..",
+          "ex": "Восклицательный знак и две точки передают восклицание с обрывом.",
+          "instruction": "Запишите только заданный сочетанием интонаций знак (многоточие вводите тремя точками ...).",
+          "lessonId": "ru.punctuation.end-ellipsis"
+        },
+        {
+          "id": "ru.punctuation.end-marks.module-exam.a.end-ellipsis.20",
+          "type": "grammar-answer",
+          "raw": "Завершённый вопрос с сильным возмущением: Зачем вы это сделали",
+          "answer": "?!",
+          "ex": "Вопросительный и восклицательный знаки передают эмоционально усиленный вопрос.",
+          "instruction": "Запишите только заданный сочетанием интонаций знак (многоточие вводите тремя точками ...).",
+          "lessonId": "ru.punctuation.end-ellipsis"
+        },
+        {
+          "id": "ru.punctuation.end-marks.module-exam.a.end-basic.19",
+          "type": "grammar-answer",
+          "raw": "Нейтральное сообщение: Экспедиция вернулась в лагерь",
+          "answer": "точка",
+          "ex": "Спокойное законченное высказывание требует точки.",
+          "instruction": "Назовите знак конца предложения.",
+          "lessonId": "ru.punctuation.end-basic"
+        },
+        {
+          "id": "ru.punctuation.end-marks.module-exam.a.end-basic.20",
+          "type": "grammar-answer",
+          "raw": "Прямой вопрос: Когда начнётся посадка",
+          "answer": "вопросительный знак",
+          "ex": "Прямой вопрос оформляется вопросительным знаком.",
+          "instruction": "Назовите знак конца предложения.",
+          "lessonId": "ru.punctuation.end-basic"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.end-marks.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.end-marks.module-exam.b.end-ellipsis.21",
+          "type": "grammar-answer",
+          "raw": "Незаконченная мысль без вопроса: Я надеялся",
+          "answer": "...",
+          "ex": "Многоточие передаёт незавершённость.",
+          "instruction": "Запишите только заданный сочетанием интонаций знак (многоточие вводите тремя точками ...).",
+          "lessonId": "ru.punctuation.end-ellipsis"
+        },
+        {
+          "id": "ru.punctuation.end-marks.module-exam.b.end-basic.22",
+          "type": "grammar-answer",
+          "raw": "Спокойное распоряжение: Оставьте пропуск на стойке",
+          "answer": "точка",
+          "ex": "Спокойное законченное высказывание требует точки.",
+          "instruction": "Назовите знак конца предложения.",
+          "lessonId": "ru.punctuation.end-basic"
+        },
+        {
+          "id": "ru.punctuation.end-marks.module-exam.b.end-ellipsis.22",
+          "type": "grammar-answer",
+          "raw": "Вопрос с недоговорённостью: А если мост",
+          "answer": "?..",
+          "ex": "Вопросительный знак и две точки передают вопрос с недоговорённостью.",
+          "instruction": "Запишите только заданный сочетанием интонаций знак (многоточие вводите тремя точками ...).",
+          "lessonId": "ru.punctuation.end-ellipsis"
+        },
+        {
+          "id": "ru.punctuation.end-marks.module-exam.b.end-basic.21",
+          "type": "grammar-answer",
+          "raw": "Радостный возглас: Мы победили",
+          "answer": "восклицательный знак",
+          "ex": "Заданная усиленная эмоция или резкий призыв передаётся восклицательным знаком.",
+          "instruction": "Назовите знак конца предложения.",
+          "lessonId": "ru.punctuation.end-basic"
+        }
+      ]
+    }
+  ]
+}

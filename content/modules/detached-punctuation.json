@@ -53,7 +53,8 @@
           "instruction": "Укажите, обособляется ли отмеченная в квадратных скобках конструкция при нейтральном прочтении. Ответьте: «обособляется» или «не обособляется».",
           "lessonId": "ru.punctuation.detached-definitions"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.punctuation.detached-punctuation.module-exam.b",
@@ -94,6 +95,165 @@
           "ex": "Обычное обстоятельство не требует запятой при нейтральной тесной связи с предложением.",
           "instruction": "Укажите, обособляется ли оборот в начале предложения при обычном нейтральном прочтении. Ответьте: «обособляется» или «не обособляется».",
           "lessonId": "ru.punctuation.detached-circumstances"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.punctuation.detached-punctuation.module-exam.r38-a",
+      "version": 1,
+      "questionsPerLesson": 4,
+      "questions": [
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-definitions",
+          "raw": "Вера □ наш новый диспетчер, составила расписание.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Попутное приложение после имени."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-definitions",
+          "raw": "Инженер □ Семёнов проверил насос. (имя идентифицирует инженера)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Имя не пояснительное."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-definitions",
+          "raw": "Она □ опытный переводчик, быстро разобрала письмо.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Приложение при местоимении."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-definitions",
+          "raw": "Мой дед, бывший геолог □ хорошо знал эти места.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Закрывающая запятая приложения."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-circumstances",
+          "raw": "Несмотря на сильный мороз □ группа вышла на маршрут. (уступка)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Уступительный оборот."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-circumstances",
+          "raw": "После утренней тренировки □ спортсмен пообедал.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Обычное обстоятельство времени."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-circumstances",
+          "raw": "Из-за ремонта □ проход закрыт. (нейтрально)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Обычное обстоятельство причины."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-circumstances",
+          "raw": "Мы, несмотря на усталость □ продолжали подъём. (попутная уступка)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Закрывающая запятая."
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.detached-punctuation.module-exam.r38-b",
+      "version": 1,
+      "questionsPerLesson": 4,
+      "questions": [
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-definitions",
+          "raw": "Поэт □ Фёдор Тютчев родился в Овстуге.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Имя идентифицирует поэта."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-definitions",
+          "raw": "Мы, сотрудники архива □ подписали акт.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Приложение при местоимении."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-definitions",
+          "raw": "Роман □ историк по образованию, прочитал лекцию.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Попутная характеристика после имени."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-definitions",
+          "raw": "Лаборант □ Кузнецова принесла образцы. (идентификация)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Единое обозначение лица."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-circumstances",
+          "raw": "В течение недели □ отдел работал дистанционно.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Необособленное обстоятельство времени."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-circumstances",
+          "raw": "Несмотря на запрет □ туристы вошли в пещеру. (уступка)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Уступка перед основой."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-circumstances",
+          "raw": "По окончании концерта □ зрители вышли в фойе.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Обычное обстоятельство времени."
+        },
+        {
+          "id": "ru.punctuation.detached-punctuation.module-exam.r38-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.detached-circumstances",
+          "raw": "Перед началом смены □ техник осмотрел станок.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Обычная связь со сказуемым."
         }
       ]
     }

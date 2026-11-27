@@ -1,3 +1,4 @@
+import {content037} from './historical-content.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
@@ -12,7 +13,7 @@ const fetcher=async u=>({ok:true,json:async()=>JSON.parse(await readFile(u,'utf8
 const c=await loadCourse(fetcher),index=await loadCourseIndex(fetcher);
 const revised=c.modules.filter(m=>m.variants.some(v=>v.id.includes('.module-exam.r37-')));
 const oldLessons=new Map(),oldModules=new Map();
-const oldBytes=async p=>{try{return await readFile(new URL('./fixtures/v036/'+p,import.meta.url))}catch(e){if(e.code!=='ENOENT')throw e;return readFile(new URL('../'+p,import.meta.url))}};
+const oldBytes=async p=>{try{return await readFile(new URL('./fixtures/v036/'+p,import.meta.url))}catch(e){if(e.code!=='ENOENT')throw e;return content037(p)}};
 for(const m of revised){const mr=c.catalog.modules.find(r=>r.id===m.id);oldModules.set(m.id,JSON.parse(await oldBytes('content/'+mr.file)));for(const id of m.lessonIds){const lr=c.catalog.sections.flatMap(s=>s.lessons).find(r=>r.id===id);oldLessons.set(id,JSON.parse(await oldBytes('content/'+lr.file)))}}
 const old={...c,lessons:c.lessons.map(l=>oldLessons.get(l.id)??l),modules:c.modules.map(m=>oldModules.get(m.id)??m)};
 const norm=s=>s.normalize('NFC').trim().replace(/\s+/g,' ').toLocaleLowerCase('ru');

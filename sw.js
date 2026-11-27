@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.37.0";
-const DIGEST="859fb7169e599c89a7493ea4";
+const RELEASE="0.38.0";
+const DIGEST="6e20340740f6cda2995e3d38";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -12,7 +12,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/addresses.json",
-    "cd266c98ca0bc6d96aecfbc65e639a19ff697b4f5cfeca4d6f51b8fd314d1d77"
+    "8b26488adb42fa5bcd366b1bd22327299e5f2ca335c80c70600db192baa91ed4"
   ],
   [
     "content/lessons/adjective-morphology.json",
@@ -24,7 +24,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/ambiguous-introductory.json",
-    "dea64fb90a947ff41efe4504fcf2d382ccd330c9b5737624d3682be700eadc41"
+    "7e5bfc943e58c652794384be3d13b484eb02ea1df1c81bb813072f733096eb4a"
   ],
   [
     "content/lessons/analytical-memo.json",
@@ -32,11 +32,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/asyndetic-colon-dash.json",
-    "e03c765a52e86ca1bad4e4d595c2a57aa44e1b0f1557b7b8da22be2790626f54"
+    "13ee588e08089570209eb634c8f6e1c3ca753a9640e7134555f7fb48c364e1d3"
   ],
   [
     "content/lessons/asyndetic-enumeration.json",
-    "6b9087c204ae931d5f0029b56fca43ee969a4ea8c8f7c52ef573a0538e2fc0ed"
+    "2c8f4f16b24fbca4ea48b24ade60f250f6061cff6cf167b57a0346a3d5feb576"
   ],
   [
     "content/lessons/asyndetic-relations.json",
@@ -68,7 +68,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/clarification.json",
-    "168f62ffdd7287b481495df10c164231f9eceb2e7d4848b17f57b35e588d49fe"
+    "25fb0a14554c10eb95f63fbba612a2f588b5d5e4601e5f7c209d1f3675b68201"
   ],
   [
     "content/lessons/clarity-precision.json",
@@ -76,11 +76,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/comparison-free.json",
-    "bc9044ff315e265863b3c4440f40635427959cca194e685ef679033766f3f741"
+    "6c4678b771abb2df286b64b3cfbfa5d5d1045dec22d9aabf44580ac0ed70389b"
   ],
   [
     "content/lessons/comparison-role.json",
-    "52ae9422f97c03bcfd488671942cb061f4404ad93193202947af1f829bfc9615"
+    "ce16f31ef3c1314697bc67d1c1c6446d3a8f54a46133afa44df0cd980dc12154"
   ],
   [
     "content/lessons/complication-types.json",
@@ -88,11 +88,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/coordinate-common.json",
-    "b9694d3e40a002e77021842a0b5b36efe80c68959f02ceede88ed6516b8c4351"
+    "9820f9ac454d15bd7d72668f9dc8ff8acb06d0e584ddb410e894864bd868b2ea"
   ],
   [
     "content/lessons/coordinate-marks.json",
-    "4fea218a67244991c9b9ea694f41d598ce1f25f30fe092ede2c9f4bf0318e8b8"
+    "070be87490e7a46c2c351303bf0bd9395c3908ce1a6564a8b60793a41d16c111"
   ],
   [
     "content/lessons/coordinate-relations.json",
@@ -104,11 +104,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/dash-incomplete.json",
-    "e1cb7978d69b6ad5b333c97458a61fb7d7a7a621a37eaa6487d66e5510ef14cb"
+    "ddc65df7f547e8f3455c1fe00ffea789fb957cdd3f682771507296c8e5544437"
   ],
   [
     "content/lessons/dash-predicate.json",
-    "3cd13953cf1741f6fd498ebbfbd01eeb90f0c8ea57f955cb1092cbf7aab7a753"
+    "5626e6cfa615ea3a3cf5681a9c8ed572cd19e0ac80af608e6bd1ff879c0f1635"
   ],
   [
     "content/lessons/derivation-chain.json",
@@ -120,11 +120,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/detached-circumstances.json",
-    "fd856492a8378dff21c12d2ef7069a07a3e09ac293b1d60bb309b81cfebcb40b"
+    "cf70ba8aa9ad0d5e9a5e909f76e71f686e6e7abb59381664e5a1aca1382b968a"
   ],
   [
     "content/lessons/detached-definitions.json",
-    "63663028acde697a111bedb53f37825a371815b7612713d25c1bbb6c9fd18cce"
+    "76b98d7a3d7d768dc59bf47dd5199ea5b17d3c1810490bf292f2751864b6f0a7"
   ],
   [
     "content/lessons/dictionary-method.json",
@@ -152,15 +152,15 @@ const ASSETS=[
   ],
   [
     "content/lessons/end-basic.json",
-    "e9b1ad7f9a420d26fa1531f91bc0d729e0acbd6bbe6762712fa4a3234bc17761"
+    "3c046d1bd344c0e5f0004b7cf3a771dd3dbe3e4548d9ab6f95c6cb0326b3fc11"
   ],
   [
     "content/lessons/end-ellipsis.json",
-    "2f7168bf313da88a57eba75f6272a39a178fdeb804686f8c47f56b56bc19831b"
+    "dd0bb1f54fb83e9c0d21abdf7dced597be6e5854ea95b09d237a6ea99f2dac15"
   ],
   [
     "content/lessons/explanation-attachment.json",
-    "e7faf85d74cef46ab3767d6daee3799967517dd27083006c77df3e956d5a4364"
+    "c8cc985aa099bd00883c9d00ef964dbb1dca56e549c68215ed4fd89b4130913b"
   ],
   [
     "content/lessons/figurative-meaning.json",
@@ -176,7 +176,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/gerund-punctuation.json",
-    "04b08d75d9caf2b05fcf75f855983dbf870cb653a03f3d67a0ae6e48cc121ece"
+    "1f20c6b137667c3aaa38c5cfdfaa3a8a558dfed8bd5da5598718838a40b98302"
   ],
   [
     "content/lessons/historical-changes.json",
@@ -188,23 +188,23 @@ const ASSETS=[
   ],
   [
     "content/lessons/homogeneous-basic.json",
-    "baa7bf86bbc91e5dea08de035c73cbebc7c756040eb7501311bc113c59c106fe"
+    "b885253fcf7fe84df3640f12bbe8b49344cb396be4d047e2eea4b3d841c37913"
   ],
   [
     "content/lessons/homogeneous-definitions.json",
-    "e283122e6e2b35aafabe9d7ba3754669f1f3045f744d287d48a1c3a339d4bf52"
+    "75b58ded64967eb6889e556dc7e4a4c74d82992ab4430381188badbbd691eca4"
   ],
   [
     "content/lessons/homogeneous-double.json",
-    "aaad165a44e14fcc9e86ea7e968ed17318c946472a8cac634c2fa39851abb963"
+    "777f051738f0f6444331a97ac0570a98a84d2fab2f1c91e4c1b5eb8c0535a6a5"
   ],
   [
     "content/lessons/homogeneous-generalizing.json",
-    "51dcfb17594294e91601047e0884559a1c4beedb23d22183ce6cd2bc7d82e3c4"
+    "2bcb0145e12fb3ab827a5ebbd9fc103b129404542107c747f29212b744fe73f0"
   ],
   [
     "content/lessons/homogeneous-repeated.json",
-    "39142971c23e2c556a6506bb072e28e1224bfc17906b5547dc1250d6cc0d7d2a"
+    "4b4f05681e912de3cf765c55ce4d76de70435d5b6f02d0f0eb34f4a85e058405"
   ],
   [
     "content/lessons/hyphenation-abbreviations.json",
@@ -232,23 +232,23 @@ const ASSETS=[
   ],
   [
     "content/lessons/insertions.json",
-    "5bb4b54cd6d066c9f435b202f32da3bcd7b1b2782cce6781b7ea0a804e0c2692"
+    "6d7695f60d3b651d10ec279e7456cb90040cc54b6bc05760b76c2b5210a97643"
   ],
   [
     "content/lessons/introductory-boundaries.json",
-    "e6ff1c62d0ca5c8a3bd339ece65b9e9d9cae7e57705533150fc91449f5721b56"
+    "31050dc6b0784ef21db241261810458f2e529ce9e0eb0bb2b3b3e82da5366aff"
   ],
   [
     "content/lessons/introductory-conjunctions.json",
-    "e07d11e45a39822a7748be8f7cfa05b17e520dc6248705a88a8efc6343b6e4f8"
+    "e0ffb4504c843032a82e91087817ebe15627e7b9e13c3744a751a119164a01be"
   ],
   [
     "content/lessons/introductory-editing.json",
-    "1045ab5ef401fcc92ecb5a9c40e10e779af52e8c8a3967ce08e4bee82ebda3ac"
+    "6348ce54bc0af5efa3aeecfb0eee7f727b40c4cb7c3b822181f099260e544788"
   ],
   [
     "content/lessons/introductory-words.json",
-    "cad7b4f78c66bf705cfed2c001f32ec1f44801e26fb414c451a90bcc4ec53098"
+    "f17e93903c92e7761c10e7477e3d9275a7b08fdb75382f40c2d92d8556bb0dc0"
   ],
   [
     "content/lessons/isolated-members.json",
@@ -308,7 +308,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/non-introductory-words.json",
-    "3c29a22244de46a79a146e2a3a1c823386423d04332d508b4392c5ff2317d00c"
+    "e567f3006f6e765e5cd202cabd46b74423466da3ff372864a55908327f5709c5"
   ],
   [
     "content/lessons/nonmembers.json",
@@ -356,7 +356,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/participle-punctuation.json",
-    "ce3b9e8f54cc8ebcf3c8d25ad60bfeb57befca4959daad50626f50bcb7abee04"
+    "15b398cd6c86b87cb1448640320d78f33f1980cbc45aa567f53b90a563c94d63"
   ],
   [
     "content/lessons/parts-of-speech.json",
@@ -496,7 +496,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/subordinate-junction.json",
-    "eb0cf66565d214a0615e27949d70c9863fc235822e3d5311cd903d66b96d4e37"
+    "09bc7c0918f23702b2f560ae438e40974db0c35ed1aa2d289d5ad1c9acab42c8"
   ],
   [
     "content/lessons/subordinate-links.json",
@@ -504,7 +504,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/subordinate-marks.json",
-    "4d3f216c080e281b62222674c5c6cbc33c3adfe78e7002b419bc2e74b3945532"
+    "81cb8e8cf815b7bf272be56e8cc8eb8cf0077bbadf3b88117d98d2fb60cb517b"
   ],
   [
     "content/lessons/subordinate-types.json",
@@ -580,7 +580,7 @@ const ASSETS=[
   ],
   [
     "content/modules/asyndetic-punctuation.json",
-    "026182d77b048a1093552ccd031e49d7285a0b7c9a11813ba19c6efa55fd917c"
+    "7ac2c2b118ef310c413867f17845817b096f752bd13cc59b46db15b88bee9ae1"
   ],
   [
     "content/modules/author-voice.json",
@@ -604,7 +604,7 @@ const ASSETS=[
   ],
   [
     "content/modules/clarifying-punctuation.json",
-    "2c3cf96d1b31dee70a30676ff2d6c6f41af76a1689726660d893a9818499ecc8"
+    "5a90d56cc98680355e90610e13de073357ea57d3994075b35d640221a0f68dcb"
   ],
   [
     "content/modules/clarity-precision.json",
@@ -612,11 +612,11 @@ const ASSETS=[
   ],
   [
     "content/modules/comparison-punctuation.json",
-    "69b86b6186dd55c8303a16aea6241bd6a97c723b08db4a85218a588693175008"
+    "bf12cb277f6a3cab14694afef2a7ad9eb957b1f0335840fd74f34a91a2280d35"
   ],
   [
     "content/modules/coordinate-punctuation.json",
-    "c3781da4460570c7af00a495f343338ba537e4af55022e34bd6aefc93ff0ac23"
+    "02a3832db9d5dc10998886c3e1ec1fbf306779197651c31707e4473b29169f7c"
   ],
   [
     "content/modules/coordinate.json",
@@ -632,7 +632,7 @@ const ASSETS=[
   ],
   [
     "content/modules/detached-punctuation.json",
-    "284e95d531a110df9b0e4de84622bf00a6852b6b39f11820f24d195495f8a4a0"
+    "91ac1efd2e75b4f72a9b62059f254f0fa4604e251f2f74f5ab68fee64c1ad24e"
   ],
   [
     "content/modules/dictionary-method.json",
@@ -660,7 +660,7 @@ const ASSETS=[
   ],
   [
     "content/modules/end-marks.json",
-    "bd874951278319b4db864edca3c7be33b9ada1d34f5285f7e26c6b1c8770497e"
+    "9d6cc0dc3046d77590a73198538cbd1d9c6d4f5b7b1a535b36c37c5b5034b5fa"
   ],
   [
     "content/modules/figurative-meaning.json",
@@ -680,7 +680,7 @@ const ASSETS=[
   ],
   [
     "content/modules/homogeneous.json",
-    "ca3c529e151daaa91a8f0083f3023ddff6117776156f2929b1fde0a6485329ef"
+    "3a2ca2c98fdbf662aa326a5a4a46aaefeb3e30d5bd9300f3e9abda17a2f600a9"
   ],
   [
     "content/modules/hyphenation-abbreviations.json",
@@ -696,7 +696,7 @@ const ASSETS=[
   ],
   [
     "content/modules/introductory.json",
-    "bdfde277bb88daebd268b21452f35895e3e6b87fc55e4db8be160316c9b65639"
+    "e9025bcfe89819c2e78b04e8a89c1f06d6457c88ab1d841e7c156412fad12133"
   ],
   [
     "content/modules/isolation.json",
@@ -796,7 +796,7 @@ const ASSETS=[
   ],
   [
     "content/modules/participial.json",
-    "68a66aa818e783b03893b58f2a4fa21bc7734f1e5a50d78bd443c81cd3cb0d72"
+    "c9143c5280892845b3b02313e12bf7f7029a4f0ddf14e14735ad8d0d5ab2186b"
   ],
   [
     "content/modules/participle-construction-norms.json",
@@ -812,7 +812,7 @@ const ASSETS=[
   ],
   [
     "content/modules/predicate-dash.json",
-    "7d81295a76a16d8236160a82dff89f1053b0c5c89936dc53ecfd7641f8ccc99e"
+    "86498e25e939ae2e849383dd6ff5435854893fd8ec2c4ceee955f17fce5d7307"
   ],
   [
     "content/modules/prefix-spelling.json",
@@ -932,7 +932,7 @@ const ASSETS=[
   ],
   [
     "content/modules/subordinate-punctuation.json",
-    "977d23076f5e95072b03eeb3ea94e8a5981e67aa082f1fc8d6cb0c1fe1c98139"
+    "d6b653643e00b1d91aa9d53854ca9540be8da573b1dd6059278d22f8798d2f7d"
   ],
   [
     "content/modules/subordinate.json",
@@ -996,7 +996,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "7b7cbe860b864764c67d59c56d2bb86d3e78fec6168a45ddb1a2cb0376767440"
+    "872af07bafb8467500ff1ad5effd4c611f26040acefcaecd68d4b8569dddec09"
   ],
   [
     "content/tips.json",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "885820a4137dc50391618700490cb50aca8e22751ecdf95ae92a8c3f43e4203e"
+    "4ac974f8b4ba372e6a43cb36064c35891eeab077137ade9c58065fd6929d722e"
   ],
   [
     "manifest.webmanifest",
@@ -1032,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "82d54cc7ee8da136e1220af3fc6fb99f022eb3f2acd55b1607f23f1a078e302d"
+    "27913bc7988865fa6a2db21b1252f6e4221477ff512f4ae63f532fb4fa851ac8"
   ],
   [
     "src/core/assessment.js",

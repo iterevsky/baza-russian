@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.participial",
+  "title": "Причастные и деепричастные обороты",
+  "moduleNumber": "07.04",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.participle-punctuation",
+    "ru.punctuation.gerund-punctuation"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина. Обособленные определения",
+    "url": "https://www.orthographia.ru/punctuatio.php?sid=117"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.participial.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.participial.module-exam.a.participle-punctuation.19",
+          "type": "grammar-answer",
+          "raw": "Пальто купленное на распродаже подошло.",
+          "answer": "обособляется",
+          "ex": "Распространённое определение следует за определяемым существительным, поэтому обособляется.",
+          "instruction": "В нейтральном определительном значении укажите, обособляется ли причастный оборот.",
+          "lessonId": "ru.punctuation.participle-punctuation"
+        },
+        {
+          "id": "ru.punctuation.participial.module-exam.a.participle-punctuation.20",
+          "type": "grammar-answer",
+          "raw": "Купленная на ярмарке чашка разбилась.",
+          "answer": "не обособляется",
+          "ex": "Оборот стоит перед существительным и имеет обычное определительное значение.",
+          "instruction": "В нейтральном определительном значении укажите, обособляется ли причастный оборот.",
+          "lessonId": "ru.punctuation.participle-punctuation"
+        },
+        {
+          "id": "ru.punctuation.participial.module-exam.a.gerund-punctuation.19",
+          "type": "grammar-answer",
+          "raw": "Сняв перчатки лаборант записал результат.",
+          "answer": "обособляется",
+          "ex": "Свободный оборот обозначает дополнительное действие и обособляется.",
+          "instruction": "Укажите, обособляется ли выделяемый по смыслу деепричастный оборот; устойчивые выражения употреблены переносно.",
+          "lessonId": "ru.punctuation.gerund-punctuation"
+        },
+        {
+          "id": "ru.punctuation.participial.module-exam.a.gerund-punctuation.20",
+          "type": "grammar-answer",
+          "raw": "Пекари трудились не покладая рук всю ночь.",
+          "answer": "не обособляется",
+          "ex": "Устойчивое сочетание употреблено как единое обозначение образа действия, без обособления.",
+          "instruction": "Укажите, обособляется ли выделяемый по смыслу деепричастный оборот; устойчивые выражения употреблены переносно.",
+          "lessonId": "ru.punctuation.gerund-punctuation"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.participial.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.participial.module-exam.b.participle-punctuation.21",
+          "type": "grammar-answer",
+          "raw": "Схема составленная инженером помогла бригаде.",
+          "answer": "обособляется",
+          "ex": "Распространённое определение следует за определяемым существительным, поэтому обособляется.",
+          "instruction": "В нейтральном определительном значении укажите, обособляется ли причастный оборот.",
+          "lessonId": "ru.punctuation.participle-punctuation"
+        },
+        {
+          "id": "ru.punctuation.participial.module-exam.b.participle-punctuation.22",
+          "type": "grammar-answer",
+          "raw": "Составленный комиссией список утвердили.",
+          "answer": "не обособляется",
+          "ex": "Оборот стоит перед существительным и имеет обычное определительное значение.",
+          "instruction": "В нейтральном определительном значении укажите, обособляется ли причастный оборот.",
+          "lessonId": "ru.punctuation.participle-punctuation"
+        },
+        {
+          "id": "ru.punctuation.participial.module-exam.b.gerund-punctuation.22",
+          "type": "grammar-answer",
+          "raw": "Временная бригада чинила ограду спустя рукава.",
+          "answer": "не обособляется",
+          "ex": "Устойчивое сочетание употреблено как единое обозначение образа действия, без обособления.",
+          "instruction": "Укажите, обособляется ли выделяемый по смыслу деепричастный оборот; устойчивые выражения употреблены переносно.",
+          "lessonId": "ru.punctuation.gerund-punctuation"
+        },
+        {
+          "id": "ru.punctuation.participial.module-exam.b.gerund-punctuation.21",
+          "type": "grammar-answer",
+          "raw": "Погасив лампу сторож запер кабинет.",
+          "answer": "обособляется",
+          "ex": "Свободный оборот обозначает дополнительное действие и обособляется.",
+          "instruction": "Укажите, обособляется ли выделяемый по смыслу деепричастный оборот; устойчивые выражения употреблены переносно.",
+          "lessonId": "ru.punctuation.gerund-punctuation"
+        }
+      ]
+    }
+  ]
+}

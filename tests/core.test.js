@@ -1,3 +1,4 @@
+import {fetch037} from './historical-content.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {norm,checkPositions,gradeExam,examSkeleton} from '../src/core/assessment.js';
@@ -5,7 +6,7 @@ import {load,persist,exportProgress,defaults} from '../src/core/storage.js';
 import {buildPrompt} from '../src/core/prompt.js';
 import {readFile} from 'node:fs/promises';
 import {validateCatalog,validateLesson,validateTips,loadCourse} from '../src/core/content.js';
-const course=await loadCourse(async url=>({ok:true,json:async()=>JSON.parse(await readFile(url,'utf8'))}));
+const course=await loadCourse(fetch037);
 const material=course.lessons[0], {tips}=course, qs=material.practice,examQs=material.exam.questions,cards=material.cards,groups=course.catalog.sections.map(s=>[s.title,s.moduleCount,s.description]);
 test('catalog: 12 sections, 107 modules',()=>{assert.equal(groups.length,12);assert.equal(groups.reduce((a,b)=>a+b[1],0),107)});
 test('punctuation: all exact positions, no extra commas',()=>{for(const q of qs){assert.equal(checkPositions(q.expected,q.expected),true);assert.equal(checkPositions([...q.expected,99],q.expected),false)}assert.equal(checkPositions([1,0],[0,1]),true);assert.equal(checkPositions([0,0],[0,1]),false)});

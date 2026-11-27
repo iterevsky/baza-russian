@@ -1,3 +1,4 @@
+import {fetch037} from './historical-content.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
@@ -8,7 +9,7 @@ import {variants} from '../src/core/exams.js';
 import {normalize,parseImport} from '../src/core/progress.js';
 import {beginModule,finishModule} from '../src/core/modules.js';
 const fetcher=async u=>({ok:true,json:async()=>JSON.parse(await readFile(u,'utf8'))});
-const c=await loadCourse(fetcher),ids=new Set(c.catalog.lessonOrder.slice(0,43)),prior={...c,lessons:c.lessons.filter(l=>ids.has(l.id)),modules:c.modules.filter(m=>m.lessonIds.every(id=>ids.has(id)))},added=c.lessons.slice(43,49),mods=c.modules.filter(m=>m.lessonIds.every(id=>added.some(l=>l.id===id)));
+const c=await loadCourse(fetch037),ids=new Set(c.catalog.lessonOrder.slice(0,43)),prior={...c,lessons:c.lessons.filter(l=>ids.has(l.id)),modules:c.modules.filter(m=>m.lessonIds.every(id=>ids.has(id)))},added=c.lessons.slice(43,49),mods=c.modules.filter(m=>m.lessonIds.every(id=>added.some(l=>l.id===id)));
 const canon=s=>norm(s.replace(/[\[\],]/g,''));
 test('v0.25 adds six marked-construction lessons with distinct control prompts',()=>{
  assert.equal(added.length,6);assert.deepEqual([...new Set(added.map(l=>l.moduleNumber))],['07.05','07.06','07.07']);assert.equal(mods.length,3);

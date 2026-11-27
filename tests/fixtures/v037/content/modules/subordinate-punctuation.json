@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.subordinate-punctuation",
+  "title": "Знаки в сложноподчинённых предложениях, стык союзов",
+  "moduleNumber": "07.10",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.subordinate-marks",
+    "ru.punctuation.subordinate-junction"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в сложноподчинённых предложениях, стык союзов, §§ 115–126",
+    "url": "https://orthographia.ru/punctuatio.php?sid=134"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.subordinate-punctuation.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.a.subordinate-junction.20",
+          "type": "exact-text",
+          "raw": "Капитан предупредил что если видимость ухудшится то курс изменят.",
+          "answer": "Капитан предупредил, что если видимость ухудшится, то курс изменят.",
+          "ex": "Соотносительное то связывает условие с последующей частью, на стыке что если запятой нет. Остальные запятые отмечают границы придаточных.",
+          "lessonId": "ru.punctuation.subordinate-junction"
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.a.subordinate-marks.20",
+          "type": "exact-text",
+          "raw": "Музей который открыли весной принимает посетителей.",
+          "answer": "Музей, который открыли весной, принимает посетителей.",
+          "ex": "Запятые отмечают границы зависимой части. Если однородные придаточные связаны одиночным и, внутри этого ряда запятая не нужна.",
+          "lessonId": "ru.punctuation.subordinate-marks"
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.a.subordinate-marks.19",
+          "type": "exact-text",
+          "raw": "Она вспомнила где оставила ключи.",
+          "answer": "Она вспомнила, где оставила ключи.",
+          "ex": "Запятые отмечают границы зависимой части. Если однородные придаточные связаны одиночным и, внутри этого ряда запятая не нужна.",
+          "lessonId": "ru.punctuation.subordinate-marks"
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.a.subordinate-junction.19",
+          "type": "exact-text",
+          "raw": "Я пообещал что если вернусь до обеда позвоню.",
+          "answer": "Я пообещал, что, если вернусь до обеда, позвоню.",
+          "ex": "Условную часть можно убрать без перестройки, поэтому что и если разделены запятой. Остальные запятые отмечают границы придаточных.",
+          "lessonId": "ru.punctuation.subordinate-junction"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.subordinate-punctuation.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.b.subordinate-junction.21",
+          "type": "exact-text",
+          "raw": "Она знала что если повторит материал справится с проверкой.",
+          "answer": "Она знала, что, если повторит материал, справится с проверкой.",
+          "ex": "Условную часть можно убрать без перестройки, поэтому что и если разделены запятой. Остальные запятые отмечают границы придаточных.",
+          "lessonId": "ru.punctuation.subordinate-junction"
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.b.subordinate-marks.21",
+          "type": "exact-text",
+          "raw": "Инженер уточнил сколько длится цикл и когда меняют фильтр.",
+          "answer": "Инженер уточнил, сколько длится цикл и когда меняют фильтр.",
+          "ex": "Запятые отмечают границы зависимой части. Если однородные придаточные связаны одиночным и, внутри этого ряда запятая не нужна.",
+          "lessonId": "ru.punctuation.subordinate-marks"
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.b.subordinate-junction.22",
+          "type": "exact-text",
+          "raw": "Организатор объявил что если зал освободится то репетицию начнут сразу.",
+          "answer": "Организатор объявил, что если зал освободится, то репетицию начнут сразу.",
+          "ex": "Соотносительное то связывает условие с последующей частью, на стыке что если запятой нет. Остальные запятые отмечают границы придаточных.",
+          "lessonId": "ru.punctuation.subordinate-junction"
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.b.subordinate-marks.22",
+          "type": "exact-text",
+          "raw": "Поскольку начался ремонт проход временно закрыли.",
+          "answer": "Поскольку начался ремонт, проход временно закрыли.",
+          "ex": "Запятые отмечают границы зависимой части. Если однородные придаточные связаны одиночным и, внутри этого ряда запятая не нужна.",
+          "lessonId": "ru.punctuation.subordinate-marks"
+        }
+      ]
+    }
+  ]
+}

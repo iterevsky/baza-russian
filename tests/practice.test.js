@@ -1,8 +1,9 @@
+import {fetch037} from './historical-content.mjs';
 import test from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';
 import {loadCourse,validateLesson} from '../src/core/content.js';
 import {advanced,validAdvanced,chooseCategory,ready,gradePractice,validAttempt,describeAnswer,answerKey,advancedView} from '../src/core/practice.js';
 import {normalize,parseImport} from '../src/core/progress.js';import {buildPrompt} from '../src/core/prompt.js';
-const course=await loadCourse(async url=>({ok:true,json:async()=>JSON.parse(await readFile(url,'utf8'))}));
+const course=await loadCourse(fetch037);
 const l=course.lessons.find(l=>l.practice.some(q=>q.type==='classification')),c=l.practice.find(q=>q.type==='classification');const e=course.lessons.find(l=>l.practice.some(q=>q.type==='text-edit')),q=e.practice.find(q=>q.type==='text-edit');
 test('classification: one answer per row, replacement, incomplete and wrong responses',()=>{let s=[];assert.equal(ready(c,s),false);s=chooseCategory(c,s,1);s=chooseCategory(c,s,0);assert.deepEqual(s,[0]);assert.equal(ready(c,s),false);assert.deepEqual(chooseCategory(c,s,99),s);assert.ok(gradePractice(c,c.expected));assert.equal(gradePractice(c,[0,1,2]),false);assert.equal(gradePractice(c,[(c.expected[0]+1)%c.categories.length,...c.expected.slice(1)]),false);assert.match(describeAnswer(c,c.expected),/→/)});
 test('text edit: correct punctuation, whitespace and exact content; blank rejected',()=>{assert.ok(gradePractice(q,[],q.accepted[0]));assert.ok(gradePractice(q,[],'  '+q.accepted[0].replaceAll(', ', ' ,  ')+'  '));assert.equal(gradePractice(q,[],q.raw),false);assert.equal(gradePractice(q,[],q.accepted[0]+'!'),false);assert.equal(ready(q,[],'  '),false);assert.equal(answerKey(q),q.accepted[0]);assert.equal(validAttempt(q,{selected:[],correct:true,answerText:q.raw}),false)});

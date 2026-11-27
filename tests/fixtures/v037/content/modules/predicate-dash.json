@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.predicate-dash",
+  "title": "Тире между подлежащим и сказуемым, неполные предложения",
+  "moduleNumber": "07.02",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.dash-predicate",
+    "ru.punctuation.dash-incomplete"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина. Тире между членами предложения",
+    "url": "https://orthographia.ru/punctuatio.php?sid=105"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.predicate-dash.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.predicate-dash.module-exam.a.dash-predicate.20",
+          "type": "grammar-answer",
+          "raw": "Атлас [ ] был собранием карт.",
+          "answer": "без знака",
+          "ex": "Выраженная глагольная связка или глагольное сказуемое не требуют тире.",
+          "instruction": "В нейтральной конструкции укажите знак в позиции [ ].",
+          "lessonId": "ru.punctuation.dash-predicate"
+        },
+        {
+          "id": "ru.punctuation.predicate-dash.module-exam.a.dash-incomplete.20",
+          "type": "grammar-answer",
+          "raw": "Нейтрально: Оля рисует портрет, Павел [ ] рисует пейзаж.",
+          "answer": "без знака",
+          "ex": "Сказуемое выражено; в указанной позиции нет основания для нейтрального тире.",
+          "instruction": "Вставьте название знака в [ ]: тире или без знака.",
+          "lessonId": "ru.punctuation.dash-incomplete"
+        },
+        {
+          "id": "ru.punctuation.predicate-dash.module-exam.a.dash-predicate.19",
+          "type": "grammar-answer",
+          "raw": "Атлас [ ] собрание карт.",
+          "answer": "тире",
+          "ex": "Базовая конструкция с нулевой связкой или инфинитивами требует тире.",
+          "instruction": "В нейтральной конструкции укажите знак в позиции [ ].",
+          "lessonId": "ru.punctuation.dash-predicate"
+        },
+        {
+          "id": "ru.punctuation.predicate-dash.module-exam.a.dash-incomplete.19",
+          "type": "grammar-answer",
+          "raw": "С паузой: Оля рисует портрет, Павел [ ] пейзаж.",
+          "answer": "тире",
+          "ex": "Сказуемое пропущено, заданная пауза отмечается тире.",
+          "instruction": "Вставьте название знака в [ ]: тире или без знака.",
+          "lessonId": "ru.punctuation.dash-incomplete"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.predicate-dash.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.predicate-dash.module-exam.b.dash-predicate.22",
+          "type": "grammar-answer",
+          "raw": "Связь [ ] оказалась устойчивой.",
+          "answer": "без знака",
+          "ex": "Выраженная глагольная связка или глагольное сказуемое не требуют тире.",
+          "instruction": "В нейтральной конструкции укажите знак в позиции [ ].",
+          "lessonId": "ru.punctuation.dash-predicate"
+        },
+        {
+          "id": "ru.punctuation.predicate-dash.module-exam.b.dash-incomplete.21",
+          "type": "grammar-answer",
+          "raw": "С паузой: В первом вагоне ехали туристы, во втором [ ] спортсмены.",
+          "answer": "тире",
+          "ex": "Сказуемое пропущено, заданная пауза отмечается тире.",
+          "instruction": "Вставьте название знака в [ ]: тире или без знака.",
+          "lessonId": "ru.punctuation.dash-incomplete"
+        },
+        {
+          "id": "ru.punctuation.predicate-dash.module-exam.b.dash-incomplete.22",
+          "type": "grammar-answer",
+          "raw": "Нейтрально: В первом вагоне ехали туристы, во втором [ ] ехали спортсмены.",
+          "answer": "без знака",
+          "ex": "Сказуемое выражено; в указанной позиции нет основания для нейтрального тире.",
+          "instruction": "Вставьте название знака в [ ]: тире или без знака.",
+          "lessonId": "ru.punctuation.dash-incomplete"
+        },
+        {
+          "id": "ru.punctuation.predicate-dash.module-exam.b.dash-predicate.21",
+          "type": "grammar-answer",
+          "raw": "Основная цель [ ] восстановить связь.",
+          "answer": "тире",
+          "ex": "Базовая конструкция с нулевой связкой или инфинитивами требует тире.",
+          "instruction": "В нейтральной конструкции укажите знак в позиции [ ].",
+          "lessonId": "ru.punctuation.dash-predicate"
+        }
+      ]
+    }
+  ]
+}

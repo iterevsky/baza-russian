@@ -1,10 +1,11 @@
+import {fetch037} from './historical-content.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {loadCourse} from '../src/core/content.js';
 import {lesson} from '../src/core/lesson-view.js';
-const c=await loadCourse(async url=>({ok:true,json:async()=>JSON.parse(await readFile(url,'utf8'))}));
+const c=await loadCourse(fetch037);
 const pick=(q,keys)=>Object.fromEntries(keys.filter(k=>k in q).map(k=>[k,q[k]]));
 test('v0.15 editorial review preserves v0.14 grading contract, cards, IDs and versions',()=>{const lessons=Object.fromEntries(c.lessons.filter(l=>c.modules[0].variants[0].lessonIds.includes(l.id)).sort((a,b)=>a.id.localeCompare(b.id,'en')).map(l=>[l.id,{version:l.version,practice:l.practice.map(q=>pick(q,['id','type','parts','options','rows','categories','raw','expected','accepted'])),cards:l.cards,exams:[l.exam,...l.examVariants].map(v=>({id:v.id,version:v.version,questions:v.questions.map(q=>pick(q,['id','type','raw','answer']))}))}]));const module=c.modules[0].variants.slice(0,2).map(v=>({id:v.id,version:v.version,questions:v.questions.map(q=>pick(q,['id','lessonId','raw','answer','type']))}));assert.equal(createHash('sha256').update(JSON.stringify({lessons,module})).digest('hex'),'1c612d4b76dcb10c8f175271e38e4695aa9cb5786cda8d0cf78da43ad237be0a')});
 test('reviewed content is labeled internal review, not independent certification',()=>{for(const l of c.lessons.filter(l=>c.modules[0].variants[0].lessonIds.includes(l.id))){assert.equal(l.status,'reviewed');assert.match(lesson({material:l,tipCard:()=>'',tips:c.tips,esc:String,deep:false}),/Независимая экспертная приёмка не проводилась/);assert.match(l.source.url,/orthographia/)}assert.equal(c.modules[0].status,'draft')});

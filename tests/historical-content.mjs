@@ -1,7 +1,9 @@
-// Historical release checks must verify original bytes, not require an immutable live course.
-// v0.36 tests separately verify that all released graded items survive migration unchanged.
 import {readFile} from 'node:fs/promises';
-export async function historicalContent(path){
+async function snapshot(path,versions){
  if(!/^content\/(lessons|modules)\/[a-z0-9-]+\.json$/.test(path))throw Error('Unexpected historical path '+path);
- try{return await readFile(new URL('./fixtures/v035/'+path,import.meta.url))}catch(e){if(e.code!=='ENOENT')throw e;try{return await readFile(new URL('./fixtures/v036/'+path,import.meta.url))}catch(e){if(e.code!=='ENOENT')throw e;return readFile(new URL('../'+path,import.meta.url))}}
+ for(const v of versions){try{return await readFile(new URL('./fixtures/'+v+'/'+path,import.meta.url))}catch(e){if(e.code!=='ENOENT')throw e;}}
+ return readFile(new URL('../'+path,import.meta.url));
 }
+export const historicalContent=path=>snapshot(path,['v035','v036','v037']);
+export const content037=path=>snapshot(path,['v037']);
+export async function fetch037(url){const p=String(url).split('/content/').at(-1);return {ok:true,json:async()=>JSON.parse(/^(lessons|modules)\//.test(p)?await content037('content/'+p):await readFile(url,'utf8'))}}

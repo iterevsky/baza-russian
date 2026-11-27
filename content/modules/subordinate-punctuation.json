@@ -49,7 +49,8 @@
           "ex": "Условную часть можно убрать без перестройки, поэтому что и если разделены запятой. Остальные запятые отмечают границы придаточных.",
           "lessonId": "ru.punctuation.subordinate-junction"
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.punctuation.subordinate-punctuation.module-exam.b",
@@ -86,6 +87,165 @@
           "answer": "Поскольку начался ремонт, проход временно закрыли.",
           "ex": "Запятые отмечают границы зависимой части. Если однородные придаточные связаны одиночным и, внутри этого ряда запятая не нужна.",
           "lessonId": "ru.punctuation.subordinate-marks"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-a",
+      "version": 1,
+      "questionsPerLesson": 4,
+      "questions": [
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-marks",
+          "raw": "Мы узнали □ что архив переехал.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Граница главной и придаточной частей."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-marks",
+          "raw": "Книга, которую вы заказали □ поступила в магазин.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Закрывается придаточная внутри главной."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-marks",
+          "raw": "Я заметил, что свет погас □ и что дверь открылась.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Однородные придаточные."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-marks",
+          "raw": "Когда автобус остановился □ пассажиры встали.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Придаточное перед главным."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-junction",
+          "raw": "Я знал, что □ если погода испортится, поездка сорвётся.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Вложенное условие можно убрать."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-junction",
+          "raw": "Я знал, что □ если погода испортится, то поездка сорвётся.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Соотносительное то."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-junction",
+          "raw": "Он сказал, что □ когда освободится, позвонит нам.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Вложенное придаточное можно убрать."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-junction",
+          "raw": "Мы решили, что □ когда стемнеет, то остановимся на ночлег.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Стык без запятой при то."
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-b",
+      "version": 1,
+      "questionsPerLesson": 4,
+      "questions": [
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-marks",
+          "raw": "Она спросила, где лежит ключ □ и кто его принёс.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Однородные изъяснительные придаточные."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-marks",
+          "raw": "Я вернулся туда □ где оставил рюкзак.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Начало придаточного места."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-marks",
+          "raw": "Дом, где жил художник □ сохранился.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Придаточная внутри главной."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-marks",
+          "raw": "Мы не знали, когда начнётся лекция □ и когда откроют зал.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Два однородных придаточных с одиночным и."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-junction",
+          "raw": "Она обещала, что □ если найдёт письмо, передаст его.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Вложенная часть изымается."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-junction",
+          "raw": "Сторож предупредил, что □ если ворота закроют, то вход будет невозможен.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Условная конструкция с то."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-junction",
+          "raw": "Мы поняли, что □ хотя задача трудна, решение возможно.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Уступительная часть изымается."
+        },
+        {
+          "id": "ru.punctuation.subordinate-punctuation.module-exam.r38-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.subordinate-junction",
+          "raw": "Я слышал, что □ когда закончат ремонт, то откроют проход.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Стык при соотносительном то."
         }
       ]
     }

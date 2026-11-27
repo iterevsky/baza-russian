@@ -51,7 +51,8 @@
           "lessonId": "ru.punctuation.coordinate-common",
           "instruction": "Начальное обстоятельство задаёт общую обстановку для обеих частей, если у второй части нет собственного обстоятельства места."
         }
-      ]
+      ],
+      "archived": true
     },
     {
       "id": "ru.punctuation.coordinate-punctuation.module-exam.b",
@@ -90,6 +91,165 @@
           "answer": "Звонок раздался, но никто не ответил.",
           "ex": "Проверьте число основ: союз связывает самостоятельные части, поэтому в нейтральном оформлении нужна запятая.",
           "lessonId": "ru.punctuation.coordinate-marks"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-a",
+      "version": 1,
+      "questionsPerLesson": 4,
+      "questions": [
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-a.01",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-marks",
+          "raw": "Лифт остановился □ и двери раскрылись.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Две основы."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-a.02",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-marks",
+          "raw": "Кассир пересчитал деньги □ и закрыл ящик.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Однородные сказуемые при одном подлежащем."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-a.03",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-marks",
+          "raw": "Ветер стих □ но волны не успокоились.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Две основы с противительным союзом."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-a.04",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-marks",
+          "raw": "Солнце скрылось □ и над рекой поднялся туман.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Две самостоятельные части без общего компонента."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-a.05",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "raw": "К вечеру ветер ослаб □ и небо прояснилось. (к вечеру относится к обеим частям)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Общее обстоятельство."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-a.06",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "raw": "Когда взошло солнце, лёд заискрился □ и птицы запели. (придаточное относится к обеим частям)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Общая придаточная часть."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-a.07",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "raw": "Утром дождь прекратился □ но тропинки оставались мокрыми.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Противительный союз."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-a.08",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "raw": "Кто открыл окно □ и почему на полу вода?",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Единая вопросительная интонация."
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-b",
+      "version": 1,
+      "questionsPerLesson": 4,
+      "questions": [
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-b.01",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-marks",
+          "raw": "Плотник вымерил доску □ и распилил её.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Один деятель и два сказуемых."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-b.02",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-marks",
+          "raw": "Туман рассеялся □ или глаза привыкли к темноте.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Две основы, разделительный союз."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-b.03",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-marks",
+          "raw": "Лампа мигнула □ и погасла.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Однородные сказуемые."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-b.04",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-marks",
+          "raw": "Печь остыла □ а угли ещё тлели.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Две части, противительный союз."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-b.05",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "raw": "В саду цвели яблони □ и пели птицы. (общее место)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Общий член двух частей."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-b.06",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "raw": "В понедельник курьер привёз бумаги □ и уже во вторник комиссия их рассмотрела.",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": ",",
+          "ex": "Разное время частей."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-b.07",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "raw": "Пусть дождь закончится □ и выглянет солнце! (общее побуждение)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Единая побудительная интонация."
+        },
+        {
+          "id": "ru.punctuation.coordinate-punctuation.module-exam.r38-b.08",
+          "type": "written-answer",
+          "lessonId": "ru.punctuation.coordinate-common",
+          "raw": "На рассвете зашумел лес □ и потянулись облака. (общее время)",
+          "instruction": "Введите только знак на месте □ (для тире используйте —, для многоточия три точки ...). Если знак не требуется, введите нет. Учитывайте заданное в скобках прочтение; остальной текст не переписывайте.",
+          "answer": "нет",
+          "ex": "Общий член."
         }
       ]
     }

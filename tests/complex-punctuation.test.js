@@ -1,3 +1,4 @@
+import {fetch037} from './historical-content.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
@@ -8,7 +9,7 @@ import {variants} from '../src/core/exams.js';
 import {normalize,parseImport} from '../src/core/progress.js';
 import {beginModule,finishModule} from '../src/core/modules.js';
 const fetcher=async u=>({ok:true,json:async()=>JSON.parse(await readFile(u,'utf8'))});
-const c=await loadCourse(fetcher),oldIds=new Set(c.catalog.lessonOrder.slice(0,49)),prior={...c,lessons:c.lessons.filter(l=>oldIds.has(l.id)),modules:c.modules.filter(m=>m.lessonIds.every(id=>oldIds.has(id)))},added=c.lessons.slice(49,55),mods=c.modules.filter(m=>m.lessonIds.every(id=>added.some(l=>l.id===id)));
+const c=await loadCourse(fetch037),oldIds=new Set(c.catalog.lessonOrder.slice(0,49)),prior={...c,lessons:c.lessons.filter(l=>oldIds.has(l.id)),modules:c.modules.filter(m=>m.lessonIds.every(id=>oldIds.has(id)))},added=c.lessons.slice(49,55),mods=c.modules.filter(m=>m.lessonIds.every(id=>added.some(l=>l.id===id)));
 const canon=s=>norm(s.replace(/\[знак\]/g,'').replace(/[\[\],:;—]/g,'')).toLowerCase();
 const rawPractice=q=>q.parts?q.parts.join(' '):q.prompt?.split('. Назовите знак')[0]?.split('. Назовите традиционный')[0];
 test('v0.26 six new lessons and three independent banks; punctuation keys and prompt uniqueness',()=>{

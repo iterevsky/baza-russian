@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "ru.punctuation.clarifying-punctuation",
+  "title": "Уточняющие, пояснительные и присоединительные конструкции",
+  "moduleNumber": "07.06",
+  "status": "draft",
+  "lessonIds": [
+    "ru.punctuation.clarification",
+    "ru.punctuation.explanation-attachment"
+  ],
+  "source": {
+    "title": "Полный академический справочник под ред. В. В. Лопатина. Уточняющие члены",
+    "url": "https://orthographia.ru/punctuatio.php?sid=123"
+  },
+  "variants": [
+    {
+      "id": "ru.punctuation.clarifying-punctuation.module-exam.a",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.clarifying-punctuation.module-exam.a.explanation-attachment.19",
+          "type": "grammar-answer",
+          "raw": "Обсудили все заявки [в том числе поступившие вчера].",
+          "answer": "запятая",
+          "ex": "Конструкция поясняет или добавляет сведения к основной части.",
+          "instruction": "Укажите, нужна ли запятая перед выделенным союзом или присоединительным сочетанием. Ответьте: «запятая» или «без знака».",
+          "lessonId": "ru.punctuation.explanation-attachment"
+        },
+        {
+          "id": "ru.punctuation.clarifying-punctuation.module-exam.a.clarification.19",
+          "type": "grammar-answer",
+          "raw": "Там [на противоположном берегу] горел фонарь.",
+          "answer": "обособляется",
+          "ex": "Второе обстоятельство конкретизирует первое и выделяется запятыми.",
+          "instruction": "В случаях «там», «здесь», «тогда» второе обстоятельство конкретизирует первое. Укажите, обособляется ли второе обстоятельство. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.clarification"
+        },
+        {
+          "id": "ru.punctuation.clarifying-punctuation.module-exam.a.clarification.20",
+          "type": "grammar-answer",
+          "raw": "Вечером [на противоположном берегу] горел фонарь.",
+          "answer": "не обособляется",
+          "ex": "Обстоятельства отвечают на разные вопросы, поэтому запятые между ними и после них не нужны.",
+          "instruction": "В случаях «там», «здесь», «тогда» второе обстоятельство конкретизирует первое. Укажите, обособляется ли второе обстоятельство. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.clarification"
+        },
+        {
+          "id": "ru.punctuation.clarifying-punctuation.module-exam.a.explanation-attachment.20",
+          "type": "grammar-answer",
+          "raw": "Выберите утро [или вечер].",
+          "answer": "без знака",
+          "ex": "Одиночный разделительный или соединяет однородные альтернативы.",
+          "instruction": "Укажите, нужна ли запятая перед выделенным союзом или присоединительным сочетанием. Ответьте: «запятая» или «без знака».",
+          "lessonId": "ru.punctuation.explanation-attachment"
+        }
+      ]
+    },
+    {
+      "id": "ru.punctuation.clarifying-punctuation.module-exam.b",
+      "version": 1,
+      "questions": [
+        {
+          "id": "ru.punctuation.clarifying-punctuation.module-exam.b.explanation-attachment.21",
+          "type": "grammar-answer",
+          "raw": "Изучили флору [то есть растительный мир местности].",
+          "answer": "запятая",
+          "ex": "Конструкция поясняет или добавляет сведения к основной части.",
+          "instruction": "Укажите, нужна ли запятая перед выделенным союзом или присоединительным сочетанием. Ответьте: «запятая» или «без знака».",
+          "lessonId": "ru.punctuation.explanation-attachment"
+        },
+        {
+          "id": "ru.punctuation.clarifying-punctuation.module-exam.b.clarification.22",
+          "type": "grammar-answer",
+          "raw": "Осенью [над озером] летели птицы.",
+          "answer": "не обособляется",
+          "ex": "Обстоятельства отвечают на разные вопросы, поэтому запятые между ними и после них не нужны.",
+          "instruction": "В случаях «там», «здесь», «тогда» второе обстоятельство конкретизирует первое. Укажите, обособляется ли второе обстоятельство. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.clarification"
+        },
+        {
+          "id": "ru.punctuation.clarifying-punctuation.module-exam.b.explanation-attachment.22",
+          "type": "grammar-answer",
+          "raw": "Приготовьте суп [или салат].",
+          "answer": "без знака",
+          "ex": "Одиночный разделительный или соединяет однородные альтернативы.",
+          "instruction": "Укажите, нужна ли запятая перед выделенным союзом или присоединительным сочетанием. Ответьте: «запятая» или «без знака».",
+          "lessonId": "ru.punctuation.explanation-attachment"
+        },
+        {
+          "id": "ru.punctuation.clarifying-punctuation.module-exam.b.clarification.21",
+          "type": "grammar-answer",
+          "raw": "Тогда [в середине октября] вернулись птицы.",
+          "answer": "обособляется",
+          "ex": "Второе обстоятельство конкретизирует первое и выделяется запятыми.",
+          "instruction": "В случаях «там», «здесь», «тогда» второе обстоятельство конкретизирует первое. Укажите, обособляется ли второе обстоятельство. Ответьте: «обособляется» или «не обособляется».",
+          "lessonId": "ru.punctuation.clarification"
+        }
+      ]
+    }
+  ]
+}
