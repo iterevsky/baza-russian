@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.49.0";
-const DIGEST="5e48421001f451511c11fd8b";
+const RELEASE="1.0.0-rc.1";
+const DIGEST="8d54f91105709ad419c8e4f7";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -128,7 +128,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/dictionary-method.json",
-    "343f717f4d4b4dc142016cb687a432eefdacd9fec60a07bab6d574dc5b33422b"
+    "3fca982d3f5121027e127f7a90ff97b68be0ac84051d5c07e85fd4c0a9808ca5"
   ],
   [
     "content/lessons/dictionary-vocabulary.json",
@@ -332,7 +332,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/numeral-morphology.json",
-    "da45404d74c63e0b91f9fccbf2dd90f34a4a9e0d2349038505cfcea5e13e2113"
+    "9fc193b58d3acd6a3ff06aa8b63f24d1f88ce3582c62ccea6ea77509d67e722e"
   ],
   [
     "content/lessons/numeral-norms.json",
@@ -376,11 +376,11 @@ const ASSETS=[
   ],
   [
     "content/lessons/prefix-spelling.json",
-    "628e8d1ff6945e5d5505e6464cf171f9fc2020438c118717d1ba472d4cc91a68"
+    "b7ee01bd5f38038039ef0203e70378263fbdcbe15325564aa2be8b6ae284b048"
   ],
   [
     "content/lessons/pronoun-morphology.json",
-    "b1ff85d8ed8a5d0d3bed1b870e6491f48e51a07c9b1743f61405eaa80ae511e9"
+    "99e408e3831cff1ee1516fe8a39f8bc264837e770712374a5ac34c994122725c"
   ],
   [
     "content/lessons/pronunciation-combinations.json",
@@ -456,7 +456,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/sibilant-vowels.json",
-    "7b2a3ff28f180c09ca339e79dfcb4fb8e6e777f3fa9cf6dccf4b9ca9e1389a75"
+    "99bbf28d2ae949ea3bf655a00ea105afb31e965df5ba8ce80c5b93f9835feb54"
   ],
   [
     "content/lessons/slavonic-layers.json",
@@ -552,7 +552,7 @@ const ASSETS=[
   ],
   [
     "content/lessons/word-boundaries.json",
-    "6f05205f76af4e34063c4632d7026af258dd8396315c1d2bbd2403d703ff3392"
+    "3a36f8ef42c32bc3b0a086d7d353a0cab2c206efa51228c42e5b1e1465c4bb52"
   ],
   [
     "content/lessons/word-family.json",
@@ -996,7 +996,7 @@ const ASSETS=[
   ],
   [
     "content/runtime-index.json",
-    "047d15d679465654a592944784eff8095f658fd24781025122912ab757487042"
+    "58904709e2cd248288361b9ca28218040e6b88aa7a2e530da093c10d79e40b0b"
   ],
   [
     "content/tips.json",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "dd82110adc5dd45f88f32fe6b4ae27952a63a7b548f37978a743de4a610bd077"
+    "71c9591606c9e2a030a5cb919677aefaedb9510a6633b2c4e4a1544ab76b70a4"
   ],
   [
     "manifest.webmanifest",
@@ -1032,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "d1afbb36ed93e74d264cb2d4bb11515d2857227e75afc578debb5d94a1212016"
+    "64145cacd3d0392bf419e7f17a0533d6c5c37caaeacebd74bb9abcffbf6d2aa6"
   ],
   [
     "src/core/assessment.js",
@@ -1053,6 +1053,10 @@ const ASSETS=[
   [
     "src/core/database.js",
     "2fd3cd169b42e3f32bdc977a328ad5cf8003fc765937ddebfc2be997d800bb18"
+  ],
+  [
+    "src/core/diagnosis.js",
+    "6e9ebc24825465a682974873414281cc3486a371f1f7e254fa9abf8888c21b7c"
   ],
   [
     "src/core/editorial.js",

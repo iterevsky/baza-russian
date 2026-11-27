@@ -1,0 +1,1908 @@
+{
+  "scope": "Source URL inventory only; not rights clearance or per-claim verification",
+  "unique_urls": 119,
+  "sources": [
+    {
+      "url": "https://etymolog.ruslang.ru/",
+      "references": [
+        {
+          "lesson": "ru.history.borrowing-etymology.foundation",
+          "title": "ИРЯ РАН, Этимология и история слов русского языка"
+        },
+        {
+          "lesson": "ru.history.scientific-etymology.foundation",
+          "title": "ИРЯ РАН, Этимология и история слов русского языка"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://grammarian.school/handbook/well/index.html",
+      "references": [
+        {
+          "lesson": "ru.language.language-levels.foundation",
+          "title": "Е. И. Литневская. Краткий теоретический курс, оглавление и разделы"
+        },
+        {
+          "lesson": "ru.language.language-speech-text.foundation",
+          "title": "Е. И. Литневская. Краткий теоретический курс, введение; учебная модель"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/slovari/bolshoj-orfoepicheskij-slovar-russkogo-yazyka/normativnaya-kharakteristika-proiznosheniya-i-udareniya",
+      "references": [
+        {
+          "lesson": "ru.language.dictionary-method.foundation",
+          "title": "Грамота.ру — система помет Большого орфоэпического словаря"
+        },
+        {
+          "lesson": "ru.language.language-norm.foundation",
+          "title": "Грамота.ру — система помет Большого орфоэпического словаря"
+        },
+        {
+          "lesson": "ru.phonetics.pronunciation-combinations.foundation",
+          "title": "Грамота.ру — система помет Большого орфоэпического словаря"
+        },
+        {
+          "lesson": "ru.phonetics.stress-variants.foundation",
+          "title": "Грамота.ру — система помет Большого орфоэпического словаря"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/slovari/russkij-orfograficheskij-slovar/udarenie-proiznoshenie",
+      "references": [
+        {
+          "lesson": "ru.language.language-norm.foundation",
+          "title": "Варианты ударения: Русский орфографический словарь"
+        },
+        {
+          "lesson": "ru.phonetics.stress-variants.foundation",
+          "title": "Русский орфографический словарь: ударение и произношение"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/slovari/russkoe-slovesnoe-udarenie/osobennosti-russkogo-udareniya",
+      "references": [
+        {
+          "lesson": "ru.phonetics.stress-variants.foundation",
+          "title": "Грамота.ру. Особенности русского словесного ударения; Русский орфографический словарь: ударение"
+        },
+        {
+          "lesson": "ru.phonetics.syllable-stress.foundation",
+          "title": "Грамота.ру. Особенности русского словесного ударения"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/slovari/slovar-trudnostej-russkogo-yazyka/kodifikatsiya-yazykovoy-normy-trudnye-poiski-zolotoy-serediny",
+      "references": [
+        {
+          "lesson": "ru.language.language-norm.foundation",
+          "title": "Грамота.ру. Кодификация языковой нормы"
+        },
+        {
+          "lesson": "ru.phonetics.stress-variants.foundation",
+          "title": "Кодификация нормы: каталог"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/grammatika",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.noun-norms.foundation",
+          "title": "Грамота.ру, Грамматика"
+        },
+        {
+          "lesson": "ru.speech-culture.verb-government.foundation",
+          "title": "Грамота.ру, Грамматика"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/imya-chislitelnoe",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.numeral-norms.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/leksikologiya-i-leksikografiya",
+      "references": [
+        {
+          "lesson": "ru.lexicon.dictionary-vocabulary.foundation",
+          "title": "Грамота.ру, Лексикология и лексикография"
+        },
+        {
+          "lesson": "ru.lexicon.figurative-meaning.foundation",
+          "title": "Грамота.ру, Лексикология и лексикография"
+        },
+        {
+          "lesson": "ru.lexicon.idioms.foundation",
+          "title": "Грамота.ру, Лексикология и лексикография"
+        },
+        {
+          "lesson": "ru.lexicon.lexical-layers.foundation",
+          "title": "Грамота.ру, Лексикология и лексикография"
+        },
+        {
+          "lesson": "ru.lexicon.lexical-meaning.foundation",
+          "title": "Грамота.ру, Лексикология и лексикография"
+        },
+        {
+          "lesson": "ru.lexicon.lexical-relations.foundation",
+          "title": "Грамота.ру, Лексикология и лексикография"
+        },
+        {
+          "lesson": "ru.lexicon.register-connotation.foundation",
+          "title": "Грамота.ру, Лексикология и лексикография"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/ofitsialno-o-russkom-yazyke/dokumenty-o-reforme-russkoj-orfografii-19171918",
+      "references": [
+        {
+          "lesson": "ru.history.writing-reforms.foundation",
+          "title": "Грамота.ру, документы о реформе русской орфографии 1917–1918 гг."
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-pravilno-upotreblyat-chislitelnye",
+      "references": [
+        {
+          "lesson": "ru.morphology.numeral-morphology.foundation",
+          "title": "Дополнительный источник: Дробные числительные и оба/обе"
+        },
+        {
+          "lesson": "ru.speech-culture.numeral-norms.foundation",
+          "title": "Грамота.ру, Как правильно употреблять числительные"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sklonyat-familii-obshchie-rekomendatsii",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.proper-name-declension.foundation",
+          "title": "Дополнительный источник 2"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sklonyat-geograficheskie-nazvaniya",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.proper-name-declension.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sostavit-pismo",
+      "references": [
+        {
+          "lesson": "ru.argumentation.business-correspondence.foundation",
+          "title": "Грамота.ру, Как составить деловое письмо"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kak-sostavit-referat",
+      "references": [
+        {
+          "lesson": "ru.argumentation.analytical-memo.foundation",
+          "title": "Дополнительный источник 1"
+        },
+        {
+          "lesson": "ru.argumentation.independent-writing.foundation",
+          "title": "Грамота.ру, Как составить реферат"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/kakie-vyrazheniya-ispolzuyutsya-v-delovoy-perepiske",
+      "references": [
+        {
+          "lesson": "ru.argumentation.business-correspondence.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pismovnik/sklonenie-familiy-poshagovyy-algoritm",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.proper-name-declension.foundation",
+          "title": "Грамота.ру, Склонение фамилий"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoj-orfografii-i-punktuacii/predislovie",
+      "references": [
+        {
+          "lesson": "ru.history.writing-reforms.foundation",
+          "title": "Дополнительный источник 2"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii",
+      "references": [
+        {
+          "lesson": "ru.punctuation.addresses",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.asyndetic-colon-dash",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.asyndetic-enumeration",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.orthography.capital-letters.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.punctuation.clarification",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.comparison-free",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.comparison-role",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.coordinate-common",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.coordinate-marks",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.dash-predicate",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.orthography.dictionary-yo.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.punctuation.direct-speech-marks.foundation",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.orthography.double-n.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.punctuation.explanation-attachment",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.gerund-punctuation",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.orthography.hyphenation-abbreviations.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.punctuation.insertions",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.mixed-punctuation.foundation",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.orthography.negation-spelling.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.orthography.noun-adjective-endings.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.orthography.prefix-spelling.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.orthography.root-consonants.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.orthography.root-vowels.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.orthography.separators.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.orthography.service-word-spelling.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.orthography.sibilant-vowels.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.orthography.verb-spelling.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        },
+        {
+          "lesson": "ru.orthography.word-boundaries.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/bezudarnye-glasnye-v-kornyakh",
+      "references": [
+        {
+          "lesson": "ru.orthography.root-vowels.foundation",
+          "title": "Академический справочник: безударные гласные в корнях"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/bezudarnye-glasnye-v-pristavkakh",
+      "references": [
+        {
+          "lesson": "ru.orthography.prefix-spelling.foundation",
+          "title": "Дополнительный источник: Различайте пра- и про-"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/o-naznachenii-i-printsipakh-punktuatsii",
+      "references": [
+        {
+          "lesson": "ru.punctuation.punctuation-variation.foundation",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/razdelnoe-napisanie-ne",
+      "references": [
+        {
+          "lesson": "ru.orthography.negation-spelling.foundation",
+          "title": "Дополнительная нормативная сверка v0.46"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/tire-v-nepolnom-predlozhenii",
+      "references": [
+        {
+          "lesson": "ru.punctuation.dash-incomplete",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-obosoblennykh-chlenakh-predlozheniya",
+      "references": [
+        {
+          "lesson": "ru.punctuation.detached-circumstances",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.detached-definitions",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-obosoblennykh-soglasovannykh-opredeleniyakh",
+      "references": [
+        {
+          "lesson": "ru.punctuation.participle-punctuation",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-obrashcheniyakh",
+      "references": [
+        {
+          "lesson": "ru.punctuation.addresses",
+          "title": "Академический справочник под ред. В. В. Лопатина: Знаки препинания при обращениях"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-odnorodnykh-chlenakh-predlozheniya",
+      "references": [
+        {
+          "lesson": "ru.punctuation.homogeneous-basic",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.homogeneous-definitions",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: знаки при однородных членах и обобщающих словах"
+        },
+        {
+          "lesson": "ru.punctuation.homogeneous-definitions",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.homogeneous-double",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: знаки при однородных членах и обобщающих словах"
+        },
+        {
+          "lesson": "ru.punctuation.homogeneous-double",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.homogeneous-generalizing",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: знаки при однородных членах и обобщающих словах"
+        },
+        {
+          "lesson": "ru.punctuation.homogeneous-generalizing",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.homogeneous-repeated",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-pri-vvodnykh-slovakh-sochetaniyakh-slov-i-predlozheniyakh",
+      "references": [
+        {
+          "lesson": "ru.punctuation.ambiguous-introductory",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.introductory-boundaries",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.introductory-conjunctions",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.introductory-editing",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.introductory-words",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.non-introductory-words",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-v-kontse-i-v-nachale-predlozheniya-konechnye-znaki-v-seredine-predlozheniya",
+      "references": [
+        {
+          "lesson": "ru.punctuation.end-basic",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.end-ellipsis",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/pravila-russkoy-orfografii-i-punktuatsii/znaki-prepinaniya-v-slozhnopodchinennom-predlozhenii",
+      "references": [
+        {
+          "lesson": "ru.punctuation.subordinate-junction",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        },
+        {
+          "lesson": "ru.punctuation.subordinate-marks",
+          "title": "Грамота.ру: полный академический справочник по пунктуации"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/prostoe-predlozhenie",
+      "references": [
+        {
+          "lesson": "ru.syntax.basis-core",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)"
+        },
+        {
+          "lesson": "ru.syntax.basis-count",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)"
+        },
+        {
+          "lesson": "ru.syntax.predicate",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)"
+        },
+        {
+          "lesson": "ru.syntax.secondary-adverbial",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)"
+        },
+        {
+          "lesson": "ru.syntax.secondary-attribute",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)"
+        },
+        {
+          "lesson": "ru.syntax.subject",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Простое предложение, главные и второстепенные члены (Грамота.ру)"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov",
+      "references": [
+        {
+          "lesson": "ru.syntax.asyndetic-relations",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.coordinate-relations",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.coordinate-structure",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.incomplete",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.indirect-transformation",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.information-structure",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.mixed-links",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.one-part-types",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.phrase-links",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.phrase-structure",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.secondary-adverbial",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.secondary-attribute",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.speech-forms",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.subordinate-links",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.subordinate-types",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/chleny-predlozheniya-grammaticheskaya-osnova-klassifikatsiya-predlozheniy-po-kolichestvu-grammaticheskikh-osnov",
+      "references": [
+        {
+          "lesson": "ru.syntax.basis-core",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.basis-count",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.predicate",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.sentence-analysis",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.subject",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/funkcii-i-pravopisanie-myagkogo-i-tverdogo-znakov",
+      "references": [
+        {
+          "lesson": "ru.orthography.separators.foundation",
+          "title": "Е. И. Литневская: функции Ъ и Ь"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/oslozhnennye-predlozheniya",
+      "references": [
+        {
+          "lesson": "ru.syntax.complication-types",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.homogeneity-syntax",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.isolated-members",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        },
+        {
+          "lesson": "ru.syntax.nonmembers",
+          "title": "Грамота.ру: краткий теоретический курс для школьников"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/biblioteka/spravochniki/russkij-yazyk-kratkij-teoreticheskij-kurs-dlya-shkolnikov/sintaksicheskiy-razbor-prostogo-predlozheniya",
+      "references": [
+        {
+          "lesson": "ru.syntax.complication-types",
+          "title": "Е. И. Литневская. Синтаксический разбор простого предложения (Грамота.ру)"
+        },
+        {
+          "lesson": "ru.syntax.homogeneity-syntax",
+          "title": "Е. И. Литневская. Синтаксический разбор простого предложения (Грамота.ру)"
+        },
+        {
+          "lesson": "ru.syntax.incomplete",
+          "title": "Е. И. Литневская. Синтаксический разбор простого предложения (Грамота.ру)"
+        },
+        {
+          "lesson": "ru.syntax.one-part-types",
+          "title": "Е. И. Литневская. Синтаксический разбор простого предложения (Грамота.ру)"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/journal/stati/obuchenie/tone-of-voice-pravila-obrashcheniya-s-chitatelyami",
+      "references": [
+        {
+          "lesson": "ru.stylistics.author-voice.foundation",
+          "title": "Грамота.ру, Tone of Voice"
+        },
+        {
+          "lesson": "ru.stylistics.functional-styles.foundation",
+          "title": "Дополнительный источник 2"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/journal/stati/pravila-i-normy/chem-rechovka-luchshe-rechevki",
+      "references": [
+        {
+          "lesson": "ru.orthography.sibilant-vowels.foundation",
+          "title": "Дополнительный источник: Суффиксы после шипящих: происхождение основы"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/journal/stati/pravila-i-normy/chto-takoe-dostatochno-khoroshaya-rech-segodnya-glavnye-kriterii",
+      "references": [
+        {
+          "lesson": "ru.argumentation.independent-writing.foundation",
+          "title": "Дополнительный источник 2"
+        },
+        {
+          "lesson": "ru.argumentation.oral-speech-discussion.foundation",
+          "title": "Грамота.ру, критерии хорошей речи"
+        },
+        {
+          "lesson": "ru.lexicon.paronyms-collocation.foundation",
+          "title": "Грамота.ру, критерии хорошей речи и точность словоупотребления"
+        },
+        {
+          "lesson": "ru.argumentation.public-science-writing.foundation",
+          "title": "Дополнительный источник 1"
+        },
+        {
+          "lesson": "ru.speech-culture.speech-errors.foundation",
+          "title": "Грамота.ру, критерии хорошей речи"
+        },
+        {
+          "lesson": "ru.speech-culture.speech-etiquette.foundation",
+          "title": "Грамота.ру, критерии хорошей речи"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/journal/stati/pravila-i-normy/kak-redaktsionnaya-politika-povyshaet-kachestvo-tekstov",
+      "references": [
+        {
+          "lesson": "ru.stylistics.author-voice.foundation",
+          "title": "Дополнительный источник 1"
+        },
+        {
+          "lesson": "ru.stylistics.editorial-diagnosis.foundation",
+          "title": "Грамота.ру, редакционная политика"
+        },
+        {
+          "lesson": "ru.stylistics.proofreading-typography.foundation",
+          "title": "Дополнительный источник 4"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/journal/stati/pravila-i-normy/nauchnyy-stil-rechi-tochnost-ne-v-ushcherb-ponyatnosti",
+      "references": [
+        {
+          "lesson": "ru.argumentation.analytical-memo.foundation",
+          "title": "Грамота.ру, научный стиль и точность"
+        },
+        {
+          "lesson": "ru.stylistics.clarity-precision.foundation",
+          "title": "Грамота.ру, научный стиль и понятность"
+        },
+        {
+          "lesson": "ru.stylistics.functional-styles.foundation",
+          "title": "Дополнительный источник 1"
+        },
+        {
+          "lesson": "ru.argumentation.independent-writing.foundation",
+          "title": "Дополнительный источник 1"
+        },
+        {
+          "lesson": "ru.argumentation.public-science-writing.foundation",
+          "title": "Грамота.ру, научный стиль"
+        },
+        {
+          "lesson": "ru.argumentation.reasoning-counterarguments.foundation",
+          "title": "Грамота.ру, научный стиль и аргументация"
+        },
+        {
+          "lesson": "ru.stylistics.sentence-rhythm.foundation",
+          "title": "Грамота.ру, научный стиль и понятность"
+        },
+        {
+          "lesson": "ru.stylistics.text-cohesion.foundation",
+          "title": "Грамота.ру, научный стиль и связность"
+        },
+        {
+          "lesson": "ru.argumentation.thesis-evidence.foundation",
+          "title": "Дополнительный источник 2"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/journal/stati/pravila-i-normy/osnovnye-kriterii-khoroshey-rechi",
+      "references": [
+        {
+          "lesson": "ru.stylistics.author-voice.foundation",
+          "title": "Грамота.ру: основные критерии хорошей речи"
+        },
+        {
+          "lesson": "ru.argumentation.business-correspondence.foundation",
+          "title": "Грамота.ру: основные критерии хорошей речи"
+        },
+        {
+          "lesson": "ru.stylistics.clarity-precision.foundation",
+          "title": "Грамота.ру: основные критерии хорошей речи"
+        },
+        {
+          "lesson": "ru.stylistics.editorial-diagnosis.foundation",
+          "title": "Грамота.ру: основные критерии хорошей речи"
+        },
+        {
+          "lesson": "ru.stylistics.functional-styles.foundation",
+          "title": "Грамота.ру: основные критерии хорошей речи"
+        },
+        {
+          "lesson": "ru.argumentation.independent-writing.foundation",
+          "title": "Грамота.ру: основные критерии хорошей речи"
+        },
+        {
+          "lesson": "ru.argumentation.oral-speech-discussion.foundation",
+          "title": "Грамота.ру: основные критерии хорошей речи"
+        },
+        {
+          "lesson": "ru.stylistics.revision-comparison.foundation",
+          "title": "Грамота.ру: основные критерии хорошей речи"
+        },
+        {
+          "lesson": "ru.stylistics.verbal-economy.foundation",
+          "title": "Грамота.ру: основные критерии хорошей речи"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/journal/stati/pravila-i-normy/slovari-ne-soglasny-drug-s-drugom",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.norm-register.foundation",
+          "title": "Грамота.ру, О разнице в трактовках одного слова в разных словарях"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/journal/stati/tekhnologii/tsifrovye-instrumenty-v-pomoshch-redaktoru",
+      "references": [
+        {
+          "lesson": "ru.stylistics.editorial-diagnosis.foundation",
+          "title": "Дополнительный источник 1"
+        },
+        {
+          "lesson": "ru.stylistics.revision-comparison.foundation",
+          "title": "Грамота.ру, инструменты редактора"
+        },
+        {
+          "lesson": "ru.stylistics.verbal-economy.foundation",
+          "title": "Грамота.ру, инструменты редактора"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/meta/krasivyy",
+      "references": [
+        {
+          "lesson": "ru.phonetics.stress-variants.foundation",
+          "title": "Красивый: словарная статья"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/meta/tezis",
+      "references": [
+        {
+          "lesson": "ru.argumentation.thesis-evidence.foundation",
+          "title": "Грамота.ру, Тезис"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/meta/tyul",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.noun-norms.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/poisk?mode=slovari&query=%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD",
+      "references": [
+        {
+          "lesson": "ru.phonetics.pronunciation-combinations.foundation",
+          "title": "Термин: словарная статья"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/poisk?mode=spravka&query=%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%88%D1%8C&simple=0",
+      "references": [
+        {
+          "lesson": "ru.phonetics.stress-variants.foundation",
+          "title": "Звонить: справочная служба, формы звонишь и звонит"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/250549",
+      "references": [
+        {
+          "lesson": "ru.stylistics.functional-styles.foundation",
+          "title": "Грамота.ру, функциональные стили"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/282430",
+      "references": [
+        {
+          "lesson": "ru.morphology.pronoun-morphology.foundation",
+          "title": "Дополнительный источник: Разные функции одной формы"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/282821",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.norm-register.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/291110",
+      "references": [
+        {
+          "lesson": "ru.lexicon.paronyms-collocation.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/292752",
+      "references": [
+        {
+          "lesson": "ru.lexicon.lexical-meaning.foundation",
+          "title": "Дополнительный источник 1"
+        },
+        {
+          "lesson": "ru.lexicon.lexical-relations.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/308395",
+      "references": [
+        {
+          "lesson": "ru.stylistics.proofreading-typography.foundation",
+          "title": "Грамота.ру, тире и дефис"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/309442",
+      "references": [
+        {
+          "lesson": "ru.stylistics.proofreading-typography.foundation",
+          "title": "Дополнительный источник 3"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/310604",
+      "references": [
+        {
+          "lesson": "ru.lexicon.lexical-meaning.foundation",
+          "title": "Дополнительный источник 2"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/312554",
+      "references": [
+        {
+          "lesson": "ru.stylistics.proofreading-typography.foundation",
+          "title": "Дополнительный источник 2"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/313904",
+      "references": [
+        {
+          "lesson": "ru.stylistics.proofreading-typography.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/317699",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.participle-construction-norms.foundation",
+          "title": "Грамота.ру: неопределённо-личная конструкция"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/318212",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.participle-construction-norms.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/318710",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.participle-construction-norms.foundation",
+          "title": "Грамота.ру, справочная служба о деепричастном обороте"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/324489",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.subject-predicate-agreement.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/328468",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.participle-construction-norms.foundation",
+          "title": "Грамота.ру: деепричастие и общий субъект"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/spravka/vopros/333502",
+      "references": [
+        {
+          "lesson": "ru.speech-culture.subject-predicate-agreement.foundation",
+          "title": "Грамота.ру, пример согласования количественного подлежащего"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/uchebnik/pravila/pol-polu",
+      "references": [
+        {
+          "lesson": "ru.orthography.word-boundaries.foundation",
+          "title": "Дополнительный источник: Пол- в сложных сочетаниях"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://gramota.ru/uchebnik/pravila/pravopisanie-bezudarnykh-beglykh-glasnykh",
+      "references": [
+        {
+          "lesson": "ru.history.historical-changes.foundation",
+          "title": "Грамота.ру, правописание беглых гласных; исторический комментарий"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://irgali.narod.ru/files/litnevskaia_fonetika.htm",
+      "references": [
+        {
+          "lesson": "ru.phonetics.pronunciation-combinations.foundation",
+          "title": "Е. И. Литневская. Фонетика и графика: е в заимствованиях; словарь произношения"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://irgali.narod.ru/files/sintaksis.htm",
+      "references": [
+        {
+          "lesson": "ru.syntax.asyndetic-relations",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        },
+        {
+          "lesson": "ru.syntax.coordinate-relations",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        },
+        {
+          "lesson": "ru.syntax.coordinate-structure",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        },
+        {
+          "lesson": "ru.syntax.indirect-transformation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        },
+        {
+          "lesson": "ru.syntax.isolated-members",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        },
+        {
+          "lesson": "ru.syntax.mixed-links",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        },
+        {
+          "lesson": "ru.syntax.nonmembers",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        },
+        {
+          "lesson": "ru.syntax.phrase-links",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис (электронная публикация)"
+        },
+        {
+          "lesson": "ru.syntax.phrase-structure",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис (электронная публикация)"
+        },
+        {
+          "lesson": "ru.syntax.sentence-analysis",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        },
+        {
+          "lesson": "ru.syntax.speech-forms",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        },
+        {
+          "lesson": "ru.syntax.subordinate-links",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        },
+        {
+          "lesson": "ru.syntax.subordinate-types",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс. Синтаксис"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://lexicography.online/etymology/shansky/к/картофель",
+      "references": [
+        {
+          "lesson": "ru.history.borrowing-etymology.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://lexicography.online/etymology/т/тетрадь",
+      "references": [
+        {
+          "lesson": "ru.history.borrowing-etymology.foundation",
+          "title": "Дополнительный источник 2"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://ls.pushkininstitute.ru/lsslovar/?title=Русский_язык/C1-C2",
+      "references": [
+        {
+          "lesson": "ru.history.russian-language-history.foundation",
+          "title": "Институт Пушкина, лингвострановедческий словарь: Русский язык"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_1/",
+      "references": [
+        {
+          "lesson": "ru.phonetics.sounds-letters.foundation",
+          "title": "Е. И. Литневская. Фонетика и графика, звуки и буквы"
+        },
+        {
+          "lesson": "ru.phonetics.vowels-consonants.foundation",
+          "title": "Е. И. Литневская. Фонетика и графика, звуки и буквы"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_2/",
+      "references": [
+        {
+          "lesson": "ru.phonetics.sound-changes.foundation",
+          "title": "Е. И. Литневская. Фонетика: позиционные изменения"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://modernlib.net/books/litnevskaya_elena_ivanovna/russkiy_yazik_kratkiy_teoreticheskiy_kurs/read_3/",
+      "references": [
+        {
+          "lesson": "ru.word-formation.derivation-chain.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование"
+        },
+        {
+          "lesson": "ru.word-formation.derivation-methods.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование"
+        },
+        {
+          "lesson": "ru.word-formation.morpheme-alternations.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование"
+        },
+        {
+          "lesson": "ru.word-formation.morpheme-types.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование"
+        },
+        {
+          "lesson": "ru.word-formation.word-family.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование"
+        },
+        {
+          "lesson": "ru.word-formation.word-stem.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфемика и словообразование"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://old.bigenc.ru/linguistics/text/2066943",
+      "references": [
+        {
+          "lesson": "ru.history.writing-reforms.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://old.bigenc.ru/linguistics/text/2261599",
+      "references": [
+        {
+          "lesson": "ru.history.slavonic-layers.foundation",
+          "title": "Большая российская энциклопедия, Неполногласие"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://old.bigenc.ru/linguistics/text/3503183",
+      "references": [
+        {
+          "lesson": "ru.history.historical-changes.foundation",
+          "title": "БРЭ: Редуцированные гласные"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://old.bigenc.ru/literature/text/4205291",
+      "references": [
+        {
+          "lesson": "ru.stylistics.tropes-figures.foundation",
+          "title": "Большая российская энциклопедия, Тропы и фигуры речи"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://old.bigenc.ru/philosophy/text/2181515",
+      "references": [
+        {
+          "lesson": "ru.argumentation.logic-fallacies.foundation",
+          "title": "Большая российская энциклопедия, Логические ошибки"
+        },
+        {
+          "lesson": "ru.argumentation.thesis-evidence.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orfo.ruslang.ru/",
+      "references": [
+        {
+          "lesson": "ru.orthography.capital-letters.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.dictionary-yo.foundation",
+          "title": "Академос ИРЯ РАН: словарная проверка, требуется поэлементная сверка"
+        },
+        {
+          "lesson": "ru.orthography.dictionary-yo.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.double-n.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.hyphenation-abbreviations.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.negation-spelling.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.noun-adjective-endings.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.prefix-spelling.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.root-consonants.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.root-vowels.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.separators.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.service-word-spelling.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.sibilant-vowels.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.verb-spelling.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.orthography.word-boundaries.foundation",
+          "title": "Академос: орфографический ресурс ИРЯ РАН"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://oross.ruslang.ru/paragraph/25",
+      "references": [
+        {
+          "lesson": "ru.orthography.prefix-spelling.foundation",
+          "title": "Дополнительная нормативная сверка v0.46"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=0",
+      "references": [
+        {
+          "lesson": "ru.orthography.double-n.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Н и НН в разных частях речи"
+        },
+        {
+          "lesson": "ru.orthography.separators.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Ъ, Ь, И/Ы после приставок"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=14",
+      "references": [
+        {
+          "lesson": "ru.orthography.sibilant-vowels.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: ЖИ/ШИ, ЧА/ЩА, ЧУ/ЩУ, О/Ё после шипящих и Ц"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=29",
+      "references": [
+        {
+          "lesson": "ru.orthography.verb-spelling.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Личные окончания глаголов и суффиксы глагольных форм"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=30",
+      "references": [
+        {
+          "lesson": "ru.orthography.noun-adjective-endings.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Суффиксы и окончания существительных и прилагательных"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=31",
+      "references": [
+        {
+          "lesson": "ru.orthography.root-vowels.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Проверяемые, непроверяемые и чередующиеся гласные корня"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=33",
+      "references": [
+        {
+          "lesson": "ru.orthography.prefix-spelling.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Приставки, включая пре-/при- и з-/с-"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=49",
+      "references": [
+        {
+          "lesson": "ru.orthography.root-consonants.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Согласные в корне и удвоенные согласные"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=63",
+      "references": [
+        {
+          "lesson": "ru.orthography.service-word-spelling.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Правописание наречий, предлогов, союзов и частиц"
+        },
+        {
+          "lesson": "ru.orthography.word-boundaries.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Слитное, раздельное и дефисное написание"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=79",
+      "references": [
+        {
+          "lesson": "ru.orthography.negation-spelling.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: НЕ и НИ: значение и правописание"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=81",
+      "references": [
+        {
+          "lesson": "ru.orthography.capital-letters.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Прописные и строчные буквы, имена собственные"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/orfografia.php?sid=97",
+      "references": [
+        {
+          "lesson": "ru.orthography.hyphenation-abbreviations.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Перенос, сокращения, аббревиатуры и графические обозначения"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctuatio.php?sid=105",
+      "references": [
+        {
+          "lesson": "ru.punctuation.dash-incomplete",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Тире между членами предложения"
+        },
+        {
+          "lesson": "ru.punctuation.dash-predicate",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Тире между членами предложения"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctuatio.php?sid=111",
+      "references": [
+        {
+          "lesson": "ru.punctuation.homogeneous-basic",
+          "title": "Полный академический справочник под ред. В. В. Лопатина, §§ 25–28"
+        },
+        {
+          "lesson": "ru.punctuation.homogeneous-repeated",
+          "title": "Полный академический справочник под ред. В. В. Лопатина, §§ 25–28"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctuatio.php?sid=123",
+      "references": [
+        {
+          "lesson": "ru.punctuation.clarification",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Уточняющие члены"
+        },
+        {
+          "lesson": "ru.punctuation.explanation-attachment",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Пояснительные и присоединительные члены"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctuatio.php?sid=127",
+      "references": [
+        {
+          "lesson": "ru.punctuation.ambiguous-introductory",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: §§ 91–92, 96"
+        },
+        {
+          "lesson": "ru.punctuation.introductory-boundaries",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: §§ 93–94"
+        },
+        {
+          "lesson": "ru.punctuation.introductory-conjunctions",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: § 95"
+        },
+        {
+          "lesson": "ru.punctuation.introductory-editing",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: §§ 91–96"
+        },
+        {
+          "lesson": "ru.punctuation.introductory-words",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: §§ 91, 96"
+        },
+        {
+          "lesson": "ru.punctuation.non-introductory-words",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: § 91, примечание 2"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctuatio.php?sid=128",
+      "references": [
+        {
+          "lesson": "ru.punctuation.insertions",
+          "title": "Академический справочник под ред. В. В. Лопатина, §§ 97–100: знаки при вставках"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctuatio.php?sid=132",
+      "references": [
+        {
+          "lesson": "ru.punctuation.mixed-punctuation.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Сложные предложения с разными видами связи"
+        },
+        {
+          "lesson": "ru.punctuation.punctuation-variation.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Факультативные и авторские знаки, смысловые варианты"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctuatio.php?sid=133",
+      "references": [
+        {
+          "lesson": "ru.punctuation.coordinate-common",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в сложносочинённых предложениях, §§ 112–114"
+        },
+        {
+          "lesson": "ru.punctuation.coordinate-marks",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в сложносочинённых предложениях, §§ 112–114"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctuatio.php?sid=134",
+      "references": [
+        {
+          "lesson": "ru.punctuation.subordinate-junction",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в сложноподчинённых предложениях, стык союзов, §§ 115–126"
+        },
+        {
+          "lesson": "ru.punctuation.subordinate-marks",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в сложноподчинённых предложениях, стык союзов, §§ 115–126"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctuatio.php?sid=135",
+      "references": [
+        {
+          "lesson": "ru.punctuation.asyndetic-colon-dash",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в бессоюзных предложениях, §§ 127–130"
+        },
+        {
+          "lesson": "ru.punctuation.asyndetic-enumeration",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки в бессоюзных предложениях, §§ 127–130"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctuatio.php?sid=137",
+      "references": [
+        {
+          "lesson": "ru.punctuation.direct-speech-marks.foundation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина: Прямая речь, цитаты, диалог"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctum_uk.php?pid=252",
+      "references": [
+        {
+          "lesson": "ru.punctuation.comparison-role",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Приложения с как; §§ 64, 90"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://orthographia.ru/punctum_uk.php?pid=257",
+      "references": [
+        {
+          "lesson": "ru.punctuation.comparison-free",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Сравнительные обороты, §§ 88–90"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://rus-yaz.niv.ru/doc/dictionary/linguistic-encyclopedic/articles/413/drevnerusskij-yazyk.htm",
+      "references": [
+        {
+          "lesson": "ru.history.historical-changes.foundation",
+          "title": "Дополнительный источник 1"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://ruscorpora.ru/page/faq",
+      "references": [
+        {
+          "lesson": "ru.language.dictionary-method.foundation",
+          "title": "НКРЯ. Вопросы и ответы; Грамота.ру, описание словарей"
+        },
+        {
+          "lesson": "ru.language.dictionary-method.foundation",
+          "title": "Дополнительный источник: Мини-исследование употребления"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://ruscorpora.ru/search",
+      "references": [
+        {
+          "lesson": "ru.language.dictionary-method.foundation",
+          "title": "Поиск НКРЯ"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://rusgram.narod.ru/2128-2151.html",
+      "references": [
+        {
+          "lesson": "ru.syntax.information-structure",
+          "title": "Русская грамматика (1980), т. II. Порядок слов, §§ 2128–2151"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://ruslang.ru/book/e-anikin-russkiy-etimologicheskiy-slovar",
+      "references": [
+        {
+          "lesson": "ru.history.borrowing-etymology.foundation",
+          "title": "ИРЯ РАН: Русский этимологический словарь А. Е. Аникина"
+        },
+        {
+          "lesson": "ru.history.scientific-etymology.foundation",
+          "title": "ИРЯ РАН: Русский этимологический словарь А. Е. Аникина"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://ruslang.ru/book/orfoepicheskiy-slovar-russkogo-yazyka-proiznoshenie-udarenie-grammaticheskie-formy-svyshe",
+      "references": [
+        {
+          "lesson": "ru.language.dictionary-method.foundation",
+          "title": "Орфоэпический словарь ИРЯ РАН"
+        },
+        {
+          "lesson": "ru.phonetics.pronunciation-combinations.foundation",
+          "title": "Орфоэпический словарь ИРЯ РАН (описание)"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://ruslang.ru/normativnyje_slovari",
+      "references": [
+        {
+          "lesson": "ru.language.language-norm.foundation",
+          "title": "Нормативные словари для государственного языка"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://www.consultant.ru/document/cons_doc_LAW_113901/0ff8203715e182f1f3efd92e7ed7827b3ed21189/",
+      "references": [
+        {
+          "lesson": "ru.punctuation.direct-speech-marks.foundation",
+          "title": "Правила русской орфографии и пунктуации: знаки при прямой речи"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://www.irgali.narod.ru/files/morfologia.htm",
+      "references": [
+        {
+          "lesson": "ru.morphology.adjective-morphology.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология"
+        },
+        {
+          "lesson": "ru.morphology.adverb-state.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология"
+        },
+        {
+          "lesson": "ru.morphology.function-words.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология"
+        },
+        {
+          "lesson": "ru.morphology.morphological-analysis.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология"
+        },
+        {
+          "lesson": "ru.morphology.noun-morphology.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология"
+        },
+        {
+          "lesson": "ru.morphology.numeral-morphology.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология"
+        },
+        {
+          "lesson": "ru.morphology.parts-of-speech.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология"
+        },
+        {
+          "lesson": "ru.morphology.pronoun-morphology.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология"
+        },
+        {
+          "lesson": "ru.morphology.verb-derived-forms.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология"
+        },
+        {
+          "lesson": "ru.morphology.verb-morphology.foundation",
+          "title": "Е. И. Литневская. Русский язык: краткий теоретический курс — Морфология"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://www.orthographia.ru/punctuatio.php?sid=101",
+      "references": [
+        {
+          "lesson": "ru.punctuation.end-basic",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки конца предложения"
+        },
+        {
+          "lesson": "ru.punctuation.end-ellipsis",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Знаки конца предложения"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://www.orthographia.ru/punctuatio.php?sid=117",
+      "references": [
+        {
+          "lesson": "ru.punctuation.detached-circumstances",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Обособленные обстоятельства"
+        },
+        {
+          "lesson": "ru.punctuation.detached-definitions",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Обособленные члены предложения"
+        },
+        {
+          "lesson": "ru.punctuation.participle-punctuation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Обособленные определения"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://www.orthographia.ru/punctuatio.php?sid=121",
+      "references": [
+        {
+          "lesson": "ru.punctuation.gerund-punctuation",
+          "title": "Полный академический справочник под ред. В. В. Лопатина. Обособленные обстоятельства"
+        }
+      ],
+      "rights_status": "not individually verified"
+    },
+    {
+      "url": "https://www.prlib.ru/history/618920",
+      "references": [
+        {
+          "lesson": "ru.history.writing-reforms.foundation",
+          "title": "Президентская библиотека: введение новой орфографии"
+        }
+      ],
+      "rights_status": "not individually verified"
+    }
+  ],
+  "portrait": {
+    "source": "https://commons.wikimedia.org/wiki/File:Kiprensky_Pushkin.jpg",
+    "status": "Commons identifies public domain; local image download failed; no reproduction bundled"
+  }
+}

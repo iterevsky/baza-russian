@@ -1,0 +1,4 @@
+{
+  "real_localhost": "not completed",
+  "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://localhost:8001/\nCall log:\n  - navigating to \"http://localhost:8001/\", waiting until \"load\"\n"
+}

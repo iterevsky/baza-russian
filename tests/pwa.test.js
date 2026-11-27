@@ -18,7 +18,7 @@ function mock({code=source,network=new Map(body),db=new Map()}={}){
 }
 async function files(dir){let result=[];for(const e of await readdir(new URL(dir+'/',root),{withFileTypes:true})){const p=dir+'/'+e.name;result.push(...e.isDirectory()?await files(p):[p])}return result}
 test('PWA manifest, generated hashes and complete assets match the release',async()=>{
- const manifest=JSON.parse(await readFile(new URL('manifest.webmanifest',root)));assert.equal(manifest.scope,'./');assert.equal(manifest.start_url,'./');assert.equal(manifest.display,'standalone');assert.match(pkg.version,/^\d+\.\d+\.\d+$/);
+ const manifest=JSON.parse(await readFile(new URL('manifest.webmanifest',root)));assert.equal(manifest.scope,'./');assert.equal(manifest.start_url,'./');assert.equal(manifest.display,'standalone');assert.match(pkg.version,/^\d+\.\d+\.\d+(?:-rc\.[1-9]\d*)?$/);
  assert.deepEqual(assets.map(x=>x[0]),['index.html','manifest.webmanifest',...await files('src'),...await files('content'),...await files('icons')].sort());
  for(const [path,hash] of assets)assert.equal(createHash('sha256').update(body.get(new URL(path,scope).href)).digest('hex'),hash,path);
  for(const icon of manifest.icons){const data=body.get(new URL(icon.src,scope).href);const [w,h]=icon.sizes.split('x').map(Number);assert.equal(data.readUInt32BE(16),w);assert.equal(data.readUInt32BE(20),h)}
