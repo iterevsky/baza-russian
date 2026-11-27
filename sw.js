@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="0.44.0";
-const DIGEST="9e1a99c4f47e930354320a19";
+const RELEASE="0.45.0";
+const DIGEST="14304d3203ce72e44ab738f4";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -1024,7 +1024,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "8023ca48deeef72b2b6825b61f04c50e5a388513f1d689ee057a0a6d825558a6"
+    "efccbbc19bee8da42bd89c23b70d1eaa9c966e96332d53134af3d058c1c26771"
   ],
   [
     "manifest.webmanifest",
@@ -1032,7 +1032,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "26a0f6a40a49f989696d3bdfa63d0ad5891b83f680a3b79f37acaa01fd9b63d1"
+    "060ad82e7febbfebfd9316da200e46f879f5cb45086e8db204b35d6af79b7832"
   ],
   [
     "src/core/assessment.js",
@@ -1057,6 +1057,10 @@ const ASSETS=[
   [
     "src/core/exams.js",
     "a209e91713d0b491f201e2f469821a8c0c3476d08681bea5feea1bea2669a596"
+  ],
+  [
+    "src/core/focus.js",
+    "ec349255fabec44db6eeedc948bb5caa303296e533cb6e20b655bd371e022bbf"
   ],
   [
     "src/core/lesson-view.js",
@@ -1092,7 +1096,7 @@ const ASSETS=[
   ],
   [
     "src/styles/main.css",
-    "628bb9e8ab8adea35d89e750a3ebd9b81335915c19f56652af1953f8373e4581"
+    "d8dea45a4ae24fbddb5a23aa2128e8b6dc599da8977a9b9ad48958dcd845128c"
   ]
 ];
 // Generated release metadata is prepended by scripts/build-pwa.mjs.

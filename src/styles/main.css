@@ -19,3 +19,13 @@
 .module-group{padding:12px 0;border-bottom:1px solid var(--line);overflow-wrap:anywhere}.module-group:last-child{border-bottom:0}.module-group p{margin:0 0 8px}.module-group button{max-width:100%;overflow-wrap:anywhere}
 
 .stress-word{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:3px;font-size:1.35rem;line-height:1.4}.stress-word .stress-vowel{min-width:40px;min-height:44px;padding:6px 10px;font-size:inherit}.stress-word .stress-vowel[aria-pressed=true]{border-color:var(--accent);outline:2px solid currentColor;text-decoration:underline;text-underline-offset:4px}
+
+/* Keyboard navigation and narrow viewports. Do not hide overflow to mask layout defects. */
+.skip-link{position:fixed;top:8px;left:8px;z-index:30;padding:10px 16px;background:var(--paper);color:var(--ink);border:2px solid var(--accent);transform:translateY(-200%)}
+.skip-link:focus{transform:none}select:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.side{overflow-y:auto}.content,.pwa-info,.module-group,.article,.exercise,.flash,.panel{overflow-wrap:anywhere}
+.content input,.content select,.content textarea,.content button{max-width:100%}.content fieldset{min-width:0}.header-right{min-width:0}.stats>*,.hero>*{min-width:0}
+html{scroll-padding-top:80px;scroll-padding-bottom:90px}.article [id]{scroll-margin-top:80px}
+@media(max-width:680px){.mobile-nav button{min-height:44px;line-height:1.2}.mobile-nav button span:last-child{overflow-wrap:anywhere}.content{padding-bottom:calc(100px + env(safe-area-inset-bottom))}.header .brand{min-width:0;gap:8px}.header .brand strong{overflow-wrap:normal}.header .iconbtn{min-height:44px;padding:6px 8px}.catalog-row .status{white-space:normal;max-width:75px;text-align:center}.stats{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}}
+@media(max-width:360px){.header{gap:8px;padding-inline:10px}.header .brand strong{font-size:13px}.header .brand small{font-size:10px}.header .brand .logo{font-size:30px}.hero{grid-template-columns:minmax(0,1fr) 48px}.hero-mark{font-size:66px}.content{padding-inline:12px}.article h1,.exercise h1,h1{font-size:clamp(30px,10vw,38px)}.panel{padding:12px}.catalog-row{gap:5px}.modules{padding-left:12px}.mobile-nav{padding-inline:2px}.mobile-nav button{font-size:9px}.stat strong{font-size:28px}}
+@media print{.skip-link{display:none!important}}

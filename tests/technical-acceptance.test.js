@@ -1,0 +1,21 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {request} from 'node:http';
+import {once} from 'node:events';
+import {readFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import {gunzipSync} from 'node:zlib';
+import {createAppServer,assetPath,acceptsGzip} from '../scripts/serve.mjs';
+import {rememberFocus,restoreFocus} from '../src/core/focus.js';
+const root=new URL('../',import.meta.url);
+const sha=b=>createHash('sha256').update(b).digest('hex');
+const sw=await readFile(new URL('sw.js',root),'utf8');
+const assets=JSON.parse(sw.match(/const ASSETS=(\[[\s\S]*?\n\]);/)[1]);
+const server=await createAppServer();server.listen(0,'127.0.0.1');await once(server,'listening');
+const port=server.address().port;
+test.after(()=>new Promise(resolve=>server.close(resolve)));
+function get(path,method='GET',headers={}){return new Promise((resolve,reject)=>{const req=request({host:'127.0.0.1',port,path,method,headers},res=>{const parts=[];res.on('data',x=>parts.push(x));res.on('end',()=>resolve({status:res.statusCode,headers:res.headers,body:Buffer.concat(parts)}));res.on('error',reject)});req.on('error',reject);req.end()})}
+test('native local server serves every PWA resource with exact decoded release bytes',async()=>{for(const [path,hash] of assets){const r=await get('/'+path,'GET',{'Accept-Encoding':'gzip'});assert.equal(r.status,200,path);assert.equal(sha(r.headers['content-encoding']==='gzip'?gunzipSync(r.body):r.body),hash,path);assert.equal(r.headers['cache-control'],'no-store');assert.equal(r.headers['x-content-type-options'],'nosniff')}const entry=await get('/');assert.equal(sha(entry.body),assets.find(([p])=>p==='index.html')[1]);const worker=await get('/sw.js');assert.match(worker.headers['content-type'],/javascript/);assert.equal(worker.body.toString(),sw)});
+test('server rejects private files, traversal and unsupported methods; HEAD is bodyless',async()=>{for(const path of ['/.git/config','/tests/fixtures/v035/content/catalog.json','/docs/ROADMAP.md','/package.json','/src/../package.json','/src/%2e%2e/package.json','/src/%5c..%5cpackage.json','/content/','/%zz','/src/nonexistent.js'])assert.equal((await get(path)).status,404,path);assert.equal((await get('/','POST')).status,405);assert.equal((await get('/index.html','HEAD')).body.length,0);assert.equal(assetPath('/content/%00.json'),null)});
+test('large runtime index uses gzip only when accepted and decompresses exactly',async()=>{const raw=await get('/content/runtime-index.json','GET',{'Accept-Encoding':'gzip;q=0'}),compressed=await get('/content/runtime-index.json','GET',{'Accept-Encoding':'br, gzip'});assert.equal(raw.headers['content-encoding'],undefined);assert.equal(compressed.headers['content-encoding'],'gzip');assert.deepEqual(gunzipSync(compressed.body),raw.body);assert.ok(compressed.body.length<raw.body.length/2);assert.equal(acceptsGzip('gzip;q=0, br'),false);assert.equal(acceptsGzip('gzip;q=0.5'),true)});
+test('rerender restores focus by semantic control identity, or main when control disappears',()=>{let focused='';const before={tagName:'BUTTON',dataset:{choice:'2'}},next={tagName:'BUTTON',dataset:{choice:'2'},focus(){focused='choice'}},root={contains:e=>e===before,querySelectorAll:()=>[next],focus(){focused='main'}};const saved=rememberFocus({activeElement:before},root);restoreFocus(root,saved);assert.equal(focused,'choice');next.disabled=true;restoreFocus(root,saved);assert.equal(focused,'main');assert.equal(rememberFocus({activeElement:{}},root),null)});
