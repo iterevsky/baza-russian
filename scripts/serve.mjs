@@ -6,7 +6,7 @@ import {gzip} from 'node:zlib';
 import {promisify} from 'node:util';
 const gzipAsync=promisify(gzip);
 const rootDefault=fileURLToPath(new URL('../',import.meta.url));
-const MIME={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.webmanifest':'application/manifest+json; charset=utf-8','.png':'image/png','.jpg':'image/jpeg','.ico':'image/x-icon'};
+const MIME={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.webmanifest':'application/manifest+json; charset=utf-8','.png':'image/png','.ico':'image/x-icon','.jpg':'image/jpeg'};
 export function assetPath(raw){
  const pathname=raw.split('?')[0];let path;
  try{path=decodeURIComponent(pathname)}catch{return null}

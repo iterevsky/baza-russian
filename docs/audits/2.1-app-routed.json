@@ -1,0 +1,5 @@
+{
+  "scope": "actual production index/app/lesson renderer and JSON, all requests intercepted from local files, Chromium; service worker blocked",
+  "blocker": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at https://baza-test.invalid/\nCall log:\n  - navigating to \"https://baza-test.invalid/\", waiting until \"domcontentloaded\"\n",
+  "errors": []
+}

@@ -1,0 +1,11 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readdir,readFile} from 'node:fs/promises';
+import {validWorked,workedView,validDiagram} from '../src/core/learning-diagram.js';
+import {validEnrichment} from '../src/core/editorial.js';
+const base=new URL('../content/lessons/',import.meta.url);
+const lessons=await Promise.all((await readdir(base)).filter(f=>f.endsWith('.json')).map(async f=>JSON.parse(await readFile(new URL(f,base),'utf8'))));
+const esc=s=>String(s).replace(/[&<>"']/g,x=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[x]));
+test('109 worked examples precede their diagram; all 139 diagrams retain their unique independent task',()=>{let worked=0,ids=new Set();assert.equal(lessons.length,139);for(const l of lessons){const ds=l.theory.filter(b=>b.type==='diagram'),ws=l.theory.filter(b=>b.type==='worked');assert.equal(ds.length,1,l.id);assert.ok(validDiagram(ds[0]));assert.ok(!ids.has(ds[0].caseId));ids.add(ds[0].caseId);assert.ok(ws.length<=1,l.id);if(ws.length){assert.ok(validWorked(ws[0]));assert.ok(l.theory.indexOf(ws[0])<l.theory.indexOf(ds[0]));assert.match(workedView(ws[0],esc),/Ход решения/);worked++}if(l.theory[0].text==='Разберёмся на примере')assert.equal(ws.length,1,l.id)}assert.equal(worked,109);assert.equal(ids.size,139)});
+test('worked models reject empty or malformed data, escape all text',()=>{const w={title:'<script>',steps:['<img onerror=bad>','& test'],pitfall:'<a>'};assert.ok(validWorked(w));assert.ok(!validWorked({...w,steps:[]}));assert.ok(!validWorked({...w,pitfall:''}));const h=workedView(w,esc);assert.doesNotMatch(h,/<script>|<img|<a>/);assert.match(h,/&lt;script&gt;/);assert.equal((h.match(/<li>/g)||[]).length,2)});
+test('open tasks retain unique IDs and provide authentic new writing checks without automatic marks',()=>{const all=lessons.flatMap(l=>l.editorialCases);assert.equal(all.length,458);assert.equal(new Set(all.map(c=>c.id)).size,458);assert.ok(lessons.every(validEnrichment));const added=all.filter(c=>c.id.includes('.r22.'));assert.equal(added.length,4);assert.ok(added.every(c=>c.criteria.length>=4));for(const suffix of ['dictation-orth','mixed-marks','exposition','composition'])assert.ok(added.some(c=>c.id.endsWith(suffix)))});

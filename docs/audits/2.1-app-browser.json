@@ -1,0 +1,5 @@
+{
+  "scope": "actual app localhost",
+  "blocker": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8001/\nCall log:\n  - navigating to \"http://127.0.0.1:8001/\", waiting until \"domcontentloaded\"\n",
+  "errors": []
+}
