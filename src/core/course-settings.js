@@ -7,3 +7,6 @@ export function courseStats(course,state){const rows=course.catalog.sections.map
 
 // The first lesson can already have practice or drafts without having been opened as theory.
 export function hasStarted(course,state){return state.activeLessonId!==course.lessons[0].id||Object.values(state.byLesson).some(d=>d.read||d.note.trim()||d.attempts.length||d.cards.length||d.exams.length||d.examDraft||Object.keys(d.editorialDrafts).length)||Object.values(state.byModule).some(d=>d.exams.length||d.draft);}
+
+// Historical storage order is not the recommended curriculum order.
+export function learningTarget(course,state){if(hasStarted(course,state))return state.activeLessonId;const first=course.catalog.sections[0]?.plan[0]?.number;return course.modules.find(m=>m.moduleNumber===first)?.lessonIds[0]??course.lessons[0].id;}

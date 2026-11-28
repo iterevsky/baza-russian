@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
 const RELEASE="1.0.0-rc.1";
-const DIGEST="843171ce291c9f0d2f6efca6";
+const DIGEST="a371e1ef2822f32320409bbf";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -1028,7 +1028,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "198397bc5444b8c49b64ed78158383746c539dd0e5993907888277f391b29642"
+    "2eb54def698d1244eb7e1947b0cdda6d98c3d5acc954c387260e918eadb028af"
   ],
   [
     "manifest.webmanifest",
@@ -1036,7 +1036,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "e68f66fc091c6a354a28ae5413e4f176f5525def6d71da9a5625a7a6e4149438"
+    "45813ed13e8fb2704baf43baa1228ba8a556b31b2684f6223ecdbc8321ff8d94"
   ],
   [
     "src/core/answer-input.js",
@@ -1045,6 +1045,10 @@ const ASSETS=[
   [
     "src/core/assessment.js",
     "f7461338afd0d253592d3b0aa5675abe067363e259c8e98051a0ff60d88cbea8"
+  ],
+  [
+    "src/core/catalog-ui.js",
+    "a6520b401d094009db0e8d2f34acb2803051571c5f2d1ff1412c2b64ab5f8c98"
   ],
   [
     "src/core/choice-order.js",
@@ -1056,7 +1060,7 @@ const ASSETS=[
   ],
   [
     "src/core/course-settings.js",
-    "9e45f07adb783ae7d5d054d7b051378a285c4a65efb629873ab4c9a7effb24b9"
+    "87dd8e54f3c9b5de0a1cee9761d4122de438dce3d1c5cc295ecf60ddb59e51c9"
   ],
   [
     "src/core/database.js",
@@ -1080,7 +1084,7 @@ const ASSETS=[
   ],
   [
     "src/core/home.js",
-    "2f8f27c8c394a45bf00d935ac6acf62ff7d063a6c71d8838cca7b4abda513cd9"
+    "ff448bcb3d0af7d6091da1a991718fdd0a6d64c49863afdd647bed67309cb8dc"
   ],
   [
     "src/core/lesson-view.js",
@@ -1120,7 +1124,7 @@ const ASSETS=[
   ],
   [
     "src/styles/home.css",
-    "0ecd5335f76119a17c55d46fec584706d52adf30651b4655d91adc2567610aa6"
+    "7c6ee3d862fa0e55ee62cb7e6855ba701b28d679f59e87f8b48e06aa3cdc0105"
   ],
   [
     "src/styles/main.css",
