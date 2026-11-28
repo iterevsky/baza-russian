@@ -1,0 +1,2216 @@
+{
+  "scope": "структурный скрининг исходной версии 1.1, не филологическая экспертиза",
+  "lesson_count": 139,
+  "flags": {
+    "пример до объяснения (проверить контекст)": 139,
+    "редакторская помета в теории": 10,
+    "менее 250 слов в абзацах и правилах (сигнал, не оценка)": 121,
+    "нет явных предварительных связей (проверить)": 77
+  },
+  "sections": [
+    {
+      "title": "Устройство языка",
+      "lessons": 4
+    },
+    {
+      "title": "Фонетика и орфоэпия",
+      "lessons": 6
+    },
+    {
+      "title": "Морфемика и словообразование",
+      "lessons": 6
+    },
+    {
+      "title": "Морфология",
+      "lessons": 10
+    },
+    {
+      "title": "Синтаксис",
+      "lessons": 24
+    },
+    {
+      "title": "Орфография",
+      "lessons": 14
+    },
+    {
+      "title": "Пунктуация",
+      "lessons": 34
+    },
+    {
+      "title": "Лексика, семантика и фразеология",
+      "lessons": 8
+    },
+    {
+      "title": "История языка и этимология",
+      "lessons": 6
+    },
+    {
+      "title": "Культура речи",
+      "lessons": 9
+    },
+    {
+      "title": "Стилистика и редактирование",
+      "lessons": 10
+    },
+    {
+      "title": "Речь, аргументация и жанры",
+      "lessons": 8
+    }
+  ],
+  "lessons": [
+    {
+      "id": "ru.language.language-speech-text.foundation",
+      "module": "01.01",
+      "title": "Язык, речь и текст: система и применение",
+      "section": "Устройство языка",
+      "status": "draft",
+      "words_paragraph_rule": 173,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "редакторская помета в теории",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "полная переработка теории в пилоте"
+    },
+    {
+      "id": "ru.language.language-levels.foundation",
+      "module": "01.02",
+      "title": "Уровни языка: от звука к высказыванию",
+      "section": "Устройство языка",
+      "status": "draft",
+      "words_paragraph_rule": 152,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "редакторская помета в теории",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "полная переработка теории в пилоте"
+    },
+    {
+      "id": "ru.language.language-norm.foundation",
+      "module": "01.03",
+      "title": "Литературная норма: правило, вариант и уместность",
+      "section": "Устройство языка",
+      "status": "draft",
+      "words_paragraph_rule": 162,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "редакторская помета в теории",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "полная переработка теории в пилоте"
+    },
+    {
+      "id": "ru.language.dictionary-method.foundation",
+      "module": "01.04",
+      "title": "Словари, справочники и корпус: как проверять решение",
+      "section": "Устройство языка",
+      "status": "draft",
+      "words_paragraph_rule": 231,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "редакторская помета в теории",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "полная переработка теории в пилоте"
+    },
+    {
+      "id": "ru.phonetics.sounds-letters.foundation",
+      "module": "02.01",
+      "title": "Звуки и буквы: что именно мы считаем",
+      "section": "Фонетика и орфоэпия",
+      "status": "draft",
+      "words_paragraph_rule": 179,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "редакторская помета в теории",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.phonetics.vowels-consonants.foundation",
+      "module": "02.02",
+      "title": "Гласные и согласные: признаки звучания",
+      "section": "Фонетика и орфоэпия",
+      "status": "draft",
+      "words_paragraph_rule": 181,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "редакторская помета в теории",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.phonetics.syllable-stress.foundation",
+      "module": "02.03",
+      "title": "Слог и ударение: структура слова и смысл",
+      "section": "Фонетика и орфоэпия",
+      "status": "draft",
+      "words_paragraph_rule": 180,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "редакторская помета в теории",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.phonetics.sound-changes.foundation",
+      "module": "02.04",
+      "title": "Редукция, оглушение и ассимиляция",
+      "section": "Фонетика и орфоэпия",
+      "status": "draft",
+      "words_paragraph_rule": 195,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "редакторская помета в теории",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.phonetics.pronunciation-combinations.foundation",
+      "module": "02.05",
+      "title": "Произношение сочетаний и заимствований: правило и словарь",
+      "section": "Фонетика и орфоэпия",
+      "status": "draft",
+      "words_paragraph_rule": 197,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "редакторская помета в теории",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.phonetics.stress-variants.foundation",
+      "module": "02.06",
+      "title": "Варианты ударения: чтение словаря и самопроверка",
+      "section": "Фонетика и орфоэпия",
+      "status": "draft",
+      "words_paragraph_rule": 193,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "редакторская помета в теории",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.word-formation.morpheme-types.foundation",
+      "module": "03.01",
+      "title": "Морфема: что именно выделяем",
+      "section": "Морфемика и словообразование",
+      "status": "draft",
+      "words_paragraph_rule": 171,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.word-formation.word-stem.foundation",
+      "module": "03.02",
+      "title": "Основа, окончание и отсутствие окончания",
+      "section": "Морфемика и словообразование",
+      "status": "draft",
+      "words_paragraph_rule": 150,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.word-formation.word-family.foundation",
+      "module": "03.03",
+      "title": "Формы слова, родство и омонимия корней",
+      "section": "Морфемика и словообразование",
+      "status": "draft",
+      "words_paragraph_rule": 141,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.word-formation.morpheme-alternations.foundation",
+      "module": "03.04",
+      "title": "Чередование в морфемах",
+      "section": "Морфемика и словообразование",
+      "status": "draft",
+      "words_paragraph_rule": 151,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.word-formation.derivation-methods.foundation",
+      "module": "03.05",
+      "title": "Способы образования слов",
+      "section": "Морфемика и словообразование",
+      "status": "draft",
+      "words_paragraph_rule": 156,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.word-formation.derivation-chain.foundation",
+      "module": "03.06",
+      "title": "Словообразовательные цепочки и разбор",
+      "section": "Морфемика и словообразование",
+      "status": "draft",
+      "words_paragraph_rule": 133,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.morphology.parts-of-speech.foundation",
+      "module": "04.01",
+      "title": "Части речи и признаки слова",
+      "section": "Морфология",
+      "status": "draft",
+      "words_paragraph_rule": 228,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.morphology.noun-morphology.foundation",
+      "module": "04.02",
+      "title": "Существительное: род, число, падеж, склонение",
+      "section": "Морфология",
+      "status": "draft",
+      "words_paragraph_rule": 318,
+      "flags": [
+        "пример до объяснения (проверить контекст)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.morphology.adjective-morphology.foundation",
+      "module": "04.03",
+      "title": "Прилагательное: значение, формы, сравнение",
+      "section": "Морфология",
+      "status": "draft",
+      "words_paragraph_rule": 306,
+      "flags": [
+        "пример до объяснения (проверить контекст)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.morphology.numeral-morphology.foundation",
+      "module": "04.04",
+      "title": "Числительные: значение и склонение",
+      "section": "Морфология",
+      "status": "draft",
+      "words_paragraph_rule": 312,
+      "flags": [
+        "пример до объяснения (проверить контекст)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.morphology.pronoun-morphology.foundation",
+      "module": "04.05",
+      "title": "Местоимения: указание, разряды и употребление",
+      "section": "Морфология",
+      "status": "draft",
+      "words_paragraph_rule": 359,
+      "flags": [
+        "пример до объяснения (проверить контекст)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.morphology.verb-morphology.foundation",
+      "module": "04.06",
+      "title": "Глагол: вид, время, лицо, наклонение, спряжение",
+      "section": "Морфология",
+      "status": "draft",
+      "words_paragraph_rule": 312,
+      "flags": [
+        "пример до объяснения (проверить контекст)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.morphology.verb-derived-forms.foundation",
+      "module": "04.07",
+      "title": "Причастия и деепричастия",
+      "section": "Морфология",
+      "status": "draft",
+      "words_paragraph_rule": 346,
+      "flags": [
+        "пример до объяснения (проверить контекст)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.morphology.adverb-state.foundation",
+      "module": "04.08",
+      "title": "Наречия и слова состояния",
+      "section": "Морфология",
+      "status": "draft",
+      "words_paragraph_rule": 294,
+      "flags": [
+        "пример до объяснения (проверить контекст)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.morphology.function-words.foundation",
+      "module": "04.09",
+      "title": "Предлоги, союзы, частицы, междометия",
+      "section": "Морфология",
+      "status": "draft",
+      "words_paragraph_rule": 258,
+      "flags": [
+        "пример до объяснения (проверить контекст)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.morphology.morphological-analysis.foundation",
+      "module": "04.10",
+      "title": "Омонимия частей речи и морфологический разбор",
+      "section": "Морфология",
+      "status": "draft",
+      "words_paragraph_rule": 266,
+      "flags": [
+        "пример до объяснения (проверить контекст)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.basis-core",
+      "module": "05.02",
+      "title": "Грамматическая основа: ядро сообщения",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 80,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.basis-count",
+      "module": "05.02",
+      "title": "Одна основа или несколько",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 70,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.subject",
+      "module": "05.03",
+      "title": "Подлежащее: форма и функция",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 71,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.predicate",
+      "module": "05.03",
+      "title": "Сказуемое: простое и составное",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 96,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.secondary-attribute",
+      "module": "05.04",
+      "title": "Определение и дополнение",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 67,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.secondary-adverbial",
+      "module": "05.04",
+      "title": "Обстоятельство: место, время, причина и образ действия",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 66,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.phrase-structure",
+      "module": "05.01",
+      "title": "Словосочетание: главное и зависимое слово",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 88,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.phrase-links",
+      "module": "05.01",
+      "title": "Согласование, управление и примыкание",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 76,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.one-part-types",
+      "module": "05.05",
+      "title": "Односоставные предложения: личные и безличные",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 84,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.incomplete",
+      "module": "05.05",
+      "title": "Полные и неполные предложения",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 66,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.homogeneity-syntax",
+      "module": "05.06",
+      "title": "Однородные члены как синтаксический ряд",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 73,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.complication-types",
+      "module": "05.06",
+      "title": "Осложнение простого предложения",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 67,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.isolated-members",
+      "module": "05.07",
+      "title": "Обособленные члены и уточнение",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 68,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.nonmembers",
+      "module": "05.07",
+      "title": "Вводность, обращения и вставки в синтаксическом разборе",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 69,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.coordinate-structure",
+      "module": "05.08",
+      "title": "ССП: границы предикативных частей",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 76,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.coordinate-relations",
+      "module": "05.08",
+      "title": "ССП: соединение, противопоставление и выбор",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 60,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.subordinate-links",
+      "module": "05.09",
+      "title": "СПП: главная часть, союз и союзное слово",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 78,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.subordinate-types",
+      "module": "05.09",
+      "title": "СПП: определительные, изъяснительные и обстоятельственные",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 69,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.asyndetic-relations",
+      "module": "05.10",
+      "title": "БСП: смысловые отношения между частями",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 76,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.mixed-links",
+      "module": "05.10",
+      "title": "Сложные предложения с разными видами связи",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 73,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.speech-forms",
+      "module": "05.11",
+      "title": "Прямая и косвенная речь: форма передачи",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 75,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.indirect-transformation",
+      "module": "05.11",
+      "title": "Косвенная речь: сообщение, вопрос, побуждение",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 83,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.sentence-analysis",
+      "module": "05.12",
+      "title": "Синтаксический разбор: от основ к структуре",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 72,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.syntax.information-structure",
+      "module": "05.12",
+      "title": "Порядок слов и актуальное членение",
+      "section": "Синтаксис",
+      "status": "draft",
+      "words_paragraph_rule": 88,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.root-vowels.foundation",
+      "module": "06.01",
+      "title": "Гласные корня: проверка, чередование и словарь",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 336,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.root-consonants.foundation",
+      "module": "06.02",
+      "title": "Согласные корня и удвоенные согласные",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 205,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.prefix-spelling.foundation",
+      "module": "06.03",
+      "title": "Приставки: постоянное написание, з/с, пре/при",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 336,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.separators.foundation",
+      "module": "06.04",
+      "title": "Разделительные Ъ и Ь, И/Ы после приставок",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 315,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.sibilant-vowels.foundation",
+      "module": "06.05",
+      "title": "Гласные после шипящих и Ц",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 324,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.noun-adjective-endings.foundation",
+      "module": "06.06",
+      "title": "Суффиксы и окончания имён",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 220,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.verb-spelling.foundation",
+      "module": "06.07",
+      "title": "Личные окончания глаголов и гласные причастий",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 307,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.double-n.foundation",
+      "module": "06.08",
+      "title": "Н и НН: именные и отглагольные образования",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 307,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.negation-spelling.foundation",
+      "module": "06.09",
+      "title": "НЕ и НИ: отрицание, усиление и написание",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 394,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.word-boundaries.foundation",
+      "module": "06.10",
+      "title": "Слитное, раздельное и дефисное написание",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 278,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.service-word-spelling.foundation",
+      "module": "06.11",
+      "title": "Наречия, предлоги, союзы и частицы",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 248,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.capital-letters.foundation",
+      "module": "06.12",
+      "title": "Прописные и строчные буквы: имена и наименования",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 240,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.hyphenation-abbreviations.foundation",
+      "module": "06.13",
+      "title": "Перенос, сокращения и графические обозначения",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 242,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.orthography.dictionary-yo.foundation",
+      "module": "06.14",
+      "title": "Словарные написания и буквы Ё/Е",
+      "section": "Орфография",
+      "status": "draft",
+      "words_paragraph_rule": 242,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.introductory-words",
+      "module": "07.08",
+      "title": "Вводные слова",
+      "section": "Пунктуация",
+      "status": "reviewed",
+      "words_paragraph_rule": 133,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 10,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.non-introductory-words",
+      "module": "07.08",
+      "title": "Слова, которые не являются вводными",
+      "section": "Пунктуация",
+      "status": "reviewed",
+      "words_paragraph_rule": 81,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 13,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.ambiguous-introductory",
+      "module": "07.08",
+      "title": "Вводность и грамматическая функция",
+      "section": "Пунктуация",
+      "status": "reviewed",
+      "words_paragraph_rule": 131,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 13,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.introductory-conjunctions",
+      "module": "07.08",
+      "title": "Вводные слова рядом с союзами",
+      "section": "Пунктуация",
+      "status": "reviewed",
+      "words_paragraph_rule": 97,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 8,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.introductory-boundaries",
+      "module": "07.08",
+      "title": "Вводные слова и обособленные обороты",
+      "section": "Пунктуация",
+      "status": "reviewed",
+      "words_paragraph_rule": 110,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.introductory-editing",
+      "module": "07.08",
+      "title": "Редакторская практика: вводные конструкции",
+      "section": "Пунктуация",
+      "status": "reviewed",
+      "words_paragraph_rule": 86,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 12,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.homogeneous-basic",
+      "module": "07.03",
+      "title": "Однородные члены: перечисление и одиночные союзы",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 96,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.homogeneous-repeated",
+      "module": "07.03",
+      "title": "Повторяющиеся союзы и группы однородных членов",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 99,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.homogeneous-double",
+      "module": "07.03",
+      "title": "Двойные союзы и сопоставление",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 77,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.homogeneous-definitions",
+      "module": "07.03",
+      "title": "Однородные и неоднородные определения",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 85,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.homogeneous-generalizing",
+      "module": "07.03",
+      "title": "Обобщающие слова: двоеточие и тире",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 112,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.addresses",
+      "module": "07.08",
+      "title": "Обращения: адресат и грамматическая основа",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 100,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.insertions",
+      "module": "07.08",
+      "title": "Вставные конструкции: скобки и тире",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 102,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.end-basic",
+      "module": "07.01",
+      "title": "Точка, вопросительный и восклицательный знаки",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 70,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.end-ellipsis",
+      "module": "07.01",
+      "title": "Многоточие и сочетания знаков",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 63,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.dash-predicate",
+      "module": "07.02",
+      "title": "Тире между подлежащим и сказуемым",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 98,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.dash-incomplete",
+      "module": "07.02",
+      "title": "Тире в неполных предложениях",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 76,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.participle-punctuation",
+      "module": "07.04",
+      "title": "Причастный оборот: позиция и обособление",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 74,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.gerund-punctuation",
+      "module": "07.04",
+      "title": "Деепричастный оборот и границы обособления",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 58,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.detached-definitions",
+      "module": "07.05",
+      "title": "Обособленные определения и приложения",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 76,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.detached-circumstances",
+      "module": "07.05",
+      "title": "Обстоятельства: уступка и обычная связь",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 79,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.clarification",
+      "module": "07.06",
+      "title": "Уточнение: от общего к конкретному",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 71,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.explanation-attachment",
+      "module": "07.06",
+      "title": "Пояснение и присоединение",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 85,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.comparison-free",
+      "module": "07.07",
+      "title": "Сравнение и тесная связь со сказуемым",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 68,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.comparison-role",
+      "module": "07.07",
+      "title": "Обороты с как: роль и причина",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 68,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.coordinate-marks",
+      "module": "07.09",
+      "title": "ССП: границы частей и запятая",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 73,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.coordinate-common",
+      "module": "07.09",
+      "title": "ССП: общий компонент и отсутствие запятой",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 84,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.subordinate-marks",
+      "module": "07.10",
+      "title": "СПП: границы придаточных и однородность",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 75,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.subordinate-junction",
+      "module": "07.10",
+      "title": "СПП: стык союзов и соотносительное то",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 88,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.asyndetic-colon-dash",
+      "module": "07.11",
+      "title": "БСП: двоеточие и тире",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 81,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.asyndetic-enumeration",
+      "module": "07.11",
+      "title": "БСП: запятая, точка с запятой и смысловые блоки",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 81,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.mixed-punctuation.foundation",
+      "module": "07.12",
+      "title": "Смешанные предложения: границы частей и блоков",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 221,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.direct-speech-marks.foundation",
+      "module": "07.13",
+      "title": "Прямая речь, цитаты и диалог: схемы оформления",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 334,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.punctuation.punctuation-variation.foundation",
+      "module": "07.14",
+      "title": "Обязательные, факультативные и авторские знаки",
+      "section": "Пунктуация",
+      "status": "draft",
+      "words_paragraph_rule": 223,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)",
+        "нет явных предварительных связей (проверить)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.lexicon.lexical-meaning.foundation",
+      "module": "08.01",
+      "title": "Лексическое значение и многозначность",
+      "section": "Лексика, семантика и фразеология",
+      "status": "draft",
+      "words_paragraph_rule": 165,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.lexicon.figurative-meaning.foundation",
+      "module": "08.02",
+      "title": "Прямое и переносное значение",
+      "section": "Лексика, семантика и фразеология",
+      "status": "draft",
+      "words_paragraph_rule": 169,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.lexicon.lexical-relations.foundation",
+      "module": "08.03",
+      "title": "Синонимы, антонимы и омонимы",
+      "section": "Лексика, семантика и фразеология",
+      "status": "draft",
+      "words_paragraph_rule": 171,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.lexicon.paronyms-collocation.foundation",
+      "module": "08.04",
+      "title": "Паронимы и лексическая сочетаемость",
+      "section": "Лексика, семантика и фразеология",
+      "status": "draft",
+      "words_paragraph_rule": 157,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.lexicon.lexical-layers.foundation",
+      "module": "08.05",
+      "title": "Термины, заимствования, архаизмы и неологизмы",
+      "section": "Лексика, семантика и фразеология",
+      "status": "draft",
+      "words_paragraph_rule": 156,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.lexicon.idioms.foundation",
+      "module": "08.06",
+      "title": "Фразеологизмы и устойчивые выражения",
+      "section": "Лексика, семантика и фразеология",
+      "status": "draft",
+      "words_paragraph_rule": 166,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.lexicon.register-connotation.foundation",
+      "module": "08.07",
+      "title": "Коннотации, регистры, диалекты и жаргон",
+      "section": "Лексика, семантика и фразеология",
+      "status": "draft",
+      "words_paragraph_rule": 173,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.lexicon.dictionary-vocabulary.foundation",
+      "module": "08.08",
+      "title": "Словарный запас и работа с толковым словарём",
+      "section": "Лексика, семантика и фразеология",
+      "status": "draft",
+      "words_paragraph_rule": 176,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.history.russian-language-history.foundation",
+      "module": "09.01",
+      "title": "Происхождение и развитие русского языка",
+      "section": "История языка и этимология",
+      "status": "draft",
+      "words_paragraph_rule": 186,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.history.slavonic-layers.foundation",
+      "module": "09.02",
+      "title": "Славянские языки и старославянизмы",
+      "section": "История языка и этимология",
+      "status": "draft",
+      "words_paragraph_rule": 172,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.history.writing-reforms.foundation",
+      "module": "09.03",
+      "title": "История письменности, алфавита и орфографии",
+      "section": "История языка и этимология",
+      "status": "draft",
+      "words_paragraph_rule": 188,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.history.historical-changes.foundation",
+      "module": "09.04",
+      "title": "Исторические звуковые и грамматические изменения",
+      "section": "История языка и этимология",
+      "status": "draft",
+      "words_paragraph_rule": 202,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.history.borrowing-etymology.foundation",
+      "module": "09.05",
+      "title": "Заимствования и этимология слов",
+      "section": "История языка и этимология",
+      "status": "draft",
+      "words_paragraph_rule": 191,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.history.scientific-etymology.foundation",
+      "module": "09.06",
+      "title": "Научная этимология и народные этимологии",
+      "section": "История языка и этимология",
+      "status": "draft",
+      "words_paragraph_rule": 179,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.speech-culture.norm-register.foundation",
+      "module": "10.01",
+      "title": "Литературная норма, сфера и допустимые варианты",
+      "section": "Культура речи",
+      "status": "draft",
+      "words_paragraph_rule": 190,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.speech-culture.noun-norms.foundation",
+      "module": "10.02",
+      "title": "Род, число и падеж трудных существительных",
+      "section": "Культура речи",
+      "status": "draft",
+      "words_paragraph_rule": 169,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.speech-culture.proper-name-declension.foundation",
+      "module": "10.03",
+      "title": "Склонение имён, фамилий и географических названий",
+      "section": "Культура речи",
+      "status": "draft",
+      "words_paragraph_rule": 191,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.speech-culture.numeral-norms.foundation",
+      "module": "10.04",
+      "title": "Числительные и согласование количественных конструкций",
+      "section": "Культура речи",
+      "status": "draft",
+      "words_paragraph_rule": 185,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.speech-culture.verb-government.foundation",
+      "module": "10.05",
+      "title": "Глагольные формы и управление",
+      "section": "Культура речи",
+      "status": "draft",
+      "words_paragraph_rule": 168,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+      "module": "10.06",
+      "title": "Согласование подлежащего и сказуемого",
+      "section": "Культура речи",
+      "status": "draft",
+      "words_paragraph_rule": 185,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.speech-culture.participle-construction-norms.foundation",
+      "module": "10.07",
+      "title": "Ошибки в причастных и деепричастных конструкциях",
+      "section": "Культура речи",
+      "status": "draft",
+      "words_paragraph_rule": 165,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.speech-culture.speech-errors.foundation",
+      "module": "10.08",
+      "title": "Речевые ошибки: плеоназм, тавтология, смешение паронимов",
+      "section": "Культура речи",
+      "status": "draft",
+      "words_paragraph_rule": 161,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.speech-culture.speech-etiquette.foundation",
+      "module": "10.09",
+      "title": "Речевой этикет и уместность",
+      "section": "Культура речи",
+      "status": "draft",
+      "words_paragraph_rule": 189,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.stylistics.functional-styles.foundation",
+      "module": "11.01",
+      "title": "Функциональные стили и жанры",
+      "section": "Стилистика и редактирование",
+      "status": "draft",
+      "words_paragraph_rule": 163,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.stylistics.clarity-precision.foundation",
+      "module": "11.02",
+      "title": "Точность, ясность и логичность",
+      "section": "Стилистика и редактирование",
+      "status": "draft",
+      "words_paragraph_rule": 134,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.stylistics.text-cohesion.foundation",
+      "module": "11.03",
+      "title": "Связность текста и абзац",
+      "section": "Стилистика и редактирование",
+      "status": "draft",
+      "words_paragraph_rule": 141,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.stylistics.sentence-rhythm.foundation",
+      "module": "11.04",
+      "title": "Порядок слов, ритм и длина предложения",
+      "section": "Стилистика и редактирование",
+      "status": "draft",
+      "words_paragraph_rule": 145,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.stylistics.verbal-economy.foundation",
+      "module": "11.05",
+      "title": "Канцелярит, штампы, повторы и многословие",
+      "section": "Стилистика и редактирование",
+      "status": "draft",
+      "words_paragraph_rule": 153,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.stylistics.tropes-figures.foundation",
+      "module": "11.06",
+      "title": "Выразительные средства: тропы и фигуры речи",
+      "section": "Стилистика и редактирование",
+      "status": "draft",
+      "words_paragraph_rule": 136,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.stylistics.author-voice.foundation",
+      "module": "11.07",
+      "title": "Авторский голос и мотивированные отступления",
+      "section": "Стилистика и редактирование",
+      "status": "draft",
+      "words_paragraph_rule": 150,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.stylistics.editorial-diagnosis.foundation",
+      "module": "11.08",
+      "title": "Редакторская диагностика: смысл, структура, язык",
+      "section": "Стилистика и редактирование",
+      "status": "draft",
+      "words_paragraph_rule": 148,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.stylistics.proofreading-typography.foundation",
+      "module": "11.09",
+      "title": "Корректура, типографика, кавычки, дефис и тире",
+      "section": "Стилистика и редактирование",
+      "status": "draft",
+      "words_paragraph_rule": 180,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.stylistics.revision-comparison.foundation",
+      "module": "11.10",
+      "title": "Сравнение нескольких вариантов правки",
+      "section": "Стилистика и редактирование",
+      "status": "draft",
+      "words_paragraph_rule": 146,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.argumentation.thesis-evidence.foundation",
+      "module": "12.01",
+      "title": "Тезис, аргумент, доказательство и пример",
+      "section": "Речь, аргументация и жанры",
+      "status": "draft",
+      "words_paragraph_rule": 149,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.argumentation.logic-fallacies.foundation",
+      "module": "12.02",
+      "title": "Логические ошибки и манипуляции",
+      "section": "Речь, аргументация и жанры",
+      "status": "draft",
+      "words_paragraph_rule": 173,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.argumentation.reasoning-counterarguments.foundation",
+      "module": "12.03",
+      "title": "Структура рассуждения и контраргументация",
+      "section": "Речь, аргументация и жанры",
+      "status": "draft",
+      "words_paragraph_rule": 143,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.argumentation.business-correspondence.foundation",
+      "module": "12.04",
+      "title": "Деловое письмо и рабочая переписка",
+      "section": "Речь, аргументация и жанры",
+      "status": "draft",
+      "words_paragraph_rule": 148,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.argumentation.analytical-memo.foundation",
+      "module": "12.05",
+      "title": "Аналитическая записка и объяснение сложного",
+      "section": "Речь, аргументация и жанры",
+      "status": "draft",
+      "words_paragraph_rule": 166,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.argumentation.public-science-writing.foundation",
+      "module": "12.06",
+      "title": "Публицистический и научно-популярный текст",
+      "section": "Речь, аргументация и жанры",
+      "status": "draft",
+      "words_paragraph_rule": 157,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.argumentation.oral-speech-discussion.foundation",
+      "module": "12.07",
+      "title": "Устная речь, выступление и дискуссия",
+      "section": "Речь, аргументация и жанры",
+      "status": "draft",
+      "words_paragraph_rule": 175,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    },
+    {
+      "id": "ru.argumentation.independent-writing.foundation",
+      "module": "12.08",
+      "title": "Самостоятельный текст и его редактура",
+      "section": "Речь, аргументация и жанры",
+      "status": "draft",
+      "words_paragraph_rule": 188,
+      "flags": [
+        "пример до объяснения (проверить контекст)",
+        "менее 250 слов в абзацах и правилах (сигнал, не оценка)"
+      ],
+      "practice": 7,
+      "first_block": "example",
+      "manual_review": "предстоит"
+    }
+  ]
+}

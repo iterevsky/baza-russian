@@ -48,3 +48,15 @@ html{scroll-padding-top:80px;scroll-padding-bottom:90px}.article [id]{scroll-mar
 .content .lesson-layout{grid-template-columns:minmax(0,1fr) minmax(0,190px)}
 @media(max-width:1000px){.content .lesson-layout{grid-template-columns:minmax(0,1fr)}.content .two{grid-template-columns:minmax(0,1fr)}}
 @media(max-width:480px){.content .stats{grid-template-columns:repeat(auto-fit,minmax(min(100%,7rem),1fr))}.content .sectionhead{align-items:start;gap:6px 12px}.content .action>*{max-width:100%}.content .tabs{gap:8px 16px}}
+
+/* Learning path, introduction and guided reflection. */
+.lesson-path{margin:2.2rem 0 0;padding:1.3rem 0;border-top:1px solid var(--line)}
+.path-position,.path-hint,.path-pull{font:0.85rem/1.6 var(--sans,system-ui);color:var(--muted);margin:.5rem 0 1rem}
+.path-links{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.75rem}
+.path-link{min-width:0;display:grid;gap:.6rem;align-content:start;text-align:left;background:var(--panel,var(--paper));border:1px solid var(--line);padding:1rem;color:inherit;cursor:pointer;border-radius:4px;overflow-wrap:anywhere;white-space:normal}
+.path-link strong{font-size:1rem;line-height:1.45}.path-label{font-size:.8rem;color:var(--accent-ink,var(--accent));font-weight:600}
+.path-pull{display:none}.guided-check{border:1px solid var(--line);border-left:3px solid var(--accent);padding:1rem;margin:1.5rem 0;background:var(--panel,var(--paper));min-width:0;overflow-wrap:anywhere}.guided-check summary{cursor:pointer;font-weight:600;padding:.6rem 0}.guided-check details p{margin:.5rem 0 0}.course-intro{max-width:50rem;margin-inline:auto}.course-intro li{margin:.6em 0}
+@media(max-width:600px){.path-links{grid-template-columns:1fr}.path-pull{display:block;padding:1rem;text-align:center;border:1px dashed var(--line);touch-action:pan-y}.path-link{padding:1rem}}
+@media print{.lesson-path,.path-pull{display:none}}
+
+.learning-goals{border-top:1px solid var(--line);padding:.75rem 0;margin:1rem 0}.article .learning-goals h2{font:600 1rem/1.4 var(--sans);margin:.2rem 0}.learning-goals ul{padding-inline-start:1.4rem;margin:.5rem 0}.learning-goals li{margin:.3rem 0}.guided-check details summary{white-space:normal}.editorial-status{padding:.7rem 0;border-top:1px solid var(--line);margin-top:1rem}
