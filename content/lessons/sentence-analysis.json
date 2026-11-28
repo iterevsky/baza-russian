@@ -14,7 +14,12 @@
     "различать одно- и двусоставность",
     "классифицировать сложные предложения по связи"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.mixed-links",
+    "ru.syntax.one-part-types",
+    "ru.syntax.isolated-members",
+    "ru.syntax.nonmembers"
+  ],
   "related": [
     "ru.syntax.basis-core",
     "ru.syntax.predicate",

@@ -14,7 +14,10 @@
     "выбирать парные знаки по условию",
     "сохранять структуру основного предложения"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.nonmembers",
+    "ru.punctuation.introductory-words"
+  ],
   "related": [
     "ru.punctuation.introductory-words",
     "ru.punctuation.introductory-editing"

@@ -14,7 +14,10 @@
     "выделять источник сообщения",
     "находить обе границы вводного слова"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.nonmembers",
+    "ru.syntax.complication-types"
+  ],
   "related": [],
   "source": {
     "title": "Полный академический справочник под ред. В. В. Лопатина: §§ 91, 96",

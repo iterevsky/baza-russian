@@ -14,7 +14,12 @@
     "подбирать проверочное слово с учётом значения",
     "применять условия чередования и распознавать исключения"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.word-formation.word-family.foundation",
+    "ru.word-formation.morpheme-alternations.foundation",
+    "ru.phonetics.syllable-stress.foundation",
+    "ru.language.dictionary-method.foundation"
+  ],
   "related": [],
   "source": {
     "title": "Полный академический справочник под ред. В. В. Лопатина: Проверяемые, непроверяемые и чередующиеся гласные корня",

@@ -14,7 +14,9 @@
     "выделять пары внутри ряда",
     "отличать фразеологическую цельность"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.homogeneous-basic"
+  ],
   "related": [
     "ru.punctuation.homogeneous-basic"
   ],

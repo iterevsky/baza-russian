@@ -14,7 +14,9 @@
     "Понимать словарные пометы и допустимые варианты.",
     "Выбирать подходящий источник при сомнении."
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.language.language-speech-text.foundation"
+  ],
   "related": [
     "ru.language.language-speech-text.foundation",
     "ru.language.language-levels.foundation"

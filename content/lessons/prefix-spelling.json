@@ -14,7 +14,10 @@
     "выбирать пре-/при- по контексту",
     "выявлять словарные случаи"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.word-formation.morpheme-types.foundation",
+    "ru.phonetics.vowels-consonants.foundation"
+  ],
   "related": [
     "ru.orthography.root-consonants.foundation"
   ],

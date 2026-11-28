@@ -14,7 +14,11 @@
     "находить границы деепричастного оборота",
     "отличать наречные и устойчивые сочетания"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.morphology.verb-derived-forms.foundation",
+    "ru.syntax.isolated-members",
+    "ru.syntax.secondary-adverbial"
+  ],
   "related": [
     "ru.syntax.isolated-members",
     "ru.syntax.secondary-adverbial"

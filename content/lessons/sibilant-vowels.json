@@ -14,7 +14,11 @@
     "применять правило и/ы после ц",
     "знать типовые словарные исключения"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.phonetics.vowels-consonants.foundation",
+    "ru.phonetics.syllable-stress.foundation",
+    "ru.word-formation.word-stem.foundation"
+  ],
   "related": [
     "ru.orthography.separators.foundation"
   ],

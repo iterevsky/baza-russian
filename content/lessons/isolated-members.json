@@ -14,7 +14,11 @@
     "отличать приложение от обстоятельства",
     "распознавать уточнение по сужению смысла"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.complication-types",
+    "ru.syntax.secondary-attribute",
+    "ru.syntax.secondary-adverbial"
+  ],
   "related": [
     "ru.syntax.complication-types",
     "ru.punctuation.introductory-words"

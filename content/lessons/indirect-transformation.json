@@ -14,7 +14,10 @@
     "передавать общий и специальный вопрос",
     "преобразовывать побуждение в зависимую конструкцию"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.speech-forms",
+    "ru.syntax.subordinate-types"
+  ],
   "related": [
     "ru.syntax.speech-forms",
     "ru.syntax.subordinate-types"

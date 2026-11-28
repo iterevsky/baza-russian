@@ -1,0 +1,1628 @@
+[
+  {
+    "id": "ru.language.language-speech-text.foundation",
+    "title": "Язык, речь и текст",
+    "module": "01.01",
+    "prerequisites": [],
+    "added": []
+  },
+  {
+    "id": "ru.language.language-levels.foundation",
+    "title": "Уровни языка: от звука к предложению",
+    "module": "01.02",
+    "prerequisites": [
+      "ru.language.language-speech-text.foundation"
+    ],
+    "added": [
+      "ru.language.language-speech-text.foundation"
+    ]
+  },
+  {
+    "id": "ru.language.language-norm.foundation",
+    "title": "Литературная норма и уместность",
+    "module": "01.03",
+    "prerequisites": [
+      "ru.language.language-speech-text.foundation"
+    ],
+    "added": [
+      "ru.language.language-speech-text.foundation"
+    ]
+  },
+  {
+    "id": "ru.language.dictionary-method.foundation",
+    "title": "Словари и справочники: как проверять себя",
+    "module": "01.04",
+    "prerequisites": [
+      "ru.language.language-norm.foundation"
+    ],
+    "added": [
+      "ru.language.language-norm.foundation"
+    ]
+  },
+  {
+    "id": "ru.phonetics.sounds-letters.foundation",
+    "title": "Звуки и буквы: что именно мы считаем",
+    "module": "02.01",
+    "prerequisites": [
+      "ru.language.language-levels.foundation"
+    ],
+    "added": [
+      "ru.language.language-levels.foundation"
+    ]
+  },
+  {
+    "id": "ru.phonetics.vowels-consonants.foundation",
+    "title": "Гласные и согласные: признаки звучания",
+    "module": "02.02",
+    "prerequisites": [
+      "ru.phonetics.sounds-letters.foundation"
+    ],
+    "added": [
+      "ru.phonetics.sounds-letters.foundation"
+    ]
+  },
+  {
+    "id": "ru.phonetics.syllable-stress.foundation",
+    "title": "Слог и ударение: структура слова и смысл",
+    "module": "02.03",
+    "prerequisites": [
+      "ru.phonetics.vowels-consonants.foundation"
+    ],
+    "added": [
+      "ru.phonetics.vowels-consonants.foundation"
+    ]
+  },
+  {
+    "id": "ru.phonetics.sound-changes.foundation",
+    "title": "Редукция, оглушение и ассимиляция",
+    "module": "02.04",
+    "prerequisites": [
+      "ru.phonetics.syllable-stress.foundation",
+      "ru.phonetics.vowels-consonants.foundation"
+    ],
+    "added": [
+      "ru.phonetics.syllable-stress.foundation",
+      "ru.phonetics.vowels-consonants.foundation"
+    ]
+  },
+  {
+    "id": "ru.phonetics.pronunciation-combinations.foundation",
+    "title": "Произношение сочетаний и заимствований: правило и словарь",
+    "module": "02.05",
+    "prerequisites": [
+      "ru.phonetics.sound-changes.foundation",
+      "ru.language.dictionary-method.foundation"
+    ],
+    "added": [
+      "ru.phonetics.sound-changes.foundation",
+      "ru.language.dictionary-method.foundation"
+    ]
+  },
+  {
+    "id": "ru.phonetics.stress-variants.foundation",
+    "title": "Варианты ударения: чтение словаря и самопроверка",
+    "module": "02.06",
+    "prerequisites": [
+      "ru.phonetics.syllable-stress.foundation",
+      "ru.language.dictionary-method.foundation"
+    ],
+    "added": [
+      "ru.phonetics.syllable-stress.foundation",
+      "ru.language.dictionary-method.foundation"
+    ]
+  },
+  {
+    "id": "ru.word-formation.morpheme-types.foundation",
+    "title": "Морфема: что именно выделяем",
+    "module": "03.01",
+    "prerequisites": [
+      "ru.language.language-levels.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.word-formation.word-stem.foundation",
+    "title": "Основа, окончание и отсутствие окончания",
+    "module": "03.02",
+    "prerequisites": [
+      "ru.word-formation.morpheme-types.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.word-formation.word-family.foundation",
+    "title": "Формы слова, родство и омонимия корней",
+    "module": "03.03",
+    "prerequisites": [
+      "ru.word-formation.morpheme-types.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.word-formation.morpheme-alternations.foundation",
+    "title": "Чередование в морфемах",
+    "module": "03.04",
+    "prerequisites": [
+      "ru.word-formation.word-family.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.word-formation.derivation-methods.foundation",
+    "title": "Способы образования слов",
+    "module": "03.05",
+    "prerequisites": [
+      "ru.word-formation.morpheme-types.foundation",
+      "ru.word-formation.word-family.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.word-formation.derivation-chain.foundation",
+    "title": "Словообразовательные цепочки и разбор",
+    "module": "03.06",
+    "prerequisites": [
+      "ru.word-formation.derivation-methods.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.morphology.parts-of-speech.foundation",
+    "title": "Части речи и признаки слова",
+    "module": "04.01",
+    "prerequisites": [
+      "ru.language.language-levels.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.morphology.noun-morphology.foundation",
+    "title": "Существительное: род, число, падеж, склонение",
+    "module": "04.02",
+    "prerequisites": [
+      "ru.morphology.parts-of-speech.foundation",
+      "ru.word-formation.word-stem.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.morphology.adjective-morphology.foundation",
+    "title": "Прилагательное: значение, формы, сравнение",
+    "module": "04.03",
+    "prerequisites": [
+      "ru.morphology.parts-of-speech.foundation",
+      "ru.morphology.noun-morphology.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.morphology.numeral-morphology.foundation",
+    "title": "Числительные: значение и склонение",
+    "module": "04.04",
+    "prerequisites": [
+      "ru.morphology.noun-morphology.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.morphology.pronoun-morphology.foundation",
+    "title": "Местоимения: указание, разряды и употребление",
+    "module": "04.05",
+    "prerequisites": [
+      "ru.morphology.parts-of-speech.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.morphology.verb-morphology.foundation",
+    "title": "Глагол: вид, время, лицо, наклонение, спряжение",
+    "module": "04.06",
+    "prerequisites": [
+      "ru.morphology.parts-of-speech.foundation",
+      "ru.word-formation.word-stem.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.morphology.verb-derived-forms.foundation",
+    "title": "Причастия и деепричастия",
+    "module": "04.07",
+    "prerequisites": [
+      "ru.morphology.verb-morphology.foundation",
+      "ru.morphology.adjective-morphology.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.morphology.adverb-state.foundation",
+    "title": "Наречия и слова состояния",
+    "module": "04.08",
+    "prerequisites": [
+      "ru.morphology.parts-of-speech.foundation",
+      "ru.morphology.adjective-morphology.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.morphology.function-words.foundation",
+    "title": "Предлоги, союзы, частицы, междометия",
+    "module": "04.09",
+    "prerequisites": [
+      "ru.morphology.parts-of-speech.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.morphology.morphological-analysis.foundation",
+    "title": "Омонимия частей речи и морфологический разбор",
+    "module": "04.10",
+    "prerequisites": [
+      "ru.morphology.parts-of-speech.foundation",
+      "ru.morphology.function-words.foundation",
+      "ru.morphology.verb-morphology.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.syntax.phrase-structure",
+    "title": "Словосочетание: главное и зависимое слово",
+    "module": "05.01",
+    "prerequisites": [
+      "ru.morphology.parts-of-speech.foundation",
+      "ru.morphology.noun-morphology.foundation",
+      "ru.morphology.verb-morphology.foundation"
+    ],
+    "added": [
+      "ru.morphology.parts-of-speech.foundation",
+      "ru.morphology.noun-morphology.foundation",
+      "ru.morphology.verb-morphology.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.phrase-links",
+    "title": "Согласование, управление и примыкание",
+    "module": "05.01",
+    "prerequisites": [
+      "ru.syntax.phrase-structure",
+      "ru.morphology.adjective-morphology.foundation",
+      "ru.morphology.noun-morphology.foundation"
+    ],
+    "added": [
+      "ru.syntax.phrase-structure",
+      "ru.morphology.adjective-morphology.foundation",
+      "ru.morphology.noun-morphology.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.basis-core",
+    "title": "Грамматическая основа: ядро сообщения",
+    "module": "05.02",
+    "prerequisites": [
+      "ru.syntax.phrase-structure",
+      "ru.morphology.verb-morphology.foundation",
+      "ru.morphology.noun-morphology.foundation"
+    ],
+    "added": [
+      "ru.syntax.phrase-structure",
+      "ru.morphology.verb-morphology.foundation",
+      "ru.morphology.noun-morphology.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.basis-count",
+    "title": "Одна основа или несколько",
+    "module": "05.02",
+    "prerequisites": [
+      "ru.syntax.basis-core",
+      "ru.morphology.verb-morphology.foundation"
+    ],
+    "added": [
+      "ru.syntax.basis-core",
+      "ru.morphology.verb-morphology.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.subject",
+    "title": "Подлежащее: форма и функция",
+    "module": "05.03",
+    "prerequisites": [
+      "ru.syntax.basis-core",
+      "ru.morphology.noun-morphology.foundation"
+    ],
+    "added": [
+      "ru.syntax.basis-core",
+      "ru.morphology.noun-morphology.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.predicate",
+    "title": "Сказуемое: простое и составное",
+    "module": "05.03",
+    "prerequisites": [
+      "ru.syntax.basis-core",
+      "ru.morphology.verb-morphology.foundation"
+    ],
+    "added": [
+      "ru.syntax.basis-core",
+      "ru.morphology.verb-morphology.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.secondary-attribute",
+    "title": "Определение и дополнение",
+    "module": "05.04",
+    "prerequisites": [
+      "ru.syntax.subject",
+      "ru.syntax.predicate",
+      "ru.syntax.phrase-links"
+    ],
+    "added": [
+      "ru.syntax.subject",
+      "ru.syntax.predicate",
+      "ru.syntax.phrase-links"
+    ]
+  },
+  {
+    "id": "ru.syntax.secondary-adverbial",
+    "title": "Обстоятельство: место, время, причина и образ действия",
+    "module": "05.04",
+    "prerequisites": [
+      "ru.syntax.secondary-attribute",
+      "ru.morphology.adverb-state.foundation"
+    ],
+    "added": [
+      "ru.syntax.secondary-attribute",
+      "ru.morphology.adverb-state.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.one-part-types",
+    "title": "Односоставные предложения: личные и безличные",
+    "module": "05.05",
+    "prerequisites": [
+      "ru.syntax.basis-core",
+      "ru.syntax.predicate",
+      "ru.morphology.verb-morphology.foundation"
+    ],
+    "added": [
+      "ru.syntax.basis-core",
+      "ru.syntax.predicate",
+      "ru.morphology.verb-morphology.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.incomplete",
+    "title": "Полные и неполные предложения",
+    "module": "05.05",
+    "prerequisites": [
+      "ru.syntax.one-part-types",
+      "ru.syntax.basis-core"
+    ],
+    "added": [
+      "ru.syntax.one-part-types",
+      "ru.syntax.basis-core"
+    ]
+  },
+  {
+    "id": "ru.syntax.homogeneity-syntax",
+    "title": "Однородные члены как синтаксический ряд",
+    "module": "05.06",
+    "prerequisites": [
+      "ru.syntax.secondary-adverbial",
+      "ru.syntax.basis-count",
+      "ru.morphology.function-words.foundation"
+    ],
+    "added": [
+      "ru.syntax.secondary-adverbial",
+      "ru.syntax.basis-count",
+      "ru.morphology.function-words.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.complication-types",
+    "title": "Осложнение простого предложения",
+    "module": "05.06",
+    "prerequisites": [
+      "ru.syntax.homogeneity-syntax",
+      "ru.morphology.verb-derived-forms.foundation"
+    ],
+    "added": [
+      "ru.syntax.homogeneity-syntax",
+      "ru.morphology.verb-derived-forms.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.isolated-members",
+    "title": "Обособленные члены и уточнение",
+    "module": "05.07",
+    "prerequisites": [
+      "ru.syntax.complication-types",
+      "ru.syntax.secondary-attribute",
+      "ru.syntax.secondary-adverbial"
+    ],
+    "added": [
+      "ru.syntax.complication-types",
+      "ru.syntax.secondary-attribute",
+      "ru.syntax.secondary-adverbial"
+    ]
+  },
+  {
+    "id": "ru.syntax.nonmembers",
+    "title": "Вводность, обращения и вставки в синтаксическом разборе",
+    "module": "05.07",
+    "prerequisites": [
+      "ru.syntax.complication-types",
+      "ru.syntax.basis-core"
+    ],
+    "added": [
+      "ru.syntax.complication-types",
+      "ru.syntax.basis-core"
+    ]
+  },
+  {
+    "id": "ru.syntax.coordinate-structure",
+    "title": "ССП: границы предикативных частей",
+    "module": "05.08",
+    "prerequisites": [
+      "ru.syntax.basis-count",
+      "ru.morphology.function-words.foundation"
+    ],
+    "added": [
+      "ru.syntax.basis-count",
+      "ru.morphology.function-words.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.coordinate-relations",
+    "title": "ССП: соединение, противопоставление и выбор",
+    "module": "05.08",
+    "prerequisites": [
+      "ru.syntax.coordinate-structure"
+    ],
+    "added": [
+      "ru.syntax.coordinate-structure"
+    ]
+  },
+  {
+    "id": "ru.syntax.subordinate-links",
+    "title": "СПП: главная часть, союз и союзное слово",
+    "module": "05.09",
+    "prerequisites": [
+      "ru.syntax.basis-count",
+      "ru.syntax.phrase-links",
+      "ru.morphology.function-words.foundation"
+    ],
+    "added": [
+      "ru.syntax.basis-count",
+      "ru.syntax.phrase-links",
+      "ru.morphology.function-words.foundation"
+    ]
+  },
+  {
+    "id": "ru.syntax.subordinate-types",
+    "title": "СПП: определительные, изъяснительные и обстоятельственные",
+    "module": "05.09",
+    "prerequisites": [
+      "ru.syntax.subordinate-links",
+      "ru.syntax.secondary-adverbial",
+      "ru.syntax.secondary-attribute"
+    ],
+    "added": [
+      "ru.syntax.subordinate-links",
+      "ru.syntax.secondary-adverbial",
+      "ru.syntax.secondary-attribute"
+    ]
+  },
+  {
+    "id": "ru.syntax.asyndetic-relations",
+    "title": "БСП: смысловые отношения между частями",
+    "module": "05.10",
+    "prerequisites": [
+      "ru.syntax.basis-count",
+      "ru.syntax.coordinate-relations"
+    ],
+    "added": [
+      "ru.syntax.basis-count",
+      "ru.syntax.coordinate-relations"
+    ]
+  },
+  {
+    "id": "ru.syntax.mixed-links",
+    "title": "Сложные предложения с разными видами связи",
+    "module": "05.10",
+    "prerequisites": [
+      "ru.syntax.coordinate-structure",
+      "ru.syntax.subordinate-types",
+      "ru.syntax.asyndetic-relations"
+    ],
+    "added": [
+      "ru.syntax.coordinate-structure",
+      "ru.syntax.subordinate-types",
+      "ru.syntax.asyndetic-relations"
+    ]
+  },
+  {
+    "id": "ru.syntax.speech-forms",
+    "title": "Прямая и косвенная речь: форма передачи",
+    "module": "05.11",
+    "prerequisites": [
+      "ru.morphology.pronoun-morphology.foundation",
+      "ru.syntax.subordinate-links"
+    ],
+    "added": [
+      "ru.morphology.pronoun-morphology.foundation",
+      "ru.syntax.subordinate-links"
+    ]
+  },
+  {
+    "id": "ru.syntax.indirect-transformation",
+    "title": "Косвенная речь: сообщение, вопрос, побуждение",
+    "module": "05.11",
+    "prerequisites": [
+      "ru.syntax.speech-forms",
+      "ru.syntax.subordinate-types"
+    ],
+    "added": [
+      "ru.syntax.speech-forms",
+      "ru.syntax.subordinate-types"
+    ]
+  },
+  {
+    "id": "ru.syntax.sentence-analysis",
+    "title": "Синтаксический разбор: от основ к структуре",
+    "module": "05.12",
+    "prerequisites": [
+      "ru.syntax.mixed-links",
+      "ru.syntax.one-part-types",
+      "ru.syntax.isolated-members",
+      "ru.syntax.nonmembers"
+    ],
+    "added": [
+      "ru.syntax.mixed-links",
+      "ru.syntax.one-part-types",
+      "ru.syntax.isolated-members",
+      "ru.syntax.nonmembers"
+    ]
+  },
+  {
+    "id": "ru.syntax.information-structure",
+    "title": "Порядок слов и актуальное членение",
+    "module": "05.12",
+    "prerequisites": [
+      "ru.syntax.sentence-analysis",
+      "ru.language.language-speech-text.foundation"
+    ],
+    "added": [
+      "ru.syntax.sentence-analysis",
+      "ru.language.language-speech-text.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.root-vowels.foundation",
+    "title": "Гласные корня: проверка, чередование и словарь",
+    "module": "06.01",
+    "prerequisites": [
+      "ru.word-formation.word-family.foundation",
+      "ru.word-formation.morpheme-alternations.foundation",
+      "ru.phonetics.syllable-stress.foundation",
+      "ru.language.dictionary-method.foundation"
+    ],
+    "added": [
+      "ru.word-formation.word-family.foundation",
+      "ru.word-formation.morpheme-alternations.foundation",
+      "ru.phonetics.syllable-stress.foundation",
+      "ru.language.dictionary-method.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.root-consonants.foundation",
+    "title": "Согласные корня и удвоенные согласные",
+    "module": "06.02",
+    "prerequisites": [
+      "ru.phonetics.sound-changes.foundation",
+      "ru.word-formation.word-family.foundation"
+    ],
+    "added": [
+      "ru.phonetics.sound-changes.foundation",
+      "ru.word-formation.word-family.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.prefix-spelling.foundation",
+    "title": "Приставки: постоянное написание, з/с, пре/при",
+    "module": "06.03",
+    "prerequisites": [
+      "ru.word-formation.morpheme-types.foundation",
+      "ru.phonetics.vowels-consonants.foundation"
+    ],
+    "added": [
+      "ru.word-formation.morpheme-types.foundation",
+      "ru.phonetics.vowels-consonants.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.separators.foundation",
+    "title": "Разделительные Ъ и Ь, И/Ы после приставок",
+    "module": "06.04",
+    "prerequisites": [
+      "ru.orthography.prefix-spelling.foundation",
+      "ru.phonetics.sounds-letters.foundation"
+    ],
+    "added": [
+      "ru.orthography.prefix-spelling.foundation",
+      "ru.phonetics.sounds-letters.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.sibilant-vowels.foundation",
+    "title": "Гласные после шипящих и Ц",
+    "module": "06.05",
+    "prerequisites": [
+      "ru.phonetics.vowels-consonants.foundation",
+      "ru.phonetics.syllable-stress.foundation",
+      "ru.word-formation.word-stem.foundation"
+    ],
+    "added": [
+      "ru.phonetics.vowels-consonants.foundation",
+      "ru.phonetics.syllable-stress.foundation",
+      "ru.word-formation.word-stem.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.noun-adjective-endings.foundation",
+    "title": "Суффиксы и окончания имён",
+    "module": "06.06",
+    "prerequisites": [
+      "ru.morphology.noun-morphology.foundation",
+      "ru.morphology.adjective-morphology.foundation",
+      "ru.word-formation.word-stem.foundation"
+    ],
+    "added": [
+      "ru.morphology.noun-morphology.foundation",
+      "ru.morphology.adjective-morphology.foundation",
+      "ru.word-formation.word-stem.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.verb-spelling.foundation",
+    "title": "Личные окончания глаголов и гласные причастий",
+    "module": "06.07",
+    "prerequisites": [
+      "ru.morphology.verb-morphology.foundation",
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.word-formation.word-stem.foundation"
+    ],
+    "added": [
+      "ru.morphology.verb-morphology.foundation",
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.word-formation.word-stem.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.double-n.foundation",
+    "title": "Н и НН: именные и отглагольные образования",
+    "module": "06.08",
+    "prerequisites": [
+      "ru.morphology.adjective-morphology.foundation",
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.word-formation.derivation-methods.foundation"
+    ],
+    "added": [
+      "ru.morphology.adjective-morphology.foundation",
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.word-formation.derivation-methods.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.negation-spelling.foundation",
+    "title": "НЕ и НИ: отрицание, усиление и написание",
+    "module": "06.09",
+    "prerequisites": [
+      "ru.morphology.function-words.foundation",
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.morphology.adverb-state.foundation"
+    ],
+    "added": [
+      "ru.morphology.function-words.foundation",
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.morphology.adverb-state.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.word-boundaries.foundation",
+    "title": "Слитное, раздельное и дефисное написание",
+    "module": "06.10",
+    "prerequisites": [
+      "ru.word-formation.derivation-methods.foundation",
+      "ru.morphology.noun-morphology.foundation",
+      "ru.morphology.adjective-morphology.foundation"
+    ],
+    "added": [
+      "ru.word-formation.derivation-methods.foundation",
+      "ru.morphology.noun-morphology.foundation",
+      "ru.morphology.adjective-morphology.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.service-word-spelling.foundation",
+    "title": "Наречия, предлоги, союзы и частицы",
+    "module": "06.11",
+    "prerequisites": [
+      "ru.morphology.function-words.foundation",
+      "ru.morphology.adverb-state.foundation",
+      "ru.syntax.phrase-links"
+    ],
+    "added": [
+      "ru.morphology.function-words.foundation",
+      "ru.morphology.adverb-state.foundation",
+      "ru.syntax.phrase-links"
+    ]
+  },
+  {
+    "id": "ru.orthography.capital-letters.foundation",
+    "title": "Прописные и строчные буквы: имена и наименования",
+    "module": "06.12",
+    "prerequisites": [
+      "ru.morphology.noun-morphology.foundation",
+      "ru.language.language-norm.foundation"
+    ],
+    "added": [
+      "ru.morphology.noun-morphology.foundation",
+      "ru.language.language-norm.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.hyphenation-abbreviations.foundation",
+    "title": "Перенос, сокращения и графические обозначения",
+    "module": "06.13",
+    "prerequisites": [
+      "ru.phonetics.syllable-stress.foundation",
+      "ru.phonetics.sounds-letters.foundation"
+    ],
+    "added": [
+      "ru.phonetics.syllable-stress.foundation",
+      "ru.phonetics.sounds-letters.foundation"
+    ]
+  },
+  {
+    "id": "ru.orthography.dictionary-yo.foundation",
+    "title": "Словарные написания и буквы Ё/Е",
+    "module": "06.14",
+    "prerequisites": [
+      "ru.phonetics.sounds-letters.foundation",
+      "ru.language.dictionary-method.foundation"
+    ],
+    "added": [
+      "ru.phonetics.sounds-letters.foundation",
+      "ru.language.dictionary-method.foundation"
+    ]
+  },
+  {
+    "id": "ru.punctuation.end-basic",
+    "title": "Точка, вопросительный и восклицательный знаки",
+    "module": "07.01",
+    "prerequisites": [
+      "ru.language.language-speech-text.foundation",
+      "ru.syntax.basis-core"
+    ],
+    "added": [
+      "ru.language.language-speech-text.foundation",
+      "ru.syntax.basis-core"
+    ]
+  },
+  {
+    "id": "ru.punctuation.end-ellipsis",
+    "title": "Многоточие и сочетания знаков",
+    "module": "07.01",
+    "prerequisites": [
+      "ru.punctuation.end-basic"
+    ],
+    "added": [
+      "ru.punctuation.end-basic"
+    ]
+  },
+  {
+    "id": "ru.punctuation.dash-predicate",
+    "title": "Тире между подлежащим и сказуемым",
+    "module": "07.02",
+    "prerequisites": [
+      "ru.syntax.subject",
+      "ru.syntax.predicate"
+    ],
+    "added": [
+      "ru.syntax.subject",
+      "ru.syntax.predicate"
+    ]
+  },
+  {
+    "id": "ru.punctuation.dash-incomplete",
+    "title": "Тире в неполных предложениях",
+    "module": "07.02",
+    "prerequisites": [
+      "ru.syntax.incomplete",
+      "ru.punctuation.dash-predicate"
+    ],
+    "added": [
+      "ru.syntax.incomplete",
+      "ru.punctuation.dash-predicate"
+    ]
+  },
+  {
+    "id": "ru.punctuation.homogeneous-basic",
+    "title": "Однородные члены: перечисление и одиночные союзы",
+    "module": "07.03",
+    "prerequisites": [
+      "ru.syntax.homogeneity-syntax"
+    ],
+    "added": [
+      "ru.syntax.homogeneity-syntax"
+    ]
+  },
+  {
+    "id": "ru.punctuation.homogeneous-repeated",
+    "title": "Повторяющиеся союзы и группы однородных членов",
+    "module": "07.03",
+    "prerequisites": [
+      "ru.punctuation.homogeneous-basic"
+    ],
+    "added": [
+      "ru.punctuation.homogeneous-basic"
+    ]
+  },
+  {
+    "id": "ru.punctuation.homogeneous-double",
+    "title": "Двойные союзы и сопоставление",
+    "module": "07.03",
+    "prerequisites": [
+      "ru.punctuation.homogeneous-basic"
+    ],
+    "added": [
+      "ru.punctuation.homogeneous-basic"
+    ]
+  },
+  {
+    "id": "ru.punctuation.homogeneous-definitions",
+    "title": "Однородные и неоднородные определения",
+    "module": "07.03",
+    "prerequisites": [
+      "ru.punctuation.homogeneous-basic",
+      "ru.syntax.secondary-attribute"
+    ],
+    "added": [
+      "ru.punctuation.homogeneous-basic",
+      "ru.syntax.secondary-attribute"
+    ]
+  },
+  {
+    "id": "ru.punctuation.homogeneous-generalizing",
+    "title": "Обобщающие слова: двоеточие и тире",
+    "module": "07.03",
+    "prerequisites": [
+      "ru.punctuation.homogeneous-basic"
+    ],
+    "added": [
+      "ru.punctuation.homogeneous-basic"
+    ]
+  },
+  {
+    "id": "ru.punctuation.participle-punctuation",
+    "title": "Причастный оборот: позиция и обособление",
+    "module": "07.04",
+    "prerequisites": [
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.syntax.isolated-members",
+      "ru.syntax.secondary-attribute"
+    ],
+    "added": [
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.syntax.isolated-members",
+      "ru.syntax.secondary-attribute"
+    ]
+  },
+  {
+    "id": "ru.punctuation.gerund-punctuation",
+    "title": "Деепричастный оборот и границы обособления",
+    "module": "07.04",
+    "prerequisites": [
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.syntax.isolated-members",
+      "ru.syntax.secondary-adverbial"
+    ],
+    "added": [
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.syntax.isolated-members",
+      "ru.syntax.secondary-adverbial"
+    ]
+  },
+  {
+    "id": "ru.punctuation.detached-definitions",
+    "title": "Обособленные определения и приложения",
+    "module": "07.05",
+    "prerequisites": [
+      "ru.punctuation.participle-punctuation",
+      "ru.syntax.isolated-members"
+    ],
+    "added": [
+      "ru.punctuation.participle-punctuation",
+      "ru.syntax.isolated-members"
+    ]
+  },
+  {
+    "id": "ru.punctuation.detached-circumstances",
+    "title": "Обстоятельства: уступка и обычная связь",
+    "module": "07.05",
+    "prerequisites": [
+      "ru.punctuation.gerund-punctuation",
+      "ru.syntax.secondary-adverbial"
+    ],
+    "added": [
+      "ru.punctuation.gerund-punctuation",
+      "ru.syntax.secondary-adverbial"
+    ]
+  },
+  {
+    "id": "ru.punctuation.clarification",
+    "title": "Уточнение: от общего к конкретному",
+    "module": "07.06",
+    "prerequisites": [
+      "ru.syntax.isolated-members",
+      "ru.syntax.secondary-adverbial"
+    ],
+    "added": [
+      "ru.syntax.isolated-members",
+      "ru.syntax.secondary-adverbial"
+    ]
+  },
+  {
+    "id": "ru.punctuation.explanation-attachment",
+    "title": "Пояснение и присоединение",
+    "module": "07.06",
+    "prerequisites": [
+      "ru.punctuation.clarification"
+    ],
+    "added": [
+      "ru.punctuation.clarification"
+    ]
+  },
+  {
+    "id": "ru.punctuation.comparison-free",
+    "title": "Сравнение и тесная связь со сказуемым",
+    "module": "07.07",
+    "prerequisites": [
+      "ru.syntax.predicate",
+      "ru.syntax.secondary-adverbial"
+    ],
+    "added": [
+      "ru.syntax.predicate",
+      "ru.syntax.secondary-adverbial"
+    ]
+  },
+  {
+    "id": "ru.punctuation.comparison-role",
+    "title": "Обороты с как: роль и причина",
+    "module": "07.07",
+    "prerequisites": [
+      "ru.punctuation.comparison-free",
+      "ru.punctuation.detached-circumstances"
+    ],
+    "added": [
+      "ru.punctuation.comparison-free",
+      "ru.punctuation.detached-circumstances"
+    ]
+  },
+  {
+    "id": "ru.punctuation.introductory-words",
+    "title": "Вводные слова",
+    "module": "07.08",
+    "prerequisites": [
+      "ru.syntax.nonmembers",
+      "ru.syntax.complication-types"
+    ],
+    "added": [
+      "ru.syntax.nonmembers",
+      "ru.syntax.complication-types"
+    ]
+  },
+  {
+    "id": "ru.punctuation.non-introductory-words",
+    "title": "Слова, которые не являются вводными",
+    "module": "07.08",
+    "prerequisites": [
+      "ru.punctuation.introductory-words"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.punctuation.ambiguous-introductory",
+    "title": "Вводность и грамматическая функция",
+    "module": "07.08",
+    "prerequisites": [
+      "ru.punctuation.introductory-words",
+      "ru.punctuation.non-introductory-words"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.punctuation.introductory-conjunctions",
+    "title": "Вводные слова рядом с союзами",
+    "module": "07.08",
+    "prerequisites": [
+      "ru.punctuation.ambiguous-introductory"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.punctuation.introductory-boundaries",
+    "title": "Вводные слова и обособленные обороты",
+    "module": "07.08",
+    "prerequisites": [
+      "ru.punctuation.introductory-conjunctions"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.punctuation.introductory-editing",
+    "title": "Редакторская практика: вводные конструкции",
+    "module": "07.08",
+    "prerequisites": [
+      "ru.punctuation.introductory-words",
+      "ru.punctuation.non-introductory-words",
+      "ru.punctuation.ambiguous-introductory",
+      "ru.punctuation.introductory-conjunctions",
+      "ru.punctuation.introductory-boundaries"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.punctuation.addresses",
+    "title": "Обращения: адресат и грамматическая основа",
+    "module": "07.08",
+    "prerequisites": [
+      "ru.syntax.nonmembers",
+      "ru.syntax.basis-core"
+    ],
+    "added": [
+      "ru.syntax.nonmembers",
+      "ru.syntax.basis-core"
+    ]
+  },
+  {
+    "id": "ru.punctuation.insertions",
+    "title": "Вставные конструкции: скобки и тире",
+    "module": "07.08",
+    "prerequisites": [
+      "ru.syntax.nonmembers",
+      "ru.punctuation.introductory-words"
+    ],
+    "added": [
+      "ru.syntax.nonmembers",
+      "ru.punctuation.introductory-words"
+    ]
+  },
+  {
+    "id": "ru.punctuation.coordinate-marks",
+    "title": "ССП: границы частей и запятая",
+    "module": "07.09",
+    "prerequisites": [
+      "ru.syntax.coordinate-structure",
+      "ru.punctuation.homogeneous-basic"
+    ],
+    "added": [
+      "ru.syntax.coordinate-structure",
+      "ru.punctuation.homogeneous-basic"
+    ]
+  },
+  {
+    "id": "ru.punctuation.coordinate-common",
+    "title": "ССП: общий компонент и отсутствие запятой",
+    "module": "07.09",
+    "prerequisites": [
+      "ru.punctuation.coordinate-marks",
+      "ru.syntax.secondary-adverbial"
+    ],
+    "added": [
+      "ru.punctuation.coordinate-marks",
+      "ru.syntax.secondary-adverbial"
+    ]
+  },
+  {
+    "id": "ru.punctuation.subordinate-marks",
+    "title": "СПП: границы придаточных и однородность",
+    "module": "07.10",
+    "prerequisites": [
+      "ru.syntax.subordinate-types",
+      "ru.punctuation.homogeneous-basic"
+    ],
+    "added": [
+      "ru.syntax.subordinate-types",
+      "ru.punctuation.homogeneous-basic"
+    ]
+  },
+  {
+    "id": "ru.punctuation.subordinate-junction",
+    "title": "СПП: стык союзов и соотносительное то",
+    "module": "07.10",
+    "prerequisites": [
+      "ru.punctuation.subordinate-marks",
+      "ru.syntax.mixed-links"
+    ],
+    "added": [
+      "ru.punctuation.subordinate-marks",
+      "ru.syntax.mixed-links"
+    ]
+  },
+  {
+    "id": "ru.punctuation.asyndetic-colon-dash",
+    "title": "БСП: двоеточие и тире",
+    "module": "07.11",
+    "prerequisites": [
+      "ru.syntax.asyndetic-relations"
+    ],
+    "added": [
+      "ru.syntax.asyndetic-relations"
+    ]
+  },
+  {
+    "id": "ru.punctuation.asyndetic-enumeration",
+    "title": "БСП: запятая, точка с запятой и смысловые блоки",
+    "module": "07.11",
+    "prerequisites": [
+      "ru.syntax.asyndetic-relations",
+      "ru.punctuation.asyndetic-colon-dash"
+    ],
+    "added": [
+      "ru.syntax.asyndetic-relations",
+      "ru.punctuation.asyndetic-colon-dash"
+    ]
+  },
+  {
+    "id": "ru.punctuation.mixed-punctuation.foundation",
+    "title": "Смешанные предложения: границы частей и блоков",
+    "module": "07.12",
+    "prerequisites": [
+      "ru.syntax.mixed-links",
+      "ru.punctuation.coordinate-marks",
+      "ru.punctuation.subordinate-marks",
+      "ru.punctuation.asyndetic-colon-dash"
+    ],
+    "added": [
+      "ru.syntax.mixed-links",
+      "ru.punctuation.coordinate-marks",
+      "ru.punctuation.subordinate-marks",
+      "ru.punctuation.asyndetic-colon-dash"
+    ]
+  },
+  {
+    "id": "ru.punctuation.direct-speech-marks.foundation",
+    "title": "Прямая речь, цитаты и диалог: схемы оформления",
+    "module": "07.13",
+    "prerequisites": [
+      "ru.syntax.speech-forms",
+      "ru.syntax.indirect-transformation",
+      "ru.punctuation.end-basic"
+    ],
+    "added": [
+      "ru.syntax.speech-forms",
+      "ru.syntax.indirect-transformation",
+      "ru.punctuation.end-basic"
+    ]
+  },
+  {
+    "id": "ru.punctuation.punctuation-variation.foundation",
+    "title": "Обязательные, факультативные и авторские знаки",
+    "module": "07.14",
+    "prerequisites": [
+      "ru.punctuation.mixed-punctuation.foundation",
+      "ru.punctuation.detached-circumstances",
+      "ru.punctuation.comparison-role"
+    ],
+    "added": [
+      "ru.punctuation.mixed-punctuation.foundation",
+      "ru.punctuation.detached-circumstances",
+      "ru.punctuation.comparison-role"
+    ]
+  },
+  {
+    "id": "ru.lexicon.lexical-meaning.foundation",
+    "title": "Лексическое значение и многозначность",
+    "module": "08.01",
+    "prerequisites": [
+      "ru.language.language-levels.foundation",
+      "ru.language.dictionary-method.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.lexicon.figurative-meaning.foundation",
+    "title": "Прямое и переносное значение",
+    "module": "08.02",
+    "prerequisites": [
+      "ru.lexicon.lexical-meaning.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.lexicon.lexical-relations.foundation",
+    "title": "Синонимы, антонимы и омонимы",
+    "module": "08.03",
+    "prerequisites": [
+      "ru.lexicon.lexical-meaning.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.lexicon.paronyms-collocation.foundation",
+    "title": "Паронимы и лексическая сочетаемость",
+    "module": "08.04",
+    "prerequisites": [
+      "ru.lexicon.lexical-relations.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.lexicon.lexical-layers.foundation",
+    "title": "Термины, заимствования, архаизмы и неологизмы",
+    "module": "08.05",
+    "prerequisites": [
+      "ru.lexicon.lexical-meaning.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.lexicon.idioms.foundation",
+    "title": "Фразеологизмы и устойчивые выражения",
+    "module": "08.06",
+    "prerequisites": [
+      "ru.lexicon.figurative-meaning.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.lexicon.register-connotation.foundation",
+    "title": "Коннотации, регистры, диалекты и жаргон",
+    "module": "08.07",
+    "prerequisites": [
+      "ru.lexicon.lexical-meaning.foundation",
+      "ru.language.language-norm.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.lexicon.dictionary-vocabulary.foundation",
+    "title": "Словарный запас и работа с толковым словарём",
+    "module": "08.08",
+    "prerequisites": [
+      "ru.language.dictionary-method.foundation",
+      "ru.lexicon.lexical-meaning.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.history.russian-language-history.foundation",
+    "title": "Происхождение и развитие русского языка",
+    "module": "09.01",
+    "prerequisites": [
+      "ru.language.language-levels.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.history.slavonic-layers.foundation",
+    "title": "Славянские языки и старославянизмы",
+    "module": "09.02",
+    "prerequisites": [
+      "ru.history.russian-language-history.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.history.writing-reforms.foundation",
+    "title": "История письменности, алфавита и орфографии",
+    "module": "09.03",
+    "prerequisites": [
+      "ru.history.russian-language-history.foundation",
+      "ru.phonetics.sounds-letters.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.history.historical-changes.foundation",
+    "title": "Исторические звуковые и грамматические изменения",
+    "module": "09.04",
+    "prerequisites": [
+      "ru.history.russian-language-history.foundation",
+      "ru.word-formation.morpheme-alternations.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.history.borrowing-etymology.foundation",
+    "title": "Заимствования и этимология слов",
+    "module": "09.05",
+    "prerequisites": [
+      "ru.lexicon.lexical-layers.foundation",
+      "ru.history.russian-language-history.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.history.scientific-etymology.foundation",
+    "title": "Научная этимология и народные этимологии",
+    "module": "09.06",
+    "prerequisites": [
+      "ru.history.borrowing-etymology.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.speech-culture.norm-register.foundation",
+    "title": "Литературная норма, сфера и допустимые варианты",
+    "module": "10.01",
+    "prerequisites": [
+      "ru.language.language-norm.foundation",
+      "ru.language.dictionary-method.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.speech-culture.noun-norms.foundation",
+    "title": "Род, число и падеж трудных существительных",
+    "module": "10.02",
+    "prerequisites": [
+      "ru.morphology.noun-morphology.foundation",
+      "ru.language.dictionary-method.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.speech-culture.proper-name-declension.foundation",
+    "title": "Склонение имён, фамилий и географических названий",
+    "module": "10.03",
+    "prerequisites": [
+      "ru.morphology.noun-morphology.foundation",
+      "ru.speech-culture.noun-norms.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.speech-culture.numeral-norms.foundation",
+    "title": "Числительные и согласование количественных конструкций",
+    "module": "10.04",
+    "prerequisites": [
+      "ru.morphology.numeral-morphology.foundation",
+      "ru.speech-culture.noun-norms.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.speech-culture.verb-government.foundation",
+    "title": "Глагольные формы и управление",
+    "module": "10.05",
+    "prerequisites": [
+      "ru.morphology.verb-morphology.foundation",
+      "ru.morphology.parts-of-speech.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+    "title": "Согласование подлежащего и сказуемого",
+    "module": "10.06",
+    "prerequisites": [
+      "ru.syntax.subject",
+      "ru.syntax.predicate"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.speech-culture.participle-construction-norms.foundation",
+    "title": "Ошибки в причастных и деепричастных конструкциях",
+    "module": "10.07",
+    "prerequisites": [
+      "ru.morphology.verb-derived-forms.foundation",
+      "ru.punctuation.participle-punctuation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.speech-culture.speech-errors.foundation",
+    "title": "Речевые ошибки: плеоназм, тавтология, смешение паронимов",
+    "module": "10.08",
+    "prerequisites": [
+      "ru.lexicon.paronyms-collocation.foundation",
+      "ru.lexicon.lexical-meaning.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.speech-culture.speech-etiquette.foundation",
+    "title": "Речевой этикет и уместность",
+    "module": "10.09",
+    "prerequisites": [
+      "ru.lexicon.register-connotation.foundation",
+      "ru.speech-culture.norm-register.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.stylistics.functional-styles.foundation",
+    "title": "Функциональные стили и жанры",
+    "module": "11.01",
+    "prerequisites": [
+      "ru.lexicon.register-connotation.foundation",
+      "ru.speech-culture.speech-etiquette.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.stylistics.clarity-precision.foundation",
+    "title": "Точность, ясность и логичность",
+    "module": "11.02",
+    "prerequisites": [
+      "ru.lexicon.lexical-meaning.foundation",
+      "ru.speech-culture.speech-errors.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.stylistics.text-cohesion.foundation",
+    "title": "Связность текста и абзац",
+    "module": "11.03",
+    "prerequisites": [
+      "ru.syntax.information-structure",
+      "ru.language.language-speech-text.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.stylistics.sentence-rhythm.foundation",
+    "title": "Порядок слов, ритм и длина предложения",
+    "module": "11.04",
+    "prerequisites": [
+      "ru.syntax.information-structure",
+      "ru.syntax.sentence-analysis"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.stylistics.verbal-economy.foundation",
+    "title": "Канцелярит, штампы, повторы и многословие",
+    "module": "11.05",
+    "prerequisites": [
+      "ru.speech-culture.speech-errors.foundation",
+      "ru.speech-culture.norm-register.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.stylistics.tropes-figures.foundation",
+    "title": "Выразительные средства: тропы и фигуры речи",
+    "module": "11.06",
+    "prerequisites": [
+      "ru.lexicon.figurative-meaning.foundation",
+      "ru.lexicon.lexical-relations.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.stylistics.author-voice.foundation",
+    "title": "Авторский голос и мотивированные отступления",
+    "module": "11.07",
+    "prerequisites": [
+      "ru.lexicon.register-connotation.foundation",
+      "ru.stylistics.functional-styles.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.stylistics.editorial-diagnosis.foundation",
+    "title": "Редакторская диагностика: смысл, структура, язык",
+    "module": "11.08",
+    "prerequisites": [
+      "ru.stylistics.clarity-precision.foundation",
+      "ru.stylistics.text-cohesion.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.stylistics.proofreading-typography.foundation",
+    "title": "Корректура, типографика, кавычки, дефис и тире",
+    "module": "11.09",
+    "prerequisites": [
+      "ru.punctuation.direct-speech-marks.foundation",
+      "ru.orthography.hyphenation-abbreviations.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.stylistics.revision-comparison.foundation",
+    "title": "Сравнение нескольких вариантов правки",
+    "module": "11.10",
+    "prerequisites": [
+      "ru.stylistics.editorial-diagnosis.foundation",
+      "ru.stylistics.verbal-economy.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.argumentation.thesis-evidence.foundation",
+    "title": "Тезис, аргумент, доказательство и пример",
+    "module": "12.01",
+    "prerequisites": [
+      "ru.stylistics.clarity-precision.foundation",
+      "ru.stylistics.text-cohesion.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.argumentation.logic-fallacies.foundation",
+    "title": "Логические ошибки и манипуляции",
+    "module": "12.02",
+    "prerequisites": [
+      "ru.argumentation.thesis-evidence.foundation",
+      "ru.stylistics.clarity-precision.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.argumentation.reasoning-counterarguments.foundation",
+    "title": "Структура рассуждения и контраргументация",
+    "module": "12.03",
+    "prerequisites": [
+      "ru.argumentation.thesis-evidence.foundation",
+      "ru.argumentation.logic-fallacies.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.argumentation.business-correspondence.foundation",
+    "title": "Деловое письмо и рабочая переписка",
+    "module": "12.04",
+    "prerequisites": [
+      "ru.speech-culture.speech-etiquette.foundation",
+      "ru.stylistics.functional-styles.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.argumentation.analytical-memo.foundation",
+    "title": "Аналитическая записка и объяснение сложного",
+    "module": "12.05",
+    "prerequisites": [
+      "ru.argumentation.thesis-evidence.foundation",
+      "ru.stylistics.clarity-precision.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.argumentation.public-science-writing.foundation",
+    "title": "Публицистический и научно-популярный текст",
+    "module": "12.06",
+    "prerequisites": [
+      "ru.stylistics.functional-styles.foundation",
+      "ru.argumentation.logic-fallacies.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.argumentation.oral-speech-discussion.foundation",
+    "title": "Устная речь, выступление и дискуссия",
+    "module": "12.07",
+    "prerequisites": [
+      "ru.argumentation.reasoning-counterarguments.foundation",
+      "ru.speech-culture.speech-etiquette.foundation"
+    ],
+    "added": []
+  },
+  {
+    "id": "ru.argumentation.independent-writing.foundation",
+    "title": "Самостоятельный текст и его редактура",
+    "module": "12.08",
+    "prerequisites": [
+      "ru.stylistics.editorial-diagnosis.foundation",
+      "ru.stylistics.revision-comparison.foundation",
+      "ru.argumentation.reasoning-counterarguments.foundation"
+    ],
+    "added": []
+  }
+]

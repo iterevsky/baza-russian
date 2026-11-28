@@ -14,7 +14,11 @@
     "отличать словосочетание от основы и сочинительного ряда",
     "выделять подчинительные связи внутри распространённого сочетания"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.morphology.parts-of-speech.foundation",
+    "ru.morphology.noun-morphology.foundation",
+    "ru.morphology.verb-morphology.foundation"
+  ],
   "related": [
     "ru.syntax.phrase-links",
     "ru.syntax.basis-core"

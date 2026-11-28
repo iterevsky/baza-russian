@@ -14,7 +14,10 @@
     "определять границы оборота",
     "не выводить правило только из наличия предлога"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.gerund-punctuation",
+    "ru.syntax.secondary-adverbial"
+  ],
   "related": [
     "ru.punctuation.gerund-punctuation",
     "ru.syntax.secondary-adverbial"

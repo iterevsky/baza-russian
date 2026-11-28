@@ -14,7 +14,9 @@
     "оформлять сочетание вопроса с восклицанием",
     "оформлять недосказанность при вопросе или восклицании"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.end-basic"
+  ],
   "related": [
     "ru.punctuation.end-basic"
   ],

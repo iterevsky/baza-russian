@@ -14,7 +14,11 @@
     "проверять производные предлоги",
     "применять дефис в наречиях и частицах"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.morphology.function-words.foundation",
+    "ru.morphology.adverb-state.foundation",
+    "ru.syntax.phrase-links"
+  ],
   "related": [
     "ru.orthography.word-boundaries.foundation"
   ],

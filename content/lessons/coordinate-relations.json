@@ -14,7 +14,9 @@
     "различать два значения да",
     "распознавать чередование и альтернативу"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.coordinate-structure"
+  ],
   "related": [
     "ru.syntax.coordinate-structure"
   ],

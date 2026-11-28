@@ -14,7 +14,11 @@
     "различать разрыв одного и двух предложений",
     "отличать встроенную цитату от прямой речи"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.speech-forms",
+    "ru.syntax.indirect-transformation",
+    "ru.punctuation.end-basic"
+  ],
   "related": [],
   "source": {
     "title": "Полный академический справочник под ред. В. В. Лопатина: Прямая речь, цитаты, диалог",

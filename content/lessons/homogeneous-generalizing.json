@@ -14,7 +14,9 @@
     "различать начало и конец перечисления",
     "закрывать вставленный ряд"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.homogeneous-basic"
+  ],
   "related": [
     "ru.punctuation.homogeneous-basic",
     "ru.punctuation.homogeneous-repeated",

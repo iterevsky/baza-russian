@@ -14,7 +14,9 @@
     "Читать словарную статью, пометы и примеры.",
     "Отличать факты употребления от нормативных рекомендаций и фиксировать источник."
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.language.language-norm.foundation"
+  ],
   "related": [
     "ru.language.language-norm.foundation"
   ],

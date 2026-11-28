@@ -14,7 +14,10 @@
     "различать вводность и член предложения",
     "распознавать вставную конструкцию"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.complication-types",
+    "ru.syntax.basis-core"
+  ],
   "related": [
     "ru.punctuation.addresses",
     "ru.punctuation.insertions",

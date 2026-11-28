@@ -14,7 +14,10 @@
     "различать причину и следствие",
     "выявлять условие и время"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.basis-count",
+    "ru.syntax.coordinate-relations"
+  ],
   "related": [
     "ru.syntax.basis-count",
     "ru.syntax.coordinate-relations"

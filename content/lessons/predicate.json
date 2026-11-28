@@ -14,7 +14,10 @@
     "распознавать составную форму будущего времени",
     "проверять совпадение субъектов при инфинитиве"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.basis-core",
+    "ru.morphology.verb-morphology.foundation"
+  ],
   "related": [
     "ru.syntax.subject",
     "ru.syntax.basis-core"

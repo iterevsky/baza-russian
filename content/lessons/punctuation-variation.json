@@ -14,7 +14,11 @@
     "устанавливать условия нормативной вариативности",
     "обосновывать обязательность знака в нейтральной конструкции"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.mixed-punctuation.foundation",
+    "ru.punctuation.detached-circumstances",
+    "ru.punctuation.comparison-role"
+  ],
   "related": [
     "ru.punctuation.asyndetic-colon-dash"
   ],

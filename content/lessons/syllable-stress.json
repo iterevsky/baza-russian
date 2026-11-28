@@ -14,7 +14,9 @@
     "Определять место ударения в словоформе.",
     "Различать ударение, деление на слоги и перенос."
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.phonetics.vowels-consonants.foundation"
+  ],
   "related": [
     "ru.phonetics.sounds-letters.foundation",
     "ru.phonetics.vowels-consonants.foundation"

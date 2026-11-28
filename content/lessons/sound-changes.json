@@ -14,7 +14,10 @@
     "Объяснять роль позиции.",
     "Не переносить фонетическую запись механически в орфографию."
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.phonetics.syllable-stress.foundation",
+    "ru.phonetics.vowels-consonants.foundation"
+  ],
   "related": [
     "ru.phonetics.vowels-consonants.foundation",
     "ru.phonetics.syllable-stress.foundation"

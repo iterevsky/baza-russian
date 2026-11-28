@@ -14,7 +14,10 @@
     "выбирать знак по цели высказывания",
     "различать побуждение и эмоциональную окраску"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.language.language-speech-text.foundation",
+    "ru.syntax.basis-core"
+  ],
   "related": [
     "ru.syntax.speech-forms"
   ],

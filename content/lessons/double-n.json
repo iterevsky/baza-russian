@@ -14,7 +14,11 @@
     "различать действие и признак в отглагольных формах",
     "учитывать краткие формы и исключения"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.morphology.adjective-morphology.foundation",
+    "ru.morphology.verb-derived-forms.foundation",
+    "ru.word-formation.derivation-methods.foundation"
+  ],
   "related": [
     "ru.orthography.verb-spelling.foundation"
   ],

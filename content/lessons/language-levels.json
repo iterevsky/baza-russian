@@ -14,7 +14,9 @@
     "Выбирать раздел языка по вопросу, который исследуем.",
     "Объяснять различие между новой формой слова и новым словом."
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.language.language-speech-text.foundation"
+  ],
   "related": [
     "ru.language.language-speech-text.foundation"
   ],

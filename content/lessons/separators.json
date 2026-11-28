@@ -14,7 +14,10 @@
     "различать правила и/ы после приставок",
     "учитывать заимствования и исключения"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.orthography.prefix-spelling.foundation",
+    "ru.phonetics.sounds-letters.foundation"
+  ],
   "related": [
     "ru.orthography.prefix-spelling.foundation"
   ],

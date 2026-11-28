@@ -14,7 +14,10 @@
     "различать однородные и неоднородные придаточные",
     "закрывать вставленную часть"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.subordinate-types",
+    "ru.punctuation.homogeneous-basic"
+  ],
   "related": [
     "ru.punctuation.subordinate-junction"
   ],

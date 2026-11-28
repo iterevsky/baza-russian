@@ -14,7 +14,10 @@
     "распознавать количественно-именную группу и инфинитив",
     "отличать дательный и винительный падеж от подлежащего"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.basis-core",
+    "ru.morphology.noun-morphology.foundation"
+  ],
   "related": [
     "ru.syntax.predicate",
     "ru.syntax.basis-core"

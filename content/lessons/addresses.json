@@ -14,7 +14,10 @@
     "отличать адресата от подлежащего",
     "учитывать конечный знак предложения"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.nonmembers",
+    "ru.syntax.basis-core"
+  ],
   "related": [
     "ru.punctuation.introductory-words",
     "ru.punctuation.introductory-editing"

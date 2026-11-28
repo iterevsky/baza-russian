@@ -14,7 +14,11 @@
     "включать в основу все части составного сказуемого",
     "распознавать безличный главный член"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.phrase-structure",
+    "ru.morphology.verb-morphology.foundation",
+    "ru.morphology.noun-morphology.foundation"
+  ],
   "related": [
     "ru.syntax.basis-count",
     "ru.punctuation.homogeneous-basic"

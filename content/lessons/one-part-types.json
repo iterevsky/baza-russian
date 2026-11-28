@@ -14,7 +14,11 @@
     "распознавать назывные предложения",
     "отличать конкретного деятеля от обобщённого"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.basis-core",
+    "ru.syntax.predicate",
+    "ru.morphology.verb-morphology.foundation"
+  ],
   "related": [
     "ru.syntax.incomplete",
     "ru.syntax.basis-core"

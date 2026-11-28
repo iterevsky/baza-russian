@@ -14,7 +14,10 @@
     "различать смыслоразличительные е/ё",
     "понимать границы обязательности учебного написания"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.phonetics.sounds-letters.foundation",
+    "ru.language.dictionary-method.foundation"
+  ],
   "related": [
     "ru.orthography.hyphenation-abbreviations.foundation"
   ],

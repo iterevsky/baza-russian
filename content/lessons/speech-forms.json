@@ -14,7 +14,10 @@
     "выделять слова автора",
     "распознавать изъяснительные придаточные при передаче реплик"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.morphology.pronoun-morphology.foundation",
+    "ru.syntax.subordinate-links"
+  ],
   "related": [
     "ru.syntax.subordinate-links",
     "ru.syntax.nonmembers"

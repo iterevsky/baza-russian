@@ -14,7 +14,12 @@
     "различать однородные придаточные и закрывающую запятую",
     "учитывать стык союзов и общее придаточное"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.mixed-links",
+    "ru.punctuation.coordinate-marks",
+    "ru.punctuation.subordinate-marks",
+    "ru.punctuation.asyndetic-colon-dash"
+  ],
   "related": [
     "ru.punctuation.coordinate-marks",
     "ru.punctuation.subordinate-marks",

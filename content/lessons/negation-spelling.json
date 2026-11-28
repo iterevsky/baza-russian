@@ -14,7 +14,11 @@
     "применять правила к глаголам, причастиям и местоимениям",
     "распознавать ни в усилительных и обобщительных конструкциях"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.morphology.function-words.foundation",
+    "ru.morphology.verb-derived-forms.foundation",
+    "ru.morphology.adverb-state.foundation"
+  ],
   "related": [
     "ru.orthography.double-n.foundation"
   ],

@@ -14,7 +14,10 @@
     "проверять наличие соотносительного то",
     "размечать вложенное придаточное"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.subordinate-marks",
+    "ru.syntax.mixed-links"
+  ],
   "related": [
     "ru.punctuation.subordinate-marks"
   ],

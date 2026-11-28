@@ -14,7 +14,10 @@
     "отличать сложное предложение от ряда сказуемых",
     "выбирать запятую при противительных и разделительных союзах"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.coordinate-structure",
+    "ru.punctuation.homogeneous-basic"
+  ],
   "related": [
     "ru.punctuation.coordinate-common"
   ],

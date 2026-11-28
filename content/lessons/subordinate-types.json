@@ -14,7 +14,11 @@
     "различать определение и изъяснение",
     "классифицировать обстоятельственные придаточные по смыслу"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.subordinate-links",
+    "ru.syntax.secondary-adverbial",
+    "ru.syntax.secondary-attribute"
+  ],
   "related": [
     "ru.syntax.subordinate-links"
   ],

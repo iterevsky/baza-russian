@@ -14,7 +14,11 @@
     "учитывать особые окончания -ия/-ие/-ий",
     "различать суффиксы -ек- и -ик-"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.morphology.noun-morphology.foundation",
+    "ru.morphology.adjective-morphology.foundation",
+    "ru.word-formation.word-stem.foundation"
+  ],
   "related": [
     "ru.orthography.sibilant-vowels.foundation"
   ],

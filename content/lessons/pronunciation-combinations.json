@@ -14,7 +14,10 @@
     "Учитывать твёрдость перед е в заимствованиях.",
     "Проверять нестандартное произношение по орфоэпическому словарю."
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.phonetics.sound-changes.foundation",
+    "ru.language.dictionary-method.foundation"
+  ],
   "related": [
     "ru.language.dictionary-method.foundation",
     "ru.phonetics.sounds-letters.foundation",

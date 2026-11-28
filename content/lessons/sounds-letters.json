@@ -14,7 +14,9 @@
     "Определять функции е, ё, ю, я и знаков.",
     "Учитывать позицию и непроизносимые согласные."
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.language.language-levels.foundation"
+  ],
   "related": [
     "ru.language.language-levels.foundation"
   ],

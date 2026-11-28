@@ -14,7 +14,10 @@
     "отличать тему от подлежащего",
     "распознавать фокус субъекта, объекта, времени и места"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.sentence-analysis",
+    "ru.language.language-speech-text.foundation"
+  ],
   "related": [
     "ru.syntax.sentence-analysis",
     "ru.syntax.secondary-adverbial"

@@ -14,7 +14,10 @@
     "различать графическое сокращение и аббревиатуру",
     "оформлять единицы измерения"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.phonetics.syllable-stress.foundation",
+    "ru.phonetics.sounds-letters.foundation"
+  ],
   "related": [
     "ru.orthography.capital-letters.foundation"
   ],

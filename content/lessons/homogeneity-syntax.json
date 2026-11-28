@@ -14,7 +14,11 @@
     "различать однородные и неоднородные определения",
     "проверять согласование однородных сказуемых"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.secondary-adverbial",
+    "ru.syntax.basis-count",
+    "ru.morphology.function-words.foundation"
+  ],
   "related": [
     "ru.syntax.complication-types",
     "ru.syntax.basis-core"

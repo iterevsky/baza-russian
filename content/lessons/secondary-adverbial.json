@@ -14,7 +14,10 @@
     "различать время, место, причину и цель",
     "распознавать инфинитив цели и обстоятельство уступки"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.secondary-attribute",
+    "ru.morphology.adverb-state.foundation"
+  ],
   "related": [
     "ru.syntax.secondary-attribute",
     "ru.syntax.basis-core"

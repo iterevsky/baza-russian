@@ -14,7 +14,10 @@
     "распознавать заданное перечисление",
     "учитывать контекст при выборе знака"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.homogeneous-basic",
+    "ru.syntax.secondary-attribute"
+  ],
   "related": [
     "ru.punctuation.homogeneous-basic"
   ],

@@ -1,0 +1,5608 @@
+{
+  "scope": "standalone reader, not production PWA; stage controls and prerequisites tested; all steps shown for layout test",
+  "states": 700,
+  "errors": [],
+  "issues": [],
+  "rows": [
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "intro",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.language.language-speech-text.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.language.language-levels.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.language.language-norm.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.language.dictionary-method.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.phonetics.sounds-letters.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.phonetics.vowels-consonants.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.phonetics.syllable-stress.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.phonetics.sound-changes.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.phonetics.pronunciation-combinations.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.phonetics.stress-variants.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.word-formation.morpheme-types.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.word-formation.word-stem.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.word-formation.word-family.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.word-formation.morpheme-alternations.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.word-formation.derivation-methods.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.word-formation.derivation-chain.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.morphology.parts-of-speech.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.morphology.noun-morphology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.morphology.adjective-morphology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.morphology.numeral-morphology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.morphology.pronoun-morphology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.morphology.verb-morphology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.morphology.verb-derived-forms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.morphology.adverb-state.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.morphology.function-words.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.morphology.morphological-analysis.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.phrase-structure",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.phrase-links",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.basis-core",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.basis-count",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.subject",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.predicate",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.secondary-attribute",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.secondary-adverbial",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.one-part-types",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.incomplete",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.homogeneity-syntax",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.complication-types",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.isolated-members",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.nonmembers",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.coordinate-structure",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.coordinate-relations",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.subordinate-links",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.subordinate-types",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.asyndetic-relations",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.mixed-links",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.speech-forms",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.indirect-transformation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.sentence-analysis",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.syntax.information-structure",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.root-vowels.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.root-consonants.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.prefix-spelling.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.separators.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.sibilant-vowels.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.noun-adjective-endings.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.verb-spelling.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.double-n.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.negation-spelling.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.word-boundaries.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.service-word-spelling.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.capital-letters.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.hyphenation-abbreviations.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.orthography.dictionary-yo.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.end-basic",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.end-ellipsis",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.dash-predicate",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.dash-incomplete",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-basic",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-repeated",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-double",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-definitions",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-generalizing",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.participle-punctuation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.gerund-punctuation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.detached-definitions",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.detached-circumstances",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.clarification",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.explanation-attachment",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.comparison-free",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.comparison-role",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-words",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.non-introductory-words",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.ambiguous-introductory",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-conjunctions",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-boundaries",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-editing",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.addresses",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.insertions",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.coordinate-marks",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.coordinate-common",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.subordinate-marks",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.subordinate-junction",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.asyndetic-colon-dash",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.asyndetic-enumeration",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.mixed-punctuation.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.direct-speech-marks.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.punctuation.punctuation-variation.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.lexicon.lexical-meaning.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.lexicon.figurative-meaning.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.lexicon.lexical-relations.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.lexicon.paronyms-collocation.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.lexicon.lexical-layers.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.lexicon.idioms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.lexicon.register-connotation.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.lexicon.dictionary-vocabulary.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.history.russian-language-history.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.history.slavonic-layers.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.history.writing-reforms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.history.historical-changes.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.history.borrowing-etymology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.history.scientific-etymology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.speech-culture.norm-register.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.speech-culture.noun-norms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.speech-culture.proper-name-declension.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.speech-culture.numeral-norms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.speech-culture.verb-government.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.speech-culture.participle-construction-norms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.speech-culture.speech-errors.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.speech-culture.speech-etiquette.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.stylistics.functional-styles.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.stylistics.clarity-precision.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.stylistics.text-cohesion.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.stylistics.sentence-rhythm.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.stylistics.verbal-economy.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.stylistics.tropes-figures.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.stylistics.author-voice.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.stylistics.editorial-diagnosis.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.stylistics.proofreading-typography.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.stylistics.revision-comparison.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.argumentation.thesis-evidence.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.argumentation.logic-fallacies.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.argumentation.reasoning-counterarguments.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.argumentation.business-correspondence.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.argumentation.analytical-memo.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.argumentation.public-science-writing.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.argumentation.oral-speech-discussion.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "size": "regular",
+      "id": "ru.argumentation.independent-writing.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "intro",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.language.language-speech-text.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.language.language-levels.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.language.language-norm.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.language.dictionary-method.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.phonetics.sounds-letters.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.phonetics.vowels-consonants.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.phonetics.syllable-stress.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.phonetics.sound-changes.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.phonetics.pronunciation-combinations.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.phonetics.stress-variants.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.word-formation.morpheme-types.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.word-formation.word-stem.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.word-formation.word-family.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.word-formation.morpheme-alternations.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.word-formation.derivation-methods.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.word-formation.derivation-chain.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.morphology.parts-of-speech.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.morphology.noun-morphology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.morphology.adjective-morphology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.morphology.numeral-morphology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.morphology.pronoun-morphology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.morphology.verb-morphology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.morphology.verb-derived-forms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.morphology.adverb-state.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.morphology.function-words.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.morphology.morphological-analysis.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.phrase-structure",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.phrase-links",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.basis-core",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.basis-count",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.subject",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.predicate",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.secondary-attribute",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.secondary-adverbial",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.one-part-types",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.incomplete",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.homogeneity-syntax",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.complication-types",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.isolated-members",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.nonmembers",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.coordinate-structure",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.coordinate-relations",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.subordinate-links",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.subordinate-types",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.asyndetic-relations",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.mixed-links",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.speech-forms",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.indirect-transformation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.sentence-analysis",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.syntax.information-structure",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.root-vowels.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.root-consonants.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.prefix-spelling.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.separators.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.sibilant-vowels.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.noun-adjective-endings.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.verb-spelling.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.double-n.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.negation-spelling.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.word-boundaries.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.service-word-spelling.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.capital-letters.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.hyphenation-abbreviations.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.orthography.dictionary-yo.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.end-basic",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.end-ellipsis",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.dash-predicate",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.dash-incomplete",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.homogeneous-basic",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.homogeneous-repeated",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.homogeneous-double",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.homogeneous-definitions",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.homogeneous-generalizing",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.participle-punctuation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.gerund-punctuation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.detached-definitions",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.detached-circumstances",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.clarification",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.explanation-attachment",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.comparison-free",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.comparison-role",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.introductory-words",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.non-introductory-words",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.ambiguous-introductory",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.introductory-conjunctions",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.introductory-boundaries",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.introductory-editing",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.addresses",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.insertions",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.coordinate-marks",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.coordinate-common",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.subordinate-marks",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.subordinate-junction",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.asyndetic-colon-dash",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.asyndetic-enumeration",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.mixed-punctuation.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.direct-speech-marks.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.punctuation.punctuation-variation.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.lexicon.lexical-meaning.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.lexicon.figurative-meaning.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.lexicon.lexical-relations.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.lexicon.paronyms-collocation.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.lexicon.lexical-layers.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.lexicon.idioms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.lexicon.register-connotation.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.lexicon.dictionary-vocabulary.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.history.russian-language-history.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.history.slavonic-layers.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.history.writing-reforms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.history.historical-changes.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.history.borrowing-etymology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.history.scientific-etymology.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.speech-culture.norm-register.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.speech-culture.noun-norms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.speech-culture.proper-name-declension.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.speech-culture.numeral-norms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.speech-culture.verb-government.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.speech-culture.participle-construction-norms.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.speech-culture.speech-errors.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.speech-culture.speech-etiquette.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.stylistics.functional-styles.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.stylistics.clarity-precision.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.stylistics.text-cohesion.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.stylistics.sentence-rhythm.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.stylistics.verbal-economy.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.stylistics.tropes-figures.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.stylistics.author-voice.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.stylistics.editorial-diagnosis.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.stylistics.proofreading-typography.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.stylistics.revision-comparison.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.argumentation.thesis-evidence.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.argumentation.logic-fallacies.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.argumentation.reasoning-counterarguments.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.argumentation.business-correspondence.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.argumentation.analytical-memo.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.argumentation.public-science-writing.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.argumentation.oral-speech-discussion.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "size": "extra",
+      "id": "ru.argumentation.independent-writing.foundation",
+      "scrollWidth": 320,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "intro",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.language.language-speech-text.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.language.language-levels.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.language.language-norm.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.language.dictionary-method.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.sounds-letters.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.vowels-consonants.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.syllable-stress.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.sound-changes.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.pronunciation-combinations.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.stress-variants.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.morpheme-types.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.word-stem.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.word-family.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.morpheme-alternations.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.derivation-methods.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.derivation-chain.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.parts-of-speech.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.noun-morphology.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.adjective-morphology.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.numeral-morphology.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.pronoun-morphology.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.verb-morphology.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.verb-derived-forms.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.adverb-state.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.function-words.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.morphological-analysis.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.phrase-structure",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.phrase-links",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.basis-core",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.basis-count",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.subject",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.predicate",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.secondary-attribute",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.secondary-adverbial",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.one-part-types",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.incomplete",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.homogeneity-syntax",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.complication-types",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.isolated-members",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.nonmembers",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.coordinate-structure",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.coordinate-relations",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.subordinate-links",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.subordinate-types",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.asyndetic-relations",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.mixed-links",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.speech-forms",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.indirect-transformation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.sentence-analysis",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.information-structure",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.root-vowels.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.root-consonants.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.prefix-spelling.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.separators.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.sibilant-vowels.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.noun-adjective-endings.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.verb-spelling.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.double-n.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.negation-spelling.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.word-boundaries.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.service-word-spelling.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.capital-letters.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.hyphenation-abbreviations.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.dictionary-yo.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.end-basic",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.end-ellipsis",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.dash-predicate",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.dash-incomplete",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-basic",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-repeated",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-double",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-definitions",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-generalizing",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.participle-punctuation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.gerund-punctuation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.detached-definitions",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.detached-circumstances",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.clarification",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.explanation-attachment",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.comparison-free",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.comparison-role",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-words",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.non-introductory-words",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.ambiguous-introductory",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-conjunctions",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-boundaries",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-editing",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.addresses",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.insertions",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.coordinate-marks",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.coordinate-common",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.subordinate-marks",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.subordinate-junction",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.asyndetic-colon-dash",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.asyndetic-enumeration",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.mixed-punctuation.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.direct-speech-marks.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.punctuation-variation.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.lexical-meaning.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.figurative-meaning.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.lexical-relations.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.paronyms-collocation.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.lexical-layers.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.idioms.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.register-connotation.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.dictionary-vocabulary.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.russian-language-history.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.slavonic-layers.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.writing-reforms.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.historical-changes.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.borrowing-etymology.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.scientific-etymology.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.norm-register.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.noun-norms.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.proper-name-declension.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.numeral-norms.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.verb-government.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.participle-construction-norms.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.speech-errors.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.speech-etiquette.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.functional-styles.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.clarity-precision.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.text-cohesion.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.sentence-rhythm.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.verbal-economy.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.tropes-figures.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.author-voice.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.editorial-diagnosis.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.proofreading-typography.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.revision-comparison.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.thesis-evidence.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.logic-fallacies.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.reasoning-counterarguments.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.business-correspondence.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.analytical-memo.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.public-science-writing.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.oral-speech-discussion.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.independent-writing.foundation",
+      "scrollWidth": 390,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "intro",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.language.language-speech-text.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.language.language-levels.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.language.language-norm.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.language.dictionary-method.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.phonetics.sounds-letters.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.phonetics.vowels-consonants.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.phonetics.syllable-stress.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.phonetics.sound-changes.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.phonetics.pronunciation-combinations.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.phonetics.stress-variants.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.word-formation.morpheme-types.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.word-formation.word-stem.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.word-formation.word-family.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.word-formation.morpheme-alternations.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.word-formation.derivation-methods.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.word-formation.derivation-chain.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.morphology.parts-of-speech.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.morphology.noun-morphology.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.morphology.adjective-morphology.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.morphology.numeral-morphology.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.morphology.pronoun-morphology.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.morphology.verb-morphology.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.morphology.verb-derived-forms.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.morphology.adverb-state.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.morphology.function-words.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.morphology.morphological-analysis.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.phrase-structure",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.phrase-links",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.basis-core",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.basis-count",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.subject",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.predicate",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.secondary-attribute",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.secondary-adverbial",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.one-part-types",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.incomplete",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.homogeneity-syntax",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.complication-types",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.isolated-members",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.nonmembers",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.coordinate-structure",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.coordinate-relations",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.subordinate-links",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.subordinate-types",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.asyndetic-relations",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.mixed-links",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.speech-forms",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.indirect-transformation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.sentence-analysis",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.syntax.information-structure",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.root-vowels.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.root-consonants.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.prefix-spelling.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.separators.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.sibilant-vowels.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.noun-adjective-endings.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.verb-spelling.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.double-n.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.negation-spelling.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.word-boundaries.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.service-word-spelling.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.capital-letters.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.hyphenation-abbreviations.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.orthography.dictionary-yo.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.end-basic",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.end-ellipsis",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.dash-predicate",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.dash-incomplete",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.homogeneous-basic",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.homogeneous-repeated",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.homogeneous-double",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.homogeneous-definitions",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.homogeneous-generalizing",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.participle-punctuation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.gerund-punctuation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.detached-definitions",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.detached-circumstances",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.clarification",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.explanation-attachment",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.comparison-free",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.comparison-role",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.introductory-words",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.non-introductory-words",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.ambiguous-introductory",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.introductory-conjunctions",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.introductory-boundaries",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.introductory-editing",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.addresses",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.insertions",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.coordinate-marks",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.coordinate-common",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.subordinate-marks",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.subordinate-junction",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.asyndetic-colon-dash",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.asyndetic-enumeration",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.mixed-punctuation.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.direct-speech-marks.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.punctuation.punctuation-variation.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.lexicon.lexical-meaning.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.lexicon.figurative-meaning.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.lexicon.lexical-relations.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.lexicon.paronyms-collocation.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.lexicon.lexical-layers.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.lexicon.idioms.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.lexicon.register-connotation.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.lexicon.dictionary-vocabulary.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.history.russian-language-history.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.history.slavonic-layers.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.history.writing-reforms.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.history.historical-changes.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.history.borrowing-etymology.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.history.scientific-etymology.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.speech-culture.norm-register.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.speech-culture.noun-norms.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.speech-culture.proper-name-declension.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.speech-culture.numeral-norms.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.speech-culture.verb-government.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.speech-culture.participle-construction-norms.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.speech-culture.speech-errors.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.speech-culture.speech-etiquette.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.stylistics.functional-styles.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.stylistics.clarity-precision.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.stylistics.text-cohesion.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.stylistics.sentence-rhythm.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.stylistics.verbal-economy.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.stylistics.tropes-figures.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.stylistics.author-voice.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.stylistics.editorial-diagnosis.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.stylistics.proofreading-typography.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.stylistics.revision-comparison.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.argumentation.thesis-evidence.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.argumentation.logic-fallacies.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.argumentation.reasoning-counterarguments.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.argumentation.business-correspondence.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.argumentation.analytical-memo.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.argumentation.public-science-writing.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.argumentation.oral-speech-discussion.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "size": "large",
+      "id": "ru.argumentation.independent-writing.foundation",
+      "scrollWidth": 768,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "intro",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.language.language-speech-text.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.language.language-levels.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.language.language-norm.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.language.dictionary-method.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.sounds-letters.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.vowels-consonants.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.syllable-stress.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.sound-changes.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.pronunciation-combinations.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.phonetics.stress-variants.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.morpheme-types.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.word-stem.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.word-family.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.morpheme-alternations.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.derivation-methods.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.word-formation.derivation-chain.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.parts-of-speech.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.noun-morphology.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.adjective-morphology.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.numeral-morphology.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.pronoun-morphology.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.verb-morphology.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.verb-derived-forms.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.adverb-state.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.function-words.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.morphology.morphological-analysis.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.phrase-structure",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.phrase-links",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.basis-core",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.basis-count",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.subject",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.predicate",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.secondary-attribute",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.secondary-adverbial",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.one-part-types",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.incomplete",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.homogeneity-syntax",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.complication-types",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.isolated-members",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.nonmembers",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.coordinate-structure",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.coordinate-relations",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.subordinate-links",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.subordinate-types",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.asyndetic-relations",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.mixed-links",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.speech-forms",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.indirect-transformation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.sentence-analysis",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.syntax.information-structure",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.root-vowels.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.root-consonants.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.prefix-spelling.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.separators.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.sibilant-vowels.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.noun-adjective-endings.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.verb-spelling.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.double-n.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.negation-spelling.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.word-boundaries.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.service-word-spelling.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.capital-letters.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.hyphenation-abbreviations.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.orthography.dictionary-yo.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.end-basic",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.end-ellipsis",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.dash-predicate",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.dash-incomplete",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-basic",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-repeated",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-double",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-definitions",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.homogeneous-generalizing",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.participle-punctuation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.gerund-punctuation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.detached-definitions",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.detached-circumstances",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.clarification",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.explanation-attachment",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.comparison-free",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.comparison-role",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-words",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.non-introductory-words",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.ambiguous-introductory",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-conjunctions",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-boundaries",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.introductory-editing",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.addresses",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.insertions",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.coordinate-marks",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.coordinate-common",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.subordinate-marks",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.subordinate-junction",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.asyndetic-colon-dash",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.asyndetic-enumeration",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.mixed-punctuation.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.direct-speech-marks.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.punctuation.punctuation-variation.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.lexical-meaning.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.figurative-meaning.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.lexical-relations.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.paronyms-collocation.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.lexical-layers.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.idioms.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.register-connotation.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.lexicon.dictionary-vocabulary.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.russian-language-history.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.slavonic-layers.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.writing-reforms.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.historical-changes.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.borrowing-etymology.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.history.scientific-etymology.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.norm-register.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.noun-norms.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.proper-name-declension.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.numeral-norms.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.verb-government.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.participle-construction-norms.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.speech-errors.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.speech-culture.speech-etiquette.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.functional-styles.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.clarity-precision.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.text-cohesion.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.sentence-rhythm.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.verbal-economy.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.tropes-figures.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.author-voice.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.editorial-diagnosis.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.proofreading-typography.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.stylistics.revision-comparison.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.thesis-evidence.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.logic-fallacies.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.reasoning-counterarguments.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.business-correspondence.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.analytical-memo.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.public-science-writing.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.oral-speech-discussion.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "size": "regular",
+      "id": "ru.argumentation.independent-writing.foundation",
+      "scrollWidth": 1440,
+      "issues": []
+    }
+  ]
+}

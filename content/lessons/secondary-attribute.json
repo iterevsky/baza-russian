@@ -14,7 +14,11 @@
     "распознавать несогласованное определение",
     "различать прямое и косвенное дополнение"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.subject",
+    "ru.syntax.predicate",
+    "ru.syntax.phrase-links"
+  ],
   "related": [
     "ru.syntax.secondary-adverbial",
     "ru.syntax.basis-core"

@@ -14,7 +14,11 @@
     "определять тип связи на конкретной границе",
     "отличать сочинение частей от однородных сказуемых"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.coordinate-structure",
+    "ru.syntax.subordinate-types",
+    "ru.syntax.asyndetic-relations"
+  ],
   "related": [
     "ru.syntax.coordinate-structure",
     "ru.syntax.subordinate-links",

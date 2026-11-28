@@ -14,7 +14,10 @@
     "распознавать устойчивые обороты",
     "учитывать заданный смысл"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.predicate",
+    "ru.syntax.secondary-adverbial"
+  ],
   "related": [
     "ru.syntax.predicate"
   ],

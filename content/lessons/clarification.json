@@ -14,7 +14,10 @@
     "устанавливать сужение значения",
     "закрывать уточняющий фрагмент"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.isolated-members",
+    "ru.syntax.secondary-adverbial"
+  ],
   "related": [
     "ru.syntax.isolated-members"
   ],

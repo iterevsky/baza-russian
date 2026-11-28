@@ -14,7 +14,9 @@
     "Классифицировать согласные по звонкости и мягкости.",
     "Учитывать непарность признаков."
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.phonetics.sounds-letters.foundation"
+  ],
   "related": [
     "ru.phonetics.sounds-letters.foundation"
   ],

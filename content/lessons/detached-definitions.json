@@ -14,7 +14,10 @@
     "учитывать личное местоимение",
     "отличать идентификацию от попутного пояснения"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.participle-punctuation",
+    "ru.syntax.isolated-members"
+  ],
   "related": [
     "ru.punctuation.participle-punctuation",
     "ru.syntax.secondary-attribute"

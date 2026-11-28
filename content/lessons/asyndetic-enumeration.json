@@ -14,7 +14,10 @@
     "выбирать запятую при тесной связи",
     "использовать точку с запятой при явно заданном разделении блоков"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.asyndetic-relations",
+    "ru.punctuation.asyndetic-colon-dash"
+  ],
   "related": [
     "ru.punctuation.asyndetic-colon-dash"
   ],

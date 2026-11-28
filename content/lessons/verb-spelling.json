@@ -14,7 +14,11 @@
     "образовывать действительные причастия",
     "различать инфинитив и личную форму и выбирать глагольные суффиксы"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.morphology.verb-morphology.foundation",
+    "ru.morphology.verb-derived-forms.foundation",
+    "ru.word-formation.word-stem.foundation"
+  ],
   "related": [
     "ru.orthography.noun-adjective-endings.foundation"
   ],

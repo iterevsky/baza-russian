@@ -14,7 +14,10 @@
     "отличать однородные сказуемые от самостоятельных основ",
     "учитывать односоставные части сложного предложения"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.basis-core",
+    "ru.morphology.verb-morphology.foundation"
+  ],
   "related": [
     "ru.syntax.basis-core",
     "ru.punctuation.homogeneous-basic"

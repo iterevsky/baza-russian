@@ -14,7 +14,10 @@
     "отличать неполное предложение от односоставного",
     "не считать нулевую связку пропуском"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.one-part-types",
+    "ru.syntax.basis-core"
+  ],
   "related": [
     "ru.syntax.one-part-types",
     "ru.syntax.basis-core"

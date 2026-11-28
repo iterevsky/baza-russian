@@ -14,7 +14,10 @@
     "оформлять географические названия и названия жителей",
     "применять правила названий организаций и произведений"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.morphology.noun-morphology.foundation",
+    "ru.language.language-norm.foundation"
+  ],
   "related": [
     "ru.orthography.service-word-spelling.foundation"
   ],

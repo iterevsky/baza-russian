@@ -14,7 +14,10 @@
     "различать неполноту и нулевую связку",
     "учитывать заданную паузу"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.incomplete",
+    "ru.punctuation.dash-predicate"
+  ],
   "related": [
     "ru.syntax.incomplete",
     "ru.punctuation.dash-predicate"

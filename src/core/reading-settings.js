@@ -1,0 +1,4 @@
+export const readingSizes=['regular','large','extra'];
+export function readSize(storage){try{const x=storage?.getItem('baza-reading-size-23');return readingSizes.includes(x)?x:'regular'}catch{return 'regular'}}
+export function applyReadingSize(doc,storage,value){const x=readingSizes.includes(value)?value:'regular';doc.documentElement.dataset.readingSize=x;try{storage?.setItem('baza-reading-size-23',x)}catch{}return x;}
+export function readingOptions(esc,value){return `<label for="reading-size">Размер учебного текста</label><select class="search" id="reading-size">${[['regular','Обычный'],['large','Крупный'],['extra','Очень крупный']].map(([id,title])=>`<option value="${id}" ${id===value?'selected':''}>${esc(title)}</option>`).join('')}</select><p class="muted">Меняет размер основного текста и пояснений. Настройка хранится на этом устройстве отдельно от учебного прогресса.</p>`;}

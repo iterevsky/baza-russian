@@ -14,7 +14,11 @@
     "учитывать позицию и местоимение",
     "различать определение и часть сказуемого"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.morphology.verb-derived-forms.foundation",
+    "ru.syntax.isolated-members",
+    "ru.syntax.secondary-attribute"
+  ],
   "related": [
     "ru.syntax.isolated-members",
     "ru.syntax.secondary-attribute"

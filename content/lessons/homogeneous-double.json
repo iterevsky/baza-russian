@@ -14,7 +14,9 @@
     "определять границу сопоставляемых членов",
     "не ставить знак после первой части союза"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.homogeneous-basic"
+  ],
   "related": [
     "ru.punctuation.homogeneous-basic",
     "ru.punctuation.homogeneous-repeated"

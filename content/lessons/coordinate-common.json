@@ -14,7 +14,10 @@
     "проверять его смысловой охват",
     "учитывать общий вопрос или побуждение"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.coordinate-marks",
+    "ru.syntax.secondary-adverbial"
+  ],
   "related": [
     "ru.punctuation.coordinate-marks"
   ],

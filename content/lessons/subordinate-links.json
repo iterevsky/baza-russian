@@ -14,7 +14,11 @@
     "выделять составные союзы",
     "определять роль относительного слова внутри придаточного"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.basis-count",
+    "ru.syntax.phrase-links",
+    "ru.morphology.function-words.foundation"
+  ],
   "related": [
     "ru.syntax.basis-count",
     "ru.syntax.coordinate-structure"

@@ -14,7 +14,9 @@
     "различать условие и результат",
     "выбирать традиционный знак в явно заданном чтении"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.asyndetic-relations"
+  ],
   "related": [
     "ru.punctuation.asyndetic-enumeration"
   ],

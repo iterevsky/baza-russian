@@ -14,7 +14,10 @@
     "проверять замену на в качестве",
     "распознавать обособленное приложение"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.comparison-free",
+    "ru.punctuation.detached-circumstances"
+  ],
   "related": [
     "ru.punctuation.detached-definitions"
   ],

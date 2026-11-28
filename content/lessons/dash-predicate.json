@@ -14,7 +14,10 @@
     "различать нейтральное тире и интонационное",
     "учитывать отрицание и явную связку"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.subject",
+    "ru.syntax.predicate"
+  ],
   "related": [
     "ru.syntax.predicate",
     "ru.syntax.subject"

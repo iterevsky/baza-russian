@@ -14,7 +14,10 @@
     "распознавать ложные непроизносимые согласные",
     "различать морфемное и словарное удвоение"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.phonetics.sound-changes.foundation",
+    "ru.word-formation.word-family.foundation"
+  ],
   "related": [
     "ru.orthography.root-vowels.foundation"
   ],

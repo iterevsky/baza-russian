@@ -14,7 +14,11 @@
     "различать типы связей основ",
     "выбирать словарное написание сложных слов"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.word-formation.derivation-methods.foundation",
+    "ru.morphology.noun-morphology.foundation",
+    "ru.morphology.adjective-morphology.foundation"
+  ],
   "related": [
     "ru.orthography.negation-spelling.foundation"
   ],

@@ -14,7 +14,10 @@
     "отличать обращение и вводность",
     "выделять осложнение без добавления основы"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.homogeneity-syntax",
+    "ru.morphology.verb-derived-forms.foundation"
+  ],
   "related": [
     "ru.syntax.homogeneity-syntax",
     "ru.syntax.basis-core"

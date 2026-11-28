@@ -14,7 +14,10 @@
     "отличать ССП от простого предложения с однородными сказуемыми",
     "учитывать общие компоненты"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.basis-count",
+    "ru.morphology.function-words.foundation"
+  ],
   "related": [
     "ru.syntax.basis-count",
     "ru.syntax.homogeneity-syntax"

@@ -14,7 +14,9 @@
     "выделять присоединение",
     "отличать союз или в пояснении от выбора"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.punctuation.clarification"
+  ],
   "related": [
     "ru.syntax.isolated-members",
     "ru.syntax.homogeneity-syntax"

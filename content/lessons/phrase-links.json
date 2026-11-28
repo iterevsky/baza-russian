@@ -14,7 +14,11 @@
     "распознавать управление по падежной зависимости",
     "отличать примыкание неизменяемой формы"
   ],
-  "prerequisites": [],
+  "prerequisites": [
+    "ru.syntax.phrase-structure",
+    "ru.morphology.adjective-morphology.foundation",
+    "ru.morphology.noun-morphology.foundation"
+  ],
   "related": [
     "ru.syntax.phrase-structure",
     "ru.syntax.basis-core"
