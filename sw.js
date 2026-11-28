@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
 const RELEASE="1.0.0-rc.1";
-const DIGEST="a371e1ef2822f32320409bbf";
+const DIGEST="1f72abd7322ddc974d954386";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -1084,7 +1084,7 @@ const ASSETS=[
   ],
   [
     "src/core/home.js",
-    "ff448bcb3d0af7d6091da1a991718fdd0a6d64c49863afdd647bed67309cb8dc"
+    "abebec4e843fe722fff74b864d44e8cf7fde6e167c0a651565325fd2f96ccf27"
   ],
   [
     "src/core/lesson-view.js",
@@ -1124,11 +1124,11 @@ const ASSETS=[
   ],
   [
     "src/styles/home.css",
-    "7c6ee3d862fa0e55ee62cb7e6855ba701b28d679f59e87f8b48e06aa3cdc0105"
+    "4d075ecaad5da2cd08ebf12ff25e63edb90789a5c6b2aeb8ec6eb6fe019ccc0f"
   ],
   [
     "src/styles/main.css",
-    "d8dea45a4ae24fbddb5a23aa2128e8b6dc599da8977a9b9ad48958dcd845128c"
+    "b9c1c94d9b63fcc56bad5b01fab1868ceaf5d91004b5d283a6b4c2e4cffe4aa7"
   ]
 ];
 // Generated release metadata is prepended by scripts/build-pwa.mjs.

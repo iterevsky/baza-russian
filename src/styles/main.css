@@ -29,3 +29,22 @@ html{scroll-padding-top:80px;scroll-padding-bottom:90px}.article [id]{scroll-mar
 @media(max-width:680px){.mobile-nav button{min-height:44px;line-height:1.2}.mobile-nav button span:last-child{overflow-wrap:anywhere}.content{padding-bottom:calc(100px + env(safe-area-inset-bottom))}.header .brand{min-width:0;gap:8px}.header .brand strong{overflow-wrap:normal}.header .iconbtn{min-height:44px;padding:6px 8px}.catalog-row .status{white-space:normal;max-width:75px;text-align:center}.stats{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}}
 @media(max-width:360px){.header{gap:8px;padding-inline:10px}.header .brand strong{font-size:13px}.header .brand small{font-size:10px}.header .brand .logo{font-size:30px}.hero{grid-template-columns:minmax(0,1fr) 48px}.hero-mark{font-size:66px}.content{padding-inline:12px}.article h1,.exercise h1,h1{font-size:clamp(30px,10vw,38px)}.panel{padding:12px}.catalog-row{gap:5px}.modules{padding-left:12px}.mobile-nav{padding-inline:2px}.mobile-nav button{font-size:9px}.stat strong{font-size:28px}}
 @media print{.skip-link{display:none!important}}
+
+/* Shared typography and intrinsic sizing. Do not conceal overflow with clipping. */
+.content :is(.num,.module-number,.lesson-entry-number){white-space:nowrap;overflow-wrap:normal;word-break:keep-all;hyphens:none;font-variant-numeric:tabular-nums}
+.content :is(.panel,.article,.exercise,.flash,.two,.stats,.stat,.lesson-layout,.lesson-entry,.module-heading,.classification-row,.choice-list,.tip-grid,.tip-card,.ai-panel,.editorial-case,.action,.tabs,.rows,.modules,.sectionhead,.numbers){min-width:0;max-width:100%}
+.content :is(.two,.stats,.lesson-layout,.tip-grid)>*{min-width:0;max-width:100%}
+.content :is(h1,h2,h3,p,li,summary,legend,.lead,.feedback,.sentence,.lesson-entry-main,strong){word-break:normal;overflow-wrap:anywhere;hyphens:auto}
+.content :is(button,textarea,input,select){min-width:0;max-width:100%}
+.content button{white-space:normal;overflow-wrap:anywhere;word-break:normal}
+.content :is(.num,.module-number,.lesson-entry-number){white-space:nowrap;overflow-wrap:normal;word-break:keep-all;hyphens:none}
+.content .sectionhead,.content .numbers{flex-wrap:wrap}
+.content .stats{grid-template-columns:repeat(auto-fit,minmax(min(100%,8rem),1fr))}
+.content .stat strong{font-variant-numeric:tabular-nums;white-space:normal;overflow-wrap:anywhere}
+.content :is(img,svg,video){max-width:100%}
+.content :is(pre,code){white-space:pre-wrap;overflow-wrap:anywhere}
+.content table{max-width:100%;width:100%;table-layout:fixed;overflow-wrap:anywhere}
+.content :is(th,td){min-width:0;overflow-wrap:anywhere}
+.content .lesson-layout{grid-template-columns:minmax(0,1fr) minmax(0,190px)}
+@media(max-width:1000px){.content .lesson-layout{grid-template-columns:minmax(0,1fr)}.content .two{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:480px){.content .stats{grid-template-columns:repeat(auto-fit,minmax(min(100%,7rem),1fr))}.content .sectionhead{align-items:start;gap:6px 12px}.content .action>*{max-width:100%}.content .tabs{gap:8px 16px}}
