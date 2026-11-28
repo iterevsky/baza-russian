@@ -1,0 +1,1621 @@
+[
+  {
+    "file": "content/lessons/sentence-analysis.json",
+    "id": "ru.syntax.sentence-analysis",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.sentence-analysis.editorial.r20.application",
+    "priorSha256": "d8ecbcecca9b21469eaaa54a58822817bd7575011e34ee0f7530ccbb6a95ddeb",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/subject-predicate-agreement.json",
+    "id": "ru.speech-culture.subject-predicate-agreement.foundation",
+    "section": "ru.speech-culture",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.speech-culture.subject-predicate-agreement.foundation.editorial.r20.application",
+    "priorSha256": "6a3a22744ac016b98cb8cb18a39478fa325e60e512b79eba1951ac793105a828",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/stress-variants.json",
+    "id": "ru.phonetics.stress-variants.foundation",
+    "section": "ru.phonetics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.phonetics.stress-variants.foundation.editorial.r20.application",
+    "priorSha256": "215285c467d4289b3f8709507f7c3bb60fe2ebba1a4087deeb45772e63f82527",
+    "editorialNotes": [
+      "Границы базового урока. Для полного модуля: Поэлементная сверка расширенного банка с действующими орфоэпическими словарями; акцентные парадигмы, аудио и специализированный тренажёр выбора гласной."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/homogeneous-generalizing.json",
+    "id": "ru.punctuation.homogeneous-generalizing",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.homogeneous-generalizing.editorial.r20.application",
+    "priorSha256": "3034f1637a08bb2232f5b026ce66834e9af0d92699c2ac066c8587d22c435a15",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/one-part-types.json",
+    "id": "ru.syntax.one-part-types",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.one-part-types.editorial.r20.application",
+    "priorSha256": "05aef06d61eb73b4b60f661162748a02d41df22bc62d91217afbaaee3a455e7c",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/comparison-role.json",
+    "id": "ru.punctuation.comparison-role",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.comparison-role.editorial.r20.application",
+    "priorSha256": "0a6ee58404a7e43b845cdfb6395b35f2a565276495c88b1f1701daba9e997d8d",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/homogeneous-repeated.json",
+    "id": "ru.punctuation.homogeneous-repeated",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.homogeneous-repeated.editorial.r20.application",
+    "priorSha256": "7ed3ef6e461c47f6e535edc5f1912e30dfcf02765643809f95a76669d8bb127b",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/verbal-economy.json",
+    "id": "ru.stylistics.verbal-economy.foundation",
+    "section": "ru.stylistics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.stylistics.verbal-economy.foundation.editorial.r20.application",
+    "priorSha256": "e2e86f2c17e6c53529d2d92209a135e388aea5db26e1e05072f6c36d0432b902",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/speech-errors.json",
+    "id": "ru.speech-culture.speech-errors.foundation",
+    "section": "ru.speech-culture",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.speech-culture.speech-errors.foundation.editorial.r20.application",
+    "priorSha256": "b42ce78675c4e84609d8b0848c680b29e6f5be92ed3316d17a11a83d67f08fb1",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/morpheme-types.json",
+    "id": "ru.word-formation.morpheme-types.foundation",
+    "section": "ru.word-formation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.word-formation.morpheme-types.foundation.editorial.r20.application",
+    "priorSha256": "80b95935466aabbd38e2078c08f05dea4a125fef8ffe241e7f890b9ab7959c48",
+    "editorialNotes": [
+      "Для полного модуля: Морфемный анализ синхронный; этимология и словарные трактовки сложных слов могут различаться. Формообразующие суффиксы рассматриваются отдельно; углубить связанные корни и омонимию морфем."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/noun-norms.json",
+    "id": "ru.speech-culture.noun-norms.foundation",
+    "section": "ru.speech-culture",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.speech-culture.noun-norms.foundation.editorial.r20.application",
+    "priorSha256": "3e26a33b9b525198e1ff5a202a0878630f7af3c6b168848674c4699fd71fc4c9",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/detached-definitions.json",
+    "id": "ru.punctuation.detached-definitions",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.detached-definitions.editorial.r20.application",
+    "priorSha256": "82b637404ef1b0d526b1e183b0cd5014005c953c7026f52e1bbc987509febcc1",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/analytical-memo.json",
+    "id": "ru.argumentation.analytical-memo.foundation",
+    "section": "ru.argumentation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.argumentation.analytical-memo.foundation.editorial.r20.application",
+    "priorSha256": "f0026f0469060267d4efaf26d516ee481cab6c4c3c032802b152a9f88947f237",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/asyndetic-colon-dash.json",
+    "id": "ru.punctuation.asyndetic-colon-dash",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.asyndetic-colon-dash.editorial.r20.application",
+    "priorSha256": "1de74cd8676b1a4c535927bb76620e4337fa69557ae7c77b45b672152f3ede12",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/incomplete.json",
+    "id": "ru.syntax.incomplete",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.incomplete.editorial.r20.application",
+    "priorSha256": "c3b83b0aaa0fd15777dec375313d095c54751fcdb41aa3605656562aad38931c",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/homogeneous-double.json",
+    "id": "ru.punctuation.homogeneous-double",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.homogeneous-double.editorial.r20.application",
+    "priorSha256": "33066fe3253f8fd887a0f4f24d10117b6d532f253681fb77e5fa6fcf8cff85fa",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/coordinate-structure.json",
+    "id": "ru.syntax.coordinate-structure",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.coordinate-structure.editorial.r20.application",
+    "priorSha256": "a8613747af2f9431e444b72c1ea9e818ad50b3119c712263d90be2156f043439",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/tropes-figures.json",
+    "id": "ru.stylistics.tropes-figures.foundation",
+    "section": "ru.stylistics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.stylistics.tropes-figures.foundation.editorial.r20.application",
+    "priorSha256": "fc68ee29b9110b93e59e0379d1748de0e424324b657ca7cef4b996b7503f4cc0",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/proper-name-declension.json",
+    "id": "ru.speech-culture.proper-name-declension.foundation",
+    "section": "ru.speech-culture",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.speech-culture.proper-name-declension.foundation.editorial.r20.application",
+    "priorSha256": "5f9aecd1d153ed34c68edc7c542cbe4aca406cb68cbd3a66c3e9c8b60e705b3f",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/norm-register.json",
+    "id": "ru.speech-culture.norm-register.foundation",
+    "section": "ru.speech-culture",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.speech-culture.norm-register.foundation.editorial.r20.application",
+    "priorSha256": "62deac6359e46554347efd66a77ca40e3870096cfd654b020412013ec571039e",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/basis-core.json",
+    "id": "ru.syntax.basis-core",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.basis-core.editorial.r20.application",
+    "priorSha256": "c5f09ec57ba8dface86c209b00db78cd7e0a7b105d7aaba9231d91e48548e1ce",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/dictionary-yo.json",
+    "id": "ru.orthography.dictionary-yo.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.dictionary-yo.foundation.editorial.r20.application",
+    "priorSha256": "56367da440df7a720fe3d9fdaec47b141baace6ad6df7dca7627e78520c547e0",
+    "editorialNotes": [
+      "Охват базового урока: Словарная стратегия, распространённые трудные слова, смыслоразличительная ё, различие режима обучения и обычного письма. Для полного модуля требуется расширение: Поэлементная сверка каждого словарного задания в Академосе, нормативные варианты, расширенный словарный тренажёр."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/basis-count.json",
+    "id": "ru.syntax.basis-count",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.basis-count.editorial.r20.application",
+    "priorSha256": "fee2d7453b524139e9f3ebdf2daf13cbb57f86f1cd8cc5c001bfee11d84848ea",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/coordinate-marks.json",
+    "id": "ru.punctuation.coordinate-marks",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.coordinate-marks.editorial.r20.application",
+    "priorSha256": "da23274450d10eb863865f9013b1df336e4d42ab535472b1bcecf4a594decee7",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/sound-changes.json",
+    "id": "ru.phonetics.sound-changes.foundation",
+    "section": "ru.phonetics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.phonetics.sound-changes.foundation.editorial.r20.application",
+    "priorSha256": "08c431fe670ba105df7281bae7b9897edde03686b3d318064490d9dd991bc123",
+    "editorialNotes": [
+      "Границы базового урока. Для полного модуля: Степени редукции, ассимиляция по месту и мягкости, группы согласных, фонетический разбор с узкой транскрипцией."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/complication-types.json",
+    "id": "ru.syntax.complication-types",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.complication-types.editorial.r20.application",
+    "priorSha256": "b09459fb38f4b5f675e05295593517d8928ebfbde83cea0a759cf49fef8db2d1",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/historical-changes.json",
+    "id": "ru.history.historical-changes.foundation",
+    "section": "ru.history",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.history.historical-changes.foundation.editorial.r20.application",
+    "priorSha256": "23b2ecae8b12bd151e42740598f1d1c50292a1c1f18f39fd9e4e3e50bf635b9a",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/gerund-punctuation.json",
+    "id": "ru.punctuation.gerund-punctuation",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.gerund-punctuation.editorial.r20.application",
+    "priorSha256": "22c5c6873481fa0e0836315a2823cb6b74beb918fc42641aacc96ac83ffc8117",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/explanation-attachment.json",
+    "id": "ru.punctuation.explanation-attachment",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.explanation-attachment.editorial.r20.application",
+    "priorSha256": "6f8020b3c61a25bf31d192f90fdfd98db49468ff0deca35f98b3812401949b75",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/subject.json",
+    "id": "ru.syntax.subject",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.subject.editorial.r20.application",
+    "priorSha256": "7a005b41fb950a3b7941c5469a4ba035e54c839321d5b3b87b7571b2d594044f",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/sounds-letters.json",
+    "id": "ru.phonetics.sounds-letters.foundation",
+    "section": "ru.phonetics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.phonetics.sounds-letters.foundation.editorial.r20.application",
+    "priorSha256": "e4713d65f53726fe93c655685f25b511b7c79d300abaf7e568c86f9d993f485e",
+    "editorialNotes": [
+      "Границы базового урока. Для полного модуля: Полный звуко-буквенный разбор, непроизносимые согласные, варианты долготы, разделение транскрипций."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/word-family.json",
+    "id": "ru.word-formation.word-family.foundation",
+    "section": "ru.word-formation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.word-formation.word-family.foundation.editorial.r20.application",
+    "priorSha256": "e349f6570b396f9fe552803f21863ef031ad4740450e77efa94010982bfd8f34",
+    "editorialNotes": [
+      "Углубить полисемию, опрощение, связанные корни и словарную верификацию пограничных случаев.",
+      "Для полного модуля: Не путать историческое родство с современным. Углубить полисемию, опрощение, связанные корни и словарную верификацию пограничных случаев."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/phrase-structure.json",
+    "id": "ru.syntax.phrase-structure",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.phrase-structure.editorial.r20.application",
+    "priorSha256": "3369ac64e0099cfb587e99e7f97e9eb3a835383b2fd65c003cff46da283dacef",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/introductory-conjunctions.json",
+    "id": "ru.punctuation.introductory-conjunctions",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.introductory-conjunctions.editorial.r20.application",
+    "priorSha256": "e0ffb4504c843032a82e91087817ebe15627e7b9e13c3744a751a119164a01be",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/verb-spelling.json",
+    "id": "ru.orthography.verb-spelling.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.verb-spelling.foundation.editorial.r20.application",
+    "priorSha256": "f2a75056ac4e62beb59a1ebb309fb62b0722562e849e2487f80512d85465f914",
+    "editorialNotes": [
+      "Охват базового урока: I/II спряжение, личные окончания, исключения, действительные причастия настоящего времени. Для полного модуля требуется расширение: Пассивные причастия, суффиксы инфинитива и прошедшего времени, особые и разноспрягаемые глаголы."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/homogeneous-definitions.json",
+    "id": "ru.punctuation.homogeneous-definitions",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.homogeneous-definitions.editorial.r20.application",
+    "priorSha256": "c267bcab0583687b60cea74effe4d960bd6bd65646b25fb76432d7db9f97ee43",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/asyndetic-enumeration.json",
+    "id": "ru.punctuation.asyndetic-enumeration",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.asyndetic-enumeration.editorial.r20.application",
+    "priorSha256": "11a847d9b064b16cb3ba0919dc86afb73c66807539fa763368e5fc7254f74c08",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/parts-of-speech.json",
+    "id": "ru.morphology.parts-of-speech.foundation",
+    "section": "ru.morphology",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.morphology.parts-of-speech.foundation.editorial.r20.application",
+    "priorSha256": "a5e77fa427c9ac559789bc2d1f1be260d8e347d5c8e89dadc92b53bf01e686fe",
+    "editorialNotes": [
+      "Углубить критерии частеречной классификации и переходные явления.",
+      "Для полного модуля: Классификации местоимений, причастий, деепричастий и слов состояния различаются. В курсе отдельно рассматриваются эти группы. Углубить критерии частеречной классификации и переходные явления."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/word-boundaries.json",
+    "id": "ru.orthography.word-boundaries.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.word-boundaries.foundation.editorial.r20.application",
+    "priorSha256": "3a36f8ef42c32bc3b0a086d7d353a0cab2c206efa51228c42e5b1e1465c4bb52",
+    "editorialNotes": [
+      "Охват базового урока: Пол-/полу-, распространённые первые части сложных слов, сложные прилагательные. Для полного модуля требуется расширение: Сложные существительные, координационные правила, специальные термины и полный перечень моделей."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/asyndetic-relations.json",
+    "id": "ru.syntax.asyndetic-relations",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.asyndetic-relations.editorial.r20.application",
+    "priorSha256": "680f187b2ceb5deaf5c21106fb5af5946b937b145bed6a20a95f3ea9caa7d05d",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/sibilant-vowels.json",
+    "id": "ru.orthography.sibilant-vowels.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.sibilant-vowels.foundation.editorial.r20.application",
+    "priorSha256": "99bbf28d2ae949ea3bf655a00ea105afb31e965df5ba8ce80c5b93f9835feb54",
+    "editorialNotes": [
+      "Охват базового урока: ЖИ/ШИ, ЧА/ЩА, ЧУ/ЩУ, И/Ы после Ц, О/Ё/Е в корнях и окончаниях. Для полного модуля требуется расширение: Суффиксы после шипящих и ц, все словарные исключения, подробные глагольные и именные формы."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/separators.json",
+    "id": "ru.orthography.separators.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.separators.foundation.editorial.r20.application",
+    "priorSha256": "06a67acc48fba558bad8bbf362afb544d2083862b44dfc758328af793f82696c",
+    "editorialNotes": [
+      "Охват базового урока: Ъ после приставок и числовых частей, разделительный ь, ы/и после приставок. Для полного модуля требуется расширение: Грамматический мягкий знак, специальные заимствования и полный список приставок с сохранением и."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/author-voice.json",
+    "id": "ru.stylistics.author-voice.foundation",
+    "section": "ru.stylistics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.stylistics.author-voice.foundation.editorial.r20.application",
+    "priorSha256": "6915a21474dc73601a49d22011c9e6504b53d8f867fd05b8dc2d1cc69f3f338c",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/borrowing-etymology.json",
+    "id": "ru.history.borrowing-etymology.foundation",
+    "section": "ru.history",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.history.borrowing-etymology.foundation.editorial.r20.application",
+    "priorSha256": "398446278a56888ba3311048f0b428398d70f9e016a028f25dfa0ae375d4f3de",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/idioms.json",
+    "id": "ru.lexicon.idioms.foundation",
+    "section": "ru.lexicon",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.lexicon.idioms.foundation.editorial.r20.application",
+    "priorSha256": "6aafead626737e0ccae416de94ebe2db6e131ffcd03ab02536d09d627b371b8a",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/homogeneity-syntax.json",
+    "id": "ru.syntax.homogeneity-syntax",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.homogeneity-syntax.editorial.r20.application",
+    "priorSha256": "e93447c3994a211770b618d0e42b88dee3b994142c141f05f00e933a392145b5",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/introductory-boundaries.json",
+    "id": "ru.punctuation.introductory-boundaries",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.introductory-boundaries.editorial.r20.application",
+    "priorSha256": "31050dc6b0784ef21db241261810458f2e529ce9e0eb0bb2b3b3e82da5366aff",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/derivation-chain.json",
+    "id": "ru.word-formation.derivation-chain.foundation",
+    "section": "ru.word-formation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.word-formation.derivation-chain.foundation.editorial.r20.application",
+    "priorSha256": "8a78ed3e56306759cd66d515ccc7d4abccba9b8ac1b5c79e2f2cfd4d208bdf1c",
+    "editorialNotes": [
+      "Углубить гнёзда, мотивационные отношения и словарный разбор.",
+      "Для полного модуля: Для многомотивированных и исторически непрозрачных слов сверяйтесь со словообразовательным словарём. Углубить гнёзда, мотивационные отношения и словарный разбор."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/numeral-morphology.json",
+    "id": "ru.morphology.numeral-morphology.foundation",
+    "section": "ru.morphology",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.morphology.numeral-morphology.foundation.editorial.r20.application",
+    "priorSha256": "9fc193b58d3acd6a3ff06aa8b63f24d1f88ce3582c62ccea6ea77509d67e722e",
+    "editorialNotes": [
+      "Углубить дробные, оба/обе, собирательные и управление при числах.",
+      "Для полного модуля: В лингвистических моделях порядковые слова могут относиться к прилагательным. Углубить дробные, оба/обе, собирательные и управление при числах."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/noun-morphology.json",
+    "id": "ru.morphology.noun-morphology.foundation",
+    "section": "ru.morphology",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.morphology.noun-morphology.foundation.editorial.r20.application",
+    "priorSha256": "5c75fd8059f764ccc52b15d0f894fa853f655ee06d170a0d0439cef6a12f704a",
+    "editorialNotes": [
+      "Для полного модуля: Разносклоняемые, общий род, слова только одного числа, субстантивированные прилагательные и пограничная одушевлённость требуют отдельного изучения."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/punctuation-variation.json",
+    "id": "ru.punctuation.punctuation-variation.foundation",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.punctuation-variation.foundation.editorial.r20.application",
+    "priorSha256": "67bf7f7ef7c4b440871249b8b620f90c0f1aeca797387cbca2cf0862ed52b8b9",
+    "editorialNotes": [
+      "Охват базового урока: Различие обязательного знака и выбора формы; альтернативы в БСП, вставках, интонационном тире. Для полного модуля требуется расширение: Индивидуальная авторская пунктуация, художественный корпус и стилистический анализ расширяются отдельной лабораторией."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/prefix-spelling.json",
+    "id": "ru.orthography.prefix-spelling.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.prefix-spelling.foundation.editorial.r20.application",
+    "priorSha256": "b7ee01bd5f38038039ef0203e70378263fbdcbe15325564aa2be8b6ae284b048",
+    "editorialNotes": [
+      "Охват базового урока: Неизменные приставки, з/с, значения пре/при, смысловые пары. Для полного модуля требуется расширение: Раз-/роз-, пра-/про-, на-/над-, словарные пре/при и все случаи приставочных гласных."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/participle-construction-norms.json",
+    "id": "ru.speech-culture.participle-construction-norms.foundation",
+    "section": "ru.speech-culture",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.speech-culture.participle-construction-norms.foundation.editorial.r20.application",
+    "priorSha256": "9d3fb19ab641d8353642d94ccda0959350d1347d66258acd5286833a4620f7c4",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/dash-predicate.json",
+    "id": "ru.punctuation.dash-predicate",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.dash-predicate.editorial.r20.application",
+    "priorSha256": "e191fac0f7c776a9fb9c24492e791778cf079342a2c44b3d1c8b32b31e4c18b6",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/pronunciation-combinations.json",
+    "id": "ru.phonetics.pronunciation-combinations.foundation",
+    "section": "ru.phonetics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.phonetics.pronunciation-combinations.foundation.editorial.r20.application",
+    "priorSha256": "5c8aee3a332b1041f5d3e48f430d12ad3774ac23e20ba6177323f5daa89434cf",
+    "editorialNotes": [
+      "Границы базового урока. Для полного модуля: Словарная проверка расширенного перечня заимствований и сочетаний, включая варианты; аудиоматериалы и слуховой контроль."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/independent-writing.json",
+    "id": "ru.argumentation.independent-writing.foundation",
+    "section": "ru.argumentation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.argumentation.independent-writing.foundation.editorial.r20.application",
+    "priorSha256": "3bd12e396bf1830e850c665e01c3283f79321549b5e7208742c90baf06c1a8b8",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/subordinate-links.json",
+    "id": "ru.syntax.subordinate-links",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.subordinate-links.editorial.r20.application",
+    "priorSha256": "3a6cd120193c871afb4ab3eb67a06df8c9053873ad6ecf475d61b3cbebb015b3",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/participle-punctuation.json",
+    "id": "ru.punctuation.participle-punctuation",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.participle-punctuation.editorial.r20.application",
+    "priorSha256": "7214350e324f7e1b2f3461ecf0cdb9c2f710d9d8cb0fcd183df31914d978246e",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/speech-etiquette.json",
+    "id": "ru.speech-culture.speech-etiquette.foundation",
+    "section": "ru.speech-culture",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.speech-culture.speech-etiquette.foundation.editorial.r20.application",
+    "priorSha256": "98b4ca254faa06bfd43e819d552e8e34d02e94f16bd0d9edeebe7b4419788658",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/negation-spelling.json",
+    "id": "ru.orthography.negation-spelling.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.negation-spelling.foundation.editorial.r20.application",
+    "priorSha256": "616359f61957392f9631aaab4f776ad1b7017eef6c2d55d958fc81d29b13db73",
+    "editorialNotes": [
+      "Охват базового урока: НЕ/НИ в отрицании, глаголы, краткие причастия, имена в контексте, местоимения, недо-. Для полного модуля требуется расширение: Полные причастия, наречия разных типов, устойчивые обороты, двойное отрицание, придаточные с ни."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/phrase-links.json",
+    "id": "ru.syntax.phrase-links",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.phrase-links.editorial.r20.application",
+    "priorSha256": "7bb1268797119094051fe9f6d07397318e3fb2c6f2b4f2ca0ce64d626ec8d5c7",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/root-vowels.json",
+    "id": "ru.orthography.root-vowels.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.root-vowels.foundation.editorial.r20.application",
+    "priorSha256": "457a4a51b00bc263f7a96a428dc941b7aee9427785708d417e58f1a761c91ddc",
+    "editorialNotes": [
+      "Охват базового урока: Проверка по значению, словарная гласная, основные модели -лаг-/-лож-, -бер-/-бир-, -раст-/-рос-/-ращ-, -кас-/-кос-, -гар-/-гор-. Для полного модуля требуется расширение: Полный перечень чередований, исключения и словарная стратегия на большем материале."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/lexical-relations.json",
+    "id": "ru.lexicon.lexical-relations.foundation",
+    "section": "ru.lexicon",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.lexicon.lexical-relations.foundation.editorial.r20.application",
+    "priorSha256": "95869568cd3a9aa6856a781b300da93831aac8ba0a416a807659b81f71ebc043",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/dash-incomplete.json",
+    "id": "ru.punctuation.dash-incomplete",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.dash-incomplete.editorial.r20.application",
+    "priorSha256": "951b46bc9725f1275ff8e1a524645c4fbff181c9d341d63754cbea24e8cee35c",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/hyphenation-abbreviations.json",
+    "id": "ru.orthography.hyphenation-abbreviations.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.hyphenation-abbreviations.foundation.editorial.r20.application",
+    "priorSha256": "129879ef8b5836998fe2997d19b7ea0056b2c4421e907a0d0e0510be1b073791",
+    "editorialNotes": [
+      "Охват базового урока: Основные ограничения переноса, графические сокращения, аббревиатуры, базовые единицы. Для полного модуля требуется расширение: Полный норматив сокращений, буквенные окончания цифр, инициалы, рубрикация и специализированные стандарты."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/dictionary-vocabulary.json",
+    "id": "ru.lexicon.dictionary-vocabulary.foundation",
+    "section": "ru.lexicon",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.lexicon.dictionary-vocabulary.foundation.editorial.r20.application",
+    "priorSha256": "d1f99657c34d58778a135ed997cc63d2e2c68ced76e3b522413c493907beeb09",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/ambiguous-introductory.json",
+    "id": "ru.punctuation.ambiguous-introductory",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.ambiguous-introductory.editorial.r20.application",
+    "priorSha256": "7e5bfc943e58c652794384be3d13b484eb02ea1df1c81bb813072f733096eb4a",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/writing-reforms.json",
+    "id": "ru.history.writing-reforms.foundation",
+    "section": "ru.history",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.history.writing-reforms.foundation.editorial.r20.application",
+    "priorSha256": "289a3c28f6b7e893493ef7c478f900daae7e13bf59c7bd7095ef082503d9cb64",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/subordinate-marks.json",
+    "id": "ru.punctuation.subordinate-marks",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.subordinate-marks.editorial.r20.application",
+    "priorSha256": "10f2451c16da58cbd41bf11323370bbf39c3aaf20b99520012602568232b9af9",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/morpheme-alternations.json",
+    "id": "ru.word-formation.morpheme-alternations.foundation",
+    "section": "ru.word-formation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.word-formation.morpheme-alternations.foundation.editorial.r20.application",
+    "priorSha256": "fc28e38d680503aaf431760a77a3887447bb2580ee3612cb8c64b82f84f61922",
+    "editorialNotes": [
+      "Углубить исторические и позиционные процессы, морфонологию и полный перечень орфографических корней.",
+      "Для полного модуля: Не все изменения являются чередованием одного типа. Углубить исторические и позиционные процессы, морфонологию и полный перечень орфографических корней."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/oral-speech-discussion.json",
+    "id": "ru.argumentation.oral-speech-discussion.foundation",
+    "section": "ru.argumentation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.argumentation.oral-speech-discussion.foundation.editorial.r20.application",
+    "priorSha256": "9f7e0a6fde58e3b9c55cb397afea6afa5b88bb354b8c5ca5742bc2242d398fd8",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/coordinate-common.json",
+    "id": "ru.punctuation.coordinate-common",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.coordinate-common.editorial.r20.application",
+    "priorSha256": "9e41eb9f40648e31c95ba1d960c7ded74d07cc979da2199a067725f6d596412b",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/language-levels.json",
+    "id": "ru.language.language-levels.foundation",
+    "section": "ru.language",
+    "newTheory": false,
+    "guidedChecks": 5,
+    "newApplication": "ru.language.language-levels.foundation.editorial.r20.application",
+    "priorSha256": "c26abddb599775e60415640c0b1afd8dc6d8329bd4409f2777a2c40a71666917",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/verb-derived-forms.json",
+    "id": "ru.morphology.verb-derived-forms.foundation",
+    "section": "ru.morphology",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.morphology.verb-derived-forms.foundation.editorial.r20.application",
+    "priorSha256": "31ec379b818429a7aac652633f2e574896c52c1094243c027569f111956d8e2b",
+    "editorialNotes": [
+      "Для полного модуля: Другие школьные модели считают формы отдельными частями речи. Безличные конструкции с инфинитивом и фразеологические исключения требуют углубления; также нужны образование форм, краткие причастия, адъективация и Н/НН."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/morphological-analysis.json",
+    "id": "ru.morphology.morphological-analysis.foundation",
+    "section": "ru.morphology",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.morphology.morphological-analysis.foundation.editorial.r20.application",
+    "priorSha256": "2ee93f340a10d45a5c5cc383dfa3d897cf2156c9afb06548295ef787f05e1dbe",
+    "editorialNotes": [
+      "Углубить полный разбор всех частей речи, синкретизм и переходные явления.",
+      "Для полного модуля: Схемы морфологического разбора различаются по школам; для спорных случаев нужно заранее указать модель. Углубить полный разбор всех частей речи, синкретизм и переходные явления."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/language-speech-text.json",
+    "id": "ru.language.language-speech-text.foundation",
+    "section": "ru.language",
+    "newTheory": false,
+    "guidedChecks": 5,
+    "newApplication": "ru.language.language-speech-text.foundation.editorial.r20.application",
+    "priorSha256": "408fa39462b4d70d6a9da74bb9fb059061d94a7859e29f49a5eb84746403a76c",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/pronoun-morphology.json",
+    "id": "ru.morphology.pronoun-morphology.foundation",
+    "section": "ru.morphology",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.morphology.pronoun-morphology.foundation.editorial.r20.application",
+    "priorSha256": "99e408e3831cff1ee1516fe8a39f8bc264837e770712374a5ac34c994122725c",
+    "editorialNotes": [
+      "Углубить склонение, орфографию не-/ни- и употребление н после предлогов.",
+      "Для полного модуля: Местоименные слова могут распределяться по разным частям речи в научных моделях. Углубить склонение, орфографию не-/ни- и употребление н после предлогов."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/scientific-etymology.json",
+    "id": "ru.history.scientific-etymology.foundation",
+    "section": "ru.history",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.history.scientific-etymology.foundation.editorial.r20.application",
+    "priorSha256": "c0274c7c9d84161e229d1003226290c8b24df957575e7dbddd659b5e4d6b3472",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/comparison-free.json",
+    "id": "ru.punctuation.comparison-free",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.comparison-free.editorial.r20.application",
+    "priorSha256": "ddd0b7d89b7637954c554933788a3abca606a1f9e84c604b4ebe1bfc9ce6ac04",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/derivation-methods.json",
+    "id": "ru.word-formation.derivation-methods.foundation",
+    "section": "ru.word-formation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.word-formation.derivation-methods.foundation.editorial.r20.application",
+    "priorSha256": "e9deebbf1878c2028d58d151b6b94b2684e50b8e0d287dd8fefec7e61b98d2b3",
+    "editorialNotes": [
+      "Углубить нулевую суффиксацию, аббревиацию, усечение, смешанные способы и неоднозначную мотивацию.",
+      "Для полного модуля: Способы и границы мотивации могут зависеть от словаря. Углубить нулевую суффиксацию, аббревиацию, усечение, смешанные способы и неоднозначную мотивацию."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/lexical-layers.json",
+    "id": "ru.lexicon.lexical-layers.foundation",
+    "section": "ru.lexicon",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.lexicon.lexical-layers.foundation.editorial.r20.application",
+    "priorSha256": "eb24ea9e4c55bac6afa2b9849c9eb6abb3846380cce4b284ee122306b1bcaf96",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/text-cohesion.json",
+    "id": "ru.stylistics.text-cohesion.foundation",
+    "section": "ru.stylistics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.stylistics.text-cohesion.foundation.editorial.r20.application",
+    "priorSha256": "38a5b38d289e6badaea76806b1717d53a411ecd8f13737a22a219afbb38d627d",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/clarification.json",
+    "id": "ru.punctuation.clarification",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.clarification.editorial.r20.application",
+    "priorSha256": "976c3f475ae3a6908ac960fffefbadbc34f0b9ca483a870d1781282c97ad027b",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/mixed-links.json",
+    "id": "ru.syntax.mixed-links",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.mixed-links.editorial.r20.application",
+    "priorSha256": "efacaf4802187153f0f07d7989b0f203f6ed2030fc0d00b8df73d7217e9f8f8e",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/language-norm.json",
+    "id": "ru.language.language-norm.foundation",
+    "section": "ru.language",
+    "newTheory": false,
+    "guidedChecks": 5,
+    "newApplication": "ru.language.language-norm.foundation.editorial.r20.application",
+    "priorSha256": "1b2c0d0df154a0a2306672bef0d64ecd6e15a869420e507e6e59799c12d2731f",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/slavonic-layers.json",
+    "id": "ru.history.slavonic-layers.foundation",
+    "section": "ru.history",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.history.slavonic-layers.foundation.editorial.r20.application",
+    "priorSha256": "27103d09d551cc49b2016a839e67f5a9dfe2d016f721a57720562e2058ebda3a",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/public-science-writing.json",
+    "id": "ru.argumentation.public-science-writing.foundation",
+    "section": "ru.argumentation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.argumentation.public-science-writing.foundation.editorial.r20.application",
+    "priorSha256": "b438957ecf7b868db22012966e404d91695b8888f85ef08227a5c18536bc0961",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/predicate.json",
+    "id": "ru.syntax.predicate",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.predicate.editorial.r20.application",
+    "priorSha256": "0cfe1e18ab3733fb75aa924bbf3f90b06f696b7f006ea4bddfbdd3ed5054260f",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/syllable-stress.json",
+    "id": "ru.phonetics.syllable-stress.foundation",
+    "section": "ru.phonetics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.phonetics.syllable-stress.foundation.editorial.r20.application",
+    "priorSha256": "44e04b5cc1c147ea1d00e737f7d3e80d61c938a6f67633e21b5862d62e849f5e",
+    "editorialNotes": [
+      "Границы базового урока. Для полного модуля: Углублённое слогоделение, акцентные парадигмы, побочное ударение, фонетическое слово и интонация."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/reasoning-counterarguments.json",
+    "id": "ru.argumentation.reasoning-counterarguments.foundation",
+    "section": "ru.argumentation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.argumentation.reasoning-counterarguments.foundation.editorial.r20.application",
+    "priorSha256": "03e6aa12a1875a94da2507dd9e86191b5f6ad2bc7005a6ffc13d50ae82568819",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/verb-government.json",
+    "id": "ru.speech-culture.verb-government.foundation",
+    "section": "ru.speech-culture",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.speech-culture.verb-government.foundation.editorial.r20.application",
+    "priorSha256": "784dcd7151c9615bb248f771936c5cf47cad62ff56597f76d8a7e8a4fa541340",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/coordinate-relations.json",
+    "id": "ru.syntax.coordinate-relations",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.coordinate-relations.editorial.r20.application",
+    "priorSha256": "b2b98e46c28beeae88d92be70e46209b7491324f6b85491585f89fe4365ceaf3",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/function-words.json",
+    "id": "ru.morphology.function-words.foundation",
+    "section": "ru.morphology",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.morphology.function-words.foundation.editorial.r20.application",
+    "priorSha256": "5f694e96d52edf37362838932d2f49533f63de8dfb77a9228dddf3adf48705cb",
+    "editorialNotes": [
+      "Углубить составные предлоги, разряды союзов, формообразующие частицы, омонимичные единицы, разграничение междометий и звукоподражаний.",
+      "Для полного модуля: Углубить составные предлоги, разряды союзов, формообразующие частицы, омонимичные единицы, разграничение междометий и звукоподражаний."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/homogeneous-basic.json",
+    "id": "ru.punctuation.homogeneous-basic",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.homogeneous-basic.editorial.r20.application",
+    "priorSha256": "c5c94eb8bb5a7770d5e74ff9ec0b97f6f3cb9d9536195cf9d12885d159fcbbea",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/dictionary-method.json",
+    "id": "ru.language.dictionary-method.foundation",
+    "section": "ru.language",
+    "newTheory": false,
+    "guidedChecks": 4,
+    "newApplication": "ru.language.dictionary-method.foundation.editorial.r20.application",
+    "priorSha256": "a8758c783ce7395d85bc654c27a2ddab5b8c1e03c58ec71ff597430ceb6fc55d",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/secondary-attribute.json",
+    "id": "ru.syntax.secondary-attribute",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.secondary-attribute.editorial.r20.application",
+    "priorSha256": "2457bc589262d2b19700a0b94a4f6227a59c77a7b19702649bbfd8d7f64424fb",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/verb-morphology.json",
+    "id": "ru.morphology.verb-morphology.foundation",
+    "section": "ru.morphology",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.morphology.verb-morphology.foundation.editorial.r20.application",
+    "priorSha256": "38e72bec4b18f1cb1774fead2dc76fc9b9f8d57992d97f22b33d84a545cc6ca7",
+    "editorialNotes": [
+      "Углубить переходность, возвратность, залог, разноспрягаемые и безличные глаголы, видовые пары и двувидовые глаголы.",
+      "Для полного модуля: Углубить переходность, возвратность, залог, разноспрягаемые и безличные глаголы, видовые пары и двувидовые глаголы."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/adjective-morphology.json",
+    "id": "ru.morphology.adjective-morphology.foundation",
+    "section": "ru.morphology",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.morphology.adjective-morphology.foundation.editorial.r20.application",
+    "priorSha256": "5123e634cfef4a52a64a4a28afbd26a0998833323a1ce657fca525a97abc305d",
+    "editorialNotes": [
+      "Углубить склонение, притяжательные формы, супплетивизм и контекстные переходы.",
+      "Для полного модуля: Не все качественные прилагательные имеют весь набор степеней и кратких форм. Углубить склонение, притяжательные формы, супплетивизм и контекстные переходы."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/vowels-consonants.json",
+    "id": "ru.phonetics.vowels-consonants.foundation",
+    "section": "ru.phonetics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.phonetics.vowels-consonants.foundation.editorial.r20.application",
+    "priorSha256": "d4ee76fd2c3db7d9ae10e1504f2fd39d8f0eef1b2f95afa24d5fec194cac0430",
+    "editorialNotes": [
+      "Границы базового урока. Для полного модуля: Артикуляционные признаки по месту и способу образования, фонемы, полная классификация и акустические демонстрации."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/nonmembers.json",
+    "id": "ru.syntax.nonmembers",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.nonmembers.editorial.r20.application",
+    "priorSha256": "bc02cf8e3d916cc067880d6f8c355aeacbe2e619a7d26a63499f7bba32510126",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/end-basic.json",
+    "id": "ru.punctuation.end-basic",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.end-basic.editorial.r20.application",
+    "priorSha256": "5eccdbb43f8a3991d3c64a9bcdda143caa3d5eb610703783e42e3db48334f71a",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/editorial-diagnosis.json",
+    "id": "ru.stylistics.editorial-diagnosis.foundation",
+    "section": "ru.stylistics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.stylistics.editorial-diagnosis.foundation.editorial.r20.application",
+    "priorSha256": "29187c751b47f9d5fdc381bc01cc9d27523c66cb7ddfdeaefb91148fa554773a",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/insertions.json",
+    "id": "ru.punctuation.insertions",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.insertions.editorial.r20.application",
+    "priorSha256": "6d7695f60d3b651d10ec279e7456cb90040cc54b6bc05760b76c2b5210a97643",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/mixed-punctuation.json",
+    "id": "ru.punctuation.mixed-punctuation.foundation",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.mixed-punctuation.foundation.editorial.r20.application",
+    "priorSha256": "e53e119713cc6ea57397532dd6cc65b8780cf3bccb5a8ef6a5637049ef10f580",
+    "editorialNotes": [
+      "Охват базового урока: Разметка границ, общая придаточная часть, однородные придаточные, бессоюзное пояснение. Для полного модуля требуется расширение: Схемы с несколькими уровнями подчинения; полный ввод сложной пунктуации; альтернативы тире и точки с запятой."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/introductory-words.json",
+    "id": "ru.punctuation.introductory-words",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.introductory-words.editorial.r20.application",
+    "priorSha256": "f17e93903c92e7761c10e7477e3d9275a7b08fdb75382f40c2d92d8556bb0dc0",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/proofreading-typography.json",
+    "id": "ru.stylistics.proofreading-typography.foundation",
+    "section": "ru.stylistics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.stylistics.proofreading-typography.foundation.editorial.r20.application",
+    "priorSha256": "565d934b1eae01b58d9aeb45f47eee9687f740c280382dd43c3e20082b3022fe",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/word-stem.json",
+    "id": "ru.word-formation.word-stem.foundation",
+    "section": "ru.word-formation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.word-formation.word-stem.foundation.editorial.r20.application",
+    "priorSha256": "8300f85be60f6d4c91adb5e209075c24bd7777623a2c96a0c2cfbf803c5b16d5",
+    "editorialNotes": [
+      "Для полного модуля: У глаголов и некоторых производных слов основа требует уточнения модели; углубить прерывистую основу, формообразование и супплетивизм."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/addresses.json",
+    "id": "ru.punctuation.addresses",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.addresses.editorial.r20.application",
+    "priorSha256": "d374a157481477f9f5a3990c13aea89e07dcebb4012d2207300e17d0c043bac2",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/secondary-adverbial.json",
+    "id": "ru.syntax.secondary-adverbial",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.secondary-adverbial.editorial.r20.application",
+    "priorSha256": "a9cfd35fa0a563abcfb90ff46ffd2b9ca60584ed00d596783b9f4d22d5bbf336",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/capital-letters.json",
+    "id": "ru.orthography.capital-letters.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.capital-letters.foundation.editorial.r20.application",
+    "priorSha256": "13f9f746e99104c987d1305ef96b647f7fafb0739c1bf72a4d83dac2ddef102f",
+    "editorialNotes": [
+      "Охват базового урока: Географические имена, производные прилагательные, жители, официальные названия. Для полного модуля требуется расширение: Праздники, исторические эпохи, религиозные названия, должности, бренды, индивидуальные обращения и официально-деловые исключения."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/figurative-meaning.json",
+    "id": "ru.lexicon.figurative-meaning.foundation",
+    "section": "ru.lexicon",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.lexicon.figurative-meaning.foundation.editorial.r20.application",
+    "priorSha256": "193cfcb0095e28ec12b9d48dd07b99cd0eb556960e6cda59cd2efd2ce0d26d7c",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/numeral-norms.json",
+    "id": "ru.speech-culture.numeral-norms.foundation",
+    "section": "ru.speech-culture",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.speech-culture.numeral-norms.foundation.editorial.r20.application",
+    "priorSha256": "2531507295b2379b23eaf1a873912e6c38f183c34127ca45d18a919eee67004e",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/business-correspondence.json",
+    "id": "ru.argumentation.business-correspondence.foundation",
+    "section": "ru.argumentation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.argumentation.business-correspondence.foundation.editorial.r20.application",
+    "priorSha256": "de32b7d3d2083c30facf85971896a4598e939e9cd35ca0c339e8b9196b6a66fc",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/noun-adjective-endings.json",
+    "id": "ru.orthography.noun-adjective-endings.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.noun-adjective-endings.foundation.editorial.r20.application",
+    "priorSha256": "ff39318838c2292b9ab4fbf30d05e6c341d3d761b276519dac0706caf962c52e",
+    "editorialNotes": [
+      "Охват базового урока: Падежные окончания существительных, особые основы -ия/-ие/-ий, согласование прилагательных, -ек/-ик. Для полного модуля требуется расширение: Остальные суффиксы имён, формы множественного числа, исключения и полноценный тренажёр склонения."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/lexical-meaning.json",
+    "id": "ru.lexicon.lexical-meaning.foundation",
+    "section": "ru.lexicon",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.lexicon.lexical-meaning.foundation.editorial.r20.application",
+    "priorSha256": "49dab03d5870a3a83b02244e97142b6ff96633112d6e2a804cdb3be73d96563c",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/logic-fallacies.json",
+    "id": "ru.argumentation.logic-fallacies.foundation",
+    "section": "ru.argumentation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.argumentation.logic-fallacies.foundation.editorial.r20.application",
+    "priorSha256": "5d4c9f58b1604b84b5b446ba0e08bcbcc29eb100895f84d3c2506cd2a1912d9a",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/paronyms-collocation.json",
+    "id": "ru.lexicon.paronyms-collocation.foundation",
+    "section": "ru.lexicon",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.lexicon.paronyms-collocation.foundation.editorial.r20.application",
+    "priorSha256": "046aacebbde1ce79c9cc6be88fda524c25649c6899f4aec25abbb2173a4c562c",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/sentence-rhythm.json",
+    "id": "ru.stylistics.sentence-rhythm.foundation",
+    "section": "ru.stylistics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.stylistics.sentence-rhythm.foundation.editorial.r20.application",
+    "priorSha256": "894687003dbaa3562b8c5ff145c38e67ecd335231d693d087c57b7690a9e2176",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/double-n.json",
+    "id": "ru.orthography.double-n.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.double-n.foundation.editorial.r20.application",
+    "priorSha256": "4f064d3404cb610f022c3cbe8565c6ef632c4f593ee1eff0fb6dc19947cf7d8e",
+    "editorialNotes": [
+      "Охват базового урока: Базовые именные суффиксы, полные и краткие причастия, отглагольные прилагательные, исключения. Для полного модуля требуется расширение: Сложные прилагательные, причастия без зависимых слов, краткие прилагательные, наречия, словарные исключения."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/end-ellipsis.json",
+    "id": "ru.punctuation.end-ellipsis",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.end-ellipsis.editorial.r20.application",
+    "priorSha256": "0695bf0e79a27d97ff15c45c715abc2300fae5168edf648672153475d0f61cdc",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/thesis-evidence.json",
+    "id": "ru.argumentation.thesis-evidence.foundation",
+    "section": "ru.argumentation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.argumentation.thesis-evidence.foundation.editorial.r20.application",
+    "priorSha256": "235ed4276c960412e5d445dd4fce830d755b2c1449dae1e9eae055e37c618a3c",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/register-connotation.json",
+    "id": "ru.lexicon.register-connotation.foundation",
+    "section": "ru.lexicon",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.lexicon.register-connotation.foundation.editorial.r20.application",
+    "priorSha256": "00448b94bdfa3a2462cadc13b035e8677d014a0d8127f781ae0fa9dd7540833b",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/service-word-spelling.json",
+    "id": "ru.orthography.service-word-spelling.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.service-word-spelling.foundation.editorial.r20.application",
+    "priorSha256": "3dff91dfaf795a7580ce1214956d551eb32bd5af59a1367a3509d0c45b695cca",
+    "editorialNotes": [
+      "Охват базового урока: Омонимичные союзы, предлоги и имена, наречия, частицы. Для полного модуля требуется расширение: Расширенный словарь наречных сочетаний, все производные предлоги и спорные союзы."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/russian-language-history.json",
+    "id": "ru.history.russian-language-history.foundation",
+    "section": "ru.history",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.history.russian-language-history.foundation.editorial.r20.application",
+    "priorSha256": "ed088a26f0ed629e9581155c5e316f20a85455b8fe7a1710f5567c44f2d815d4",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/isolated-members.json",
+    "id": "ru.syntax.isolated-members",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.isolated-members.editorial.r20.application",
+    "priorSha256": "b7d2cf3c59801d7e3799c245da4bbaa2103c4762aaad198f810841186b175415",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/information-structure.json",
+    "id": "ru.syntax.information-structure",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.information-structure.editorial.r20.application",
+    "priorSha256": "65b3c6cbb169f9df888f48853db4fcaa40f9170ff9e363098d1df83e2d13cf0b",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/functional-styles.json",
+    "id": "ru.stylistics.functional-styles.foundation",
+    "section": "ru.stylistics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.stylistics.functional-styles.foundation.editorial.r20.application",
+    "priorSha256": "417153ac9ebcc5d92e14b1ff29de45c688568d15e1c0a1ee25c16172ed549275",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/root-consonants.json",
+    "id": "ru.orthography.root-consonants.foundation",
+    "section": "ru.orthography",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.orthography.root-consonants.foundation.editorial.r20.application",
+    "priorSha256": "1b324b5e124cedfa4d7d4f0b878816127095c1fee8582e1842c8d9c1e032dea0",
+    "editorialNotes": [
+      "Охват базового урока: Проверка согласных, непроизносимые согласные, морфемные стыки, словарные удвоения. Для полного модуля требуется расширение: Отдельная систематизация удвоений в заимствованиях и производных; сложные морфемные разборы."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/speech-forms.json",
+    "id": "ru.syntax.speech-forms",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.speech-forms.editorial.r20.application",
+    "priorSha256": "5d789bbf9b217bf8923abedc76f10e8854906fad11a9726513daf1c10cf06e71",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/detached-circumstances.json",
+    "id": "ru.punctuation.detached-circumstances",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.detached-circumstances.editorial.r20.application",
+    "priorSha256": "69c0f3b60678cccb38710766e544f2f1a291cf1c8c48daa3be3fda66736532af",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/introductory-editing.json",
+    "id": "ru.punctuation.introductory-editing",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.introductory-editing.editorial.r20.application",
+    "priorSha256": "6348ce54bc0af5efa3aeecfb0eee7f727b40c4cb7c3b822181f099260e544788",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/revision-comparison.json",
+    "id": "ru.stylistics.revision-comparison.foundation",
+    "section": "ru.stylistics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.stylistics.revision-comparison.foundation.editorial.r20.application",
+    "priorSha256": "5ac0593220e4da341e1ae2fdcf29f25e4ab4c3829fd7f59bb8d618e5e070fb97",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/indirect-transformation.json",
+    "id": "ru.syntax.indirect-transformation",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.indirect-transformation.editorial.r20.application",
+    "priorSha256": "218c57db1924432fc7c82224a2f7b68d8f81abfad1c887131672391444d790db",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/adverb-state.json",
+    "id": "ru.morphology.adverb-state.foundation",
+    "section": "ru.morphology",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.morphology.adverb-state.foundation.editorial.r20.application",
+    "priorSha256": "32ced281c27d7b56cebb8d0457bc183eb05971942cd989b9cde336610cbd4ddd",
+    "editorialNotes": [
+      "Углубить разряды наречий, степени сравнения, переходные предикативы и орфографию.",
+      "Для полного модуля: Статус категории состояния дискуссионен; здесь используется отдельная учебная метка. Углубить разряды наречий, степени сравнения, переходные предикативы и орфографию."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/clarity-precision.json",
+    "id": "ru.stylistics.clarity-precision.foundation",
+    "section": "ru.stylistics",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.stylistics.clarity-precision.foundation.editorial.r20.application",
+    "priorSha256": "d7d0cc1937614aab57ca8ec6c4679e846e5a60511de626c17e0c7cb4b688726d",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/non-introductory-words.json",
+    "id": "ru.punctuation.non-introductory-words",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.non-introductory-words.editorial.r20.application",
+    "priorSha256": "7510c7a927b58e3b63ccec5d89c5b9ea9d647b77d4c054360baba066e3142e3b",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/direct-speech-marks.json",
+    "id": "ru.punctuation.direct-speech-marks.foundation",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.direct-speech-marks.foundation.editorial.r20.application",
+    "priorSha256": "88fcc07167f01b00b0cd2e53630394d991f9cb0c14b3780cc4b724b1cbbf3cbb",
+    "editorialNotes": [
+      "Охват базового урока: Позиция слов автора, конечные знаки, встроенная цитата, абзацный диалог. Для полного модуля требуется расширение: Разрыв прямой речи, вложенные кавычки, оформление длинных цитат и реальных диалогов требуют расширенной тренировки."
+    ],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/subordinate-junction.json",
+    "id": "ru.punctuation.subordinate-junction",
+    "section": "ru.punctuation",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.punctuation.subordinate-junction.editorial.r20.application",
+    "priorSha256": "e49bd05805e8d4eb506054ed53395eb708565ccd3fb6dd019cc86a993f87f067",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  },
+  {
+    "file": "content/lessons/subordinate-types.json",
+    "id": "ru.syntax.subordinate-types",
+    "section": "ru.syntax",
+    "newTheory": true,
+    "guidedChecks": 1,
+    "newApplication": "ru.syntax.subordinate-types.editorial.r20.application",
+    "priorSha256": "7d5fff4fb952b79de8ba91cebd1175425273bed3534a7887558ce8517062c3c3",
+    "editorialNotes": [],
+    "legacyAssessmentRetained": true
+  }
+]
