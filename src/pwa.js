@@ -11,7 +11,7 @@ function show(){
  panel.hidden=false;
  install.hidden=installed||!installEvent;
  check.hidden=!registration;check.disabled=checking||!navigator.onLine;check.textContent=verifiedPackage&&!verifiedPackage.error&&verifiedPackage.present<verifiedPackage.total?'Восстановить пакет':'Проверить обновления';
- const waiting=registration?.waiting,controller=sw?.controller;
+ const waiting=registration?.waiting,controller=sw?.controller;panel.dataset.update=waiting&&controller?'ready':'';
  if(packageProgress&&registration?.installing&&!installFailure){status.textContent=controller?'Загрузка обновления':'Подготовка автономного пакета';detail.textContent=`Проверено и сохранено ${packageProgress.done} из ${packageProgress.total} ресурсов.`;return}
  if(waiting&&controller){status.textContent='Обновление готово';detail.textContent='Завершите занятие, убедитесь, что прогресс сохранён, закройте все вкладки и окна БАЗА. Затем откройте приложение снова.';return}
  if(installFailure&&controller&&!navigator.onLine&&verifiedPackage?.present===verifiedPackage?.total&&verifiedPackage?.total>0){status.textContent='Автономный режим';detail.textContent='Сервер недоступен. Используется сохранённый пакет.';return}

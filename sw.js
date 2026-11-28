@@ -1,6 +1,6 @@
 // Generated: npm.cmd run pwa:build (do not edit manually).
-const RELEASE="1.0.0-rc.1";
-const DIGEST="1f72abd7322ddc974d954386";
+const RELEASE="1.1.0";
+const DIGEST="34d8cea13fd7a20e069c06cf";
 const ASSETS=[
   [
     "content/ai-goals.js",
@@ -1028,7 +1028,7 @@ const ASSETS=[
   ],
   [
     "index.html",
-    "2eb54def698d1244eb7e1947b0cdda6d98c3d5acc954c387260e918eadb028af"
+    "2ddc0a32d341f008519cf436beafbad37184d0160a62faa61fcc31b670985148"
   ],
   [
     "manifest.webmanifest",
@@ -1036,7 +1036,7 @@ const ASSETS=[
   ],
   [
     "src/app.js",
-    "45813ed13e8fb2704baf43baa1228ba8a556b31b2684f6223ecdbc8321ff8d94"
+    "559ff4e3ec45a213bd0e60df358b301c686aae31968095c854b2bc1bbe87e60d"
   ],
   [
     "src/core/answer-input.js",
@@ -1083,8 +1083,12 @@ const ASSETS=[
     "ec349255fabec44db6eeedc948bb5caa303296e533cb6e20b655bd371e022bbf"
   ],
   [
+    "src/core/history.js",
+    "c0a83e994b5379d498d049a0bd7bef7c84ab27a6d7bd7caf21fc30e08ae41cab"
+  ],
+  [
     "src/core/home.js",
-    "abebec4e843fe722fff74b864d44e8cf7fde6e167c0a651565325fd2f96ccf27"
+    "92e9983b5094d7ddc595e3f46ebe1fdbe4e634ed73e9e444c0972479c0104f71"
   ],
   [
     "src/core/lesson-view.js",
@@ -1120,11 +1124,11 @@ const ASSETS=[
   ],
   [
     "src/pwa.js",
-    "4d1364df63b44d89728139eabfc675b1341549e09d3cdf9247e38dd840908715"
+    "36e1b97030ae7b12b7d8c24a122295204e26aaddef69bba7d281b727e6fbc563"
   ],
   [
     "src/styles/home.css",
-    "4d075ecaad5da2cd08ebf12ff25e63edb90789a5c6b2aeb8ec6eb6fe019ccc0f"
+    "cabab21fc64e53a2814ab2ba5b9e684c82f6c40ca40105e9b47fff572facf2e1"
   ],
   [
     "src/styles/main.css",
